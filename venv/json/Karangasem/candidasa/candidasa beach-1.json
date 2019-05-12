@@ -1,0 +1,280 @@
+[
+  {
+    "created_at": "Tue Mar 05 05:32:11 +0000 2019",
+    "id": 1102803975890497536,
+    "id_str": "1102803975890497536",
+    "text": "Seminyak villa located near the beach, a beachfront villa in Candidasa and a villa for sale by the owner -\u2026 https://t.co/erV7RYMYYy",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/erV7RYMYYy",
+          "expanded_url": "https://twitter.com/i/web/status/1102803975890497536",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.mailchimp.com\" rel=\"nofollow\">MailChimp</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 295040997,
+      "id_str": "295040997",
+      "name": "Balicasa Properties",
+      "screen_name": "balicasa",
+      "location": "Jimbaran",
+      "description": "",
+      "url": "https://t.co/86ule0RgtZ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/86ule0RgtZ",
+              "expanded_url": "http://www.balicasa-properties.com",
+              "display_url": "balicasa-properties.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 414,
+      "friends_count": 642,
+      "listed_count": 0,
+      "created_at": "Sun May 08 07:51:20 +0000 2011",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 240,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000052061283/48a8e30ae7c939f3a5956b90b9e881b8_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000052061283/48a8e30ae7c939f3a5956b90b9e881b8_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/295040997/1372309178",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 03 22:59:12 +0000 2019",
+    "id": 1102342688706191361,
+    "id_str": "1102342688706191361",
+    "text": "Yesss sukaa \ud83d\ude0d bahagia dan sehat itu penting #foryourlife\n\n#mamina\n#anaksekolah #merasamuda\n#dangduters\u2026 https://t.co/EhwIcDQQqA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "foryourlife",
+          "indices": [
+            44,
+            56
+          ]
+        },
+        {
+          "text": "mamina",
+          "indices": [
+            58,
+            65
+          ]
+        },
+        {
+          "text": "anaksekolah",
+          "indices": [
+            66,
+            78
+          ]
+        },
+        {
+          "text": "merasamuda",
+          "indices": [
+            79,
+            90
+          ]
+        },
+        {
+          "text": "dangduters",
+          "indices": [
+            91,
+            102
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/EhwIcDQQqA",
+          "expanded_url": "https://twitter.com/i/web/status/1102342688706191361",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 18722133,
+      "id_str": "18722133",
+      "name": "Ririen Regina (Zin Mamina)",
+      "screen_name": "ririenregina",
+      "location": "Kuta, Indonesia",
+      "description": "@salon.mamina #salonmamina #maminakebaya",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 295,
+      "friends_count": 124,
+      "listed_count": 6,
+      "created_at": "Wed Jan 07 14:15:24 +0000 2009",
+      "favourites_count": 51,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 6447,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "912626",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/781359289243803648/9XacZ299_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/781359289243803648/9XacZ299_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18722133/1488283931",
+      "profile_link_color": "552D7A",
+      "profile_sidebar_border_color": "EB10F9",
+      "profile_sidebar_fill_color": "C476B4",
+      "profile_text_color": "DEB2DE",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.5086814,
+        115.56617837
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.56617837,
+        -8.5086814
+      ]
+    },
+    "place": {
+      "id": "72a57ef7f22225ee",
+      "url": "https://api.twitter.com/1.1/geo/id/72a57ef7f22225ee.json",
+      "place_type": "city",
+      "name": "Karangasem",
+      "full_name": "Karangasem, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.5640551,
+              -8.517242
+            ],
+            [
+              115.710903,
+              -8.517242
+            ],
+            [
+              115.710903,
+              -8.388731
+            ],
+            [
+              115.5640551,
+              -8.388731
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  }
+]

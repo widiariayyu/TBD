@@ -1,0 +1,910 @@
+[
+  {
+    "created_at": "Thu Mar 14 10:45:02 +0000 2019",
+    "id": 1106144196346306560,
+    "id_str": "1106144196346306560",
+    "text": "@ajai_official @KKCity Bukit Asah, Karangasem, Bali https://t.co/gXvOKmqDWX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ajai_official",
+          "name": "AJAI OFFICIAL",
+          "id": 780273928937746432,
+          "id_str": "780273928937746432",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "KKCity",
+          "name": "BKI",
+          "id": 316907137,
+          "id_str": "316907137",
+          "indices": [
+            15,
+            22
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1106144071305695232,
+          "id_str": "1106144071305695232",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1nQLBiUkAAipGB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1nQLBiUkAAipGB.jpg",
+          "url": "https://t.co/gXvOKmqDWX",
+          "display_url": "pic.twitter.com/gXvOKmqDWX",
+          "expanded_url": "https://twitter.com/BayuKirana7/status/1106144196346306560/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1106144071305695232,
+          "id_str": "1106144071305695232",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1nQLBiUkAAipGB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1nQLBiUkAAipGB.jpg",
+          "url": "https://t.co/gXvOKmqDWX",
+          "display_url": "pic.twitter.com/gXvOKmqDWX",
+          "expanded_url": "https://twitter.com/BayuKirana7/status/1106144196346306560/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1105970651867705346,
+    "in_reply_to_status_id_str": "1105970651867705346",
+    "in_reply_to_user_id": 780273928937746432,
+    "in_reply_to_user_id_str": "780273928937746432",
+    "in_reply_to_screen_name": "ajai_official",
+    "user": {
+      "id": 774604869785178112,
+      "id_str": "774604869785178112",
+      "name": "Bayu CK",
+      "screen_name": "BayuKirana7",
+      "location": "Bengkulu, Indonesia",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 72,
+      "friends_count": 103,
+      "listed_count": 0,
+      "created_at": "Sat Sep 10 13:46:07 +0000 2016",
+      "favourites_count": 12248,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5871,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1009791178290556928/azyS02kv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009791178290556928/azyS02kv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/774604869785178112/1528697655",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Thu Mar 14 08:45:57 +0000 2019",
+    "id": 1106114227368939520,
+    "id_str": "1106114227368939520",
+    "text": "@dids_55 Hmmmm. Coba ke ubud, tegalalang, trus lanjut ke kintamani dii, bisa jg turun kalo mau mandi air panas. Ata\u2026 https://t.co/cokwe4Soq7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "dids_55",
+          "name": "Dids",
+          "id": 233536510,
+          "id_str": "233536510",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cokwe4Soq7",
+          "expanded_url": "https://twitter.com/i/web/status/1106114227368939520",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1106084843845111808,
+    "in_reply_to_status_id_str": "1106084843845111808",
+    "in_reply_to_user_id": 233536510,
+    "in_reply_to_user_id_str": "233536510",
+    "in_reply_to_screen_name": "dids_55",
+    "user": {
+      "id": 97552056,
+      "id_str": "97552056",
+      "name": "~ita~",
+      "screen_name": "suwitasari",
+      "location": "Indonesia",
+      "description": "happy to be me",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 491,
+      "friends_count": 392,
+      "listed_count": 3,
+      "created_at": "Thu Dec 17 23:42:37 +0000 2009",
+      "favourites_count": 2160,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 11954,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "324C5E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1094447833501974528/aQL8AcS0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094447833501974528/aQL8AcS0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/97552056/1547812529",
+      "profile_link_color": "26268C",
+      "profile_sidebar_border_color": "962196",
+      "profile_sidebar_fill_color": "589FF5",
+      "profile_text_color": "397BCC",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Mar 13 13:58:07 +0000 2019",
+    "id": 1105830398670589953,
+    "id_str": "1105830398670589953",
+    "text": "@m00ncherry Iyaa emang gratis dik, cma bayar retribusi ajaa sesuai perarem adat.. soalnya ada 2 desa adat yg pnya a\u2026 https://t.co/eqj4XQzaEU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "m00ncherry",
+          "name": "Baby Cherry",
+          "id": 1081752948923748352,
+          "id_str": "1081752948923748352",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eqj4XQzaEU",
+          "expanded_url": "https://twitter.com/i/web/status/1105830398670589953",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1105783284280131584,
+    "in_reply_to_status_id_str": "1105783284280131584",
+    "in_reply_to_user_id": 1081752948923748352,
+    "in_reply_to_user_id_str": "1081752948923748352",
+    "in_reply_to_screen_name": "m00ncherry",
+    "user": {
+      "id": 237149873,
+      "id_str": "237149873",
+      "name": "Nym Agus Juniantara",
+      "screen_name": "gus_junian",
+      "location": "Amlapura Bali | Indonesia",
+      "description": "Sanathana Dharma | Bachelor Political Science UPN Yogyakarta | Chelsea FC Indonesia Supporter | Pendamping Lokal Desa",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1149,
+      "friends_count": 1503,
+      "listed_count": 4,
+      "created_at": "Wed Jan 12 05:34:47 +0000 2011",
+      "favourites_count": 1438,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 16897,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1105120880764436487/50DsLa0j_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105120880764436487/50DsLa0j_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/237149873/1550043992",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Mar 13 12:24:31 +0000 2019",
+    "id": 1105806845904445441,
+    "id_str": "1105806845904445441",
+    "text": "SAMA LAGUNYA BETHARIA SONATA!! \n\nini diputer puter mulu. pas jalan, pas ke bukit asah, pas pulang juga diputer jadi\u2026 https://t.co/ZH66SvMjFG",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ZH66SvMjFG",
+          "expanded_url": "https://twitter.com/i/web/status/1105806845904445441",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1105395921955676160,
+    "in_reply_to_status_id_str": "1105395921955676160",
+    "in_reply_to_user_id": 1040525616544571392,
+    "in_reply_to_user_id_str": "1040525616544571392",
+    "in_reply_to_screen_name": "yumyumchocs",
+    "user": {
+      "id": 1040525616544571392,
+      "id_str": "1040525616544571392",
+      "name": "ara \ud83c\udf39",
+      "screen_name": "yumyumchocs",
+      "location": "Neptune",
+      "description": "[a proud ravenclaw] \u2022\u2014\u2022 \u2014\u2014\u2014 \u2022\u2022\u2022 \u2022|| Nanti Kita Sambat Tentang Hari Ini",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 144,
+      "friends_count": 108,
+      "listed_count": 1,
+      "created_at": "Fri Sep 14 09:00:13 +0000 2018",
+      "favourites_count": 566,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 11365,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1105341028226105346/T4mpeg92_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105341028226105346/T4mpeg92_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040525616544571392/1552141009",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Mar 13 10:50:54 +0000 2019",
+    "id": 1105783284280131584,
+    "id_str": "1105783284280131584",
+    "text": "@gus_junian Lah bukannya emg gratis dan bayar parkir doang ya? Saya taun lalu muterin karangasem, pgn lanjut ke ame\u2026 https://t.co/bLOlPUY3My",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "gus_junian",
+          "name": "Nym Agus Juniantara",
+          "id": 237149873,
+          "id_str": "237149873",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bLOlPUY3My",
+          "expanded_url": "https://twitter.com/i/web/status/1105783284280131584",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1105781410302877697,
+    "in_reply_to_status_id_str": "1105781410302877697",
+    "in_reply_to_user_id": 237149873,
+    "in_reply_to_user_id_str": "237149873",
+    "in_reply_to_screen_name": "gus_junian",
+    "user": {
+      "id": 1081752948923748352,
+      "id_str": "1081752948923748352",
+      "name": "Baby Cherry",
+      "screen_name": "m00ncherry",
+      "location": "Depok, Jawa Barat",
+      "description": "a.m.k.h",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 666,
+      "friends_count": 584,
+      "listed_count": 0,
+      "created_at": "Sun Jan 06 03:22:55 +0000 2019",
+      "favourites_count": 883,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8733,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1106375433258336256/3BVvm2yk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106375433258336256/3BVvm2yk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081752948923748352/1551836015",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Mar 13 03:04:01 +0000 2019",
+    "id": 1105665792966746112,
+    "id_str": "1105665792966746112",
+    "text": "Bagi sebagian orang, berkemah menjadi salah satu kegiatan menyenangkan untuk mengisi akhir pekan. Ap... https://t.co/JP6tZDpE4F",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/JP6tZDpE4F",
+          "expanded_url": "https://passionstory.fwd.co.id/article/berkemah-di-bukit-asah-tidur-dengan-suara-deburan-ombak",
+          "display_url": "passionstory.fwd.co.id/article/berkem\u2026",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 97585974,
+      "id_str": "97585974",
+      "name": "sukron",
+      "screen_name": "ndonky",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 24,
+      "friends_count": 38,
+      "listed_count": 0,
+      "created_at": "Fri Dec 18 03:17:26 +0000 2009",
+      "favourites_count": 4,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 193,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1729297572/IMG-20111231-01218_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1729297572/IMG-20111231-01218_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Mar 10 02:25:45 +0000 2019",
+    "id": 1104568996957806593,
+    "id_str": "1104568996957806593",
+    "text": "@zulmizuls @bowdat Mirip Bukit Asah di Bali",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "zulmizuls",
+          "name": "isal zula",
+          "id": 377176902,
+          "id_str": "377176902",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "bowdat",
+          "name": "Bowo",
+          "id": 47103059,
+          "id_str": "47103059",
+          "indices": [
+            11,
+            18
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1104429177489375234,
+    "in_reply_to_status_id_str": "1104429177489375234",
+    "in_reply_to_user_id": 377176902,
+    "in_reply_to_user_id_str": "377176902",
+    "in_reply_to_screen_name": "zulmizuls",
+    "user": {
+      "id": 139064361,
+      "id_str": "139064361",
+      "name": "AAW",
+      "screen_name": "agusAditya_",
+      "location": "Nomaden",
+      "description": "Architect - designer - Real Madrid",
+      "url": "https://t.co/tbuHjpJkDm",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/tbuHjpJkDm",
+              "expanded_url": "http://steller.co/agusaditya_",
+              "display_url": "steller.co/agusaditya_",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 574,
+      "friends_count": 388,
+      "listed_count": 5,
+      "created_at": "Sat May 01 12:47:03 +0000 2010",
+      "favourites_count": 403,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 31556,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/856323709849579520/OBGn7Ut8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/856323709849579520/OBGn7Ut8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/139064361/1492998458",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Mar 08 22:55:12 +0000 2019",
+    "id": 1104153622785359872,
+    "id_str": "1104153622785359872",
+    "text": "Speaker's corner SMK Bukit Jalil KL, asah bakat public speaking para pelajar\n@maszlee @teresakok @KemPendidikan\u2026 https://t.co/HjCckBgKIV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "maszlee",
+          "name": "Maszlee Malik",
+          "id": 119162565,
+          "id_str": "119162565",
+          "indices": [
+            77,
+            85
+          ]
+        },
+        {
+          "screen_name": "teresakok",
+          "name": "Teresa Kok",
+          "id": 16922998,
+          "id_str": "16922998",
+          "indices": [
+            86,
+            96
+          ]
+        },
+        {
+          "screen_name": "KemPendidikan",
+          "name": "KPM",
+          "id": 517135260,
+          "id_str": "517135260",
+          "indices": [
+            97,
+            111
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HjCckBgKIV",
+          "expanded_url": "https://twitter.com/i/web/status/1104153622785359872",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1332943140,
+      "id_str": "1332943140",
+      "name": "Dr. Fajri Ismail",
+      "screen_name": "FajIsmail",
+      "location": "Malaysia",
+      "description": "| Ph.D @unimalaya | \ud83c\uddf2\ud83c\uddfe Lawyer (NP) | Senior Academic in #ConstructionLaw #ConstructionContract | Editorial Advisory Board (Practitioner) @JFBM19 |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1729,
+      "friends_count": 352,
+      "listed_count": 77,
+      "created_at": "Sun Apr 07 02:22:41 +0000 2013",
+      "favourites_count": 30120,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 32556,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1102762192229740545/9Hg9MaWd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102762192229740545/9Hg9MaWd_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1332943140/1546308112",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  }
+]

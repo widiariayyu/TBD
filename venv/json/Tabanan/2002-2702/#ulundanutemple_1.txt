@@ -1,0 +1,1245 @@
+[
+  {
+    "created_at": "Tue Feb 26 15:49:31 +0000 2019",
+    "id": 1100422615741521920,
+    "id_str": "1100422615741521920",
+    "text": "A smile is the best make up any girl can wear.. \u263a\ufe0f\n.\n.\n.\n.\n#CarlaBaliChronicles #Candikuning #Bali #Indonesia\u2026 https://t.co/n9Z8K93ceF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CarlaBaliChronicles",
+          "indices": [
+            59,
+            79
+          ]
+        },
+        {
+          "text": "Candikuning",
+          "indices": [
+            80,
+            92
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            93,
+            98
+          ]
+        },
+        {
+          "text": "Indonesia",
+          "indices": [
+            99,
+            109
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/n9Z8K93ceF",
+          "expanded_url": "https://twitter.com/i/web/status/1100422615741521920",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 358679709,
+      "id_str": "358679709",
+      "name": "Carla Teehankee",
+      "screen_name": "carlageorgianna",
+      "location": "manila, philippines",
+      "description": "Nerd | Cyclist | Mallaholic | Swimmer | CSer | ScubaDiver | Yogini | OnlyChild | Kickboxer | Fashionista | Surfer | ProudPinay | Runner | Triathlete",
+      "url": "https://t.co/4bCirMVwJe",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/4bCirMVwJe",
+              "expanded_url": "https://twitter.com/carlageorgianna",
+              "display_url": "twitter.com/carlageorgianna",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 174,
+      "friends_count": 232,
+      "listed_count": 16,
+      "created_at": "Sat Aug 20 09:33:10 +0000 2011",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2094,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "DB0F42",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/965539789956038657/GLdMuNVW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/965539789956038657/GLdMuNVW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/358679709/1519037603",
+      "profile_link_color": "FF0055",
+      "profile_sidebar_border_color": "FA0573",
+      "profile_sidebar_fill_color": "FF8FA5",
+      "profile_text_color": "050505",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.27596931,
+        115.16532361
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16532361,
+        -8.27596931
+      ]
+    },
+    "place": {
+      "id": "638ef0760a2670ae",
+      "url": "https://api.twitter.com/1.1/geo/id/638ef0760a2670ae.json",
+      "place_type": "city",
+      "name": "Baturiti",
+      "full_name": "Baturiti, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.128248,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.243315
+            ],
+            [
+              115.128248,
+              -8.243315
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Feb 26 12:54:24 +0000 2019",
+    "id": 1100378549737918464,
+    "id_str": "1100378549737918464",
+    "text": "Metanoia... \ud83d\udc63\n.\n.\n.\n.\n#CarlaBaliChronicles #Candikuning #Bali #Indonesia #UlunDanuTemple #PuraUlunDanuBeratan\u2026 https://t.co/hmtRijInG3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CarlaBaliChronicles",
+          "indices": [
+            22,
+            42
+          ]
+        },
+        {
+          "text": "Candikuning",
+          "indices": [
+            43,
+            55
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            56,
+            61
+          ]
+        },
+        {
+          "text": "Indonesia",
+          "indices": [
+            62,
+            72
+          ]
+        },
+        {
+          "text": "UlunDanuTemple",
+          "indices": [
+            73,
+            88
+          ]
+        },
+        {
+          "text": "PuraUlunDanuBeratan",
+          "indices": [
+            89,
+            109
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/hmtRijInG3",
+          "expanded_url": "https://twitter.com/i/web/status/1100378549737918464",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "eu",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 358679709,
+      "id_str": "358679709",
+      "name": "Carla Teehankee",
+      "screen_name": "carlageorgianna",
+      "location": "manila, philippines",
+      "description": "Nerd | Cyclist | Mallaholic | Swimmer | CSer | ScubaDiver | Yogini | OnlyChild | Kickboxer | Fashionista | Surfer | ProudPinay | Runner | Triathlete",
+      "url": "https://t.co/4bCirMVwJe",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/4bCirMVwJe",
+              "expanded_url": "https://twitter.com/carlageorgianna",
+              "display_url": "twitter.com/carlageorgianna",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 174,
+      "friends_count": 232,
+      "listed_count": 16,
+      "created_at": "Sat Aug 20 09:33:10 +0000 2011",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2094,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "DB0F42",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/965539789956038657/GLdMuNVW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/965539789956038657/GLdMuNVW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/358679709/1519037603",
+      "profile_link_color": "FF0055",
+      "profile_sidebar_border_color": "FA0573",
+      "profile_sidebar_fill_color": "FF8FA5",
+      "profile_text_color": "050505",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.27596931,
+        115.16532361
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16532361,
+        -8.27596931
+      ]
+    },
+    "place": {
+      "id": "638ef0760a2670ae",
+      "url": "https://api.twitter.com/1.1/geo/id/638ef0760a2670ae.json",
+      "place_type": "city",
+      "name": "Baturiti",
+      "full_name": "Baturiti, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.128248,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.243315
+            ],
+            [
+              115.128248,
+              -8.243315
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "eu"
+  },
+  {
+    "created_at": "Tue Feb 26 10:11:16 +0000 2019",
+    "id": 1100337494011174912,
+    "id_str": "1100337494011174912",
+    "text": "Bali Island of Gods. #templehopping #wheninbali #bali #baliindonesia #ulundanutemple #unBALIvable #someBALItolove @\u2026 https://t.co/JWf8EZkeOI",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "templehopping",
+          "indices": [
+            21,
+            35
+          ]
+        },
+        {
+          "text": "wheninbali",
+          "indices": [
+            36,
+            47
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            48,
+            53
+          ]
+        },
+        {
+          "text": "baliindonesia",
+          "indices": [
+            54,
+            68
+          ]
+        },
+        {
+          "text": "ulundanutemple",
+          "indices": [
+            69,
+            84
+          ]
+        },
+        {
+          "text": "unBALIvable",
+          "indices": [
+            85,
+            97
+          ]
+        },
+        {
+          "text": "someBALItolove",
+          "indices": [
+            98,
+            113
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/JWf8EZkeOI",
+          "expanded_url": "https://twitter.com/i/web/status/1100337494011174912",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 105516361,
+      "id_str": "105516361",
+      "name": "jelord elemancil",
+      "screen_name": "itsmejelord",
+      "location": "Manila, Philippines",
+      "description": "loves to travel, adventure seeker, simple person and living life to its fullest everyday..  Happiness is a choice and I always choose to be happy.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 76,
+      "friends_count": 349,
+      "listed_count": 2,
+      "created_at": "Sat Jan 16 15:51:58 +0000 2010",
+      "favourites_count": 822,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1678,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "252B33",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/704630387624906752/i2b8xSZX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/704630387624906752/i2b8xSZX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/105516361/1490113426",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.27596931,
+        115.16532361
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16532361,
+        -8.27596931
+      ]
+    },
+    "place": {
+      "id": "638ef0760a2670ae",
+      "url": "https://api.twitter.com/1.1/geo/id/638ef0760a2670ae.json",
+      "place_type": "city",
+      "name": "Baturiti",
+      "full_name": "Baturiti, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.128248,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.243315
+            ],
+            [
+              115.128248,
+              -8.243315
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Feb 25 23:58:09 +0000 2019",
+    "id": 1100183197038473216,
+    "id_str": "1100183197038473216",
+    "text": "It\u2019s not where you end up but how you got there... \ud83c\udf33\ud83c\udf32\ud83d\udc9a\ud83d\udc63\n.\n.\n.\n.\n#CarlaBaliChronicles #Candikuning #Bali #Indonesia\u2026 https://t.co/R6qKIEVmsO",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CarlaBaliChronicles",
+          "indices": [
+            64,
+            84
+          ]
+        },
+        {
+          "text": "Candikuning",
+          "indices": [
+            85,
+            97
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            98,
+            103
+          ]
+        },
+        {
+          "text": "Indonesia",
+          "indices": [
+            104,
+            114
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/R6qKIEVmsO",
+          "expanded_url": "https://twitter.com/i/web/status/1100183197038473216",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 358679709,
+      "id_str": "358679709",
+      "name": "Carla Teehankee",
+      "screen_name": "carlageorgianna",
+      "location": "manila, philippines",
+      "description": "Nerd | Cyclist | Mallaholic | Swimmer | CSer | ScubaDiver | Yogini | OnlyChild | Kickboxer | Fashionista | Surfer | ProudPinay | Runner | Triathlete",
+      "url": "https://t.co/4bCirMVwJe",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/4bCirMVwJe",
+              "expanded_url": "https://twitter.com/carlageorgianna",
+              "display_url": "twitter.com/carlageorgianna",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 174,
+      "friends_count": 232,
+      "listed_count": 16,
+      "created_at": "Sat Aug 20 09:33:10 +0000 2011",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2094,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "DB0F42",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/965539789956038657/GLdMuNVW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/965539789956038657/GLdMuNVW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/358679709/1519037603",
+      "profile_link_color": "FF0055",
+      "profile_sidebar_border_color": "FA0573",
+      "profile_sidebar_fill_color": "FF8FA5",
+      "profile_text_color": "050505",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.27596931,
+        115.16532361
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16532361,
+        -8.27596931
+      ]
+    },
+    "place": {
+      "id": "638ef0760a2670ae",
+      "url": "https://api.twitter.com/1.1/geo/id/638ef0760a2670ae.json",
+      "place_type": "city",
+      "name": "Baturiti",
+      "full_name": "Baturiti, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.128248,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.243315
+            ],
+            [
+              115.128248,
+              -8.243315
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Feb 25 19:07:13 +0000 2019",
+    "id": 1100109983184707584,
+    "id_str": "1100109983184707584",
+    "text": "Travel for fulfillment.. \u263a\ufe0f\ud83d\udc9a\ud83d\udc99\n.\n.\n.\n.\n#CarlaBaliChronicles #Candikuning #Bali #Indonesia #UlunDanuTemple\u2026 https://t.co/lTgg32ZCje",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CarlaBaliChronicles",
+          "indices": [
+            38,
+            58
+          ]
+        },
+        {
+          "text": "Candikuning",
+          "indices": [
+            59,
+            71
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            72,
+            77
+          ]
+        },
+        {
+          "text": "Indonesia",
+          "indices": [
+            78,
+            88
+          ]
+        },
+        {
+          "text": "UlunDanuTemple",
+          "indices": [
+            89,
+            104
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/lTgg32ZCje",
+          "expanded_url": "https://twitter.com/i/web/status/1100109983184707584",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 358679709,
+      "id_str": "358679709",
+      "name": "Carla Teehankee",
+      "screen_name": "carlageorgianna",
+      "location": "manila, philippines",
+      "description": "Nerd | Cyclist | Mallaholic | Swimmer | CSer | ScubaDiver | Yogini | OnlyChild | Kickboxer | Fashionista | Surfer | ProudPinay | Runner | Triathlete",
+      "url": "https://t.co/4bCirMVwJe",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/4bCirMVwJe",
+              "expanded_url": "https://twitter.com/carlageorgianna",
+              "display_url": "twitter.com/carlageorgianna",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 174,
+      "friends_count": 232,
+      "listed_count": 16,
+      "created_at": "Sat Aug 20 09:33:10 +0000 2011",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2094,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "DB0F42",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/965539789956038657/GLdMuNVW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/965539789956038657/GLdMuNVW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/358679709/1519037603",
+      "profile_link_color": "FF0055",
+      "profile_sidebar_border_color": "FA0573",
+      "profile_sidebar_fill_color": "FF8FA5",
+      "profile_text_color": "050505",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.27596931,
+        115.16532361
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16532361,
+        -8.27596931
+      ]
+    },
+    "place": {
+      "id": "638ef0760a2670ae",
+      "url": "https://api.twitter.com/1.1/geo/id/638ef0760a2670ae.json",
+      "place_type": "city",
+      "name": "Baturiti",
+      "full_name": "Baturiti, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.128248,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.243315
+            ],
+            [
+              115.128248,
+              -8.243315
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Feb 25 17:44:46 +0000 2019",
+    "id": 1100089231345623040,
+    "id_str": "1100089231345623040",
+    "text": "Make life epic... \n.\n.\n... smile.. \ud83d\ude04\ud83d\udc99\ud83d\udc9a\n.\n.\n.\n.\n#CarlaBaliChronicles #Candikuning #Bali #Indonesia #UlunDanuTemple\u2026 https://t.co/NMOc6Wttx4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CarlaBaliChronicles",
+          "indices": [
+            47,
+            67
+          ]
+        },
+        {
+          "text": "Candikuning",
+          "indices": [
+            68,
+            80
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            81,
+            86
+          ]
+        },
+        {
+          "text": "Indonesia",
+          "indices": [
+            87,
+            97
+          ]
+        },
+        {
+          "text": "UlunDanuTemple",
+          "indices": [
+            98,
+            113
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/NMOc6Wttx4",
+          "expanded_url": "https://twitter.com/i/web/status/1100089231345623040",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 358679709,
+      "id_str": "358679709",
+      "name": "Carla Teehankee",
+      "screen_name": "carlageorgianna",
+      "location": "manila, philippines",
+      "description": "Nerd | Cyclist | Mallaholic | Swimmer | CSer | ScubaDiver | Yogini | OnlyChild | Kickboxer | Fashionista | Surfer | ProudPinay | Runner | Triathlete",
+      "url": "https://t.co/4bCirMVwJe",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/4bCirMVwJe",
+              "expanded_url": "https://twitter.com/carlageorgianna",
+              "display_url": "twitter.com/carlageorgianna",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 174,
+      "friends_count": 232,
+      "listed_count": 16,
+      "created_at": "Sat Aug 20 09:33:10 +0000 2011",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2094,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "DB0F42",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/965539789956038657/GLdMuNVW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/965539789956038657/GLdMuNVW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/358679709/1519037603",
+      "profile_link_color": "FF0055",
+      "profile_sidebar_border_color": "FA0573",
+      "profile_sidebar_fill_color": "FF8FA5",
+      "profile_text_color": "050505",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.27596931,
+        115.16532361
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16532361,
+        -8.27596931
+      ]
+    },
+    "place": {
+      "id": "638ef0760a2670ae",
+      "url": "https://api.twitter.com/1.1/geo/id/638ef0760a2670ae.json",
+      "place_type": "city",
+      "name": "Baturiti",
+      "full_name": "Baturiti, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.128248,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.243315
+            ],
+            [
+              115.128248,
+              -8.243315
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 01:55:04 +0000 2019",
+    "id": 1098038295022448640,
+    "id_str": "1098038295022448640",
+    "text": "Piper's Smile by Ryszard Wierzbicki - https://t.co/FfrB4FgT4K - #Bali #LakeBeratan #RyszardWierzbicki #UlunDanuTemple",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Bali",
+          "indices": [
+            64,
+            69
+          ]
+        },
+        {
+          "text": "LakeBeratan",
+          "indices": [
+            70,
+            82
+          ]
+        },
+        {
+          "text": "RyszardWierzbicki",
+          "indices": [
+            83,
+            101
+          ]
+        },
+        {
+          "text": "UlunDanuTemple",
+          "indices": [
+            102,
+            117
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/FfrB4FgT4K",
+          "expanded_url": "http://bit.ly/2CQBQl8",
+          "display_url": "bit.ly/2CQBQl8",
+          "indices": [
+            38,
+            61
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "pl",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.lightandcomposition.com/portraiture-photography/\" rel=\"nofollow\">Portrait Award</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 195965223,
+      "id_str": "195965223",
+      "name": "Portrait in Photo",
+      "screen_name": "PortraitinPhoto",
+      "location": "Global",
+      "description": "Portrait of those moments that touches our Heart from Light & Composition",
+      "url": "http://t.co/W4Xvz03jKu",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/W4Xvz03jKu",
+              "expanded_url": "http://www.lightandcomposition.com/category/portraiture-photography/",
+              "display_url": "lightandcomposition.com/category/portr\u2026",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2715,
+      "friends_count": 3458,
+      "listed_count": 126,
+      "created_at": "Tue Sep 28 00:32:13 +0000 2010",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 107312,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1345099745/profile_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345099745/profile_normal.jpg",
+      "profile_link_color": "7D270A",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pl"
+  }
+]

@@ -1,0 +1,1283 @@
+[
+  {
+    "created_at": "Thu Mar 14 06:46:53 +0000 2019",
+    "id": 1106084263710126080,
+    "id_str": "1106084263710126080",
+    "text": "#WhereToGoInBali?\nVisit the exquisite Pura Luhur Lempuyang, one of Bali's oldest and most highly regarded temples.\u2026 https://t.co/7AG4E56O2G",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "WhereToGoInBali",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7AG4E56O2G",
+          "expanded_url": "https://twitter.com/i/web/status/1106084263710126080",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 187220425,
+      "id_str": "187220425",
+      "name": "Sun Island Bali",
+      "screen_name": "sunislandbali",
+      "location": "Bali, Indonesia",
+      "description": "A collection of hotels, resorts & villas in prime locations in Bali. Balinese hospitality at its finest. Contact: sales@sunislandbali.com",
+      "url": "http://t.co/TkOHmJWz2e",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/TkOHmJWz2e",
+              "expanded_url": "http://www.sunislandbali.com",
+              "display_url": "sunislandbali.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 362,
+      "friends_count": 468,
+      "listed_count": 13,
+      "created_at": "Sun Sep 05 16:25:32 +0000 2010",
+      "favourites_count": 7,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1633,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/744317543704190978/p8hCQgy0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/744317543704190978/p8hCQgy0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/187220425/1469350728",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 13 15:08:49 +0000 2019",
+    "id": 1105848194142011392,
+    "id_str": "1105848194142011392",
+    "text": "Wonderful gate that you will find only in Bali. Start your spiritual journey by visiting this historical temple in\u2026 https://t.co/4WGn3xqwDs",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/4WGn3xqwDs",
+          "expanded_url": "https://twitter.com/i/web/status/1105848194142011392",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2256312391,
+      "id_str": "2256312391",
+      "name": "Bali Cili",
+      "screen_name": "balicili",
+      "location": "Bali, Indonesia",
+      "description": "\u25cf The Paradise, Beyond Your Imaginations \u25cf Cili is Balinese word for Prosperity & Great Fortune \u25cf IG @BaliCili \u25cf Formerly #FascinatingBali",
+      "url": "http://t.co/zxgnloUWF2",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/zxgnloUWF2",
+              "expanded_url": "http://fascinatingbali.com",
+              "display_url": "fascinatingbali.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 405,
+      "friends_count": 694,
+      "listed_count": 23,
+      "created_at": "Sat Dec 21 10:42:43 +0000 2013",
+      "favourites_count": 119,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2123,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "BDC4C7",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/564111081686056960/4K6MUjmM_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/564111081686056960/4K6MUjmM_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2256312391/1423329752",
+      "profile_link_color": "1C3A45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 11 14:02:49 +0000 2019",
+    "id": 1105106809721765888,
+    "id_str": "1105106809721765888",
+    "text": "Mi familia \ud83d\udda4\n.\n.\n#bali #family #thelumbantoruans #love #godsgift @ Pura Luhur Lempuyang https://t.co/4JhNoLMUBT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bali",
+          "indices": [
+            17,
+            22
+          ]
+        },
+        {
+          "text": "family",
+          "indices": [
+            23,
+            30
+          ]
+        },
+        {
+          "text": "thelumbantoruans",
+          "indices": [
+            31,
+            48
+          ]
+        },
+        {
+          "text": "love",
+          "indices": [
+            49,
+            54
+          ]
+        },
+        {
+          "text": "godsgift",
+          "indices": [
+            55,
+            64
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/4JhNoLMUBT",
+          "expanded_url": "https://www.instagram.com/p/Bu3uQJKgV3xbgeHNKui4AbE4H5POlR3ySJ-IwE0/?utm_source=ig_twitter_share&igshid=g9u1ovxwdogq",
+          "display_url": "instagram.com/p/Bu3uQJKgV3xb\u2026",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "tl",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 29660419,
+      "id_str": "29660419",
+      "name": "Ikanov Tambunan",
+      "screen_name": "ikanovv",
+      "location": "\u00dcT: 55.675954,49.780995",
+      "description": "enjoying awesome life.....",
+      "url": "http://t.co/UN9gLvFo3A",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UN9gLvFo3A",
+              "expanded_url": "http://www.ikanov-worldsquestioning.blogspot.com",
+              "display_url": "ikanov-worldsquestioning.blogspot.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 449,
+      "friends_count": 293,
+      "listed_count": 14,
+      "created_at": "Wed Apr 08 07:07:38 +0000 2009",
+      "favourites_count": 122,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 23730,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "BADFCD",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/777537569202376704/zjdOxH2-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/777537569202376704/zjdOxH2-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/29660419/1431999409",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFF7CC",
+      "profile_text_color": "0C3E53",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.41617043,
+        115.61908359
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.61908359,
+        -8.41617043
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tl"
+  },
+  {
+    "created_at": "Mon Mar 11 09:47:26 +0000 2019",
+    "id": 1105042538065350656,
+    "id_str": "1105042538065350656",
+    "text": "@m00ncherry @askmenfess Pura lempuyang luhur\u2764\ufe0f",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "m00ncherry",
+          "name": "Baby Cherry",
+          "id": 1081752948923748352,
+          "id_str": "1081752948923748352",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "askmenfess",
+          "name": "Askmf",
+          "id": 810423824034299904,
+          "id_str": "810423824034299904",
+          "indices": [
+            12,
+            23
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "tl",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1105041137998344193,
+    "in_reply_to_status_id_str": "1105041137998344193",
+    "in_reply_to_user_id": 1081752948923748352,
+    "in_reply_to_user_id_str": "1081752948923748352",
+    "in_reply_to_screen_name": "m00ncherry",
+    "user": {
+      "id": 1088427974876004352,
+      "id_str": "1088427974876004352",
+      "name": "cut13gurl",
+      "screen_name": "gurllwithluv",
+      "location": "",
+      "description": "peace n love \u2764\ufe0f\u2764\ufe0f\n\nsisi lainku suka mendaki tidak mau banyak daki",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 170,
+      "friends_count": 179,
+      "listed_count": 0,
+      "created_at": "Thu Jan 24 13:27:06 +0000 2019",
+      "favourites_count": 145,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 582,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1088430705007194117/jDWJDswW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088430705007194117/jDWJDswW_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tl"
+  },
+  {
+    "created_at": "Mon Mar 11 09:22:50 +0000 2019",
+    "id": 1105036346941267968,
+    "id_str": "1105036346941267968",
+    "text": "RT @AP_Airports: Salah satunya adalah Pura Lempuyang Luhur ini, yang merupakan salah satu kuil tertua dan dihormati di Bali. Letaknya ada d\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "AP_Airports",
+          "name": "AngkasaPura Airports",
+          "id": 1461559754,
+          "id_str": "1461559754",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 147555377,
+      "id_str": "147555377",
+      "name": "Riska A Rarumangkay",
+      "screen_name": "RiskaAndrene",
+      "location": "Manado",
+      "description": "I'm positively persuaded that my Jesus is able to guard and keep all which I've committed to Him in this life. \n~Airport Ambassador MDC~",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1125,
+      "friends_count": 516,
+      "listed_count": 5,
+      "created_at": "Mon May 24 12:54:37 +0000 2010",
+      "favourites_count": 198,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36053,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/752148071526522880/MQ-idwCg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/752148071526522880/MQ-idwCg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/147555377/1503934332",
+      "profile_link_color": "0CACE6",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Feb 25 08:15:05 +0000 2019",
+      "id": 1099945868705161216,
+      "id_str": "1099945868705161216",
+      "text": "Salah satunya adalah Pura Lempuyang Luhur ini, yang merupakan salah satu kuil tertua dan dihormati di Bali. Letakny\u2026 https://t.co/P1mEinbZaN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/P1mEinbZaN",
+            "expanded_url": "https://twitter.com/i/web/status/1099945868705161216",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1099945863261052928,
+      "in_reply_to_status_id_str": "1099945863261052928",
+      "in_reply_to_user_id": 1461559754,
+      "in_reply_to_user_id_str": "1461559754",
+      "in_reply_to_screen_name": "AP_Airports",
+      "user": {
+        "id": 1461559754,
+        "id_str": "1461559754",
+        "name": "AngkasaPura Airports",
+        "screen_name": "AP_Airports",
+        "location": "Indonesia",
+        "description": "PT Angkasa Pura I (Persero) | DPS, SUB, UPG, BPN, JOG, BDJ, MDC, LOP, KOE, SRG, SOC, AMQ, BIK | Contact Center: 172 @angkasapura172",
+        "url": "https://t.co/62Ip1Vl6QR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/62Ip1Vl6QR",
+                "expanded_url": "http://www.ap1.co.id",
+                "display_url": "ap1.co.id",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 21247,
+        "friends_count": 409,
+        "listed_count": 50,
+        "created_at": "Mon May 27 08:03:33 +0000 2013",
+        "favourites_count": 520,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6192,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/977046465284419584/P0C7ZmPv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/977046465284419584/P0C7ZmPv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461559754/1550122306",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sat Mar 09 14:08:07 +0000 2019",
+    "id": 1104383364683841537,
+    "id_str": "1104383364683841537",
+    "text": "Weekend Escape : Pura Luhur Lempuyang https://t.co/yMQxsRPMBJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1104382912533692417,
+          "id_str": "1104382912533692417",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1OOaF2VAAE02LF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1OOaF2VAAE02LF.jpg",
+          "url": "https://t.co/yMQxsRPMBJ",
+          "display_url": "pic.twitter.com/yMQxsRPMBJ",
+          "expanded_url": "https://twitter.com/munibillah/status/1104383364683841537/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1152,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1104382912533692417,
+          "id_str": "1104382912533692417",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1OOaF2VAAE02LF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1OOaF2VAAE02LF.jpg",
+          "url": "https://t.co/yMQxsRPMBJ",
+          "display_url": "pic.twitter.com/yMQxsRPMBJ",
+          "expanded_url": "https://twitter.com/munibillah/status/1104383364683841537/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1152,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "tl",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 154742779,
+      "id_str": "154742779",
+      "name": "Munibillah Irfani R.",
+      "screen_name": "munibillah",
+      "location": "Mataram, Indonesia",
+      "description": "",
+      "url": "https://t.co/lQ9asru3PQ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/lQ9asru3PQ",
+              "expanded_url": "http://daerah.co.id",
+              "display_url": "daerah.co.id",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 295,
+      "friends_count": 123,
+      "listed_count": 1,
+      "created_at": "Sat Jun 12 02:40:22 +0000 2010",
+      "favourites_count": 36,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3981,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/990089183099215872/d_tMEoAb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/990089183099215872/d_tMEoAb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/154742779/1446775036",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tl"
+  },
+  {
+    "created_at": "Sat Mar 09 03:50:10 +0000 2019",
+    "id": 1104227854630313984,
+    "id_str": "1104227854630313984",
+    "text": "Take me away to better days \n#throwback #bali \ud83c\uddee\ud83c\udde9 @ Pura Luhur Lempuyang https://t.co/7Xp2J2tDbd",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "throwback",
+          "indices": [
+            29,
+            39
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            40,
+            45
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7Xp2J2tDbd",
+          "expanded_url": "https://www.instagram.com/p/BuxejYjg5to/?utm_source=ig_twitter_share&igshid=ukyakocgxd66",
+          "display_url": "instagram.com/p/BuxejYjg5to/\u2026",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1358194136,
+      "id_str": "1358194136",
+      "name": "Eternal Y H  \u25e2 \u25e4",
+      "screen_name": "yhohyh",
+      "location": "Kuala Lumpur Federal Territory",
+      "description": "I may never be good enough for someone, but I'll be the best for those who deserve me.",
+      "url": "https://t.co/5yVbAUiU0Q",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/5yVbAUiU0Q",
+              "expanded_url": "http://instagram.com/yyyyyyhoh",
+              "display_url": "instagram.com/yyyyyyhoh",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 122,
+      "friends_count": 94,
+      "listed_count": 2,
+      "created_at": "Wed Apr 17 00:33:03 +0000 2013",
+      "favourites_count": 8664,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 11075,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/924005450298793984/d89CokqA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/924005450298793984/d89CokqA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1358194136/1500255272",
+      "profile_link_color": "B8C5C6",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "0E0E0E",
+      "profile_text_color": "4A66C1",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.41617043,
+        115.61908359
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.61908359,
+        -8.41617043
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 08 12:46:10 +0000 2019",
+    "id": 1104000355677990913,
+    "id_str": "1104000355677990913",
+    "text": "Lempuyang Temple, locally referred to as Pura Lempuyang Luhur, is one of Bali\u2019s oldest and most highly regarded tem\u2026 https://t.co/5lBzTM3NdD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/5lBzTM3NdD",
+          "expanded_url": "https://twitter.com/i/web/status/1104000355677990913",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 405376994,
+      "id_str": "405376994",
+      "name": "Jay-Ar Gutierrez",
+      "screen_name": "onlyJayR",
+      "location": "Quezon City",
+      "description": "The one and only! *RN *Manager *Pet lover *Traveller *Gym goer *Social net addict \u231a\ufe0f follow me, ill follow back! \ud83d\ude09",
+      "url": "https://t.co/F4vYm64rPf",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/F4vYm64rPf",
+              "expanded_url": "http://facebook.com/jrsgutierrez29",
+              "display_url": "facebook.com/jrsgutierrez29",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 130,
+      "friends_count": 157,
+      "listed_count": 14,
+      "created_at": "Sat Nov 05 07:06:14 +0000 2011",
+      "favourites_count": 81,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3775,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/953622442508894211/HSKXMasn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/953622442508894211/HSKXMasn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/405376994/1486878812",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.39116208,
+        115.63005859
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.63005859,
+        -8.39116208
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 08 10:20:16 +0000 2019",
+    "id": 1103963638963032065,
+    "id_str": "1103963638963032065",
+    "text": "Baru saja mengirim foto @ Pura Luhur Lempuyang https://t.co/S1qfGVLHHZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/S1qfGVLHHZ",
+          "expanded_url": "https://www.instagram.com/p/BuvmZsihsys/?utm_source=ig_twitter_share&igshid=1xs8dj8p39d2s",
+          "display_url": "instagram.com/p/BuvmZsihsys/\u2026",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 168388173,
+      "id_str": "168388173",
+      "name": "Edhoen Meirahadi",
+      "screen_name": "edhoen",
+      "location": "Subang",
+      "description": "I am Scooterist",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 45,
+      "friends_count": 186,
+      "listed_count": 0,
+      "created_at": "Mon Jul 19 05:41:25 +0000 2010",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 150,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/694205287801053186/7j85T6bt_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/694205287801053186/7j85T6bt_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/168388173/1442539969",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  }
+]

@@ -1,0 +1,2657 @@
+[
+  {
+    "created_at": "Tue Mar 05 08:35:51 +0000 2019",
+    "id": 1102850198630424576,
+    "id_str": "1102850198630424576",
+    "text": "\u201cDraw me like one of your French girls\u2026\u201d\n\ud83d\ude02\ud83d\ude02\ud83d\ude02\n\n#MonkeyForest #Bali #Titanic \ud83d\udc12 https://t.co/jjKqcN5daE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MonkeyForest",
+          "indices": [
+            46,
+            59
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            60,
+            65
+          ]
+        },
+        {
+          "text": "Titanic",
+          "indices": [
+            66,
+            74
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1102850172269223936,
+          "id_str": "1102850172269223936",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/D04cY3aV4AAHqvf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D04cY3aV4AAHqvf.jpg",
+          "url": "https://t.co/jjKqcN5daE",
+          "display_url": "pic.twitter.com/jjKqcN5daE",
+          "expanded_url": "https://twitter.com/defgrav04/status/1102850198630424576/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1102850172269223936,
+          "id_str": "1102850172269223936",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/D04cY3aV4AAHqvf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D04cY3aV4AAHqvf.jpg",
+          "url": "https://t.co/jjKqcN5daE",
+          "display_url": "pic.twitter.com/jjKqcN5daE",
+          "expanded_url": "https://twitter.com/defgrav04/status/1102850198630424576/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 273916492,
+      "id_str": "273916492",
+      "name": "Mina Opada",
+      "screen_name": "defgrav04",
+      "location": "Neverland",
+      "description": "Software Engineer. MBA in transit. Long-term thinker. Risk taker. Avid planner. | writer at @craftedserendip",
+      "url": "https://t.co/NOfMaM6w9s",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/NOfMaM6w9s",
+              "expanded_url": "http://craftedserendipity.com",
+              "display_url": "craftedserendipity.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 655,
+      "friends_count": 552,
+      "listed_count": 15,
+      "created_at": "Tue Mar 29 11:24:48 +0000 2011",
+      "favourites_count": 2850,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 14846,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "A3D221",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1074341473154359296/9WlG2_dT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074341473154359296/9WlG2_dT_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/273916492/1545004059",
+      "profile_link_color": "A3D221",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "2195BD",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 09:51:20 +0000 2019",
+    "id": 1102506805521862656,
+    "id_str": "1102506805521862656",
+    "text": "Bali\u2764 . Unforgettable\n#NusaDuaBeach #YatiluihRiceTerrace #Ubud #Terraceriverpoolswing #Waterfall  #SecretBeach\u2026 https://t.co/fnhIIloMDo",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NusaDuaBeach",
+          "indices": [
+            22,
+            35
+          ]
+        },
+        {
+          "text": "YatiluihRiceTerrace",
+          "indices": [
+            36,
+            56
+          ]
+        },
+        {
+          "text": "Ubud",
+          "indices": [
+            57,
+            62
+          ]
+        },
+        {
+          "text": "Terraceriverpoolswing",
+          "indices": [
+            63,
+            85
+          ]
+        },
+        {
+          "text": "Waterfall",
+          "indices": [
+            86,
+            96
+          ]
+        },
+        {
+          "text": "SecretBeach",
+          "indices": [
+            98,
+            110
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fnhIIloMDo",
+          "expanded_url": "https://twitter.com/i/web/status/1102506805521862656",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 586608285,
+      "id_str": "586608285",
+      "name": "The Big Beth",
+      "screen_name": "bdelacruz18",
+      "location": "Rep Dom",
+      "description": "Disfrutando cada dia de mi vida y amando a los que me aman.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4123,
+      "friends_count": 209,
+      "listed_count": 19,
+      "created_at": "Mon May 21 13:03:05 +0000 2012",
+      "favourites_count": 865,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3282,
+      "lang": "es",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/926588923152879616/Csl_-6oJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/926588923152879616/Csl_-6oJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/586608285/1412003210",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 07:48:18 +0000 2019",
+    "id": 1102475841198542848,
+    "id_str": "1102475841198542848",
+    "text": "#funny #smile #art #monkey #friends #dogsofinstagram #memes #smiles #painting #monkeys #friendship #dog #funnymemes\u2026 https://t.co/d9ov5AUSk3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "funny",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "smile",
+          "indices": [
+            7,
+            13
+          ]
+        },
+        {
+          "text": "art",
+          "indices": [
+            14,
+            18
+          ]
+        },
+        {
+          "text": "monkey",
+          "indices": [
+            19,
+            26
+          ]
+        },
+        {
+          "text": "friends",
+          "indices": [
+            27,
+            35
+          ]
+        },
+        {
+          "text": "dogsofinstagram",
+          "indices": [
+            36,
+            52
+          ]
+        },
+        {
+          "text": "memes",
+          "indices": [
+            53,
+            59
+          ]
+        },
+        {
+          "text": "smiles",
+          "indices": [
+            60,
+            67
+          ]
+        },
+        {
+          "text": "painting",
+          "indices": [
+            68,
+            77
+          ]
+        },
+        {
+          "text": "monkeys",
+          "indices": [
+            78,
+            86
+          ]
+        },
+        {
+          "text": "friendship",
+          "indices": [
+            87,
+            98
+          ]
+        },
+        {
+          "text": "dog",
+          "indices": [
+            99,
+            103
+          ]
+        },
+        {
+          "text": "funnymemes",
+          "indices": [
+            104,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/d9ov5AUSk3",
+          "expanded_url": "https://twitter.com/i/web/status/1102475841198542848",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1022512897426186241,
+      "id_str": "1022512897426186241",
+      "name": "lechenvinagre",
+      "screen_name": "lechenvinagre",
+      "location": "Espa\u00f1a",
+      "description": "Lo que vaya encontrando.\nTambien en telegram: https://t.co/l7IchllZqH",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/l7IchllZqH",
+              "expanded_url": "https://t.me/joinchat/API-gFcXkUnlri0mDFIDlw",
+              "display_url": "t.me/joinchat/API-g\u2026",
+              "indices": [
+                46,
+                69
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 42,
+      "friends_count": 83,
+      "listed_count": 0,
+      "created_at": "Thu Jul 26 16:04:06 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1112,
+      "lang": "es",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1063490358179446784/VmiSOR29_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1063490358179446784/VmiSOR29_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1022512897426186241/1541754865",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Sun Mar 03 08:03:34 +0000 2019",
+    "id": 1102117297139916801,
+    "id_str": "1102117297139916801",
+    "text": "You\u2019d think at 24 I\u2019d have stopped monkeying around... \ud83d\udc12\n.\n.\n.\n#monkeys #bali #monkeyforest #birthday #24\u2026 https://t.co/YIQruRPUNF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "monkeys",
+          "indices": [
+            63,
+            71
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            72,
+            77
+          ]
+        },
+        {
+          "text": "monkeyforest",
+          "indices": [
+            78,
+            91
+          ]
+        },
+        {
+          "text": "birthday",
+          "indices": [
+            92,
+            101
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/YIQruRPUNF",
+          "expanded_url": "https://twitter.com/i/web/status/1102117297139916801",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 263362194,
+      "id_str": "263362194",
+      "name": "Bryony \ud83d\udc78\ud83c\udffc",
+      "screen_name": "beany_face",
+      "location": "Bristol, UK",
+      "description": "I have a vlogging channel of my adventures \ud83c\udf0d \ud83d\udcf7\ud83d\udcbb holiday entertainer\ud83d\udc83\ud83c\udffd\u2600\ufe0f, makeup enthusiast\ud83d\udc84\ud83d\udc78\ud83c\udffc my views are personal and not my employers \ud83d\udc4d\ud83c\udffb",
+      "url": "https://t.co/vEr9eabxEt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vEr9eabxEt",
+              "expanded_url": "https://youtube.com/channel/UCUQ9AqPBf-cZkutF3YekKUw",
+              "display_url": "youtube.com/channel/UCUQ9A\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 203,
+      "friends_count": 315,
+      "listed_count": 11,
+      "created_at": "Wed Mar 09 22:17:42 +0000 2011",
+      "favourites_count": 4744,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13538,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1079499517119135746/lpuOyuJk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079499517119135746/lpuOyuJk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/263362194/1349193676",
+      "profile_link_color": "3A6FC9",
+      "profile_sidebar_border_color": "C768C7",
+      "profile_sidebar_fill_color": "FAE8FA",
+      "profile_text_color": "242324",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 13:53:41 +0000 2019",
+    "id": 1101480631312109568,
+    "id_str": "1101480631312109568",
+    "text": "RT @ran_eyan: oh, another new blog update https://t.co/vtwZFyxw64 &lt;--Please click the link. #UmaeVilla #UbudBali #MonkeyForest #UbudStreet\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UmaeVilla",
+          "indices": [
+            95,
+            105
+          ]
+        },
+        {
+          "text": "UbudBali",
+          "indices": [
+            106,
+            115
+          ]
+        },
+        {
+          "text": "MonkeyForest",
+          "indices": [
+            116,
+            129
+          ]
+        },
+        {
+          "text": "UbudStreet",
+          "indices": [
+            130,
+            141
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ran_eyan",
+          "name": "RAN EYAN",
+          "id": 867363624980848641,
+          "id_str": "867363624980848641",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vtwZFyxw64",
+          "expanded_url": "https://raninasipenulis.blogspot.com/2019/02/rantravel-to-bali-2019-day1-umae-villa.html",
+          "display_url": "raninasipenulis.blogspot.com/2019/02/rantra\u2026",
+          "indices": [
+            42,
+            65
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1016631225476190209,
+      "id_str": "1016631225476190209",
+      "name": "LosingMyMind98",
+      "screen_name": "zoeyz_queer",
+      "location": "",
+      "description": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08\u03c1\u044f\u03b9\u2202\u0454_q\u03c5\u0454\u0454\u044f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 84,
+      "friends_count": 254,
+      "listed_count": 1,
+      "created_at": "Tue Jul 10 10:32:27 +0000 2018",
+      "favourites_count": 1224,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 885,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1016634784590659585/uxWYf3-1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016634784590659585/uxWYf3-1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1016631225476190209/1531219604",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 01 13:45:37 +0000 2019",
+      "id": 1101478602204360709,
+      "id_str": "1101478602204360709",
+      "text": "oh, another new blog update https://t.co/vtwZFyxw64 &lt;--Please click the link. #UmaeVilla #UbudBali #MonkeyForest #UbudStreet #UbudMarket",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "UmaeVilla",
+            "indices": [
+              81,
+              91
+            ]
+          },
+          {
+            "text": "UbudBali",
+            "indices": [
+              92,
+              101
+            ]
+          },
+          {
+            "text": "MonkeyForest",
+            "indices": [
+              102,
+              115
+            ]
+          },
+          {
+            "text": "UbudStreet",
+            "indices": [
+              116,
+              127
+            ]
+          },
+          {
+            "text": "UbudMarket",
+            "indices": [
+              128,
+              139
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vtwZFyxw64",
+            "expanded_url": "https://raninasipenulis.blogspot.com/2019/02/rantravel-to-bali-2019-day1-umae-villa.html",
+            "display_url": "raninasipenulis.blogspot.com/2019/02/rantra\u2026",
+            "indices": [
+              28,
+              51
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 867363624980848641,
+        "id_str": "867363624980848641",
+        "name": "R A N I N A E Y A N",
+        "screen_name": "ran_eyan",
+        "location": "Malaysia",
+        "description": "Rainbow \ud83c\udf08 ig:rann_eyan & Interior Designer for a living / Backpacker & Travel / Journal & Photos. I blog @",
+        "url": "https://t.co/meAA5E887k",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/meAA5E887k",
+                "expanded_url": "https://raninasipenulis.blogspot.my/",
+                "display_url": "raninasipenulis.blogspot.my",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 130,
+        "friends_count": 116,
+        "listed_count": 0,
+        "created_at": "Wed May 24 12:56:17 +0000 2017",
+        "favourites_count": 169,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 856,
+        "lang": "en-gb",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1097322305678540800/IztFgNJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097322305678540800/IztFgNJ__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/867363624980848641/1547235247",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 13:45:37 +0000 2019",
+    "id": 1101478602204360709,
+    "id_str": "1101478602204360709",
+    "text": "oh, another new blog update https://t.co/vtwZFyxw64 &lt;--Please click the link. #UmaeVilla #UbudBali #MonkeyForest #UbudStreet #UbudMarket",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UmaeVilla",
+          "indices": [
+            81,
+            91
+          ]
+        },
+        {
+          "text": "UbudBali",
+          "indices": [
+            92,
+            101
+          ]
+        },
+        {
+          "text": "MonkeyForest",
+          "indices": [
+            102,
+            115
+          ]
+        },
+        {
+          "text": "UbudStreet",
+          "indices": [
+            116,
+            127
+          ]
+        },
+        {
+          "text": "UbudMarket",
+          "indices": [
+            128,
+            139
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/vtwZFyxw64",
+          "expanded_url": "https://raninasipenulis.blogspot.com/2019/02/rantravel-to-bali-2019-day1-umae-villa.html",
+          "display_url": "raninasipenulis.blogspot.com/2019/02/rantra\u2026",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 867363624980848641,
+      "id_str": "867363624980848641",
+      "name": "R A N I N A E Y A N",
+      "screen_name": "ran_eyan",
+      "location": "Malaysia",
+      "description": "Rainbow \ud83c\udf08 ig:rann_eyan & Interior Designer for a living / Backpacker & Travel / Journal & Photos. I blog @",
+      "url": "https://t.co/meAA5E887k",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/meAA5E887k",
+              "expanded_url": "https://raninasipenulis.blogspot.my/",
+              "display_url": "raninasipenulis.blogspot.my",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 130,
+      "friends_count": 116,
+      "listed_count": 0,
+      "created_at": "Wed May 24 12:56:17 +0000 2017",
+      "favourites_count": 169,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 856,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1097322305678540800/IztFgNJ__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097322305678540800/IztFgNJ__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/867363624980848641/1547235247",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 13:15:34 +0000 2019",
+    "id": 1101471038641242112,
+    "id_str": "1101471038641242112",
+    "text": "RT @hetal_chirag: Enchanting temples of Ubud Monkey Forest\n\nCome join us on our adventurous journey around the world at https://t.co/w9X9Ci\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hetal_chirag",
+          "name": "Hetal Chirag",
+          "id": 947806735611215872,
+          "id_str": "947806735611215872",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.traveldglobe.com\" rel=\"nofollow\">TDG Adventures</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 860033821378465792,
+      "id_str": "860033821378465792",
+      "name": "Adventure India",
+      "screen_name": "tdg_bnb",
+      "location": "India",
+      "description": "Our crafted trips and tour plans for you and your friends",
+      "url": "https://t.co/atMOhIVrd8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/atMOhIVrd8",
+              "expanded_url": "http://www.traveldglobe.com/",
+              "display_url": "traveldglobe.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1698,
+      "friends_count": 1046,
+      "listed_count": 94,
+      "created_at": "Thu May 04 07:30:16 +0000 2017",
+      "favourites_count": 72,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 58259,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/897388529885495296/7IxW8QQU_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/897388529885495296/7IxW8QQU_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/860033821378465792/1502789121",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 01 13:13:59 +0000 2019",
+      "id": 1101470640966651904,
+      "id_str": "1101470640966651904",
+      "text": "Enchanting temples of Ubud Monkey Forest\n\nCome join us on our adventurous journey around the world at\u2026 https://t.co/5IOQcSQ1qT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5IOQcSQ1qT",
+            "expanded_url": "https://twitter.com/i/web/status/1101470640966651904",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 947806735611215872,
+        "id_str": "947806735611215872",
+        "name": "Hetal Chirag",
+        "screen_name": "hetal_chirag",
+        "location": "ind",
+        "description": "We are travellers - Here on this planet for a short while - To experience the limitless existence - Through a small window of our five senses",
+        "url": "https://t.co/NKClHKxfo9",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/NKClHKxfo9",
+                "expanded_url": "http://www.hetalchirag.com",
+                "display_url": "hetalchirag.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 79,
+        "friends_count": 0,
+        "listed_count": 3,
+        "created_at": "Mon Jan 01 12:28:29 +0000 2018",
+        "favourites_count": 411,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 481,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/947807942635503616/6jz1UFmV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/947807942635503616/6jz1UFmV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/947806735611215872/1521884402",
+        "profile_link_color": "3E505C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "e5c5bed04c10574f",
+        "url": "https://api.twitter.com/1.1/geo/id/e5c5bed04c10574f.json",
+        "place_type": "city",
+        "name": "Ubud",
+        "full_name": "Ubud, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                115.229961,
+                -8.5790078
+              ],
+              [
+                115.282299,
+                -8.5790078
+              ],
+              [
+                115.282299,
+                -8.455028
+              ],
+              [
+                115.229961,
+                -8.455028
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 13:13:59 +0000 2019",
+    "id": 1101470640966651904,
+    "id_str": "1101470640966651904",
+    "text": "Enchanting temples of Ubud Monkey Forest\n\nCome join us on our adventurous journey around the world at\u2026 https://t.co/5IOQcSQ1qT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/5IOQcSQ1qT",
+          "expanded_url": "https://twitter.com/i/web/status/1101470640966651904",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 947806735611215872,
+      "id_str": "947806735611215872",
+      "name": "Hetal Chirag",
+      "screen_name": "hetal_chirag",
+      "location": "ind",
+      "description": "We are travellers - Here on this planet for a short while - To experience the limitless existence - Through a small window of our five senses",
+      "url": "https://t.co/NKClHKxfo9",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/NKClHKxfo9",
+              "expanded_url": "http://www.hetalchirag.com",
+              "display_url": "hetalchirag.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79,
+      "friends_count": 0,
+      "listed_count": 3,
+      "created_at": "Mon Jan 01 12:28:29 +0000 2018",
+      "favourites_count": 411,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 481,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/947807942635503616/6jz1UFmV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/947807942635503616/6jz1UFmV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/947806735611215872/1521884402",
+      "profile_link_color": "3E505C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "e5c5bed04c10574f",
+      "url": "https://api.twitter.com/1.1/geo/id/e5c5bed04c10574f.json",
+      "place_type": "city",
+      "name": "Ubud",
+      "full_name": "Ubud, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.229961,
+              -8.5790078
+            ],
+            [
+              115.282299,
+              -8.5790078
+            ],
+            [
+              115.282299,
+              -8.455028
+            ],
+            [
+              115.229961,
+              -8.455028
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 22:52:35 +0000 2019",
+    "id": 1101253860570492929,
+    "id_str": "1101253860570492929",
+    "text": "RT @girl_nomads: Take me back to the time where I was chilling with monkeys in Bali! #Monkeyforest #Ubud #Bali #BlackGIrlNomads #ThrowbackT\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Monkeyforest",
+          "indices": [
+            85,
+            98
+          ]
+        },
+        {
+          "text": "Ubud",
+          "indices": [
+            99,
+            104
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            105,
+            110
+          ]
+        },
+        {
+          "text": "BlackGIrlNomads",
+          "indices": [
+            111,
+            127
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "girl_nomads",
+          "name": "BlackGirlNomads",
+          "id": 1097878257670737927,
+          "id_str": "1097878257670737927",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1046969280510586880,
+      "id_str": "1046969280510586880",
+      "name": "Madelene Vestlund\ud83c\udf0d",
+      "screen_name": "inbetweensc",
+      "location": "San Diego, CA",
+      "description": "Just another travel enthusiast living in California \ud83c\uddf8\ud83c\uddea\ud83c\udf34\u2600\ufe0f #travel #yoga #travelblogger #adventure #Sweden #SanDiego",
+      "url": "https://t.co/BcnKOZbaRj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/BcnKOZbaRj",
+              "expanded_url": "https://www.inbetweensc.com/",
+              "display_url": "inbetweensc.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1902,
+      "friends_count": 5000,
+      "listed_count": 7,
+      "created_at": "Tue Oct 02 03:45:02 +0000 2018",
+      "favourites_count": 315,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 428,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057704942868226048/Xs114pDd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057704942868226048/Xs114pDd_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1046969280510586880/1538452186",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 19:23:02 +0000 2019",
+      "id": 1101201124609134597,
+      "id_str": "1101201124609134597",
+      "text": "Take me back to the time where I was chilling with monkeys in Bali! #Monkeyforest #Ubud #Bali #BlackGIrlNomads\u2026 https://t.co/e8WjmT2zUd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Monkeyforest",
+            "indices": [
+              68,
+              81
+            ]
+          },
+          {
+            "text": "Ubud",
+            "indices": [
+              82,
+              87
+            ]
+          },
+          {
+            "text": "Bali",
+            "indices": [
+              88,
+              93
+            ]
+          },
+          {
+            "text": "BlackGIrlNomads",
+            "indices": [
+              94,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/e8WjmT2zUd",
+            "expanded_url": "https://twitter.com/i/web/status/1101201124609134597",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1097878257670737927,
+        "id_str": "1097878257670737927",
+        "name": "BlackGirlNomads",
+        "screen_name": "girl_nomads",
+        "location": "London, England",
+        "description": "Tour curator and travel blog for black women \ud83d\udc81\ud83c\udffe\u200d\u2640\ufe0f for a feature or submission tag @girl_nomads & use #blackgirlnomads.",
+        "url": "https://t.co/RwOMYruPh6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/RwOMYruPh6",
+                "expanded_url": "https://blackgirlnomads.com/",
+                "display_url": "blackgirlnomads.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 162,
+        "friends_count": 831,
+        "listed_count": 0,
+        "created_at": "Tue Feb 19 15:19:08 +0000 2019",
+        "favourites_count": 28,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1097878378395377665/fttEHWhN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097878378395377665/fttEHWhN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097878257670737927/1550590087",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 22:21:03 +0000 2019",
+    "id": 1101245927610875910,
+    "id_str": "1101245927610875910",
+    "text": "RT @girl_nomads: Take me back to the time where I was chilling with monkeys in Bali! #Monkeyforest #Ubud #Bali #BlackGIrlNomads #ThrowbackT\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Monkeyforest",
+          "indices": [
+            85,
+            98
+          ]
+        },
+        {
+          "text": "Ubud",
+          "indices": [
+            99,
+            104
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            105,
+            110
+          ]
+        },
+        {
+          "text": "BlackGIrlNomads",
+          "indices": [
+            111,
+            127
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "girl_nomads",
+          "name": "BlackGirlNomads",
+          "id": 1097878257670737927,
+          "id_str": "1097878257670737927",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1087884022058020864,
+      "id_str": "1087884022058020864",
+      "name": "Paola Garcia",
+      "screen_name": "DRgotsoul",
+      "location": "Puerto Plata, Dominican Republic",
+      "description": "Sharing the people, places, things and culture of my hometown, Puerto Plata, Dominican Republic.  Photographer, adventurer and blogger.",
+      "url": "https://t.co/mEYuTlLk1F",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/mEYuTlLk1F",
+              "expanded_url": "http://www.dominicansoul.com/",
+              "display_url": "dominicansoul.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 598,
+      "friends_count": 577,
+      "listed_count": 5,
+      "created_at": "Wed Jan 23 01:25:37 +0000 2019",
+      "favourites_count": 370,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 313,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1087885508749910016/jsNCV1o__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087885508749910016/jsNCV1o__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087884022058020864/1548209771",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 19:23:02 +0000 2019",
+      "id": 1101201124609134597,
+      "id_str": "1101201124609134597",
+      "text": "Take me back to the time where I was chilling with monkeys in Bali! #Monkeyforest #Ubud #Bali #BlackGIrlNomads\u2026 https://t.co/e8WjmT2zUd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Monkeyforest",
+            "indices": [
+              68,
+              81
+            ]
+          },
+          {
+            "text": "Ubud",
+            "indices": [
+              82,
+              87
+            ]
+          },
+          {
+            "text": "Bali",
+            "indices": [
+              88,
+              93
+            ]
+          },
+          {
+            "text": "BlackGIrlNomads",
+            "indices": [
+              94,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/e8WjmT2zUd",
+            "expanded_url": "https://twitter.com/i/web/status/1101201124609134597",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1097878257670737927,
+        "id_str": "1097878257670737927",
+        "name": "BlackGirlNomads",
+        "screen_name": "girl_nomads",
+        "location": "London, England",
+        "description": "Tour curator and travel blog for black women \ud83d\udc81\ud83c\udffe\u200d\u2640\ufe0f for a feature or submission tag @girl_nomads & use #blackgirlnomads.",
+        "url": "https://t.co/RwOMYruPh6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/RwOMYruPh6",
+                "expanded_url": "https://blackgirlnomads.com/",
+                "display_url": "blackgirlnomads.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 162,
+        "friends_count": 831,
+        "listed_count": 0,
+        "created_at": "Tue Feb 19 15:19:08 +0000 2019",
+        "favourites_count": 28,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1097878378395377665/fttEHWhN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097878378395377665/fttEHWhN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097878257670737927/1550590087",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 21:53:47 +0000 2019",
+    "id": 1101239065175879680,
+    "id_str": "1101239065175879680",
+    "text": "RT @girl_nomads: Take me back to the time where I was chilling with monkeys in Bali! #Monkeyforest #Ubud #Bali #BlackGIrlNomads #ThrowbackT\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Monkeyforest",
+          "indices": [
+            85,
+            98
+          ]
+        },
+        {
+          "text": "Ubud",
+          "indices": [
+            99,
+            104
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            105,
+            110
+          ]
+        },
+        {
+          "text": "BlackGIrlNomads",
+          "indices": [
+            111,
+            127
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "girl_nomads",
+          "name": "BlackGirlNomads",
+          "id": 1097878257670737927,
+          "id_str": "1097878257670737927",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 809551838865461248,
+      "id_str": "809551838865461248",
+      "name": "Yasmin Abena Boaitey",
+      "screen_name": "Yazmin_Bey",
+      "location": "London & Ghana",
+      "description": "Black Feminist, MA in Postcolonial Culture and Global Policy Graduate\ud83d\udc69\ud83c\udffe\u200d\ud83c\udf93 Communications Officer, world traveller  \ud83c\udf0d & creator of @girl_nomads",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27,
+      "friends_count": 187,
+      "listed_count": 1,
+      "created_at": "Fri Dec 16 00:12:53 +0000 2016",
+      "favourites_count": 54,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 16,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/809554158504345600/CQxs8CHc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/809554158504345600/CQxs8CHc_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 19:23:02 +0000 2019",
+      "id": 1101201124609134597,
+      "id_str": "1101201124609134597",
+      "text": "Take me back to the time where I was chilling with monkeys in Bali! #Monkeyforest #Ubud #Bali #BlackGIrlNomads\u2026 https://t.co/e8WjmT2zUd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Monkeyforest",
+            "indices": [
+              68,
+              81
+            ]
+          },
+          {
+            "text": "Ubud",
+            "indices": [
+              82,
+              87
+            ]
+          },
+          {
+            "text": "Bali",
+            "indices": [
+              88,
+              93
+            ]
+          },
+          {
+            "text": "BlackGIrlNomads",
+            "indices": [
+              94,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/e8WjmT2zUd",
+            "expanded_url": "https://twitter.com/i/web/status/1101201124609134597",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1097878257670737927,
+        "id_str": "1097878257670737927",
+        "name": "BlackGirlNomads",
+        "screen_name": "girl_nomads",
+        "location": "London, England",
+        "description": "Tour curator and travel blog for black women \ud83d\udc81\ud83c\udffe\u200d\u2640\ufe0f for a feature or submission tag @girl_nomads & use #blackgirlnomads.",
+        "url": "https://t.co/RwOMYruPh6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/RwOMYruPh6",
+                "expanded_url": "https://blackgirlnomads.com/",
+                "display_url": "blackgirlnomads.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 162,
+        "friends_count": 831,
+        "listed_count": 0,
+        "created_at": "Tue Feb 19 15:19:08 +0000 2019",
+        "favourites_count": 28,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1097878378395377665/fttEHWhN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097878378395377665/fttEHWhN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097878257670737927/1550590087",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 21:31:41 +0000 2019",
+    "id": 1101233504002736129,
+    "id_str": "1101233504002736129",
+    "text": "RT @girl_nomads: Take me back to the time where I was chilling with monkeys in Bali! #Monkeyforest #Ubud #Bali #BlackGIrlNomads #ThrowbackT\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Monkeyforest",
+          "indices": [
+            85,
+            98
+          ]
+        },
+        {
+          "text": "Ubud",
+          "indices": [
+            99,
+            104
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            105,
+            110
+          ]
+        },
+        {
+          "text": "BlackGIrlNomads",
+          "indices": [
+            111,
+            127
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "girl_nomads",
+          "name": "BlackGirlNomads",
+          "id": 1097878257670737927,
+          "id_str": "1097878257670737927",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 120242964,
+      "id_str": "120242964",
+      "name": "Afrowoman Online",
+      "screen_name": "Afrowoman1",
+      "location": "UK",
+      "description": "Elevating & Empowering Professional Black Women Online. Watch Taking Care of Her Business Series- Youtube: https://t.co/qkIMAN97ht  CEO Tweets: @EstherAfrowoman",
+      "url": "https://t.co/dil9hcDlma",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/dil9hcDlma",
+              "expanded_url": "https://www.afrowomanonline.com/",
+              "display_url": "afrowomanonline.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/qkIMAN97ht",
+              "expanded_url": "http://bit.ly/2ykehhg",
+              "display_url": "bit.ly/2ykehhg",
+              "indices": [
+                107,
+                130
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 3831,
+      "friends_count": 4198,
+      "listed_count": 95,
+      "created_at": "Fri Mar 05 22:24:22 +0000 2010",
+      "favourites_count": 7559,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 15333,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FF6699",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/563808008497405952/18tu3jPk_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/563808008497405952/18tu3jPk_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/120242964/1456189403",
+      "profile_link_color": "B40B43",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 19:23:02 +0000 2019",
+      "id": 1101201124609134597,
+      "id_str": "1101201124609134597",
+      "text": "Take me back to the time where I was chilling with monkeys in Bali! #Monkeyforest #Ubud #Bali #BlackGIrlNomads\u2026 https://t.co/e8WjmT2zUd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Monkeyforest",
+            "indices": [
+              68,
+              81
+            ]
+          },
+          {
+            "text": "Ubud",
+            "indices": [
+              82,
+              87
+            ]
+          },
+          {
+            "text": "Bali",
+            "indices": [
+              88,
+              93
+            ]
+          },
+          {
+            "text": "BlackGIrlNomads",
+            "indices": [
+              94,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/e8WjmT2zUd",
+            "expanded_url": "https://twitter.com/i/web/status/1101201124609134597",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1097878257670737927,
+        "id_str": "1097878257670737927",
+        "name": "BlackGirlNomads",
+        "screen_name": "girl_nomads",
+        "location": "London, England",
+        "description": "Tour curator and travel blog for black women \ud83d\udc81\ud83c\udffe\u200d\u2640\ufe0f for a feature or submission tag @girl_nomads & use #blackgirlnomads.",
+        "url": "https://t.co/RwOMYruPh6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/RwOMYruPh6",
+                "expanded_url": "https://blackgirlnomads.com/",
+                "display_url": "blackgirlnomads.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 162,
+        "friends_count": 831,
+        "listed_count": 0,
+        "created_at": "Tue Feb 19 15:19:08 +0000 2019",
+        "favourites_count": 28,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1097878378395377665/fttEHWhN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097878378395377665/fttEHWhN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097878257670737927/1550590087",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 19:23:02 +0000 2019",
+    "id": 1101201124609134597,
+    "id_str": "1101201124609134597",
+    "text": "Take me back to the time where I was chilling with monkeys in Bali! #Monkeyforest #Ubud #Bali #BlackGIrlNomads\u2026 https://t.co/e8WjmT2zUd",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Monkeyforest",
+          "indices": [
+            68,
+            81
+          ]
+        },
+        {
+          "text": "Ubud",
+          "indices": [
+            82,
+            87
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            88,
+            93
+          ]
+        },
+        {
+          "text": "BlackGIrlNomads",
+          "indices": [
+            94,
+            110
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/e8WjmT2zUd",
+          "expanded_url": "https://twitter.com/i/web/status/1101201124609134597",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1097878257670737927,
+      "id_str": "1097878257670737927",
+      "name": "BlackGirlNomads",
+      "screen_name": "girl_nomads",
+      "location": "London, England",
+      "description": "Tour curator and travel blog for black women \ud83d\udc81\ud83c\udffe\u200d\u2640\ufe0f for a feature or submission tag @girl_nomads & use #blackgirlnomads.",
+      "url": "https://t.co/RwOMYruPh6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/RwOMYruPh6",
+              "expanded_url": "https://blackgirlnomads.com/",
+              "display_url": "blackgirlnomads.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 162,
+      "friends_count": 831,
+      "listed_count": 0,
+      "created_at": "Tue Feb 19 15:19:08 +0000 2019",
+      "favourites_count": 28,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 18,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1097878378395377665/fttEHWhN_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097878378395377665/fttEHWhN_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097878257670737927/1550590087",
+      "profile_link_color": "F58EA8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

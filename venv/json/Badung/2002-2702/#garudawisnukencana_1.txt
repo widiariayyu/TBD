@@ -1,0 +1,1483 @@
+ {
+    "created_at": "Tue Feb 26 11:57:39 +0000 2019",
+    "id": 1100364265377038338,
+    "id_str": "1100364265377038338",
+    "text": "#garudaindonesia #garudasana #garudawisnukencana tiket pesawat murah jogja bali KLIK https://t.co/xaAlCMxF2U",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "garudaindonesia",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "garudasana",
+          "indices": [
+            17,
+            28
+          ]
+        },
+        {
+          "text": "garudawisnukencana",
+          "indices": [
+            29,
+            48
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xaAlCMxF2U",
+          "expanded_url": "http://bit.ly/promopesawat",
+          "display_url": "bit.ly/promopesawat",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3242736720,
+      "id_str": "3242736720",
+      "name": "Tiket Pesawat Promo",
+      "screen_name": "TiketPesawatPro",
+      "location": "Bali, Indonesia",
+      "description": "Tiket pesawat murah promo, garuda, citilink, lion air, air asia, agoda, 2015, ke bali, malang, jakarta, surabaya, jogja, pontianak, bandung, ambon, diskon",
+      "url": "http://t.co/N2BxEI1wEu",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/N2BxEI1wEu",
+              "expanded_url": "http://bit.ly/promopesawat",
+              "display_url": "bit.ly/promopesawat",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2112,
+      "friends_count": 965,
+      "listed_count": 40,
+      "created_at": "Fri Jun 12 01:15:08 +0000 2015",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 63051,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/610774373511749632/W9bOsG4E_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/610774373511749632/W9bOsG4E_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3242736720/1434413332",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Tue Feb 26 07:33:20 +0000 2019",
+    "id": 1100297749243850753,
+    "id_str": "1100297749243850753",
+    "text": "States @crisontide @sevillanopino #garudawisnukencana",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "garudawisnukencana",
+          "indices": [
+            34,
+            53
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CrisonTide",
+          "name": "crimson tide",
+          "id": 991767936670097411,
+          "id_str": "991767936670097411",
+          "indices": [
+            7,
+            18
+          ]
+        },
+        {
+          "screen_name": "SevillanoPino",
+          "name": "Gladys Sevillano Pino",
+          "id": 987090508102193153,
+          "id_str": "987090508102193153",
+          "indices": [
+            19,
+            33
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1092941923181101056,
+      "id_str": "1092941923181101056",
+      "name": "Agatha",
+      "screen_name": "okinimol",
+      "location": "",
+      "description": "\ud83d\ude04",
+      "url": "https://t.co/sARMKdu2iU",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/sARMKdu2iU",
+              "expanded_url": "https://bit.ly/2SDX7Z7",
+              "display_url": "bit.ly/2SDX7Z7",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3,
+      "friends_count": 16,
+      "listed_count": 0,
+      "created_at": "Wed Feb 06 00:23:55 +0000 2019",
+      "favourites_count": 46,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 75,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1098613773609390080/tpp5t96z_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098613773609390080/tpp5t96z_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1092941923181101056/1550764922",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Feb 25 02:57:09 +0000 2019",
+    "id": 1099865858820567040,
+    "id_str": "1099865858820567040",
+    "text": "#garudawisnukencana Jika tidak bisa menjadi orang yang pandai, minimal jadilah orang yang baik InfoWisatacoid",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "garudawisnukencana",
+          "indices": [
+            0,
+            19
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3242731446,
+      "id_str": "3242731446",
+      "name": "Hotel Murah di Bali",
+      "screen_name": "HotelBaliPro",
+      "location": "Bali, Indonesia",
+      "description": "Hotel Murah di Bali dekat pantai, kuta, dengan private pool, agoda, dekat bandara, seminyak, tripadvisor, bintang 5, 4 , 3, legian, untuk honeymoon, backpacker.",
+      "url": "http://t.co/n7euWs0yXA",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/n7euWs0yXA",
+              "expanded_url": "http://bit.ly/hotelbalidiskon",
+              "display_url": "bit.ly/hotelbalidiskon",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1797,
+      "friends_count": 909,
+      "listed_count": 37,
+      "created_at": "Fri Jun 12 01:04:16 +0000 2015",
+      "favourites_count": 2,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 83824,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/610789595374981120/n1e0Ihkz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/610789595374981120/n1e0Ihkz_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3242731446/1434981559",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 23:58:15 +0000 2019",
+    "id": 1099820835680923648,
+    "id_str": "1099820835680923648",
+    "text": "#garudaindonesia #garudasana #garudawisnukencana hotel di jogja untuk bulan madu KLIK https://t.co/zrZq2CGei6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "garudaindonesia",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "garudasana",
+          "indices": [
+            17,
+            28
+          ]
+        },
+        {
+          "text": "garudawisnukencana",
+          "indices": [
+            29,
+            48
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/zrZq2CGei6",
+          "expanded_url": "http://bit.ly/hotelmurahjogja",
+          "display_url": "bit.ly/hotelmurahjogja",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3243431635,
+      "id_str": "3243431635",
+      "name": "Hotel Murah di Jogja",
+      "screen_name": "HotelJogjaPro",
+      "location": "Yogyakarta, Indonesia",
+      "description": "Hotel Murah di Yogyakarta dekat malioboro, ugm, ambarukmo plaza, stasiun tugu, lempuyangan, bandara, Jogja, agoda, tripadvisor, bintang 3, 4, 5, untuk honeymoon",
+      "url": "http://t.co/vzTBWOm0IF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/vzTBWOm0IF",
+              "expanded_url": "http://bit.ly/hotelmurahjogja",
+              "display_url": "bit.ly/hotelmurahjogja",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1808,
+      "friends_count": 920,
+      "listed_count": 34,
+      "created_at": "Fri Jun 12 15:20:29 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 60313,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/610790879888982018/rSzd8Qwe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/610790879888982018/rSzd8Qwe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3243431635/1434458970",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 08:15:43 +0000 2019",
+    "id": 1099583638017097729,
+    "id_str": "1099583638017097729",
+    "text": "#gwk #garudawisnukencana #uluwatu #bali #indonesia #southeastasia #baliculture #travel @ Garuda Wisnu Kencana (GWK)\u2026 https://t.co/jXnp3VGfEh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "gwk",
+          "indices": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "garudawisnukencana",
+          "indices": [
+            5,
+            24
+          ]
+        },
+        {
+          "text": "uluwatu",
+          "indices": [
+            25,
+            33
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            34,
+            39
+          ]
+        },
+        {
+          "text": "indonesia",
+          "indices": [
+            40,
+            50
+          ]
+        },
+        {
+          "text": "southeastasia",
+          "indices": [
+            51,
+            65
+          ]
+        },
+        {
+          "text": "baliculture",
+          "indices": [
+            66,
+            78
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            79,
+            86
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jXnp3VGfEh",
+          "expanded_url": "https://twitter.com/i/web/status/1099583638017097729",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 29161896,
+      "id_str": "29161896",
+      "name": "Rich",
+      "screen_name": "richliveshere",
+      "location": "Darwin, Northern Territory",
+      "description": "A not so average homo looking for his place in the world. Views are personal, never professional.",
+      "url": "https://t.co/de4OFR9xqN",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/de4OFR9xqN",
+              "expanded_url": "http://www.instagram.com/richardbarratt",
+              "display_url": "instagram.com/richardbarratt",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 139,
+      "friends_count": 242,
+      "listed_count": 1,
+      "created_at": "Mon Apr 06 07:30:42 +0000 2009",
+      "favourites_count": 127,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3950,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1013287817303154688/6iiw9HT0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013287817303154688/6iiw9HT0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/29161896/1530421658",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.8087701,
+        115.16517479
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16517479,
+        -8.8087701
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 05:27:37 +0000 2019",
+    "id": 1099541335059484674,
+    "id_str": "1099541335059484674",
+    "text": "#garudaindonesia #garudasana #garudawisnukencana tiket pesawat murah dari jakarta ke semarang KLIK https://t.co/xaAlCMxF2U",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "garudaindonesia",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "garudasana",
+          "indices": [
+            17,
+            28
+          ]
+        },
+        {
+          "text": "garudawisnukencana",
+          "indices": [
+            29,
+            48
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xaAlCMxF2U",
+          "expanded_url": "http://bit.ly/promopesawat",
+          "display_url": "bit.ly/promopesawat",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3242736720,
+      "id_str": "3242736720",
+      "name": "Tiket Pesawat Promo",
+      "screen_name": "TiketPesawatPro",
+      "location": "Bali, Indonesia",
+      "description": "Tiket pesawat murah promo, garuda, citilink, lion air, air asia, agoda, 2015, ke bali, malang, jakarta, surabaya, jogja, pontianak, bandung, ambon, diskon",
+      "url": "http://t.co/N2BxEI1wEu",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/N2BxEI1wEu",
+              "expanded_url": "http://bit.ly/promopesawat",
+              "display_url": "bit.ly/promopesawat",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2112,
+      "friends_count": 965,
+      "listed_count": 40,
+      "created_at": "Fri Jun 12 01:15:08 +0000 2015",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 63051,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/610774373511749632/W9bOsG4E_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/610774373511749632/W9bOsG4E_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3242736720/1434413332",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sat Feb 23 00:07:18 +0000 2019",
+    "id": 1099098335586254849,
+    "id_str": "1099098335586254849",
+    "text": "Let the beat control your body\ud83d\udc83 #dwpx #dwp2018 #ismayalive #edmfestival #garudawisnukencana #gwkbali #bali @ Garuda\u2026 https://t.co/NkA7zWVVu0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "dwpx",
+          "indices": [
+            32,
+            37
+          ]
+        },
+        {
+          "text": "dwp2018",
+          "indices": [
+            38,
+            46
+          ]
+        },
+        {
+          "text": "ismayalive",
+          "indices": [
+            47,
+            58
+          ]
+        },
+        {
+          "text": "edmfestival",
+          "indices": [
+            59,
+            71
+          ]
+        },
+        {
+          "text": "garudawisnukencana",
+          "indices": [
+            72,
+            91
+          ]
+        },
+        {
+          "text": "gwkbali",
+          "indices": [
+            92,
+            100
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            101,
+            106
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/NkA7zWVVu0",
+          "expanded_url": "https://twitter.com/i/web/status/1099098335586254849",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 149343952,
+      "id_str": "149343952",
+      "name": "Gusman Manuel",
+      "screen_name": "gusmaanuel",
+      "location": "Old Trafford, Manchester - UK",
+      "description": "EDM Junkie! A Frontiers of @FrontRowFlagID",
+      "url": "https://t.co/qt6hmJUU1K",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/qt6hmJUU1K",
+              "expanded_url": "http://thedjlist.com/members/gusmanmanuel/",
+              "display_url": "thedjlist.com/members/gusman\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1724,
+      "friends_count": 1780,
+      "listed_count": 13,
+      "created_at": "Sat May 29 01:57:49 +0000 2010",
+      "favourites_count": 18,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 45404,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/596299627336376320/PsdlRCNU_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/596299627336376320/PsdlRCNU_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/149343952/1379409499",
+      "profile_link_color": "1C2782",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "FAFAFA",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.8087701,
+        115.16517479
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16517479,
+        -8.8087701
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 22 02:27:36 +0000 2019",
+    "id": 1098771255010816000,
+    "id_str": "1098771255010816000",
+    "text": "#garudaindonesia #garudasana #garudawisnukencana harga tiket pesawat murah tujuan bali KLIK https://t.co/xaAlCMxF2U",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "garudaindonesia",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "garudasana",
+          "indices": [
+            17,
+            28
+          ]
+        },
+        {
+          "text": "garudawisnukencana",
+          "indices": [
+            29,
+            48
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xaAlCMxF2U",
+          "expanded_url": "http://bit.ly/promopesawat",
+          "display_url": "bit.ly/promopesawat",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3242736720,
+      "id_str": "3242736720",
+      "name": "Tiket Pesawat Promo",
+      "screen_name": "TiketPesawatPro",
+      "location": "Bali, Indonesia",
+      "description": "Tiket pesawat murah promo, garuda, citilink, lion air, air asia, agoda, 2015, ke bali, malang, jakarta, surabaya, jogja, pontianak, bandung, ambon, diskon",
+      "url": "http://t.co/N2BxEI1wEu",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/N2BxEI1wEu",
+              "expanded_url": "http://bit.ly/promopesawat",
+              "display_url": "bit.ly/promopesawat",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2112,
+      "friends_count": 965,
+      "listed_count": 40,
+      "created_at": "Fri Jun 12 01:15:08 +0000 2015",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 63051,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/610774373511749632/W9bOsG4E_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/610774373511749632/W9bOsG4E_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3242736720/1434413332",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Thu Feb 21 17:28:18 +0000 2019",
+    "id": 1098635538842566656,
+    "id_str": "1098635538842566656",
+    "text": "#garudaindonesia #garudasana #garudawisnukencana hotel termurah di jogja dekat malioboro KLIK https://t.co/zrZq2CGei6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "garudaindonesia",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "garudasana",
+          "indices": [
+            17,
+            28
+          ]
+        },
+        {
+          "text": "garudawisnukencana",
+          "indices": [
+            29,
+            48
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/zrZq2CGei6",
+          "expanded_url": "http://bit.ly/hotelmurahjogja",
+          "display_url": "bit.ly/hotelmurahjogja",
+          "indices": [
+            94,
+            117
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3243431635,
+      "id_str": "3243431635",
+      "name": "Hotel Murah di Jogja",
+      "screen_name": "HotelJogjaPro",
+      "location": "Yogyakarta, Indonesia",
+      "description": "Hotel Murah di Yogyakarta dekat malioboro, ugm, ambarukmo plaza, stasiun tugu, lempuyangan, bandara, Jogja, agoda, tripadvisor, bintang 3, 4, 5, untuk honeymoon",
+      "url": "http://t.co/vzTBWOm0IF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/vzTBWOm0IF",
+              "expanded_url": "http://bit.ly/hotelmurahjogja",
+              "display_url": "bit.ly/hotelmurahjogja",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1808,
+      "friends_count": 920,
+      "listed_count": 34,
+      "created_at": "Fri Jun 12 15:20:29 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 60313,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/610790879888982018/rSzd8Qwe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/610790879888982018/rSzd8Qwe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3243431635/1434458970",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Thu Feb 21 10:55:28 +0000 2019",
+    "id": 1098536679692849153,
+    "id_str": "1098536679692849153",
+    "text": "#Panorama #sunset #Dance show shooting at #GarudaWisnuKencana #GWK in #Bali https://t.co/fsLS68IFka",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Panorama",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "sunset",
+          "indices": [
+            10,
+            17
+          ]
+        },
+        {
+          "text": "Dance",
+          "indices": [
+            18,
+            24
+          ]
+        },
+        {
+          "text": "GarudaWisnuKencana",
+          "indices": [
+            42,
+            61
+          ]
+        },
+        {
+          "text": "GWK",
+          "indices": [
+            62,
+            66
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            70,
+            75
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1098536672138915842,
+          "id_str": "1098536672138915842",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dz7JSHOUcAIElL_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dz7JSHOUcAIElL_.jpg",
+          "url": "https://t.co/fsLS68IFka",
+          "display_url": "pic.twitter.com/fsLS68IFka",
+          "expanded_url": "https://twitter.com/taihiong/status/1098536679692849153/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 286,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 504,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 860,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1098536672138915842,
+          "id_str": "1098536672138915842",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dz7JSHOUcAIElL_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dz7JSHOUcAIElL_.jpg",
+          "url": "https://t.co/fsLS68IFka",
+          "display_url": "pic.twitter.com/fsLS68IFka",
+          "expanded_url": "https://twitter.com/taihiong/status/1098536679692849153/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 286,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 504,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 860,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 126900250,
+      "id_str": "126900250",
+      "name": "Tan Tai Hiong",
+      "screen_name": "taihiong",
+      "location": "",
+      "description": "International trade in services & investment. Author of I-Ching book. Metaphysics. Parapsychology. Photography. Table Tennis. Classical Music Orchestration.",
+      "url": "https://t.co/p9ZVgj9Bsr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/p9ZVgj9Bsr",
+              "expanded_url": "http://www.facebook.com/taihiong/",
+              "display_url": "facebook.com/taihiong/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 141,
+      "friends_count": 80,
+      "listed_count": 2,
+      "created_at": "Sat Mar 27 10:34:11 +0000 2010",
+      "favourites_count": 4,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 943,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/477957122047479808/fNSZq8JL_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/477957122047479808/fNSZq8JL_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/126900250/1353312059",
+      "profile_link_color": "7FDBB6",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }

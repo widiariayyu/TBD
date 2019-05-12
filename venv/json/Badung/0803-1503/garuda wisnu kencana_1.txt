@@ -1,0 +1,5640 @@
+[
+  {
+    "created_at": "Thu Mar 14 22:30:04 +0000 2019",
+    "id": 1106321626671521793,
+    "id_str": "1106321626671521793",
+    "text": "Balinese culture is beautifully manifested through a creative arrangement of lights on the Garuda Wisnu Kencana sta\u2026 https://t.co/yg06xAsMdm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yg06xAsMdm",
+          "expanded_url": "https://twitter.com/i/web/status/1106321626671521793",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2927728003,
+      "id_str": "2927728003",
+      "name": "HARMAN Pro Solutions",
+      "screen_name": "HARMAN_Pro",
+      "location": "",
+      "description": "The only total audio, video, lighting & control vendor in #ProAV transforming diverse and complex technologies, into simplified, efficient & profitable systems",
+      "url": "https://t.co/ZHOsFJ2Ky8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ZHOsFJ2Ky8",
+              "expanded_url": "http://pro.harman.com/",
+              "display_url": "pro.harman.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1904,
+      "friends_count": 446,
+      "listed_count": 56,
+      "created_at": "Fri Dec 12 16:27:29 +0000 2014",
+      "favourites_count": 4483,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2916,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/626911308999331840/A1uYnWNg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/626911308999331840/A1uYnWNg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2927728003/1421795963",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 14 19:02:46 +0000 2019",
+    "id": 1106269454671990784,
+    "id_str": "1106269454671990784",
+    "text": "RT @Martin_Global: Balinese culture is beautifully manifested through lights on the Garuda Wisnu Kencana statue. Watch how Martin Exterior\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Martin_Global",
+          "name": "Martin Professional",
+          "id": 523323269,
+          "id_str": "523323269",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 208793518,
+      "id_str": "208793518",
+      "name": "Ian Jordan",
+      "screen_name": "ian_jordanUK",
+      "location": "UK",
+      "description": "Sound Technology-ASM ProAudio (Harman Pro UK Distributor) AKG/BSS/Crown/dbx/JBL/Soundcraft/Martin Pro Lights. (Ex. PioneerPro EU / DenonPro EU / UDG ArtistPR.)",
+      "url": "https://t.co/KrpC1tGy1d",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/KrpC1tGy1d",
+              "expanded_url": "http://www.soundtech.co.uk",
+              "display_url": "soundtech.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 207,
+      "friends_count": 1271,
+      "listed_count": 4,
+      "created_at": "Wed Oct 27 23:33:29 +0000 2010",
+      "favourites_count": 432,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 408,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/664171073143984128/CeMIEmvx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/664171073143984128/CeMIEmvx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/208793518/1441288754",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Mar 14 17:05:02 +0000 2019",
+      "id": 1106239826725126148,
+      "id_str": "1106239826725126148",
+      "text": "Balinese culture is beautifully manifested through lights on the Garuda Wisnu Kencana statue. Watch how Martin Exte\u2026 https://t.co/bKsGiMoEzu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bKsGiMoEzu",
+            "expanded_url": "https://twitter.com/i/web/status/1106239826725126148",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 523323269,
+        "id_str": "523323269",
+        "name": "Martin Professional",
+        "screen_name": "Martin_Global",
+        "location": "HARMAN Professional HQ",
+        "description": "The Official Twitter of #martinprofessional",
+        "url": "http://t.co/nX13TFB6pr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/nX13TFB6pr",
+                "expanded_url": "http://www.martin.com",
+                "display_url": "martin.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 10982,
+        "friends_count": 815,
+        "listed_count": 106,
+        "created_at": "Tue Mar 13 14:37:23 +0000 2012",
+        "favourites_count": 3503,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4324,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627000413754101760/7iVEmiAW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/627000413754101760/7iVEmiAW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/523323269/1493130283",
+        "profile_link_color": "222222",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 14 17:19:18 +0000 2019",
+    "id": 1106243416109649920,
+    "id_str": "1106243416109649920",
+    "text": "RT @Martin_Global: Balinese culture is beautifully manifested through lights on the Garuda Wisnu Kencana statue. Watch how Martin Exterior\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Martin_Global",
+          "name": "Martin Professional",
+          "id": 523323269,
+          "id_str": "523323269",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 934235150900019200,
+      "id_str": "934235150900019200",
+      "name": "\ufe0f \ufe0f \ufe0f\ufe0f \ufe0f \ufe0fNoe",
+      "screen_name": "_noeam_",
+      "location": "M\u00e9xico",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 445,
+      "friends_count": 1996,
+      "listed_count": 3,
+      "created_at": "Sat Nov 25 01:39:52 +0000 2017",
+      "favourites_count": 10998,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9356,
+      "lang": "es",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/934270113292828673/zOCZChCZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/934270113292828673/zOCZChCZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/934235150900019200/1511582326",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Mar 14 17:05:02 +0000 2019",
+      "id": 1106239826725126148,
+      "id_str": "1106239826725126148",
+      "text": "Balinese culture is beautifully manifested through lights on the Garuda Wisnu Kencana statue. Watch how Martin Exte\u2026 https://t.co/bKsGiMoEzu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bKsGiMoEzu",
+            "expanded_url": "https://twitter.com/i/web/status/1106239826725126148",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 523323269,
+        "id_str": "523323269",
+        "name": "Martin Professional",
+        "screen_name": "Martin_Global",
+        "location": "HARMAN Professional HQ",
+        "description": "The Official Twitter of #martinprofessional",
+        "url": "http://t.co/nX13TFB6pr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/nX13TFB6pr",
+                "expanded_url": "http://www.martin.com",
+                "display_url": "martin.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 10982,
+        "friends_count": 815,
+        "listed_count": 106,
+        "created_at": "Tue Mar 13 14:37:23 +0000 2012",
+        "favourites_count": 3503,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4324,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627000413754101760/7iVEmiAW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/627000413754101760/7iVEmiAW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/523323269/1493130283",
+        "profile_link_color": "222222",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 14 17:05:02 +0000 2019",
+    "id": 1106239826725126148,
+    "id_str": "1106239826725126148",
+    "text": "Balinese culture is beautifully manifested through lights on the Garuda Wisnu Kencana statue. Watch how Martin Exte\u2026 https://t.co/bKsGiMoEzu",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/bKsGiMoEzu",
+          "expanded_url": "https://twitter.com/i/web/status/1106239826725126148",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 523323269,
+      "id_str": "523323269",
+      "name": "Martin Professional",
+      "screen_name": "Martin_Global",
+      "location": "HARMAN Professional HQ",
+      "description": "The Official Twitter of #martinprofessional",
+      "url": "http://t.co/nX13TFB6pr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/nX13TFB6pr",
+              "expanded_url": "http://www.martin.com",
+              "display_url": "martin.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 10982,
+      "friends_count": 815,
+      "listed_count": 106,
+      "created_at": "Tue Mar 13 14:37:23 +0000 2012",
+      "favourites_count": 3503,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4324,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/627000413754101760/7iVEmiAW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/627000413754101760/7iVEmiAW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/523323269/1493130283",
+      "profile_link_color": "222222",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 14 11:38:16 +0000 2019",
+    "id": 1106157595859939328,
+    "id_str": "1106157595859939328",
+    "text": "Kalau dapat tiket dari mengejar #KursiGratisAirAsia aku mau ke patung Garuda Wisnu Kencana di bali karena patung it\u2026 https://t.co/6DlxXWK0An",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "KursiGratisAirAsia",
+          "indices": [
+            32,
+            51
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/6DlxXWK0An",
+          "expanded_url": "https://twitter.com/i/web/status/1106157595859939328",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 473030515,
+      "id_str": "473030515",
+      "name": "FB:mahfudin cuaakeep IG:@udinbagus14",
+      "screen_name": "udinbagus14",
+      "location": "jepara jateng",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1190,
+      "friends_count": 3450,
+      "listed_count": 6,
+      "created_at": "Tue Jan 24 15:28:58 +0000 2012",
+      "favourites_count": 51370,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 76073,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1042490311648337920/1B3BDvFN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042490311648337920/1B3BDvFN_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/473030515/1496364531",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Thu Mar 14 06:50:02 +0000 2019",
+    "id": 1106085057523965954,
+    "id_str": "1106085057523965954",
+    "text": "RT @putu300: The Statue of Garuda Wisnu Kencana, miniature version. The real one has height of 120 meter.\n\n#balitrip #bali #balitravel  #in\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "balitrip",
+          "indices": [
+            107,
+            116
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            117,
+            122
+          ]
+        },
+        {
+          "text": "balitravel",
+          "indices": [
+            123,
+            134
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "putu300",
+          "name": "Putu Agus Yuniadha",
+          "id": 467874115,
+          "id_str": "467874115",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2157156180,
+      "id_str": "2157156180",
+      "name": "Magent Tours & Travel",
+      "screen_name": "magent_tours",
+      "location": "Bogor Barat, Indonesia",
+      "description": "Your Travel Solution",
+      "url": "https://t.co/JVschtCrKT",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/JVschtCrKT",
+              "expanded_url": "http://instagram.com/magent_tours",
+              "display_url": "instagram.com/magent_tours",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6,
+      "friends_count": 53,
+      "listed_count": 0,
+      "created_at": "Sat Oct 26 16:26:39 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 57,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988286402864414721/6tQ-0X6H_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988286402864414721/6tQ-0X6H_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2157156180/1538979079",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Mar 14 05:38:44 +0000 2019",
+      "id": 1106067114782265344,
+      "id_str": "1106067114782265344",
+      "text": "The Statue of Garuda Wisnu Kencana, miniature version. The real one has height of 120 meter.\n\n#balitrip #bali\u2026 https://t.co/sYLKzQ1o5A",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "balitrip",
+            "indices": [
+              94,
+              103
+            ]
+          },
+          {
+            "text": "bali",
+            "indices": [
+              104,
+              109
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sYLKzQ1o5A",
+            "expanded_url": "https://twitter.com/i/web/status/1106067114782265344",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 467874115,
+        "id_str": "467874115",
+        "name": "Putu Agus Yuniadha",
+        "screen_name": "putu300",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 56,
+        "friends_count": 132,
+        "listed_count": 0,
+        "created_at": "Wed Jan 18 23:03:34 +0000 2012",
+        "favourites_count": 3,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 37,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 14 05:38:44 +0000 2019",
+    "id": 1106067114782265344,
+    "id_str": "1106067114782265344",
+    "text": "The Statue of Garuda Wisnu Kencana, miniature version. The real one has height of 120 meter.\n\n#balitrip #bali\u2026 https://t.co/sYLKzQ1o5A",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "balitrip",
+          "indices": [
+            94,
+            103
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            104,
+            109
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sYLKzQ1o5A",
+          "expanded_url": "https://twitter.com/i/web/status/1106067114782265344",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 467874115,
+      "id_str": "467874115",
+      "name": "Putu Agus Yuniadha",
+      "screen_name": "putu300",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 56,
+      "friends_count": 132,
+      "listed_count": 0,
+      "created_at": "Wed Jan 18 23:03:34 +0000 2012",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 37,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 13 23:35:13 +0000 2019",
+    "id": 1105975632406634496,
+    "id_str": "1105975632406634496",
+    "text": "Icon bali GWK ,garuda wisnu kencana bali ,bolabalitour, #Bali #Indonesia #malaysia #singapore #Brunei #Jakarta\u2026 https://t.co/m6NbG3qLOB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Bali",
+          "indices": [
+            56,
+            61
+          ]
+        },
+        {
+          "text": "Indonesia",
+          "indices": [
+            62,
+            72
+          ]
+        },
+        {
+          "text": "malaysia",
+          "indices": [
+            73,
+            82
+          ]
+        },
+        {
+          "text": "singapore",
+          "indices": [
+            83,
+            93
+          ]
+        },
+        {
+          "text": "Brunei",
+          "indices": [
+            94,
+            101
+          ]
+        },
+        {
+          "text": "Jakarta",
+          "indices": [
+            102,
+            110
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/m6NbG3qLOB",
+          "expanded_url": "https://twitter.com/i/web/status/1105975632406634496",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1089841232468008960,
+      "id_str": "1089841232468008960",
+      "name": "Bali_driver",
+      "screen_name": "Balidriver12",
+      "location": "Bali, Indonesia",
+      "description": "I'm reliable and experienced driver for 20 years, understands all tourist and shopping places in the Bali region ... for details please contact +6285220353414",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 421,
+      "friends_count": 1403,
+      "listed_count": 0,
+      "created_at": "Mon Jan 28 11:02:52 +0000 2019",
+      "favourites_count": 61,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 88,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1089842859019141120/8RHOvjUB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089842859019141120/8RHOvjUB_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089841232468008960/1548673759",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Mar 13 14:21:32 +0000 2019",
+    "id": 1105836291533361152,
+    "id_str": "1105836291533361152",
+    "text": "RT @GNFI: Mengenal Pematung Di Balik Kemegahan Monumen Garuda Wisnu Kencana. https://t.co/TXz4HBI87H",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "GNFI",
+          "name": "Good News From Indonesia",
+          "id": 39677695,
+          "id_str": "39677695",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TXz4HBI87H",
+          "expanded_url": "https://www.goodnewsfromindonesia.id/2018/06/01/mengenal-pematung-dibalik-kemegahan-monumen-garuda-wisnu-kencana",
+          "display_url": "goodnewsfromindonesia.id/2018/06/01/men\u2026",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 731708822981509120,
+      "id_str": "731708822981509120",
+      "name": "JOJO",
+      "screen_name": "shintagitta_",
+      "location": "Solo, Indonesia",
+      "description": "Aku sabar, aku sadar \u2728 || - untuk aku.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 70,
+      "friends_count": 183,
+      "listed_count": 0,
+      "created_at": "Sun May 15 04:52:32 +0000 2016",
+      "favourites_count": 4117,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1894,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1103128820343701505/L86HbB_o_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103128820343701505/L86HbB_o_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/731708822981509120/1552252687",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Mar 13 05:10:00 +0000 2019",
+      "id": 1105697494640418817,
+      "id_str": "1105697494640418817",
+      "text": "Mengenal Pematung Di Balik Kemegahan Monumen Garuda Wisnu Kencana. https://t.co/TXz4HBI87H",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TXz4HBI87H",
+            "expanded_url": "https://www.goodnewsfromindonesia.id/2018/06/01/mengenal-pematung-dibalik-kemegahan-monumen-garuda-wisnu-kencana",
+            "display_url": "goodnewsfromindonesia.id/2018/06/01/men\u2026",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 39677695,
+        "id_str": "39677695",
+        "name": "Good News From Indonesia",
+        "screen_name": "GNFI",
+        "location": "Indonesia",
+        "description": "Menuju 100 Tahun Indonesia. Email : GNFI[at]goodnews[dot]id |  Instagram : GNFI |  LINE : @GNFI |  Facebook Page : Good News From Indonesia",
+        "url": "https://t.co/LpUQl5XGvi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/LpUQl5XGvi",
+                "expanded_url": "https://www.goodnewsfromindonesia.id",
+                "display_url": "goodnewsfromindonesia.id",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1639185,
+        "friends_count": 592,
+        "listed_count": 1581,
+        "created_at": "Wed May 13 03:28:42 +0000 2009",
+        "favourites_count": 2721,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 72496,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "BE2021",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666179558073176064/JIe_Vb0X_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666179558073176064/JIe_Vb0X_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39677695/1447664505",
+        "profile_link_color": "BE2021",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Mar 13 09:32:16 +0000 2019",
+    "id": 1105763497126719491,
+    "id_str": "1105763497126719491",
+    "text": "Away from the hustle and bustle of a big city, in just 10 minutes ride from the resort, you can find the majestic G\u2026 https://t.co/JxEPStX20L",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/JxEPStX20L",
+          "expanded_url": "https://twitter.com/i/web/status/1105763497126719491",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 737135813671018496,
+      "id_str": "737135813671018496",
+      "name": "Renaissance Bali",
+      "screen_name": "RenHotelBali",
+      "location": "Bali, Indonesia",
+      "description": "Discover Renaissance Bali Uluwatu Resort & Spa, the first lifestyle resort and beach club set on the hills of Uluwatu, Bali, Indonesia.",
+      "url": "https://t.co/Pc0KNnhxTw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Pc0KNnhxTw",
+              "expanded_url": "https://bit.ly/2Iw4hXd",
+              "display_url": "bit.ly/2Iw4hXd",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7417,
+      "friends_count": 7953,
+      "listed_count": 76,
+      "created_at": "Mon May 30 04:17:28 +0000 2016",
+      "favourites_count": 748,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 886,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/737167685708980224/vSwjj5Gu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/737167685708980224/vSwjj5Gu_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/737135813671018496/1500619031",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 13 07:40:37 +0000 2019",
+    "id": 1105735401300324352,
+    "id_str": "1105735401300324352",
+    "text": "RT @GNFI: Mengenal Pematung Di Balik Kemegahan Monumen Garuda Wisnu Kencana. https://t.co/TXz4HBI87H",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "GNFI",
+          "name": "Good News From Indonesia",
+          "id": 39677695,
+          "id_str": "39677695",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TXz4HBI87H",
+          "expanded_url": "https://www.goodnewsfromindonesia.id/2018/06/01/mengenal-pematung-dibalik-kemegahan-monumen-garuda-wisnu-kencana",
+          "display_url": "goodnewsfromindonesia.id/2018/06/01/men\u2026",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 332074584,
+      "id_str": "332074584",
+      "name": "Irene Cicilia",
+      "screen_name": "sonderene",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 126,
+      "friends_count": 106,
+      "listed_count": 0,
+      "created_at": "Sat Jul 09 05:19:31 +0000 2011",
+      "favourites_count": 2,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1590,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1097717640884215808/ZusJfC9B_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097717640884215808/ZusJfC9B_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/332074584/1550551256",
+      "profile_link_color": "003A66",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Mar 13 05:10:00 +0000 2019",
+      "id": 1105697494640418817,
+      "id_str": "1105697494640418817",
+      "text": "Mengenal Pematung Di Balik Kemegahan Monumen Garuda Wisnu Kencana. https://t.co/TXz4HBI87H",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TXz4HBI87H",
+            "expanded_url": "https://www.goodnewsfromindonesia.id/2018/06/01/mengenal-pematung-dibalik-kemegahan-monumen-garuda-wisnu-kencana",
+            "display_url": "goodnewsfromindonesia.id/2018/06/01/men\u2026",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 39677695,
+        "id_str": "39677695",
+        "name": "Good News From Indonesia",
+        "screen_name": "GNFI",
+        "location": "Indonesia",
+        "description": "Menuju 100 Tahun Indonesia. Email : GNFI[at]goodnews[dot]id |  Instagram : GNFI |  LINE : @GNFI |  Facebook Page : Good News From Indonesia",
+        "url": "https://t.co/LpUQl5XGvi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/LpUQl5XGvi",
+                "expanded_url": "https://www.goodnewsfromindonesia.id",
+                "display_url": "goodnewsfromindonesia.id",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1639185,
+        "friends_count": 592,
+        "listed_count": 1581,
+        "created_at": "Wed May 13 03:28:42 +0000 2009",
+        "favourites_count": 2721,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 72496,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "BE2021",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666179558073176064/JIe_Vb0X_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666179558073176064/JIe_Vb0X_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39677695/1447664505",
+        "profile_link_color": "BE2021",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Mar 13 05:28:22 +0000 2019",
+    "id": 1105702118978187265,
+    "id_str": "1105702118978187265",
+    "text": "RT @TheTransBali: 862 feet tall. Infinite magic.  \nBali pride, Garuda Wisnu Kencana statue. \n\nRead more: https://t.co/My6oJuHqpe \n\n#TheTran\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "TheTransBali",
+          "name": "Trans Resort Bali",
+          "id": 2953298738,
+          "id_str": "2953298738",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/My6oJuHqpe",
+          "expanded_url": "https://bali.transresortbali.com/details/garuda-wisnu-kencana-cultural-park-15059",
+          "display_url": "bali.transresortbali.com/details/garuda\u2026",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.adaptivebox.net\" rel=\"nofollow\">Trails01</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 795463762132299777,
+      "id_str": "795463762132299777",
+      "name": "AccTrails",
+      "screen_name": "AccTrails",
+      "location": "",
+      "description": "All about better trails.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1089,
+      "friends_count": 242,
+      "listed_count": 521,
+      "created_at": "Mon Nov 07 03:11:54 +0000 2016",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 37876,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/795465615427280898/7tNas-2P_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/795465615427280898/7tNas-2P_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Mar 13 04:22:42 +0000 2019",
+      "id": 1105685593017602048,
+      "id_str": "1105685593017602048",
+      "text": "862 feet tall. Infinite magic.  \nBali pride, Garuda Wisnu Kencana statue. \n\nRead more: https://t.co/My6oJuHqpe\u2026 https://t.co/akS8etC9bS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/My6oJuHqpe",
+            "expanded_url": "https://bali.transresortbali.com/details/garuda-wisnu-kencana-cultural-park-15059",
+            "display_url": "bali.transresortbali.com/details/garuda\u2026",
+            "indices": [
+              87,
+              110
+            ]
+          },
+          {
+            "url": "https://t.co/akS8etC9bS",
+            "expanded_url": "https://twitter.com/i/web/status/1105685593017602048",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2953298738,
+        "id_str": "2953298738",
+        "name": "Trans Resort Bali",
+        "screen_name": "TheTransBali",
+        "location": "Kerobokan - Seminyak, Bali",
+        "description": "Official Account of The Trans Resort Bali Follow @TheTransBali and use #TheTransJourney to your social media posts to get in touch with us.",
+        "url": "http://t.co/UFMmsBfxJA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/UFMmsBfxJA",
+                "expanded_url": "http://www.transresortbali.com",
+                "display_url": "transresortbali.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 911,
+        "friends_count": 121,
+        "listed_count": 4,
+        "created_at": "Wed Dec 31 08:09:07 +0000 2014",
+        "favourites_count": 146,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1204,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/550202802249547776/WHBJ_kpN_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/550202802249547776/WHBJ_kpN_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2953298738/1432540404",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 13 05:10:00 +0000 2019",
+    "id": 1105697494640418817,
+    "id_str": "1105697494640418817",
+    "text": "Mengenal Pematung Di Balik Kemegahan Monumen Garuda Wisnu Kencana. https://t.co/TXz4HBI87H",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/TXz4HBI87H",
+          "expanded_url": "https://www.goodnewsfromindonesia.id/2018/06/01/mengenal-pematung-dibalik-kemegahan-monumen-garuda-wisnu-kencana",
+          "display_url": "goodnewsfromindonesia.id/2018/06/01/men\u2026",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 39677695,
+      "id_str": "39677695",
+      "name": "Good News From Indonesia",
+      "screen_name": "GNFI",
+      "location": "Indonesia",
+      "description": "Menuju 100 Tahun Indonesia. Email : GNFI[at]goodnews[dot]id |  Instagram : GNFI |  LINE : @GNFI |  Facebook Page : Good News From Indonesia",
+      "url": "https://t.co/LpUQl5XGvi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/LpUQl5XGvi",
+              "expanded_url": "https://www.goodnewsfromindonesia.id",
+              "display_url": "goodnewsfromindonesia.id",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1639185,
+      "friends_count": 592,
+      "listed_count": 1581,
+      "created_at": "Wed May 13 03:28:42 +0000 2009",
+      "favourites_count": 2721,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 72496,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "BE2021",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/666179558073176064/JIe_Vb0X_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/666179558073176064/JIe_Vb0X_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39677695/1447664505",
+      "profile_link_color": "BE2021",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Mar 13 04:22:42 +0000 2019",
+    "id": 1105685593017602048,
+    "id_str": "1105685593017602048",
+    "text": "862 feet tall. Infinite magic.  \nBali pride, Garuda Wisnu Kencana statue. \n\nRead more: https://t.co/My6oJuHqpe\u2026 https://t.co/akS8etC9bS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/My6oJuHqpe",
+          "expanded_url": "https://bali.transresortbali.com/details/garuda-wisnu-kencana-cultural-park-15059",
+          "display_url": "bali.transresortbali.com/details/garuda\u2026",
+          "indices": [
+            87,
+            110
+          ]
+        },
+        {
+          "url": "https://t.co/akS8etC9bS",
+          "expanded_url": "https://twitter.com/i/web/status/1105685593017602048",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2953298738,
+      "id_str": "2953298738",
+      "name": "Trans Resort Bali",
+      "screen_name": "TheTransBali",
+      "location": "Kerobokan - Seminyak, Bali",
+      "description": "Official Account of The Trans Resort Bali Follow @TheTransBali and use #TheTransJourney to your social media posts to get in touch with us.",
+      "url": "http://t.co/UFMmsBfxJA",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UFMmsBfxJA",
+              "expanded_url": "http://www.transresortbali.com",
+              "display_url": "transresortbali.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 911,
+      "friends_count": 121,
+      "listed_count": 4,
+      "created_at": "Wed Dec 31 08:09:07 +0000 2014",
+      "favourites_count": 146,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1204,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/550202802249547776/WHBJ_kpN_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/550202802249547776/WHBJ_kpN_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2953298738/1432540404",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 13 04:13:53 +0000 2019",
+    "id": 1105683372947365888,
+    "id_str": "1105683372947365888",
+    "text": "I'm at Garuda Wisnu Kencana (GWK) Cultural Park in Badung, Bali https://t.co/E8ZJoI4OIY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/E8ZJoI4OIY",
+          "expanded_url": "https://www.swarmapp.com/air5rj/checkin/5c888375e1f228002c32c841?s=CjNPJ5xXYmIm1doaRW3EDTUDqGE&ref=tw",
+          "display_url": "swarmapp.com/air5rj/checkin\u2026",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 824999354310156289,
+      "id_str": "824999354310156289",
+      "name": "Goma",
+      "screen_name": "air5rj",
+      "location": "Denpasar, Bali",
+      "description": "\u30d2\u30b3\u30fc\u30ad\u3068Radio\u3068Dragons\u304c\u597d\u304d\u3002Tweet\u306f\u5099\u5fd8\u9332\u306e\u3088\u3046\u306a\u3082\u306e\u3067\u3059\u3002\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u3002",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 202,
+      "friends_count": 128,
+      "listed_count": 0,
+      "created_at": "Fri Jan 27 15:15:48 +0000 2017",
+      "favourites_count": 523,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1225,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1002930773115072512/HPwrKWW8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002930773115072512/HPwrKWW8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/824999354310156289/1552627895",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Tue Mar 12 08:53:30 +0000 2019",
+    "id": 1105391352026558464,
+    "id_str": "1105391352026558464",
+    "text": "#PWBanget EMANG BEDA\n.\n.\n.\nEBners tau ga sih kalo Patung Garuda Wisnu Kencana yang terletak di Bali nanti tingginya\u2026 https://t.co/rfInPjMT6R",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "PWBanget",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/rfInPjMT6R",
+          "expanded_url": "https://twitter.com/i/web/status/1105391352026558464",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 332736015,
+      "id_str": "332736015",
+      "name": "EB 102.7FM JAMBI",
+      "screen_name": "ebfmjambi",
+      "location": "Jambi, Indonesia",
+      "description": "Official Twitter account of Elria Buana FM Jambi\u00bb Download free app streaming EBFM: \u2022Android via https://t.co/58j4EqJLrC\nInstagram : @ebfmjambi\nWA : 0811-789-1027",
+      "url": "https://t.co/RAtOps120G",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/RAtOps120G",
+              "expanded_url": "http://www.ebfmjambi.com",
+              "display_url": "ebfmjambi.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/58j4EqJLrC",
+              "expanded_url": "http://bit.ly/EBfmAndroid",
+              "display_url": "bit.ly/EBfmAndroid",
+              "indices": [
+                97,
+                120
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 11211,
+      "friends_count": 426,
+      "listed_count": 38,
+      "created_at": "Sun Jul 10 09:57:56 +0000 2011",
+      "favourites_count": 160,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 86759,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/815611346922262529/M5CzQLKO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/815611346922262529/M5CzQLKO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/332736015/1421899981",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "93aa30b3e9be6b59",
+      "url": "https://api.twitter.com/1.1/geo/id/93aa30b3e9be6b59.json",
+      "place_type": "city",
+      "name": "Cengkareng",
+      "full_name": "Cengkareng, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.704469,
+              -6.189221
+            ],
+            [
+              106.783525,
+              -6.189221
+            ],
+            [
+              106.783525,
+              -6.112283
+            ],
+            [
+              106.704469,
+              -6.112283
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Tue Mar 12 08:33:03 +0000 2019",
+    "id": 1105386208937500672,
+    "id_str": "1105386208937500672",
+    "text": "Aku dan keluarga besarku di kota Malang, eh itu di Garuda Wisnu Kencana - Bali https://t.co/BNCfnDeaZ4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1105385996617637888,
+          "id_str": "1105385996617637888",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1cetRQV4AAccTd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1cetRQV4AAccTd.jpg",
+          "url": "https://t.co/BNCfnDeaZ4",
+          "display_url": "pic.twitter.com/BNCfnDeaZ4",
+          "expanded_url": "https://twitter.com/HariMochammad/status/1105386208937500672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1280,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 408,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1105385996617637888,
+          "id_str": "1105385996617637888",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1cetRQV4AAccTd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1cetRQV4AAccTd.jpg",
+          "url": "https://t.co/BNCfnDeaZ4",
+          "display_url": "pic.twitter.com/BNCfnDeaZ4",
+          "expanded_url": "https://twitter.com/HariMochammad/status/1105386208937500672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1280,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 408,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1105385996613410822,
+          "id_str": "1105385996613410822",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1cetRPVYAYcty8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1cetRPVYAYcty8.jpg",
+          "url": "https://t.co/BNCfnDeaZ4",
+          "display_url": "pic.twitter.com/BNCfnDeaZ4",
+          "expanded_url": "https://twitter.com/HariMochammad/status/1105386208937500672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 768,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 408,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1105385996617568256,
+          "id_str": "1105385996617568256",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1cetRQU0AA35hB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1cetRQU0AA35hB.jpg",
+          "url": "https://t.co/BNCfnDeaZ4",
+          "display_url": "pic.twitter.com/BNCfnDeaZ4",
+          "expanded_url": "https://twitter.com/HariMochammad/status/1105386208937500672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 768,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 408,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1105385996630159360,
+          "id_str": "1105385996630159360",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1cetRTU8AAIetV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1cetRTU8AAIetV.jpg",
+          "url": "https://t.co/BNCfnDeaZ4",
+          "display_url": "pic.twitter.com/BNCfnDeaZ4",
+          "expanded_url": "https://twitter.com/HariMochammad/status/1105386208937500672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1103845487541510144,
+      "id_str": "1103845487541510144",
+      "name": "MOCHAMMAD DANIEL HARI SUHARTO",
+      "screen_name": "HariMochammad",
+      "location": "",
+      "description": "stay at home at work at play, please stay",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27,
+      "friends_count": 172,
+      "listed_count": 0,
+      "created_at": "Fri Mar 08 02:30:47 +0000 2019",
+      "favourites_count": 338,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 244,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1103847335845494784/rLMFDz6t_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103847335845494784/rLMFDz6t_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1103845487541510144/1552036957",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 11 13:38:58 +0000 2019",
+    "id": 1105100805089054720,
+    "id_str": "1105100805089054720",
+    "text": "@EnjoyKuis @AirAsia_indo Garuda Wisnu kencana Bali #MengejarKursiGratis",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MengejarKursiGratis",
+          "indices": [
+            51,
+            71
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "EnjoyKuis",
+          "name": "Enjoy Kuis!",
+          "id": 888109848,
+          "id_str": "888109848",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "AirAsia_indo",
+          "name": "AirAsia (Bahasa Indonesia)",
+          "id": 113292385,
+          "id_str": "113292385",
+          "indices": [
+            11,
+            24
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1105077189781807105,
+    "in_reply_to_status_id_str": "1105077189781807105",
+    "in_reply_to_user_id": 888109848,
+    "in_reply_to_user_id_str": "888109848",
+    "in_reply_to_screen_name": "EnjoyKuis",
+    "user": {
+      "id": 935501100,
+      "id_str": "935501100",
+      "name": "Syaifulloh \ud83c\udff8",
+      "screen_name": "itsRahSya",
+      "location": "Indonesia",
+      "description": "Wish less work more\ud83d\udcaafollback?just mention",
+      "url": "https://t.co/mU0QOAO07O",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/mU0QOAO07O",
+              "expanded_url": "https://Www.twitter.com",
+              "display_url": "twitter.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 299,
+      "friends_count": 1047,
+      "listed_count": 0,
+      "created_at": "Thu Nov 08 21:46:59 +0000 2012",
+      "favourites_count": 3755,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 17675,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1103967357733486593/6_q_VoWY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103967357733486593/6_q_VoWY_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/935501100/1546647352",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 11 13:00:47 +0000 2019",
+    "id": 1105091197192699904,
+    "id_str": "1105091197192699904",
+    "text": "@EnjoyKuis @AirAsia_indo Garuda Wisnu Kencana Bali #MengejarKursiGratis",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MengejarKursiGratis",
+          "indices": [
+            51,
+            71
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "EnjoyKuis",
+          "name": "Enjoy Kuis!",
+          "id": 888109848,
+          "id_str": "888109848",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "AirAsia_indo",
+          "name": "AirAsia (Bahasa Indonesia)",
+          "id": 113292385,
+          "id_str": "113292385",
+          "indices": [
+            11,
+            24
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1105077189781807105,
+    "in_reply_to_status_id_str": "1105077189781807105",
+    "in_reply_to_user_id": 888109848,
+    "in_reply_to_user_id_str": "888109848",
+    "in_reply_to_screen_name": "EnjoyKuis",
+    "user": {
+      "id": 1895049757,
+      "id_str": "1895049757",
+      "name": "Fajar Nur FY",
+      "screen_name": "Fajarnur94",
+      "location": "Yogyakarta",
+      "description": "Semoga punya smartphone @sonyxperia XA2 Plus",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2082,
+      "friends_count": 2708,
+      "listed_count": 7,
+      "created_at": "Sun Sep 22 20:37:07 +0000 2013",
+      "favourites_count": 4921,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 62996,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/907169269267304450/ZDD82W9G_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/907169269267304450/ZDD82W9G_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1895049757/1503285812",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 11 12:53:49 +0000 2019",
+    "id": 1105089441687728135,
+    "id_str": "1105089441687728135",
+    "text": "Taman Budaya Garuda Wisnu Kencana,  Bali.  #MengejarKursiGratis",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MengejarKursiGratis",
+          "indices": [
+            43,
+            63
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1034587365816168448,
+      "id_str": "1034587365816168448",
+      "name": "Mbak_Meniikkk1",
+      "screen_name": "Mbak_Meniikkk1",
+      "location": "Jawa",
+      "description": "Pecinta Bunga",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 243,
+      "friends_count": 1746,
+      "listed_count": 1,
+      "created_at": "Tue Aug 28 23:43:44 +0000 2018",
+      "favourites_count": 4180,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8816,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1102063731414978560/_53YQdk6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102063731414978560/_53YQdk6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1034587365816168448/1535500396",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 11 11:12:38 +0000 2019",
+    "id": 1105063981159309315,
+    "id_str": "1105063981159309315",
+    "text": "Foto di Garuda Wisnu Kencana Bali #MengejarKursiGratis",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MengejarKursiGratis",
+          "indices": [
+            34,
+            54
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1895049757,
+      "id_str": "1895049757",
+      "name": "Fajar Nur FY",
+      "screen_name": "Fajarnur94",
+      "location": "Yogyakarta",
+      "description": "Semoga punya smartphone @sonyxperia XA2 Plus",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2082,
+      "friends_count": 2708,
+      "listed_count": 7,
+      "created_at": "Sun Sep 22 20:37:07 +0000 2013",
+      "favourites_count": 4921,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 62996,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/907169269267304450/ZDD82W9G_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/907169269267304450/ZDD82W9G_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1895049757/1503285812",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 11 09:46:10 +0000 2019",
+    "id": 1105042218782355457,
+    "id_str": "1105042218782355457",
+    "text": "@askmenfess garuda wisnu kencana",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "askmenfess",
+          "name": "Askmf",
+          "id": 810423824034299904,
+          "id_str": "810423824034299904",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1105039539968471040,
+    "in_reply_to_status_id_str": "1105039539968471040",
+    "in_reply_to_user_id": 810423824034299904,
+    "in_reply_to_user_id_str": "810423824034299904",
+    "in_reply_to_screen_name": "askmenfess",
+    "user": {
+      "id": 1044227080718757890,
+      "id_str": "1044227080718757890",
+      "name": "Ditto",
+      "screen_name": "Dittolicious_",
+      "location": "Medan Sunggal, Indonesia",
+      "description": "telor mata sapi yang biasa di dadar",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 62,
+      "friends_count": 88,
+      "listed_count": 0,
+      "created_at": "Mon Sep 24 14:08:31 +0000 2018",
+      "favourites_count": 53,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 448,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1105419915303911431/_XVLkCIS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105419915303911431/_XVLkCIS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1044227080718757890/1537798279",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 11 09:20:36 +0000 2019",
+    "id": 1105035784468475904,
+    "id_str": "1105035784468475904",
+    "text": "Garuda Wisnu Kencana statue is the symbol of God Vishnu riding the great Garuda as his trusted companion.\u2026 https://t.co/iRCsvL83uW",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/iRCsvL83uW",
+          "expanded_url": "https://twitter.com/i/web/status/1105035784468475904",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1105028606986764289,
+      "id_str": "1105028606986764289",
+      "name": ".",
+      "screen_name": "hexgaruda",
+      "location": "",
+      "description": "| unity in diversity |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 3,
+      "listed_count": 0,
+      "created_at": "Mon Mar 11 08:52:05 +0000 2019",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1105028980447633409/5A9jGMYI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105028980447633409/5A9jGMYI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1105028606986764289/1552294720",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 11 09:12:07 +0000 2019",
+    "id": 1105033652101091329,
+    "id_str": "1105033652101091329",
+    "text": "RT @AdiShankaraa: Garuda Wisnu Kencana in Bali, a statue of God Vishnu riding Garuda is complete after decades of work. This 121 m tall sta\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "AdiShankaraa",
+          "name": "Advaita",
+          "id": 878943662050127872,
+          "id_str": "878943662050127872",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 239356554,
+      "id_str": "239356554",
+      "name": "RK Dagar",
+      "screen_name": "rkdagar",
+      "location": "Gurgaon, India",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1444,
+      "friends_count": 770,
+      "listed_count": 26,
+      "created_at": "Mon Jan 17 12:38:39 +0000 2011",
+      "favourites_count": 16247,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 30108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/994038193694609408/TPjnssVm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/994038193694609408/TPjnssVm_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Aug 04 05:45:55 +0000 2018",
+      "id": 1025618816057794560,
+      "id_str": "1025618816057794560",
+      "text": "Garuda Wisnu Kencana in Bali, a statue of God Vishnu riding Garuda is complete after decades of work. This 121 m ta\u2026 https://t.co/j6zRQ3Ats6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/j6zRQ3Ats6",
+            "expanded_url": "https://twitter.com/i/web/status/1025618816057794560",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 878943662050127872,
+        "id_str": "878943662050127872",
+        "name": "Advaita",
+        "screen_name": "AdiShankaraa",
+        "location": "Bharata",
+        "description": "A young Hindu\ud83d\udcaa\ud83d\ude0e\ud83d\udea9 | Patriot\ud83c\uddee\ud83c\uddf3 | Tweets on Sanatana Dharma and Indian civilization.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7896,
+        "friends_count": 51,
+        "listed_count": 22,
+        "created_at": "Sun Jun 25 11:51:13 +0000 2017",
+        "favourites_count": 19143,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1414,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1052180893417144320/Mdt-v6Os_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052180893417144320/Mdt-v6Os_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/878943662050127872/1536076173",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 400,
+      "favorite_count": 648,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 400,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 11 04:25:55 +0000 2019",
+    "id": 1104961626426363904,
+    "id_str": "1104961626426363904",
+    "text": "di Garuda Wisnu Kencana (GWK) Cultural Park https://t.co/USlz0c73fA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/USlz0c73fA",
+          "expanded_url": "https://www.facebook.com/1092819618/posts/10217787955665928/",
+          "display_url": "facebook.com/1092819618/pos\u2026",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 80283719,
+      "id_str": "80283719",
+      "name": "Askari Uda Azis",
+      "screen_name": "Lingkarmas",
+      "location": "Surabaya",
+      "description": "Pumps, System & Maintenance",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 97,
+      "friends_count": 244,
+      "listed_count": 0,
+      "created_at": "Tue Oct 06 12:00:36 +0000 2009",
+      "favourites_count": 16,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 589,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "8B542B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988798828814913541/_23zXJ1l_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988798828814913541/_23zXJ1l_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/80283719/1414938194",
+      "profile_link_color": "9D582E",
+      "profile_sidebar_border_color": "D9B17E",
+      "profile_sidebar_fill_color": "EADEAA",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Mar 10 20:41:12 +0000 2019",
+    "id": 1104844677893816327,
+    "id_str": "1104844677893816327",
+    "text": "Throw back a moment in 2010\nI really missing that moment\nI hope I can Visit back...\nSuch a really Awesome...\u2026 https://t.co/QWe8jBpge8",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/QWe8jBpge8",
+          "expanded_url": "https://twitter.com/i/web/status/1104844677893816327",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 326587339,
+      "id_str": "326587339",
+      "name": "Haris Fadilla",
+      "screen_name": "HarisXMen",
+      "location": "Indonesia",
+      "description": "I'm Big Fans Football Club Barcelona, Drumist, Music is My Life, Keep Calm and Always Optimist",
+      "url": "https://t.co/atMbcAw8TO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/atMbcAw8TO",
+              "expanded_url": "http://www.apple.com",
+              "display_url": "apple.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 398,
+      "friends_count": 589,
+      "listed_count": 8,
+      "created_at": "Thu Jun 30 04:43:16 +0000 2011",
+      "favourites_count": 3044,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 119861,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "45B5C9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1051814895149142016/Y99NRDua_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051814895149142016/Y99NRDua_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/326587339/1478613081",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.8087701,
+        115.16517479
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16517479,
+        -8.8087701
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 10 06:57:07 +0000 2019",
+    "id": 1104637289018216448,
+    "id_str": "1104637289018216448",
+    "text": "@bangzul_1988 @jokowi Garuda Wisnu Kencana (GWK) Bali..dan freport papua yg sudah sengaja di ulur ulur puluhan tahu\u2026 https://t.co/rBc3NwJtqr",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "bangzul_1988",
+          "name": "Zulkarnaini #88 #99",
+          "id": 749142361469399041,
+          "id_str": "749142361469399041",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "jokowi",
+          "name": "Joko Widodo",
+          "id": 366987179,
+          "id_str": "366987179",
+          "indices": [
+            14,
+            21
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rBc3NwJtqr",
+          "expanded_url": "https://twitter.com/i/web/status/1104637289018216448",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1104554814883520512,
+    "in_reply_to_status_id_str": "1104554814883520512",
+    "in_reply_to_user_id": 749142361469399041,
+    "in_reply_to_user_id_str": "749142361469399041",
+    "in_reply_to_screen_name": "bangzul_1988",
+    "user": {
+      "id": 991148664507613187,
+      "id_str": "991148664507613187",
+      "name": "tomcat2019\ud83c\udf36",
+      "screen_name": "JohnDo08621180",
+      "location": "NKRI tercinta",
+      "description": "real account,tidak menerima bayaran,uang sudah banyak,cukup utk hidup layak,hanya orang biasa,yg bersyukur hidup di NKRI yg memiliki PANCASILA...",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 250,
+      "friends_count": 464,
+      "listed_count": 1,
+      "created_at": "Tue May 01 02:53:51 +0000 2018",
+      "favourites_count": 1844,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5219,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1073018258448478208/JzsogNH9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073018258448478208/JzsogNH9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/991148664507613187/1537487060",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Mar 10 06:14:47 +0000 2019",
+    "id": 1104626634429210625,
+    "id_str": "1104626634429210625",
+    "text": "#41 of #2019 Melali ke objek wisata samping umah #visit #gwk #cultural #park #bali with #tupit &amp; #deta @ Garuda Wis\u2026 https://t.co/hypUBi89o9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "visit",
+          "indices": [
+            49,
+            55
+          ]
+        },
+        {
+          "text": "gwk",
+          "indices": [
+            56,
+            60
+          ]
+        },
+        {
+          "text": "cultural",
+          "indices": [
+            61,
+            70
+          ]
+        },
+        {
+          "text": "park",
+          "indices": [
+            71,
+            76
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            77,
+            82
+          ]
+        },
+        {
+          "text": "tupit",
+          "indices": [
+            88,
+            94
+          ]
+        },
+        {
+          "text": "deta",
+          "indices": [
+            101,
+            106
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/hypUBi89o9",
+          "expanded_url": "https://twitter.com/i/web/status/1104626634429210625",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 93322212,
+      "id_str": "93322212",
+      "name": "Sukokyes",
+      "screen_name": "sukokyes",
+      "location": "",
+      "description": "Husband of @widyadian !!!",
+      "url": "https://t.co/HffgBD3Zo8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/HffgBD3Zo8",
+              "expanded_url": "http://www.sukokyes.com",
+              "display_url": "sukokyes.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 162,
+      "friends_count": 106,
+      "listed_count": 1,
+      "created_at": "Sun Nov 29 04:12:44 +0000 2009",
+      "favourites_count": 28,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3483,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000370215874/11a5df4cbdcb04ef3d00efa98e992622_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000370215874/11a5df4cbdcb04ef3d00efa98e992622_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/93322212/1367580238",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.8087701,
+        115.16517479
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16517479,
+        -8.8087701
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sat Mar 09 13:45:03 +0000 2019",
+    "id": 1104377562157920256,
+    "id_str": "1104377562157920256",
+    "text": "@BriiStory Pantai Tanah Lot, Pantai Pandawa, Garuda Wisnu Kencana, Pantai Kuta, Danau Bratan, Pantai Tanjung Benoa,\u2026 https://t.co/HA6Fokjpm7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "BriiStory",
+          "name": "Brii..",
+          "id": 850489083226804224,
+          "id_str": "850489083226804224",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HA6Fokjpm7",
+          "expanded_url": "https://twitter.com/i/web/status/1104377562157920256",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1104375064076550145,
+    "in_reply_to_status_id_str": "1104375064076550145",
+    "in_reply_to_user_id": 850489083226804224,
+    "in_reply_to_user_id_str": "850489083226804224",
+    "in_reply_to_screen_name": "BriiStory",
+    "user": {
+      "id": 1647141493,
+      "id_str": "1647141493",
+      "name": "Maula Harfi",
+      "screen_name": "harfiimh",
+      "location": "Bandung, Indonesia",
+      "description": "A Coffee Drinker.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 503,
+      "friends_count": 189,
+      "listed_count": 0,
+      "created_at": "Mon Aug 05 06:50:59 +0000 2013",
+      "favourites_count": 140,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2915,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1102162365804556288/7nKV4f1z_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102162365804556288/7nKV4f1z_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647141493/1550169836",
+      "profile_link_color": "2FA9EB",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sat Mar 09 13:07:12 +0000 2019",
+    "id": 1104368035257700354,
+    "id_str": "1104368035257700354",
+    "text": "\ud83d\uddff @ Garuda Wisnu Kencana (GWK) Cultural Park https://t.co/qut9D0T73W",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/qut9D0T73W",
+          "expanded_url": "https://www.instagram.com/p/BuyeTJFgpxX/?utm_source=ig_twitter_share&igshid=15o60rht7p9by",
+          "display_url": "instagram.com/p/BuyeTJFgpxX/\u2026",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 207104870,
+      "id_str": "207104870",
+      "name": "bino?who?",
+      "screen_name": "AimanHakeemA",
+      "location": "86000 , 43000 , 82100",
+      "description": "\ud83c\udfaf",
+      "url": "https://t.co/P7MEYP7MjF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/P7MEYP7MjF",
+              "expanded_url": "http://stackoverflow.com",
+              "display_url": "stackoverflow.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 564,
+      "friends_count": 500,
+      "listed_count": 5,
+      "created_at": "Sun Oct 24 14:41:36 +0000 2010",
+      "favourites_count": 1348,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 51273,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F0FAF8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1102162604070334464/9vWdAF8U_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102162604070334464/9vWdAF8U_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/207104870/1550191251",
+      "profile_link_color": "89C9FA",
+      "profile_sidebar_border_color": "EBF0EF",
+      "profile_sidebar_fill_color": "D9EBE7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.8087701,
+        115.16517479
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16517479,
+        -8.8087701
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sat Mar 09 11:11:01 +0000 2019",
+    "id": 1104338795581837312,
+    "id_str": "1104338795581837312",
+    "text": "Souvenir magnet kulkas pajangan piring metal GWK Garuda Wisnu Kencana Bali negara Indonesia\n\nDiameter sz 7cm\nRp55rb\u2026 https://t.co/7daaxYefPf",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7daaxYefPf",
+          "expanded_url": "https://twitter.com/i/web/status/1104338795581837312",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 117729286,
+      "id_str": "117729286",
+      "name": "Ruth Andreas",
+      "screen_name": "souvenirnikah",
+      "location": "Bandung - Indonesia",
+      "description": "Looking for wedding and travel souvenir? visit my web.",
+      "url": "http://t.co/hNdJzshFPh",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/hNdJzshFPh",
+              "expanded_url": "http://www.noveltysouvenir.com",
+              "display_url": "noveltysouvenir.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 343,
+      "friends_count": 1756,
+      "listed_count": 1,
+      "created_at": "Fri Feb 26 12:25:39 +0000 2010",
+      "favourites_count": 8,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 139,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3658585623/74c4cbca70fec615175f3054cab14bf2_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3658585623/74c4cbca70fec615175f3054cab14bf2_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/117729286/1368541412",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sat Mar 09 06:48:38 +0000 2019",
+    "id": 1104272767862652928,
+    "id_str": "1104272767862652928",
+    "text": "Kesayangan papap dan mamam..........\ud83d\ude18\n.\n.\n.\n#SabtuBersatu @ Garuda Wisnu Kencana (GWK) Cultural Park https://t.co/pBgcHP0t5i",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SabtuBersatu",
+          "indices": [
+            44,
+            57
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pBgcHP0t5i",
+          "expanded_url": "https://www.instagram.com/p/Buxy-Yll8Pi/?utm_source=ig_twitter_share&igshid=7zf24cvdlzm",
+          "display_url": "instagram.com/p/Buxy-Yll8Pi/\u2026",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 22274225,
+      "id_str": "22274225",
+      "name": "Eka Taofik Hidayat",
+      "screen_name": "ekataofik",
+      "location": "Kota Bandung, Jawa Barat",
+      "description": "Bojongloa Kaler Juara",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 357,
+      "friends_count": 104,
+      "listed_count": 1,
+      "created_at": "Sat Feb 28 17:12:08 +0000 2009",
+      "favourites_count": 5973,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2565,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000715540757/0fbb8afe3fd0d9f2de64aa26f87b61f8_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000715540757/0fbb8afe3fd0d9f2de64aa26f87b61f8_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22274225/1486653943",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.8087701,
+        115.16517479
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16517479,
+        -8.8087701
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sat Mar 09 04:29:35 +0000 2019",
+    "id": 1104237774402547712,
+    "id_str": "1104237774402547712",
+    "text": "Jual Kaos Premium Garuda Wisnu Kencana\n\n\ud83d\udd3bkaos  premium garuda wisnu kencana ini dibuat dalam dua perpaduan digital\u2026 https://t.co/Xzlq1getVH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Xzlq1getVH",
+          "expanded_url": "https://twitter.com/i/web/status/1104237774402547712",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1953795301,
+      "id_str": "1953795301",
+      "name": "Bengkel Print",
+      "screen_name": "BengkelPrint",
+      "location": "Kota Surabaya, Jawa Timur",
+      "description": "Printer DTG Indonesia",
+      "url": "https://t.co/XwTJ3cHbnP",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/XwTJ3cHbnP",
+              "expanded_url": "http://www.bengkelprint.co.id",
+              "display_url": "bengkelprint.co.id",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1796,
+      "friends_count": 1733,
+      "listed_count": 0,
+      "created_at": "Fri Oct 11 09:39:54 +0000 2013",
+      "favourites_count": 80,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2127,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/793287606301712384/9enRhVKm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/793287606301712384/9enRhVKm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953795301/1475738476",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sat Mar 09 00:17:26 +0000 2019",
+    "id": 1104174315740651520,
+    "id_str": "1104174315740651520",
+    "text": "Bangun tidur terus bangun emang rasanya pusing banget kaya bangun jalan tol,\nbangun rumah tangga,\nbangun patung gar\u2026 https://t.co/KmWHJNsc9t",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KmWHJNsc9t",
+          "expanded_url": "https://twitter.com/i/web/status/1104174315740651520",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1056155150316789760,
+      "id_str": "1056155150316789760",
+      "name": "hade333h",
+      "screen_name": "inataniaa",
+      "location": "",
+      "description": "kita belum pernah bersama.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 44,
+      "friends_count": 113,
+      "listed_count": 0,
+      "created_at": "Sat Oct 27 12:06:25 +0000 2018",
+      "favourites_count": 623,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 259,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1105074243476180992/TnqdE8ls_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105074243476180992/TnqdE8ls_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056155150316789760/1549006644",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Mar 08 16:43:17 +0000 2019",
+    "id": 1104060025411006464,
+    "id_str": "1104060025411006464",
+    "text": "@silmihanifah__ @detikcom Garuda Wisnu Kencana yg di bali ituuu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "silmihanifah__",
+          "name": "\ud83d\udc7b",
+          "id": 53735793,
+          "id_str": "53735793",
+          "indices": [
+            0,
+            15
+          ]
+        },
+        {
+          "screen_name": "detikcom",
+          "name": "detikcom",
+          "id": 69183155,
+          "id_str": "69183155",
+          "indices": [
+            16,
+            25
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1104059915818029056,
+    "in_reply_to_status_id_str": "1104059915818029056",
+    "in_reply_to_user_id": 53735793,
+    "in_reply_to_user_id_str": "53735793",
+    "in_reply_to_screen_name": "silmihanifah__",
+    "user": {
+      "id": 39995335,
+      "id_str": "39995335",
+      "name": "GABRIELLA AGATHA",
+      "screen_name": "gabriellaagth",
+      "location": "",
+      "description": "I\u2019m spamming here.",
+      "url": "https://t.co/mMRW6LGLGV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/mMRW6LGLGV",
+              "expanded_url": "http://Instagr.am/gabriellaagth",
+              "display_url": "Instagr.am/gabriellaagth",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 818,
+      "friends_count": 645,
+      "listed_count": 3,
+      "created_at": "Thu May 14 13:43:37 +0000 2009",
+      "favourites_count": 645,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 13069,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "070808",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1051122541031387136/mHh1BFYh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051122541031387136/mHh1BFYh_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39995335/1531472266",
+      "profile_link_color": "F74D23",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "F7030B",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Mar 08 10:47:59 +0000 2019",
+    "id": 1103970611628453888,
+    "id_str": "1103970611628453888",
+    "text": "Ada yang stress nonton tari Kecak #shalomaritonang #family #bali #gwk @ Garuda Wisnu Kencana (GWK) Cultural Park https://t.co/yJ4EQ5e6Sq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "shalomaritonang",
+          "indices": [
+            34,
+            50
+          ]
+        },
+        {
+          "text": "family",
+          "indices": [
+            51,
+            58
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            59,
+            64
+          ]
+        },
+        {
+          "text": "gwk",
+          "indices": [
+            65,
+            69
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yJ4EQ5e6Sq",
+          "expanded_url": "https://www.instagram.com/p/BuvpkZ5DOB6/?utm_source=ig_twitter_share&igshid=1uys71c1ud50e",
+          "display_url": "instagram.com/p/BuvpkZ5DOB6/\u2026",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 183571887,
+      "id_str": "183571887",
+      "name": "Mutiara Purba",
+      "screen_name": "mutiarapurba",
+      "location": "Indonesia",
+      "description": "",
+      "url": "https://t.co/tm1UDFjZ4e",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/tm1UDFjZ4e",
+              "expanded_url": "http://www.facebook.com/mutiara.lusiana.purba",
+              "display_url": "facebook.com/mutiara.lusian\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 123,
+      "friends_count": 179,
+      "listed_count": 10,
+      "created_at": "Fri Aug 27 10:01:38 +0000 2010",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2996,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "BADFCD",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1083754755787124736/l0pivHB3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083754755787124736/l0pivHB3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/183571887/1547222245",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "F2E195",
+      "profile_sidebar_fill_color": "FFF7CC",
+      "profile_text_color": "0C3E53",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Mar 08 10:35:34 +0000 2019",
+    "id": 1103967487446544384,
+    "id_str": "1103967487446544384",
+    "text": "Sampe juga di GWK #shalomaritonang #family #bali @ Garuda Wisnu Kencana (GWK) Cultural Park https://t.co/8Zufz3K39L",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "shalomaritonang",
+          "indices": [
+            18,
+            34
+          ]
+        },
+        {
+          "text": "family",
+          "indices": [
+            35,
+            42
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            43,
+            48
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/8Zufz3K39L",
+          "expanded_url": "https://www.instagram.com/p/BuvoJnSD84G/?utm_source=ig_twitter_share&igshid=7nnffgtgf1p5",
+          "display_url": "instagram.com/p/BuvoJnSD84G/\u2026",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 183571887,
+      "id_str": "183571887",
+      "name": "Mutiara Purba",
+      "screen_name": "mutiarapurba",
+      "location": "Indonesia",
+      "description": "",
+      "url": "https://t.co/tm1UDFjZ4e",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/tm1UDFjZ4e",
+              "expanded_url": "http://www.facebook.com/mutiara.lusiana.purba",
+              "display_url": "facebook.com/mutiara.lusian\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 123,
+      "friends_count": 179,
+      "listed_count": 10,
+      "created_at": "Fri Aug 27 10:01:38 +0000 2010",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2996,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "BADFCD",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1083754755787124736/l0pivHB3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083754755787124736/l0pivHB3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/183571887/1547222245",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "F2E195",
+      "profile_sidebar_fill_color": "FFF7CC",
+      "profile_text_color": "0C3E53",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Mar 08 10:23:17 +0000 2019",
+    "id": 1103964397326626816,
+    "id_str": "1103964397326626816",
+    "text": "Mahakarya Patung Garuda Wisnu Kencana https://t.co/pciQMYB4lM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pciQMYB4lM",
+          "expanded_url": "http://dw.com/p/35MNY",
+          "display_url": "dw.com/p/35MNY",
+          "indices": [
+            38,
+            61
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 57284613,
+      "id_str": "57284613",
+      "name": "Wally W.H. Sudarman",
+      "screen_name": "whsudarman",
+      "location": "Jakarta, Indonesia",
+      "description": "The PROTECTOR:Moody,emotional,shy,loving&caring,protective,inventive&imaginative,cautious,touchy-feely,needs love fm others,easily hurt,but sympathetic",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 284,
+      "friends_count": 351,
+      "listed_count": 54,
+      "created_at": "Thu Jul 16 08:56:34 +0000 2009",
+      "favourites_count": 39,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 17422,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "709397",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/682464350582390784/iZXFsc7l_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/682464350582390784/iZXFsc7l_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/57284613/1444148622",
+      "profile_link_color": "FF3300",
+      "profile_sidebar_border_color": "86A4A6",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Mar 08 10:11:00 +0000 2019",
+    "id": 1103961304048398336,
+    "id_str": "1103961304048398336",
+    "text": "@barbifuc @setlgi nda adanya di garuda wisnu kencana",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "barbifuc",
+          "name": "JFB? asph\u00e9re jipink.",
+          "id": 905246893579526144,
+          "id_str": "905246893579526144",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "screen_name": "setlgi",
+          "name": "\u064b",
+          "id": 786724582484869120,
+          "id_str": "786724582484869120",
+          "indices": [
+            10,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1103932854470291456,
+    "in_reply_to_status_id_str": "1103932854470291456",
+    "in_reply_to_user_id": 905246893579526144,
+    "in_reply_to_user_id_str": "905246893579526144",
+    "in_reply_to_screen_name": "barbifuc",
+    "user": {
+      "id": 998550241,
+      "id_str": "998550241",
+      "name": "asphere dibo",
+      "screen_name": "sehtun",
+      "location": "",
+      "description": "( Parody Account ) Belongs to @PARKERFAMlLY",
+      "url": "https://t.co/Ws7tFR8HrY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Ws7tFR8HrY",
+              "expanded_url": "http://raldo.kr",
+              "display_url": "raldo.kr",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 31777,
+      "friends_count": 26943,
+      "listed_count": 51,
+      "created_at": "Sun Dec 09 04:09:37 +0000 2012",
+      "favourites_count": 12459,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 234691,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "981CEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1106400686076391424/JyWV7apa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106400686076391424/JyWV7apa_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/998550241/1552621453",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Mar 08 05:28:15 +0000 2019",
+    "id": 1103890148989710342,
+    "id_str": "1103890148989710342",
+    "text": "RT @sheilaon7: Bukan Rapper. Tapiii.. .\n#NpLapangDada \n\"Soundrenaline 2018\", The Soul of Expression at Garuda Wisnu Kencana Bali cc @Sheila\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NpLapangDada",
+          "indices": [
+            40,
+            53
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "sheilaon7",
+          "name": "Sheila On 7",
+          "id": 17959104,
+          "id_str": "17959104",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1102063113182957568,
+      "id_str": "1102063113182957568",
+      "name": "rahma",
+      "screen_name": "rrdnti",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4,
+      "friends_count": 83,
+      "listed_count": 0,
+      "created_at": "Sun Mar 03 04:28:16 +0000 2019",
+      "favourites_count": 208,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 46,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1103810362166566912/Pba-ov6B_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103810362166566912/Pba-ov6B_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1102063113182957568/1551588573",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Sep 08 17:18:43 +0000 2018",
+      "id": 1038476739431649280,
+      "id_str": "1038476739431649280",
+      "text": "Bukan Rapper. Tapiii.. .\n#NpLapangDada \n\"Soundrenaline 2018\", The Soul of Expression at Garuda Wisnu Kencana Bali c\u2026 https://t.co/Ua1XxWUunx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "NpLapangDada",
+            "indices": [
+              25,
+              38
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ua1XxWUunx",
+            "expanded_url": "https://twitter.com/i/web/status/1038476739431649280",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17959104,
+        "id_str": "17959104",
+        "name": "Sheila On 7",
+        "screen_name": "sheilaon7",
+        "location": "\u00dcT: 1.4864408,124.8274329",
+        "description": "Official Twitter Account of Sheila on 7 @Duta507 @adamsubarkah @Erosscandra @BrianSO7 Management@sheilaon7.com \nPhone: +62274883507",
+        "url": "https://t.co/WqmQmQyk2j",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/WqmQmQyk2j",
+                "expanded_url": "http://www.sheilaon7.com",
+                "display_url": "sheilaon7.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2181710,
+        "friends_count": 262,
+        "listed_count": 833,
+        "created_at": "Mon Dec 08 08:26:27 +0000 2008",
+        "favourites_count": 1018,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 19604,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E8CF41",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/887961128554217472/aExj9NAK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/887961128554217472/aExj9NAK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17959104/1551671037",
+        "profile_link_color": "5E5DBA",
+        "profile_sidebar_border_color": "A3999E",
+        "profile_sidebar_fill_color": "DEC433",
+        "profile_text_color": "4D4546",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 263,
+      "favorite_count": 515,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 263,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Mar 08 04:46:20 +0000 2019",
+    "id": 1103879600612888576,
+    "id_str": "1103879600612888576",
+    "text": "Garuda Wisnu Kencana was inspired by Hindu mythology about the search for Amerta (the elixir of life). According to\u2026 https://t.co/IobSkhxfAL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/IobSkhxfAL",
+          "expanded_url": "https://twitter.com/i/web/status/1103879600612888576",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 445642193,
+      "id_str": "445642193",
+      "name": "achi",
+      "screen_name": "achialk",
+      "location": "Now you see me",
+      "description": "Just a tweet \u2022 Musician \u2022 lover of milk",
+      "url": "https://t.co/t37qqI6CHF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/t37qqI6CHF",
+              "expanded_url": "http://instagram.com/achialk",
+              "display_url": "instagram.com/achialk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 683,
+      "friends_count": 343,
+      "listed_count": 3,
+      "created_at": "Sat Dec 24 17:22:45 +0000 2011",
+      "favourites_count": 35,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 7916,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880126663152893952/uoledeVb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880126663152893952/uoledeVb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/445642193/1498673603",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.80834279,
+        115.16524146
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16524146,
+        -8.80834279
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

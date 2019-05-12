@@ -1,0 +1,2719 @@
+[
+  {
+    "created_at": "Tue Mar 05 21:29:16 +0000 2019",
+    "id": 1103044832459599872,
+    "id_str": "1103044832459599872",
+    "text": "RT @EmailHoliday: \ud83d\udc20 What's your most beautiful spot in Bali? \n\ud83d\udccd Tirta Gangga, Bali\n-\n\ud83d\udc49\ud83c\udffc Follow @EmailHoliday for more! \ud83d\udc4c\n-\n#VisitBali #bali\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VisitBali",
+          "indices": [
+            123,
+            133
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            134,
+            139
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "EmailHoliday",
+          "name": "Email Holidays",
+          "id": 4236190715,
+          "id_str": "4236190715",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "EmailHoliday",
+          "name": "Email Holidays",
+          "id": 4236190715,
+          "id_str": "4236190715",
+          "indices": [
+            95,
+            108
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 713977582425759744,
+      "id_str": "713977582425759744",
+      "name": "\u6771\u4eac\uff0a\u30aa\u30a2\u30b7\u30b9",
+      "screen_name": "ta74885",
+      "location": "Tokyo\u30fboasis",
+      "description": "\u6771\u4eac\uff0a\u30aa\u30a2\u30b7\u30b9\u3000\n\uff08\u90fd\u4f1a\u306e\u30aa\u30a2\u30b7\u30b9\uff09",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 8183,
+      "friends_count": 8555,
+      "listed_count": 59,
+      "created_at": "Sun Mar 27 06:34:55 +0000 2016",
+      "favourites_count": 54142,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 120511,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/933893244408045568/5XuznY-3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/933893244408045568/5XuznY-3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/713977582425759744/1511235840",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 19:02:31 +0000 2019",
+      "id": 1101195964830965761,
+      "id_str": "1101195964830965761",
+      "text": "\ud83d\udc20 What's your most beautiful spot in Bali? \n\ud83d\udccd Tirta Gangga, Bali\n-\n\ud83d\udc49\ud83c\udffc Follow @EmailHoliday for more! \ud83d\udc4c\n-\n#VisitBali\u2026 https://t.co/ndJmftVAnv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "VisitBali",
+            "indices": [
+              105,
+              115
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EmailHoliday",
+            "name": "Email Holidays",
+            "id": 4236190715,
+            "id_str": "4236190715",
+            "indices": [
+              77,
+              90
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ndJmftVAnv",
+            "expanded_url": "https://twitter.com/i/web/status/1101195964830965761",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4236190715,
+        "id_str": "4236190715",
+        "name": "Email Holidays",
+        "screen_name": "EmailHoliday",
+        "location": "London, England",
+        "description": "\u2708\ufe0f\u00a0Travel Agency Specialists for Discounted Flights, Holidays, Hotels, Car Hire, Travel Insurance & Airport Parking, FB https://t.co/dQtxOAOKX5",
+        "url": "https://t.co/B8BP7Q2ErI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/B8BP7Q2ErI",
+                "expanded_url": "http://www.emailholidays.com",
+                "display_url": "emailholidays.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/dQtxOAOKX5",
+                "expanded_url": "http://www.facebook.com/emailholidays/",
+                "display_url": "facebook.com/emailholidays/",
+                "indices": [
+                  120,
+                  143
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 677,
+        "friends_count": 813,
+        "listed_count": 7,
+        "created_at": "Fri Nov 20 17:47:58 +0000 2015",
+        "favourites_count": 88,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1129,
+        "lang": "en-gb",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/679979717496274945/KjxVdnos_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/679979717496274945/KjxVdnos_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4236190715/1534159655",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 32,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Mar 05 19:49:22 +0000 2019",
+    "id": 1103019693470818305,
+    "id_str": "1103019693470818305",
+    "text": "RT @EmailHoliday: \ud83d\udc20 What's your most beautiful spot in Bali? \n\ud83d\udccd Tirta Gangga, Bali\n-\n\ud83d\udc49\ud83c\udffc Follow @EmailHoliday for more! \ud83d\udc4c\n-\n#VisitBali #bali\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VisitBali",
+          "indices": [
+            123,
+            133
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            134,
+            139
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "EmailHoliday",
+          "name": "Email Holidays",
+          "id": 4236190715,
+          "id_str": "4236190715",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "EmailHoliday",
+          "name": "Email Holidays",
+          "id": 4236190715,
+          "id_str": "4236190715",
+          "indices": [
+            95,
+            108
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 251825970,
+      "id_str": "251825970",
+      "name": "Ken MacGregor",
+      "screen_name": "kendmacgregor",
+      "location": "Stockton-on-Tees Middlesbrough",
+      "description": "Based on Teesside Ken spent many years in project management .",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 5863,
+      "friends_count": 5887,
+      "listed_count": 77,
+      "created_at": "Sun Feb 13 22:56:42 +0000 2011",
+      "favourites_count": 72975,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 118762,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/497039698410237952/IhMsT23A_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/497039698410237952/IhMsT23A_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 19:02:31 +0000 2019",
+      "id": 1101195964830965761,
+      "id_str": "1101195964830965761",
+      "text": "\ud83d\udc20 What's your most beautiful spot in Bali? \n\ud83d\udccd Tirta Gangga, Bali\n-\n\ud83d\udc49\ud83c\udffc Follow @EmailHoliday for more! \ud83d\udc4c\n-\n#VisitBali\u2026 https://t.co/ndJmftVAnv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "VisitBali",
+            "indices": [
+              105,
+              115
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EmailHoliday",
+            "name": "Email Holidays",
+            "id": 4236190715,
+            "id_str": "4236190715",
+            "indices": [
+              77,
+              90
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ndJmftVAnv",
+            "expanded_url": "https://twitter.com/i/web/status/1101195964830965761",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4236190715,
+        "id_str": "4236190715",
+        "name": "Email Holidays",
+        "screen_name": "EmailHoliday",
+        "location": "London, England",
+        "description": "\u2708\ufe0f\u00a0Travel Agency Specialists for Discounted Flights, Holidays, Hotels, Car Hire, Travel Insurance & Airport Parking, FB https://t.co/dQtxOAOKX5",
+        "url": "https://t.co/B8BP7Q2ErI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/B8BP7Q2ErI",
+                "expanded_url": "http://www.emailholidays.com",
+                "display_url": "emailholidays.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/dQtxOAOKX5",
+                "expanded_url": "http://www.facebook.com/emailholidays/",
+                "display_url": "facebook.com/emailholidays/",
+                "indices": [
+                  120,
+                  143
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 677,
+        "friends_count": 813,
+        "listed_count": 7,
+        "created_at": "Fri Nov 20 17:47:58 +0000 2015",
+        "favourites_count": 88,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1129,
+        "lang": "en-gb",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/679979717496274945/KjxVdnos_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/679979717496274945/KjxVdnos_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4236190715/1534159655",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 32,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Mar 05 11:29:47 +0000 2019",
+    "id": 1102893969380274176,
+    "id_str": "1102893969380274176",
+    "text": "Sitting pretty \ud83d\ude0a\n\u2022\nThe gardens at this beautiful palace still takes my breath away even now while I look back on su\u2026 https://t.co/lK7zLb5hiV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/lK7zLb5hiV",
+          "expanded_url": "https://twitter.com/i/web/status/1102893969380274176",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 34896519,
+      "id_str": "34896519",
+      "name": "HerSunKissedSoul",
+      "screen_name": "Thals01",
+      "location": "cape town South Africa",
+      "description": "God first, Love,Life and Everything else! A girl with crazy hair travelling around the world.Blogger, friend and lover of visual things!",
+      "url": "https://t.co/PGMNLBD9UU",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/PGMNLBD9UU",
+              "expanded_url": "http://hersunkissedsoul.com/",
+              "display_url": "hersunkissedsoul.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 282,
+      "friends_count": 803,
+      "listed_count": 8,
+      "created_at": "Fri Apr 24 10:44:56 +0000 2009",
+      "favourites_count": 333,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2929,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/723633216087818240/6isLKllC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/723633216087818240/6isLKllC_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/34896519/1370425803",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -10.157532,
+        123.636813
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        123.636813,
+        -10.157532
+      ]
+    },
+    "place": {
+      "id": "7b6d4729251ea40b",
+      "url": "https://api.twitter.com/1.1/geo/id/7b6d4729251ea40b.json",
+      "place_type": "admin",
+      "name": "East Nusa Tenggara",
+      "full_name": "East Nusa Tenggara, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              118.927002,
+              -11.007615
+            ],
+            [
+              125.193333,
+              -11.007615
+            ],
+            [
+              125.193333,
+              -8.063357
+            ],
+            [
+              118.927002,
+              -8.063357
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 03 15:40:46 +0000 2019",
+    "id": 1102232356079861768,
+    "id_str": "1102232356079861768",
+    "text": "RT @SHIV01645585: #kumbhmela #kumbh2019\n#god #prayagraj #prayer\n#riverganga #thursday\n#thursdaymorning  #tirtagangga #hindu #kumbh #kumbhme\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kumbhmela",
+          "indices": [
+            18,
+            28
+          ]
+        },
+        {
+          "text": "kumbh2019",
+          "indices": [
+            29,
+            39
+          ]
+        },
+        {
+          "text": "god",
+          "indices": [
+            40,
+            44
+          ]
+        },
+        {
+          "text": "prayagraj",
+          "indices": [
+            45,
+            55
+          ]
+        },
+        {
+          "text": "prayer",
+          "indices": [
+            56,
+            63
+          ]
+        },
+        {
+          "text": "riverganga",
+          "indices": [
+            64,
+            75
+          ]
+        },
+        {
+          "text": "thursday",
+          "indices": [
+            76,
+            85
+          ]
+        },
+        {
+          "text": "thursdaymorning",
+          "indices": [
+            86,
+            102
+          ]
+        },
+        {
+          "text": "tirtagangga",
+          "indices": [
+            104,
+            116
+          ]
+        },
+        {
+          "text": "hindu",
+          "indices": [
+            117,
+            123
+          ]
+        },
+        {
+          "text": "kumbh",
+          "indices": [
+            124,
+            130
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SHIV01645585",
+          "name": "SHIV",
+          "id": 1068526111833784330,
+          "id_str": "1068526111833784330",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "hi",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1068526111833784330,
+      "id_str": "1068526111833784330",
+      "name": "SHIV",
+      "screen_name": "SHIV01645585",
+      "location": "\u092e\u0941\u091c\u093c\u092b\u093c\u094d\u092b\u093c\u0930\u0928\u0917\u0930, \u092d\u093e\u0930\u0924",
+      "description": "shiv kumar dhiman",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 978,
+      "friends_count": 1430,
+      "listed_count": 0,
+      "created_at": "Fri Nov 30 15:24:12 +0000 2018",
+      "favourites_count": 23485,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 24689,
+      "lang": "hi",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1070213988309323776/ZwYsWaQl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1070213988309323776/ZwYsWaQl_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 17 08:32:08 +0000 2019",
+      "id": 1085817032891715584,
+      "id_str": "1085817032891715584",
+      "text": "#kumbhmela #kumbh2019\n#god #prayagraj #prayer\n#riverganga #thursday\n#thursdaymorning  #tirtagangga #hindu #kumbh\u2026 https://t.co/OgbokAA2Nw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "kumbhmela",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "text": "kumbh2019",
+            "indices": [
+              11,
+              21
+            ]
+          },
+          {
+            "text": "god",
+            "indices": [
+              22,
+              26
+            ]
+          },
+          {
+            "text": "prayagraj",
+            "indices": [
+              27,
+              37
+            ]
+          },
+          {
+            "text": "prayer",
+            "indices": [
+              38,
+              45
+            ]
+          },
+          {
+            "text": "riverganga",
+            "indices": [
+              46,
+              57
+            ]
+          },
+          {
+            "text": "thursday",
+            "indices": [
+              58,
+              67
+            ]
+          },
+          {
+            "text": "thursdaymorning",
+            "indices": [
+              68,
+              84
+            ]
+          },
+          {
+            "text": "tirtagangga",
+            "indices": [
+              86,
+              98
+            ]
+          },
+          {
+            "text": "hindu",
+            "indices": [
+              99,
+              105
+            ]
+          },
+          {
+            "text": "kumbh",
+            "indices": [
+              106,
+              112
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OgbokAA2Nw",
+            "expanded_url": "https://twitter.com/i/web/status/1085817032891715584",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "hi",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1068526111833784330,
+        "id_str": "1068526111833784330",
+        "name": "SHIV",
+        "screen_name": "SHIV01645585",
+        "location": "\u092e\u0941\u091c\u093c\u092b\u093c\u094d\u092b\u093c\u0930\u0928\u0917\u0930, \u092d\u093e\u0930\u0924",
+        "description": "shiv kumar dhiman",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 978,
+        "friends_count": 1430,
+        "listed_count": 0,
+        "created_at": "Fri Nov 30 15:24:12 +0000 2018",
+        "favourites_count": 23485,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24689,
+        "lang": "hi",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1070213988309323776/ZwYsWaQl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1070213988309323776/ZwYsWaQl_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "hi"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "hi"
+  },
+  {
+    "created_at": "Sun Mar 03 14:03:49 +0000 2019",
+    "id": 1102207955615723520,
+    "id_str": "1102207955615723520",
+    "text": "Always be my photographer for a many years later andiiriski \ud83d\ude4f\ud83c\udffb\ud83d\ude07\n#tirtagangga #explorebali #bali #balilife\u2026 https://t.co/2OC9fOBArU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "tirtagangga",
+          "indices": [
+            64,
+            76
+          ]
+        },
+        {
+          "text": "explorebali",
+          "indices": [
+            77,
+            89
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            90,
+            95
+          ]
+        },
+        {
+          "text": "balilife",
+          "indices": [
+            96,
+            105
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2OC9fOBArU",
+          "expanded_url": "https://twitter.com/i/web/status/1102207955615723520",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 102889235,
+      "id_str": "102889235",
+      "name": "w\u012d\u03d1y\u03b1 l\u03b1\u044f\u03b1s\u03b1ty \u2655",
+      "screen_name": "widylarass",
+      "location": "",
+      "description": "PHARMAPRENEUR \u2022 Owner of @CheapQualitysss",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 489,
+      "friends_count": 204,
+      "listed_count": 4,
+      "created_at": "Fri Jan 08 04:51:30 +0000 2010",
+      "favourites_count": 22,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13463,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA91EA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/964904802000912384/88wzsb4z_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/964904802000912384/88wzsb4z_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/102889235/1425438069",
+      "profile_link_color": "46EB59",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "9E419E",
+      "profile_text_color": "ED5FD5",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.41194444,
+        115.5875
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.5875,
+        -8.41194444
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 03 06:02:57 +0000 2019",
+    "id": 1102086940654882816,
+    "id_str": "1102086940654882816",
+    "text": "\u30c6\u30a3\u30eb\u30bf\u30ac\u30f3\u30ac\n\u6c60\uff08\u30d7\u30fc\u30eb\uff09\u306e\u6c34\u306f\u5168\u3066\u8c4a\u5bcc\u306a\u5929\u7136\u306e\u6e67\u304d\u6c34\u3092\u5229\u7528\u3057\u3066\u3044\u307e\u3059\u3002 \n\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u3000\u30d0\u30ea\u5cf6 \nTirtagangga/Tirta Gangga, Karangasem #Bali #Indonesia\nhttps://t.co/jCdm9IUJjL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Bali",
+          "indices": [
+            88,
+            93
+          ]
+        },
+        {
+          "text": "Indonesia",
+          "indices": [
+            94,
+            104
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 374789908906274816,
+          "id_str": "374789908906274816",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/BTOFb7nCcAAZ2AR.png",
+          "media_url_https": "https://pbs.twimg.com/media/BTOFb7nCcAAZ2AR.png",
+          "url": "https://t.co/jCdm9IUJjL",
+          "display_url": "pic.twitter.com/jCdm9IUJjL",
+          "expanded_url": "http://twitter.com/xiaolanjpn/status/374789908897886209/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 434,
+              "h": 640,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 434,
+              "h": 640,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 434,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 374789908897886209,
+          "source_status_id_str": "374789908897886209",
+          "source_user_id": 1594052690,
+          "source_user_id_str": "1594052690"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 374789908906274816,
+          "id_str": "374789908906274816",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/BTOFb7nCcAAZ2AR.png",
+          "media_url_https": "https://pbs.twimg.com/media/BTOFb7nCcAAZ2AR.png",
+          "url": "https://t.co/jCdm9IUJjL",
+          "display_url": "pic.twitter.com/jCdm9IUJjL",
+          "expanded_url": "http://twitter.com/xiaolanjpn/status/374789908897886209/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 434,
+              "h": 640,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 434,
+              "h": 640,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 434,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 374789908897886209,
+          "source_status_id_str": "374789908897886209",
+          "source_user_id": 1594052690,
+          "source_user_id_str": "1594052690"
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1594052690,
+      "id_str": "1594052690",
+      "name": "\u30a2\u30b8\u30a2\u306e\u8857\u89d2 BOT",
+      "screen_name": "xiaolanjpn",
+      "location": "\u30a2\u30b8\u30a2\uff0fAsia\uff0f\u4e9c\u7d30\u4e9c",
+      "description": "\u30a2\u30b8\u30a2\u306e\u8857\u89d2\u306e\u5199\u771f\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002\u4e3b\u306b\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u3068\u9999\u6e2f\u3067\u3059\u3002\u304d\u308c\u3044\u306a\u5199\u771f\u3060\u3051\u3067\u306a\u304f\u3001\u306b\u3084\u308a\u3068\u7b11\u3063\u3066\u3057\u307e\u3046\u3088\u3046\u306a\u5199\u771f\u3082\u3002\u304a\u8fd4\u4e8b\u306f\u3057\u307e\u3059\u304c\u3001\u9045\u3044\u3067\u3059\u3002DM\u306f\u57fa\u672c\u898b\u307e\u305b\u3093\u3002This bot tweets with a picture of Asia once an hour.",
+      "url": "http://t.co/R2pouGmSZw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/R2pouGmSZw",
+              "expanded_url": "http://xiaolanjpn.hatenablog.com/",
+              "display_url": "xiaolanjpn.hatenablog.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1319,
+      "friends_count": 1870,
+      "listed_count": 42,
+      "created_at": "Sun Jul 14 19:01:54 +0000 2013",
+      "favourites_count": 82,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 60797,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000426176856/1a1b573011d6dacacca306075ca76910_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000426176856/1a1b573011d6dacacca306075ca76910_normal.jpeg",
+      "profile_link_color": "990000",
+      "profile_sidebar_border_color": "DFDFDF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Mar 02 12:09:32 +0000 2019",
+    "id": 1101816807898243072,
+    "id_str": "1101816807898243072",
+    "text": "@gudgurlss Love them so much. Sayangnya tadi buru2 pas di tirtagangga \ud83d\ude2d",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "gudgurlss",
+          "name": "M U \u266b",
+          "id": 116607375,
+          "id_str": "116607375",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1101794507698298880,
+    "in_reply_to_status_id_str": "1101794507698298880",
+    "in_reply_to_user_id": 116607375,
+    "in_reply_to_user_id_str": "116607375",
+    "in_reply_to_screen_name": "gudgurlss",
+    "user": {
+      "id": 77194668,
+      "id_str": "77194668",
+      "name": "Made Raka Dwija W.",
+      "screen_name": "rakadwija",
+      "location": "Denpasar, Bali, ID",
+      "description": "make your own success be your noise, not your speech.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 436,
+      "friends_count": 198,
+      "listed_count": 3,
+      "created_at": "Fri Sep 25 11:47:06 +0000 2009",
+      "favourites_count": 55,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 21852,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "B2DFDA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1087336417578037248/pkMdIhPv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087336417578037248/pkMdIhPv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/77194668/1451479961",
+      "profile_link_color": "596DD4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "cf712fd91280ebff",
+      "url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+      "place_type": "city",
+      "name": "Denpasar Barat",
+      "full_name": "Denpasar Barat, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.173695,
+              -8.70934
+            ],
+            [
+              115.235563,
+              -8.70934
+            ],
+            [
+              115.235563,
+              -8.591728
+            ],
+            [
+              115.173695,
+              -8.591728
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Mar 01 12:03:58 +0000 2019",
+    "id": 1101453017579180032,
+    "id_str": "1101453017579180032",
+    "text": "RT @EmailHoliday: \ud83d\udc20 What's your most beautiful spot in Bali? \n\ud83d\udccd Tirta Gangga, Bali\n-\n\ud83d\udc49\ud83c\udffc Follow @EmailHoliday for more! \ud83d\udc4c\n-\n#VisitBali #bali\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VisitBali",
+          "indices": [
+            123,
+            133
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            134,
+            139
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "EmailHoliday",
+          "name": "Email Holidays",
+          "id": 4236190715,
+          "id_str": "4236190715",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "EmailHoliday",
+          "name": "Email Holidays",
+          "id": 4236190715,
+          "id_str": "4236190715",
+          "indices": [
+            95,
+            108
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 943270046012465155,
+      "id_str": "943270046012465155",
+      "name": "German Altamira",
+      "screen_name": "geraltami",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 272,
+      "friends_count": 55,
+      "listed_count": 0,
+      "created_at": "Wed Dec 20 00:01:18 +0000 2017",
+      "favourites_count": 25335,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 23408,
+      "lang": "es",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/956965263030865921/cm1GkOR-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/956965263030865921/cm1GkOR-_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 19:02:31 +0000 2019",
+      "id": 1101195964830965761,
+      "id_str": "1101195964830965761",
+      "text": "\ud83d\udc20 What's your most beautiful spot in Bali? \n\ud83d\udccd Tirta Gangga, Bali\n-\n\ud83d\udc49\ud83c\udffc Follow @EmailHoliday for more! \ud83d\udc4c\n-\n#VisitBali\u2026 https://t.co/ndJmftVAnv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "VisitBali",
+            "indices": [
+              105,
+              115
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EmailHoliday",
+            "name": "Email Holidays",
+            "id": 4236190715,
+            "id_str": "4236190715",
+            "indices": [
+              77,
+              90
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ndJmftVAnv",
+            "expanded_url": "https://twitter.com/i/web/status/1101195964830965761",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4236190715,
+        "id_str": "4236190715",
+        "name": "Email Holidays",
+        "screen_name": "EmailHoliday",
+        "location": "London, England",
+        "description": "\u2708\ufe0f\u00a0Travel Agency Specialists for Discounted Flights, Holidays, Hotels, Car Hire, Travel Insurance & Airport Parking, FB https://t.co/dQtxOAOKX5",
+        "url": "https://t.co/B8BP7Q2ErI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/B8BP7Q2ErI",
+                "expanded_url": "http://www.emailholidays.com",
+                "display_url": "emailholidays.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/dQtxOAOKX5",
+                "expanded_url": "http://www.facebook.com/emailholidays/",
+                "display_url": "facebook.com/emailholidays/",
+                "indices": [
+                  120,
+                  143
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 677,
+        "friends_count": 813,
+        "listed_count": 7,
+        "created_at": "Fri Nov 20 17:47:58 +0000 2015",
+        "favourites_count": 88,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1129,
+        "lang": "en-gb",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/679979717496274945/KjxVdnos_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/679979717496274945/KjxVdnos_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4236190715/1534159655",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 32,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 10:26:44 +0000 2019",
+    "id": 1101428550744399872,
+    "id_str": "1101428550744399872",
+    "text": "RT @EmailHoliday: \ud83d\udc20 What's your most beautiful spot in Bali? \n\ud83d\udccd Tirta Gangga, Bali\n-\n\ud83d\udc49\ud83c\udffc Follow @EmailHoliday for more! \ud83d\udc4c\n-\n#VisitBali #bali\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VisitBali",
+          "indices": [
+            123,
+            133
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            134,
+            139
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "EmailHoliday",
+          "name": "Email Holidays",
+          "id": 4236190715,
+          "id_str": "4236190715",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "EmailHoliday",
+          "name": "Email Holidays",
+          "id": 4236190715,
+          "id_str": "4236190715",
+          "indices": [
+            95,
+            108
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1015227490204348418,
+      "id_str": "1015227490204348418",
+      "name": "Vika Miroshnichenko",
+      "screen_name": "VikaMiroshnich2",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 217,
+      "friends_count": 109,
+      "listed_count": 2,
+      "created_at": "Fri Jul 06 13:34:30 +0000 2018",
+      "favourites_count": 20152,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 10217,
+      "lang": "ru",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1061564843415781376/MLmvO9ND_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061564843415781376/MLmvO9ND_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1015227490204348418/1530884798",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 19:02:31 +0000 2019",
+      "id": 1101195964830965761,
+      "id_str": "1101195964830965761",
+      "text": "\ud83d\udc20 What's your most beautiful spot in Bali? \n\ud83d\udccd Tirta Gangga, Bali\n-\n\ud83d\udc49\ud83c\udffc Follow @EmailHoliday for more! \ud83d\udc4c\n-\n#VisitBali\u2026 https://t.co/ndJmftVAnv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "VisitBali",
+            "indices": [
+              105,
+              115
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EmailHoliday",
+            "name": "Email Holidays",
+            "id": 4236190715,
+            "id_str": "4236190715",
+            "indices": [
+              77,
+              90
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ndJmftVAnv",
+            "expanded_url": "https://twitter.com/i/web/status/1101195964830965761",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4236190715,
+        "id_str": "4236190715",
+        "name": "Email Holidays",
+        "screen_name": "EmailHoliday",
+        "location": "London, England",
+        "description": "\u2708\ufe0f\u00a0Travel Agency Specialists for Discounted Flights, Holidays, Hotels, Car Hire, Travel Insurance & Airport Parking, FB https://t.co/dQtxOAOKX5",
+        "url": "https://t.co/B8BP7Q2ErI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/B8BP7Q2ErI",
+                "expanded_url": "http://www.emailholidays.com",
+                "display_url": "emailholidays.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/dQtxOAOKX5",
+                "expanded_url": "http://www.facebook.com/emailholidays/",
+                "display_url": "facebook.com/emailholidays/",
+                "indices": [
+                  120,
+                  143
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 677,
+        "friends_count": 813,
+        "listed_count": 7,
+        "created_at": "Fri Nov 20 17:47:58 +0000 2015",
+        "favourites_count": 88,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1129,
+        "lang": "en-gb",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/679979717496274945/KjxVdnos_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/679979717496274945/KjxVdnos_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4236190715/1534159655",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 32,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 09:20:59 +0000 2019",
+    "id": 1101412003321569280,
+    "id_str": "1101412003321569280",
+    "text": "RT @EmailHoliday: \ud83d\udc20 What's your most beautiful spot in Bali? \n\ud83d\udccd Tirta Gangga, Bali\n-\n\ud83d\udc49\ud83c\udffc Follow @EmailHoliday for more! \ud83d\udc4c\n-\n#VisitBali #bali\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VisitBali",
+          "indices": [
+            123,
+            133
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            134,
+            139
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "EmailHoliday",
+          "name": "Email Holidays",
+          "id": 4236190715,
+          "id_str": "4236190715",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "EmailHoliday",
+          "name": "Email Holidays",
+          "id": 4236190715,
+          "id_str": "4236190715",
+          "indices": [
+            95,
+            108
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1039514480135131136,
+      "id_str": "1039514480135131136",
+      "name": ".",
+      "screen_name": "aliyyah_ia",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 72,
+      "friends_count": 229,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 14:02:20 +0000 2018",
+      "favourites_count": 1312,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 451,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1099243949896589312/YYasrNzy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099243949896589312/YYasrNzy_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1039514480135131136/1548563655",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 19:02:31 +0000 2019",
+      "id": 1101195964830965761,
+      "id_str": "1101195964830965761",
+      "text": "\ud83d\udc20 What's your most beautiful spot in Bali? \n\ud83d\udccd Tirta Gangga, Bali\n-\n\ud83d\udc49\ud83c\udffc Follow @EmailHoliday for more! \ud83d\udc4c\n-\n#VisitBali\u2026 https://t.co/ndJmftVAnv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "VisitBali",
+            "indices": [
+              105,
+              115
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EmailHoliday",
+            "name": "Email Holidays",
+            "id": 4236190715,
+            "id_str": "4236190715",
+            "indices": [
+              77,
+              90
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ndJmftVAnv",
+            "expanded_url": "https://twitter.com/i/web/status/1101195964830965761",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4236190715,
+        "id_str": "4236190715",
+        "name": "Email Holidays",
+        "screen_name": "EmailHoliday",
+        "location": "London, England",
+        "description": "\u2708\ufe0f\u00a0Travel Agency Specialists for Discounted Flights, Holidays, Hotels, Car Hire, Travel Insurance & Airport Parking, FB https://t.co/dQtxOAOKX5",
+        "url": "https://t.co/B8BP7Q2ErI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/B8BP7Q2ErI",
+                "expanded_url": "http://www.emailholidays.com",
+                "display_url": "emailholidays.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/dQtxOAOKX5",
+                "expanded_url": "http://www.facebook.com/emailholidays/",
+                "display_url": "facebook.com/emailholidays/",
+                "indices": [
+                  120,
+                  143
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 677,
+        "friends_count": 813,
+        "listed_count": 7,
+        "created_at": "Fri Nov 20 17:47:58 +0000 2015",
+        "favourites_count": 88,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1129,
+        "lang": "en-gb",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/679979717496274945/KjxVdnos_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/679979717496274945/KjxVdnos_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4236190715/1534159655",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 32,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 09:08:12 +0000 2019",
+    "id": 1101408784822476800,
+    "id_str": "1101408784822476800",
+    "text": "RT @EmailHoliday: \ud83d\udc20 What's your most beautiful spot in Bali? \n\ud83d\udccd Tirta Gangga, Bali\n-\n\ud83d\udc49\ud83c\udffc Follow @EmailHoliday for more! \ud83d\udc4c\n-\n#VisitBali #bali\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VisitBali",
+          "indices": [
+            123,
+            133
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            134,
+            139
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "EmailHoliday",
+          "name": "Email Holidays",
+          "id": 4236190715,
+          "id_str": "4236190715",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "EmailHoliday",
+          "name": "Email Holidays",
+          "id": 4236190715,
+          "id_str": "4236190715",
+          "indices": [
+            95,
+            108
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 988389321257308160,
+      "id_str": "988389321257308160",
+      "name": "\ud83c\udf34\ud83c\udf84Lisa Ruiz \ud83c\udf34\ud83c\udf84",
+      "screen_name": "_LisaRuiz",
+      "location": "Harrow, London",
+      "description": "Love Travel \ud83e\uddf3\ud83e\uddf3, Adventure \ud83c\udf0a\ud83c\udf0a. Animal lover\ud83d\udc26\ud83e\udd86\ud83e\udda2. Smile, it's free therapy :)\ud83d\ude00\ud83d\ude00",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6418,
+      "friends_count": 4570,
+      "listed_count": 37,
+      "created_at": "Mon Apr 23 12:09:12 +0000 2018",
+      "favourites_count": 1740,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1013,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1085565535717347329/JX0-6pzT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085565535717347329/JX0-6pzT_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/988389321257308160/1547654133",
+      "profile_link_color": "E13A11",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 19:02:31 +0000 2019",
+      "id": 1101195964830965761,
+      "id_str": "1101195964830965761",
+      "text": "\ud83d\udc20 What's your most beautiful spot in Bali? \n\ud83d\udccd Tirta Gangga, Bali\n-\n\ud83d\udc49\ud83c\udffc Follow @EmailHoliday for more! \ud83d\udc4c\n-\n#VisitBali\u2026 https://t.co/ndJmftVAnv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "VisitBali",
+            "indices": [
+              105,
+              115
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EmailHoliday",
+            "name": "Email Holidays",
+            "id": 4236190715,
+            "id_str": "4236190715",
+            "indices": [
+              77,
+              90
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ndJmftVAnv",
+            "expanded_url": "https://twitter.com/i/web/status/1101195964830965761",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4236190715,
+        "id_str": "4236190715",
+        "name": "Email Holidays",
+        "screen_name": "EmailHoliday",
+        "location": "London, England",
+        "description": "\u2708\ufe0f\u00a0Travel Agency Specialists for Discounted Flights, Holidays, Hotels, Car Hire, Travel Insurance & Airport Parking, FB https://t.co/dQtxOAOKX5",
+        "url": "https://t.co/B8BP7Q2ErI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/B8BP7Q2ErI",
+                "expanded_url": "http://www.emailholidays.com",
+                "display_url": "emailholidays.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/dQtxOAOKX5",
+                "expanded_url": "http://www.facebook.com/emailholidays/",
+                "display_url": "facebook.com/emailholidays/",
+                "indices": [
+                  120,
+                  143
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 677,
+        "friends_count": 813,
+        "listed_count": 7,
+        "created_at": "Fri Nov 20 17:47:58 +0000 2015",
+        "favourites_count": 88,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1129,
+        "lang": "en-gb",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/679979717496274945/KjxVdnos_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/679979717496274945/KjxVdnos_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4236190715/1534159655",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 32,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 08:56:50 +0000 2019",
+    "id": 1101405927658450944,
+    "id_str": "1101405927658450944",
+    "text": "Tirtagangga https://t.co/crFStq4S5p",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/crFStq4S5p",
+          "expanded_url": "https://youtu.be/onyzdq668p8",
+          "display_url": "youtu.be/onyzdq668p8",
+          "indices": [
+            12,
+            35
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 121127379,
+      "id_str": "121127379",
+      "name": "akikomatsubara",
+      "screen_name": "akikomatsubara",
+      "location": "Bali, Indonesia",
+      "description": "\u624b\u76f8\u5360\u3044\u3001\u5bfe\u9762\u3001\u901a\u8a71\u9451\u5b9a\u627f\u3063\u3066\u304a\u308a\u307e\u3059\u3002\u5360\u3044\u6b74\u7d0428\u5e74 \u30d0\u30ea\u5cf619\u5e74\u3002\u57fa\u672c+\u30aa\u30ea\u30b8\u30ca\u30eb\u306e\u898b\u65b9\u3067\u3001\u624d\u80fd\u3084\u4eba\u751f\u306e\u65b9\u5411\u6027\u3001\u5168\u4f53\u3068\u4eca\u3001\u6642\u671f\u3001\u3053\u308c\u304b\u3089\u306e\u53ef\u80fd\u6027\u3092\u63a2\u3057\u3066\u3044\u307e\u3059\u3002\u3054\u8cea\u554f\u306f\u306a\u3093\u3067\u3082\u3069\u3046\u305e\u3002\u304a\u554f\u3044\u5408\u308f\u305b\u306f \u677e\u539f\u4e9c\u5e0c\u5b50\u5b9b\u3066akikopalmreading@gmail.com \u8aad\u66f8\u3001\u89b3\u5bdf\u3001\u8003\u3048\u4e8b\u3001\u6563\u6b69\u3002",
+      "url": "https://t.co/2Mzpw45p1W",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2Mzpw45p1W",
+              "expanded_url": "https://www.facebook.com/400317871046/posts/10156073308961047/",
+              "display_url": "facebook.com/400317871046/p\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1316,
+      "friends_count": 2346,
+      "listed_count": 25,
+      "created_at": "Mon Mar 08 14:16:06 +0000 2010",
+      "favourites_count": 2850,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 6147,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1090883880800870401/PtJycZsI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090883880800870401/PtJycZsI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/121127379/1536256385",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Thu Feb 28 19:02:31 +0000 2019",
+    "id": 1101195964830965761,
+    "id_str": "1101195964830965761",
+    "text": "\ud83d\udc20 What's your most beautiful spot in Bali? \n\ud83d\udccd Tirta Gangga, Bali\n-\n\ud83d\udc49\ud83c\udffc Follow @EmailHoliday for more! \ud83d\udc4c\n-\n#VisitBali\u2026 https://t.co/ndJmftVAnv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VisitBali",
+          "indices": [
+            105,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "EmailHoliday",
+          "name": "Email Holidays",
+          "id": 4236190715,
+          "id_str": "4236190715",
+          "indices": [
+            77,
+            90
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ndJmftVAnv",
+          "expanded_url": "https://twitter.com/i/web/status/1101195964830965761",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4236190715,
+      "id_str": "4236190715",
+      "name": "Email Holidays",
+      "screen_name": "EmailHoliday",
+      "location": "London, England",
+      "description": "\u2708\ufe0f\u00a0Travel Agency Specialists for Discounted Flights, Holidays, Hotels, Car Hire, Travel Insurance & Airport Parking, FB https://t.co/dQtxOAOKX5",
+      "url": "https://t.co/B8BP7Q2ErI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/B8BP7Q2ErI",
+              "expanded_url": "http://www.emailholidays.com",
+              "display_url": "emailholidays.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/dQtxOAOKX5",
+              "expanded_url": "http://www.facebook.com/emailholidays/",
+              "display_url": "facebook.com/emailholidays/",
+              "indices": [
+                120,
+                143
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 677,
+      "friends_count": 813,
+      "listed_count": 7,
+      "created_at": "Fri Nov 20 17:47:58 +0000 2015",
+      "favourites_count": 88,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1129,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/679979717496274945/KjxVdnos_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/679979717496274945/KjxVdnos_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4236190715/1534159655",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 32,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

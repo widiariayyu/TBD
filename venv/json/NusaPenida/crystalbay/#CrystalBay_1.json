@@ -1,0 +1,381 @@
+[
+  {
+    "created_at": "Tue Feb 26 19:43:38 +0000 2019",
+    "id": 1100481534681726981,
+    "id_str": "1100481534681726981",
+    "text": "RT @orgonemusic: We\u2019re cruising up to north to #Oakland &amp; #CrystalBay next month for two bangin\u2019 shows.  Come thru in full force with your\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Oakland",
+          "indices": [
+            47,
+            55
+          ]
+        },
+        {
+          "text": "CrystalBay",
+          "indices": [
+            62,
+            73
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "orgonemusic",
+          "name": "Orgone",
+          "id": 43479317,
+          "id_str": "43479317",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 80105796,
+      "id_str": "80105796",
+      "name": "The New Parish",
+      "screen_name": "thenewparish",
+      "location": "Oakland, CA",
+      "description": "Live Music in the heart of Oakland",
+      "url": "http://t.co/Jq8Jfvefk9",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Jq8Jfvefk9",
+              "expanded_url": "http://www.thenewparish.com/",
+              "display_url": "thenewparish.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9375,
+      "friends_count": 1709,
+      "listed_count": 374,
+      "created_at": "Mon Oct 05 19:33:56 +0000 2009",
+      "favourites_count": 2013,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5513,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/457248773/TNP_twitter_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/457248773/TNP_twitter_normal.jpg",
+      "profile_link_color": "CC3300",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F7DA93",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 22 00:31:56 +0000 2019",
+      "id": 1098742147635793920,
+      "id_str": "1098742147635793920",
+      "text": "We\u2019re cruising up to north to #Oakland &amp; #CrystalBay next month for two bangin\u2019 shows.  Come thru in full force wit\u2026 https://t.co/a46EgEZeMo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Oakland",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "text": "CrystalBay",
+            "indices": [
+              45,
+              56
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/a46EgEZeMo",
+            "expanded_url": "https://twitter.com/i/web/status/1098742147635793920",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 43479317,
+        "id_str": "43479317",
+        "name": "Orgone",
+        "screen_name": "orgonemusic",
+        "location": "Los Angeles",
+        "description": "#Funk / #Soul / #Afrobeat / #Disco New album 'Reasons' drops January 18th! Album Release tour stopping in a city near you! Tix at https://t.co/76K8Ca6E0v",
+        "url": "http://t.co/6xMsnvSvEC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/6xMsnvSvEC",
+                "expanded_url": "http://orgonespace.com",
+                "display_url": "orgonespace.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/76K8Ca6E0v",
+                "expanded_url": "http://orgonespace.com/tour",
+                "display_url": "orgonespace.com/tour",
+                "indices": [
+                  130,
+                  153
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4758,
+        "friends_count": 411,
+        "listed_count": 185,
+        "created_at": "Sat May 30 04:21:34 +0000 2009",
+        "favourites_count": 1746,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 5334,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/996122643316195328/ijq5CoTu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/996122643316195328/ijq5CoTu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43479317/1544557047",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 22 00:31:56 +0000 2019",
+    "id": 1098742147635793920,
+    "id_str": "1098742147635793920",
+    "text": "We\u2019re cruising up to north to #Oakland &amp; #CrystalBay next month for two bangin\u2019 shows.  Come thru in full force wit\u2026 https://t.co/a46EgEZeMo",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Oakland",
+          "indices": [
+            30,
+            38
+          ]
+        },
+        {
+          "text": "CrystalBay",
+          "indices": [
+            45,
+            56
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/a46EgEZeMo",
+          "expanded_url": "https://twitter.com/i/web/status/1098742147635793920",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 43479317,
+      "id_str": "43479317",
+      "name": "Orgone",
+      "screen_name": "orgonemusic",
+      "location": "Los Angeles",
+      "description": "#Funk / #Soul / #Afrobeat / #Disco New album 'Reasons' drops January 18th! Album Release tour stopping in a city near you! Tix at https://t.co/76K8Ca6E0v",
+      "url": "http://t.co/6xMsnvSvEC",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/6xMsnvSvEC",
+              "expanded_url": "http://orgonespace.com",
+              "display_url": "orgonespace.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/76K8Ca6E0v",
+              "expanded_url": "http://orgonespace.com/tour",
+              "display_url": "orgonespace.com/tour",
+              "indices": [
+                130,
+                153
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4758,
+      "friends_count": 411,
+      "listed_count": 185,
+      "created_at": "Sat May 30 04:21:34 +0000 2009",
+      "favourites_count": 1746,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 5334,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/996122643316195328/ijq5CoTu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/996122643316195328/ijq5CoTu_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/43479317/1544557047",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

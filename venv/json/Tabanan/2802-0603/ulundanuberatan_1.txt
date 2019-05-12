@@ -1,0 +1,374 @@
+[
+  {
+    "created_at": "Tue Mar 05 00:52:11 +0000 2019",
+    "id": 1102733513105784832,
+    "id_str": "1102733513105784832",
+    "text": "A must visit place in Bali, Ulun Danu Temple - Bali, Indonesia. Picture by I komang warta  windu in 500px #ulundanu\u2026 https://t.co/AMBiC2URt2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ulundanu",
+          "indices": [
+            106,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/AMBiC2URt2",
+          "expanded_url": "https://twitter.com/i/web/status/1102733513105784832",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "tl",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 312810501,
+      "id_str": "312810501",
+      "name": "Roberto Rosano",
+      "screen_name": "royrosano",
+      "location": "Indonesia",
+      "description": "There is never a day that I am truly in the dark, only days when I cannot see the Light of God in whom I live and move and have my being.",
+      "url": "https://t.co/zQlRw0Mc9b",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/zQlRw0Mc9b",
+              "expanded_url": "https://www.tokoamazing.com/",
+              "display_url": "tokoamazing.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 454,
+      "friends_count": 276,
+      "listed_count": 32,
+      "created_at": "Tue Jun 07 18:11:03 +0000 2011",
+      "favourites_count": 72,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 146809,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3191852997/bc5f5f1371896c3cbf61ce49565746b7_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3191852997/bc5f5f1371896c3cbf61ce49565746b7_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/312810501/1348724546",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tl"
+  },
+  {
+    "created_at": "Fri Mar 01 04:22:57 +0000 2019",
+    "id": 1101337002316685312,
+    "id_str": "1101337002316685312",
+    "text": "Ulun Danu Beratan presents beauty of a beautiful like and the unique in Ulun Danu Beratan is the temple in middle o\u2026 https://t.co/MkfpBq1zvk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/MkfpBq1zvk",
+          "expanded_url": "https://twitter.com/i/web/status/1101337002316685312",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1099971461165375488,
+      "id_str": "1099971461165375488",
+      "name": "SabaraBaliTrip",
+      "screen_name": "SabaraTrip",
+      "location": "",
+      "description": "We are Serve for Tour, Shuttle, Rent Car, etc.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1,
+      "friends_count": 3,
+      "listed_count": 0,
+      "created_at": "Mon Feb 25 09:56:47 +0000 2019",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1099971616061026304/fO737nnp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099971616061026304/fO737nnp_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 02:19:56 +0000 2019",
+    "id": 1101306041361260544,
+    "id_str": "1101306041361260544",
+    "text": "#UlunDanuBeratan https://t.co/TpQI6zlne0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UlunDanuBeratan",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1101306031286579201,
+          "id_str": "1101306031286579201",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0igAB_U8AEcgut.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0igAB_U8AEcgut.jpg",
+          "url": "https://t.co/TpQI6zlne0",
+          "display_url": "pic.twitter.com/TpQI6zlne0",
+          "expanded_url": "https://twitter.com/dewindaaaaa/status/1101306041361260544/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 774,
+              "h": 774,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 774,
+              "h": 774,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1101306031286579201,
+          "id_str": "1101306031286579201",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0igAB_U8AEcgut.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0igAB_U8AEcgut.jpg",
+          "url": "https://t.co/TpQI6zlne0",
+          "display_url": "pic.twitter.com/TpQI6zlne0",
+          "expanded_url": "https://twitter.com/dewindaaaaa/status/1101306041361260544/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 774,
+              "h": 774,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 774,
+              "h": 774,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1101298677434347520,
+      "id_str": "1101298677434347520",
+      "name": "Dewi Wulandari",
+      "screen_name": "dewindaaaaa",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 3,
+      "listed_count": 0,
+      "created_at": "Fri Mar 01 01:50:40 +0000 2019",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1101305710971768832/deWPGnFR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101305710971768832/deWPGnFR_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1101298677434347520/1551415203",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  }
+]

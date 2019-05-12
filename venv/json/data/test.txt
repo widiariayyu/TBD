@@ -1,0 +1,5 @@
+'Kuta','#kuta','garuda wisnu kencana','pura taman ayun','taman ayun temple','uluwatu','#uluwatu',
+              'kertalangu','#sanurbeach','sanur','#brokenbeach','broken beach','#kelingkingbeach','kelingking beach','#CrystalBay','nusa penida',
+              '#kemenuhpark','kemenuh','Kemenuh Butterfly Park','monkeyforest','#sukawati','sukawati','ubud','#ubud','tegalalang',
+              '#besakihtemple','#candidasabeach','#lempuyangtemple','besakih','candidasa','lempuyang luhur','tirtagangga','sangeh','bukit asah',
+              'pura batukaru','#batukarutemple','bedugul','beratan lake','tanah lot','#tanahlot','ulun danu beratan'

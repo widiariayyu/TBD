@@ -1,0 +1,1382 @@
+[
+  {
+    "created_at": "Tue Feb 26 08:42:35 +0000 2019",
+    "id": 1100315174114754561,
+    "id_str": "1100315174114754561",
+    "text": "At Broken Beach \ud83d\udc99\ud83c\udf34\n\u0e27\u0e34\u0e27\u0e2a\u0e27\u0e22\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e01\u0e30\u0e20\u0e32\u0e1e\u0e27\u0e32\u0e14\n\n\u0e21\u0e32\u0e1a\u0e32\u0e2b\u0e25\u0e35\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e44\u0e1b\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48 \u0e16\u0e37\u0e2d\u0e27\u0e48\u0e32 \u0e1e\u0e25\u0e32\u0e14\u0e21\u0e32\u0e01\u0e04\u0e48\u0e30!!!\n#balilover #brokenbeach \u0e08\u0e2d\u0e07\u0e15\u0e31\u0e4b\u0e27\u0e40\u2026 https://t.co/U1rYWvlcJR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "balilover",
+          "indices": [
+            83,
+            93
+          ]
+        },
+        {
+          "text": "brokenbeach",
+          "indices": [
+            94,
+            106
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/U1rYWvlcJR",
+          "expanded_url": "https://twitter.com/i/web/status/1100315174114754561",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "th",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 111521187,
+      "id_str": "111521187",
+      "name": "JAZZTINZZ",
+      "screen_name": "Jazztinzz",
+      "location": "Bkk, Thailand",
+      "description": "\u2661 \u0e27\u0e31\u0e0a\u0e23\u0e32\u0e20\u0e23\u0e13\u0e4c \u2661 Good Working women, Good Daughter, Good Sister, Good Friend and Good Girl.",
+      "url": "https://t.co/Zi6sHLSKe3",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Zi6sHLSKe3",
+              "expanded_url": "http://www.facebook.com/jazztinzz",
+              "display_url": "facebook.com/jazztinzz",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 215,
+      "friends_count": 6,
+      "listed_count": 1,
+      "created_at": "Fri Feb 05 06:13:27 +0000 2010",
+      "favourites_count": 48,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6047,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "030000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/593232343353012225/A3LQE4Is_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/593232343353012225/A3LQE4Is_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/111521187/1430272543",
+      "profile_link_color": "050302",
+      "profile_sidebar_border_color": "B39D9D",
+      "profile_sidebar_fill_color": "A67148",
+      "profile_text_color": "572C10",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "th"
+  },
+  {
+    "created_at": "Mon Feb 25 16:50:39 +0000 2019",
+    "id": 1100075614935998464,
+    "id_str": "1100075614935998464",
+    "text": "The Dos And Don'ts Of Going On Your First Couple's Trip \n Nov 7, 2018 ... #bali #baliindonesia #nusapenida\u2026 https://t.co/NDa0MuQbtv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bali",
+          "indices": [
+            74,
+            79
+          ]
+        },
+        {
+          "text": "baliindonesia",
+          "indices": [
+            80,
+            94
+          ]
+        },
+        {
+          "text": "nusapenida",
+          "indices": [
+            95,
+            106
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/NDa0MuQbtv",
+          "expanded_url": "https://twitter.com/i/web/status/1100075614935998464",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://futuregenapp.com\" rel=\"nofollow\">futuregen_apps</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 373395660,
+      "id_str": "373395660",
+      "name": "Sherryl Wilson",
+      "screen_name": "SimplySherryl",
+      "location": "Northern Kentucky",
+      "description": "Helping families with simple solutions that keep the chaos at bay! #speaker #travelblogger #foodie #bgbg2",
+      "url": "https://t.co/cZ6QZY4NgO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/cZ6QZY4NgO",
+              "expanded_url": "http://www.sherrylwilson.com",
+              "display_url": "sherrylwilson.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 59226,
+      "friends_count": 43307,
+      "listed_count": 840,
+      "created_at": "Wed Sep 14 14:15:14 +0000 2011",
+      "favourites_count": 28489,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 101566,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/776255513935970304/9NjglHdz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/776255513935970304/9NjglHdz_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/373395660/1411732383",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Feb 24 10:20:48 +0000 2019",
+    "id": 1099615117342400513,
+    "id_str": "1099615117342400513",
+    "text": "WEST NUSA PENIDA DAY TRIP \nAmazing Trip to Visit beautiful Island of Nusa Penida \n#Kelikingbeach \n#Anglebilabong\u2026 https://t.co/9XmbIUDPnK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Kelikingbeach",
+          "indices": [
+            82,
+            96
+          ]
+        },
+        {
+          "text": "Anglebilabong",
+          "indices": [
+            98,
+            112
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/9XmbIUDPnK",
+          "expanded_url": "https://twitter.com/i/web/status/1099615117342400513",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 193745777,
+      "id_str": "193745777",
+      "name": "kadek yasa",
+      "screen_name": "yasabali",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 59,
+      "friends_count": 27,
+      "listed_count": 0,
+      "created_at": "Wed Sep 22 15:55:38 +0000 2010",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 332,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/646970835559800832/VyP1hB5M_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/646970835559800832/VyP1hB5M_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Feb 24 01:47:41 +0000 2019",
+    "id": 1099485987011526657,
+    "id_str": "1099485987011526657",
+    "text": "Wondering.\" #brokenbeach @jensamet @delluomosonia",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "brokenbeach",
+          "indices": [
+            12,
+            24
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jensamet",
+          "name": "Jennifer Samet",
+          "id": 1351792747,
+          "id_str": "1351792747",
+          "indices": [
+            25,
+            34
+          ]
+        },
+        {
+          "screen_name": "DellUomoSonia",
+          "name": "Sonia Dell'Uomo",
+          "id": 747814271602540544,
+          "id_str": "747814271602540544",
+          "indices": [
+            35,
+            49
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1092474639513718787,
+      "id_str": "1092474639513718787",
+      "name": "Alanna",
+      "screen_name": "treadaclacli",
+      "location": "",
+      "description": "\ud83d\ude18",
+      "url": "https://t.co/2wZVqslhRf",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2wZVqslhRf",
+              "expanded_url": "https://bit.ly/2SkDmXc",
+              "display_url": "bit.ly/2SkDmXc",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 5,
+      "friends_count": 15,
+      "listed_count": 0,
+      "created_at": "Mon Feb 04 17:27:06 +0000 2019",
+      "favourites_count": 39,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 80,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1098596085013139457/HshUv0dS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098596085013139457/HshUv0dS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1092474639513718787/1550760700",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 23 22:03:40 +0000 2019",
+    "id": 1099429610700210176,
+    "id_str": "1099429610700210176",
+    "text": "Broken beach Nusa Penida island. https://t.co/iVSYIfAacR #baliboatticket #nusapenidaisland #brokenbeach #islandtour\u2026 https://t.co/1Jdb0rzsS1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "baliboatticket",
+          "indices": [
+            57,
+            72
+          ]
+        },
+        {
+          "text": "nusapenidaisland",
+          "indices": [
+            73,
+            90
+          ]
+        },
+        {
+          "text": "brokenbeach",
+          "indices": [
+            91,
+            103
+          ]
+        },
+        {
+          "text": "islandtour",
+          "indices": [
+            104,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/iVSYIfAacR",
+          "expanded_url": "https://www.baliboatticket.com/",
+          "display_url": "baliboatticket.com",
+          "indices": [
+            33,
+            56
+          ]
+        },
+        {
+          "url": "https://t.co/1Jdb0rzsS1",
+          "expanded_url": "https://twitter.com/i/web/status/1099429610700210176",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1096796236844134401,
+      "id_str": "1096796236844134401",
+      "name": "Benny Douk",
+      "screen_name": "BennyDouk",
+      "location": "Bali, Indonesia",
+      "description": "Founder Komodo Cipta Wisata, boat komodo tour, Bali boat ticket.\n#komodociptawisata #boatkomodotour #baliboatticket #indoflorestrip",
+      "url": "https://t.co/bA0GyzdvHH",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/bA0GyzdvHH",
+              "expanded_url": "https://komodociptawisata.co.id",
+              "display_url": "komodociptawisata.co.id",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 10,
+      "friends_count": 86,
+      "listed_count": 0,
+      "created_at": "Sat Feb 16 15:39:35 +0000 2019",
+      "favourites_count": 16,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 31,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096796842501726208/bQh6mY9p_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096796842501726208/bQh6mY9p_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096796236844134401/1550332021",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 23 04:19:15 +0000 2019",
+    "id": 1099161742590980101,
+    "id_str": "1099161742590980101",
+    "text": "Sahabat \ud83e\udd19\ud83c\udffc\n.\n#KelingkingBeach #BrokenBeach #AngelBillabong #NusaPenida #Bali #WonderfulIndonesia #travel\u2026 https://t.co/wUIaFD4QEt",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "KelingkingBeach",
+          "indices": [
+            13,
+            29
+          ]
+        },
+        {
+          "text": "BrokenBeach",
+          "indices": [
+            30,
+            42
+          ]
+        },
+        {
+          "text": "AngelBillabong",
+          "indices": [
+            43,
+            58
+          ]
+        },
+        {
+          "text": "NusaPenida",
+          "indices": [
+            59,
+            70
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            71,
+            76
+          ]
+        },
+        {
+          "text": "WonderfulIndonesia",
+          "indices": [
+            77,
+            96
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            97,
+            104
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/wUIaFD4QEt",
+          "expanded_url": "https://twitter.com/i/web/status/1099161742590980101",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 307644405,
+      "id_str": "307644405",
+      "name": "Muhammad Izwan",
+      "screen_name": "izwan273",
+      "location": "Malaysia",
+      "description": "Malaysian",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 315,
+      "friends_count": 213,
+      "listed_count": 2,
+      "created_at": "Mon May 30 01:23:26 +0000 2011",
+      "favourites_count": 815,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 35058,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1084758075326648331/5_aN712i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084758075326648331/5_aN712i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/307644405/1546301739",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.67907566,
+        115.48997641
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.48997641,
+        -8.67907566
+      ]
+    },
+    "place": {
+      "id": "d532fe7ae761def1",
+      "url": "https://api.twitter.com/1.1/geo/id/d532fe7ae761def1.json",
+      "place_type": "city",
+      "name": "Nusapenida",
+      "full_name": "Nusapenida, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.426989,
+              -8.819561
+            ],
+            [
+              115.62863,
+              -8.819561
+            ],
+            [
+              115.62863,
+              -8.6631101
+            ],
+            [
+              115.426989,
+              -8.6631101
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Feb 22 01:06:22 +0000 2019",
+    "id": 1098750813449576449,
+    "id_str": "1098750813449576449",
+    "text": "The smile represents how excited they are enjoy the tour, lets us plan your holiday at Nusa penida\nFind out availab\u2026 https://t.co/GfWKYCVQwB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/GfWKYCVQwB",
+          "expanded_url": "https://twitter.com/i/web/status/1098750813449576449",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1098743024635437056,
+      "id_str": "1098743024635437056",
+      "name": "Turnusapenida.com",
+      "screen_name": "turnusapenida",
+      "location": "B. Bangunurip Ds Batukandik",
+      "description": "We provide a tour to nusa penida island",
+      "url": "https://t.co/sJXFVVy6BT",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/sJXFVVy6BT",
+              "expanded_url": "http://turnusapenida.com",
+              "display_url": "turnusapenida.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 0,
+      "listed_count": 0,
+      "created_at": "Fri Feb 22 00:35:25 +0000 2019",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1099468757771083778/w_LhL2gU_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099468757771083778/w_LhL2gU_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098743024635437056/1550798825",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 21 00:21:42 +0000 2019",
+    "id": 1098377186669518849,
+    "id_str": "1098377186669518849",
+    "text": "RT @kritika_goel: The Ocean always does something beautiful to my energy \ud83c\udf0a\u2728\nOne of the 46257 photos I took here. \ud83d\ude05\n.\n.\n.\n.\n.\n.\n.\n.\n#NusaPen\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "kritika_goel",
+          "name": "Kritika Goel \u2728",
+          "id": 4613600782,
+          "id_str": "4613600782",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 802833417805119488,
+      "id_str": "802833417805119488",
+      "name": "NITHISH BALA",
+      "screen_name": "nithishbalavj",
+      "location": "Chennai,vellore",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 66,
+      "friends_count": 280,
+      "listed_count": 0,
+      "created_at": "Sun Nov 27 11:16:17 +0000 2016",
+      "favourites_count": 17899,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3626,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1079424532954267658/tCPrcp-D_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079424532954267658/tCPrcp-D_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/802833417805119488/1538702745",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 20 17:26:59 +0000 2019",
+      "id": 1098272820218548224,
+      "id_str": "1098272820218548224",
+      "text": "The Ocean always does something beautiful to my energy \ud83c\udf0a\u2728\nOne of the 46257 photos I took here. \ud83d\ude05\n.\n.\n.\n.\n.\n.\n.\n.\u2026 https://t.co/2lxbuiW2OA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2lxbuiW2OA",
+            "expanded_url": "https://twitter.com/i/web/status/1098272820218548224",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4613600782,
+        "id_str": "4613600782",
+        "name": "Kritika Goel \u2728",
+        "screen_name": "kritika_goel",
+        "location": "Mumbai, India",
+        "description": "Travel + Lifestyle YouTuber \ud83d\udc81\ud83c\udffb // https://t.co/sFGtSaoB6p // Email \ud83d\udce7 : business@blogofthethings.com",
+        "url": "https://t.co/ZXeZe3AAH5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ZXeZe3AAH5",
+                "expanded_url": "https://linktr.ee/kritika_goel",
+                "display_url": "linktr.ee/kritika_goel",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/sFGtSaoB6p",
+                "expanded_url": "http://YouTube.com/kritikagoel",
+                "display_url": "YouTube.com/kritikagoel",
+                "indices": [
+                  34,
+                  57
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2252,
+        "friends_count": 305,
+        "listed_count": 22,
+        "created_at": "Sat Dec 26 18:50:45 +0000 2015",
+        "favourites_count": 2347,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2455,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/834826141789782016/K0Xq3312_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/834826141789782016/K0Xq3312_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4613600782/1519282642",
+        "profile_link_color": "1194A9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 30,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 17:26:59 +0000 2019",
+    "id": 1098272820218548224,
+    "id_str": "1098272820218548224",
+    "text": "The Ocean always does something beautiful to my energy \ud83c\udf0a\u2728\nOne of the 46257 photos I took here. \ud83d\ude05\n.\n.\n.\n.\n.\n.\n.\n.\u2026 https://t.co/2lxbuiW2OA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2lxbuiW2OA",
+          "expanded_url": "https://twitter.com/i/web/status/1098272820218548224",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4613600782,
+      "id_str": "4613600782",
+      "name": "Kritika Goel \u2728",
+      "screen_name": "kritika_goel",
+      "location": "Mumbai, India",
+      "description": "Travel + Lifestyle YouTuber \ud83d\udc81\ud83c\udffb // https://t.co/sFGtSaoB6p // Email \ud83d\udce7 : business@blogofthethings.com",
+      "url": "https://t.co/ZXeZe3AAH5",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ZXeZe3AAH5",
+              "expanded_url": "https://linktr.ee/kritika_goel",
+              "display_url": "linktr.ee/kritika_goel",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/sFGtSaoB6p",
+              "expanded_url": "http://YouTube.com/kritikagoel",
+              "display_url": "YouTube.com/kritikagoel",
+              "indices": [
+                34,
+                57
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2252,
+      "friends_count": 305,
+      "listed_count": 22,
+      "created_at": "Sat Dec 26 18:50:45 +0000 2015",
+      "favourites_count": 2347,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2455,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/834826141789782016/K0Xq3312_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/834826141789782016/K0Xq3312_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4613600782/1519282642",
+      "profile_link_color": "1194A9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 30,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 00:50:09 +0000 2019",
+    "id": 1098021955603582976,
+    "id_str": "1098021955603582976",
+    "text": "Outra famosa... #brokenbeach #nusapenida #indonesia #amazing #beach #nature em Broken Beach https://t.co/fLQqeP2e5h",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "brokenbeach",
+          "indices": [
+            16,
+            28
+          ]
+        },
+        {
+          "text": "nusapenida",
+          "indices": [
+            29,
+            40
+          ]
+        },
+        {
+          "text": "indonesia",
+          "indices": [
+            41,
+            51
+          ]
+        },
+        {
+          "text": "amazing",
+          "indices": [
+            52,
+            60
+          ]
+        },
+        {
+          "text": "beach",
+          "indices": [
+            61,
+            67
+          ]
+        },
+        {
+          "text": "nature",
+          "indices": [
+            68,
+            75
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fLQqeP2e5h",
+          "expanded_url": "https://www.instagram.com/p/BuFYb16lA3s/?utm_source=ig_twitter_share&igshid=1c9d5knwrv3fo",
+          "display_url": "instagram.com/p/BuFYb16lA3s/\u2026",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 142484910,
+      "id_str": "142484910",
+      "name": "Danilo Fukushima",
+      "screen_name": "djfukushima",
+      "location": "Brasil",
+      "description": "Systems Analyst,Dj,Producer. Facebook - Danilo Fukushima",
+      "url": "https://t.co/SaYPM0kSwM",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/SaYPM0kSwM",
+              "expanded_url": "http://soundcloud.com/djfukushima",
+              "display_url": "soundcloud.com/djfukushima",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 138,
+      "friends_count": 134,
+      "listed_count": 2,
+      "created_at": "Tue May 11 00:53:07 +0000 2010",
+      "favourites_count": 558,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2088,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/938805845567029249/hyQA3YlG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/938805845567029249/hyQA3YlG_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

@@ -1,0 +1,1658 @@
+[
+  {
+    "created_at": "Sun Feb 24 13:25:02 +0000 2019",
+    "id": 1099661483250573312,
+    "id_str": "1099661483250573312",
+    "text": "#throwbackBali Pura Ulun Danu Beratan, or Pura Bratan, is a major Shaivite water temple on Bali, Indonesia. The tem\u2026 https://t.co/SYJzL5uqGb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "throwbackBali",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/SYJzL5uqGb",
+          "expanded_url": "https://twitter.com/i/web/status/1099661483250573312",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 862344561582002176,
+      "id_str": "862344561582002176",
+      "name": "Call Me Rie",
+      "screen_name": "ae_zee_rie89",
+      "location": "Kuala Lumpur Federal Territory, Malaysia",
+      "description": "\ud83e\uddd0\ud83d\ude1cLove karaoke \ud83c\udfa4SMULE ID: GSR_Rie_RX20 \ud83d\udcf8 \ud83c\udfc3\ud83c\udffb \u2708\ufe0f",
+      "url": "https://t.co/uk5QEdnjJb",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/uk5QEdnjJb",
+              "expanded_url": "http://instagram.com/ae_zee_rie",
+              "display_url": "instagram.com/ae_zee_rie",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 472,
+      "friends_count": 356,
+      "listed_count": 0,
+      "created_at": "Wed May 10 16:32:19 +0000 2017",
+      "favourites_count": 1489,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 11435,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1099685530122432513/v-KSKUol_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099685530122432513/v-KSKUol_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/862344561582002176/1551020438",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "0ea5a368a016a000",
+      "url": "https://api.twitter.com/1.1/geo/id/0ea5a368a016a000.json",
+      "place_type": "poi",
+      "name": "Bedugul Lake",
+      "full_name": "Bedugul Lake",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.1662691083706,
+              -8.275788747267772
+            ],
+            [
+              115.1662691083706,
+              -8.275788747267772
+            ],
+            [
+              115.1662691083706,
+              -8.275788747267772
+            ],
+            [
+              115.1662691083706,
+              -8.275788747267772
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 23 12:32:22 +0000 2019",
+    "id": 1099285839476068353,
+    "id_str": "1099285839476068353",
+    "text": "RT @mlmt_travel: The Ulun Danu Beratan Temple is both a well known picturesque place and a huge temple complex situated on the side of the\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "mlmt_travel",
+          "name": "mylastminutetrip.com",
+          "id": 893199212690653184,
+          "id_str": "893199212690653184",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4777006582,
+      "id_str": "4777006582",
+      "name": "FlightsandHotels",
+      "screen_name": "flightnhotels",
+      "location": "City of London, London",
+      "description": "Latest #Travel, #Flights and #Hotel #Deals. #Europe #Americas #MiddleEast #AsiaPacific #Africa #TravelBloggers #TravelAddicts #traveltuesday",
+      "url": "https://t.co/GfVZfJEcuw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/GfVZfJEcuw",
+              "expanded_url": "http://www.travelflightsandhotels.blogspot.co.uk",
+              "display_url": "travelflightsandhotels.blogspot.co.uk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1333,
+      "friends_count": 2161,
+      "listed_count": 330,
+      "created_at": "Mon Jan 11 19:12:48 +0000 2016",
+      "favourites_count": 3303,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36247,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/807688324181884928/7_4HS5bY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/807688324181884928/7_4HS5bY_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4777006582/1489647110",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Feb 23 11:31:28 +0000 2019",
+      "id": 1099270511966724098,
+      "id_str": "1099270511966724098",
+      "text": "The Ulun Danu Beratan Temple is both a well known picturesque place and a huge temple complex situated on the side\u2026 https://t.co/e6ZTTxmD7B",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/e6ZTTxmD7B",
+            "expanded_url": "https://twitter.com/i/web/status/1099270511966724098",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 893199212690653184,
+        "id_str": "893199212690653184",
+        "name": "mylastminutetrip.com",
+        "screen_name": "mlmt_travel",
+        "location": "Ahmadabad City, India",
+        "description": "Welcome to the official Twitter handle of an enterprise dedicated to solve all your travel needs, https://t.co/bF7y3tiJt8. We are your very own travel designers.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/bF7y3tiJt8",
+                "expanded_url": "http://Mylastminutetrip.com",
+                "display_url": "Mylastminutetrip.com",
+                "indices": [
+                  98,
+                  121
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8,
+        "friends_count": 0,
+        "listed_count": 1,
+        "created_at": "Thu Aug 03 19:57:41 +0000 2017",
+        "favourites_count": 104,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 169,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/948997422901964800/GJiDq4-K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/948997422901964800/GJiDq4-K_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/893199212690653184/1517819994",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 23 11:32:07 +0000 2019",
+    "id": 1099270676576432128,
+    "id_str": "1099270676576432128",
+    "text": "RT @mlmt_travel: The Ulun Danu Beratan Temple is both a well known picturesque place and a huge temple complex situated on the side of the\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "mlmt_travel",
+          "name": "mylastminutetrip.com",
+          "id": 893199212690653184,
+          "id_str": "893199212690653184",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://hiclassmag.com\" rel=\"nofollow\">HiClass A</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 62686264,
+      "id_str": "62686264",
+      "name": "Hi Class Mag",
+      "screen_name": "HiClassMag",
+      "location": "Englewood Cliffs, NJ",
+      "description": "Influencers ranked at \u00b1 10 on the Top 1000 Travel Blogs in the World https://t.co/2OzVOjyL3t",
+      "url": "https://t.co/DKaMoOtM2p",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/DKaMoOtM2p",
+              "expanded_url": "http://www.hiclassmag.com",
+              "display_url": "hiclassmag.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/2OzVOjyL3t",
+              "expanded_url": "https://www.rise.global/travel1k/r/latest",
+              "display_url": "rise.global/travel1k/r/lat\u2026",
+              "indices": [
+                69,
+                92
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 32021,
+      "friends_count": 18497,
+      "listed_count": 670,
+      "created_at": "Tue Aug 04 01:56:17 +0000 2009",
+      "favourites_count": 83856,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 52870,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "732525",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000365806187/b56e4c1087bddcf68419f7816cf027ee_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000365806187/b56e4c1087bddcf68419f7816cf027ee_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/62686264/1519664597",
+      "profile_link_color": "990000",
+      "profile_sidebar_border_color": "DFDFDF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Feb 23 11:31:28 +0000 2019",
+      "id": 1099270511966724098,
+      "id_str": "1099270511966724098",
+      "text": "The Ulun Danu Beratan Temple is both a well known picturesque place and a huge temple complex situated on the side\u2026 https://t.co/e6ZTTxmD7B",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/e6ZTTxmD7B",
+            "expanded_url": "https://twitter.com/i/web/status/1099270511966724098",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 893199212690653184,
+        "id_str": "893199212690653184",
+        "name": "mylastminutetrip.com",
+        "screen_name": "mlmt_travel",
+        "location": "Ahmadabad City, India",
+        "description": "Welcome to the official Twitter handle of an enterprise dedicated to solve all your travel needs, https://t.co/bF7y3tiJt8. We are your very own travel designers.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/bF7y3tiJt8",
+                "expanded_url": "http://Mylastminutetrip.com",
+                "display_url": "Mylastminutetrip.com",
+                "indices": [
+                  98,
+                  121
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8,
+        "friends_count": 0,
+        "listed_count": 1,
+        "created_at": "Thu Aug 03 19:57:41 +0000 2017",
+        "favourites_count": 104,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 169,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/948997422901964800/GJiDq4-K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/948997422901964800/GJiDq4-K_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/893199212690653184/1517819994",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 23 11:31:28 +0000 2019",
+    "id": 1099270511966724098,
+    "id_str": "1099270511966724098",
+    "text": "The Ulun Danu Beratan Temple is both a well known picturesque place and a huge temple complex situated on the side\u2026 https://t.co/e6ZTTxmD7B",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/e6ZTTxmD7B",
+          "expanded_url": "https://twitter.com/i/web/status/1099270511966724098",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 893199212690653184,
+      "id_str": "893199212690653184",
+      "name": "mylastminutetrip.com",
+      "screen_name": "mlmt_travel",
+      "location": "Ahmadabad City, India",
+      "description": "Welcome to the official Twitter handle of an enterprise dedicated to solve all your travel needs, https://t.co/bF7y3tiJt8. We are your very own travel designers.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bF7y3tiJt8",
+              "expanded_url": "http://Mylastminutetrip.com",
+              "display_url": "Mylastminutetrip.com",
+              "indices": [
+                98,
+                121
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8,
+      "friends_count": 0,
+      "listed_count": 1,
+      "created_at": "Thu Aug 03 19:57:41 +0000 2017",
+      "favourites_count": 104,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 169,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/948997422901964800/GJiDq4-K_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/948997422901964800/GJiDq4-K_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/893199212690653184/1517819994",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 23 06:00:03 +0000 2019",
+    "id": 1099187109221548032,
+    "id_str": "1099187109221548032",
+    "text": "Mesmerizing morning view from this beautiful lake \u2764\ufe0f\nUlun Danu Beratan Temple is located in the village of Candikun\u2026 https://t.co/b3lDEvLzPC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/b3lDEvLzPC",
+          "expanded_url": "https://twitter.com/i/web/status/1099187109221548032",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 992724899524362240,
+      "id_str": "992724899524362240",
+      "name": "Info Hotel & Villa Bali",
+      "screen_name": "hotelsdibali",
+      "location": "Bali, Indonesia",
+      "description": "for Villa & Hotel Services :\n\ud83d\udcbbOTA's Manager\n\ud83d\udcf1Social Media Admin | \ninfo@hotelsdibali.com",
+      "url": "https://t.co/UZcrhFLK7G",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/UZcrhFLK7G",
+              "expanded_url": "http://hotelsdibali.com",
+              "display_url": "hotelsdibali.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 24,
+      "friends_count": 6,
+      "listed_count": 2,
+      "created_at": "Sat May 05 11:17:14 +0000 2018",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 411,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/992725385740632065/IAxVMXN0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/992725385740632065/IAxVMXN0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/992724899524362240/1525519649",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 23 04:20:13 +0000 2019",
+    "id": 1099161987819261957,
+    "id_str": "1099161987819261957",
+    "text": "FOR SALE Exotic LAND IN Tabanan Bedugul TJTB373 \" This affordable 1,500 m2 PROPERTY FOR SALE IN BALI is located in\u2026 https://t.co/00IVMnsweq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/00IVMnsweq",
+          "expanded_url": "https://twitter.com/i/web/status/1099161987819261957",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 347,
+      "friends_count": 35,
+      "listed_count": 12,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 262409,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 23 02:09:43 +0000 2019",
+    "id": 1099129145471184897,
+    "id_str": "1099129145471184897",
+    "text": "FOR SALE Affordable 1,100 m2 LAND IN Tabanan Bedugul BALI TJTB371 \" Featuring Beautiful Beratan Lake and mountain v\u2026 https://t.co/ebEUmQmnyx",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ebEUmQmnyx",
+          "expanded_url": "https://twitter.com/i/web/status/1099129145471184897",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 347,
+      "friends_count": 35,
+      "listed_count": 12,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 262409,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 22 01:22:08 +0000 2019",
+    "id": 1098754780002959362,
+    "id_str": "1098754780002959362",
+    "text": "Affordable PROPERTY TABANAN 1,100 m2 LAND FOR SALE TJTB371 \" This Freehold 1,100 m2 PROPERTY FOR SALE IN TABANAN BA\u2026 https://t.co/yXXfdtfY9z",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yXXfdtfY9z",
+          "expanded_url": "https://twitter.com/i/web/status/1098754780002959362",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 347,
+      "friends_count": 35,
+      "listed_count": 12,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 262409,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 21 13:37:42 +0000 2019",
+    "id": 1098577506955714562,
+    "id_str": "1098577506955714562",
+    "text": "Beautiful PROPERTY TABANAN BALI 1,500 m2 LAND FOR SALE TJTB373 \" This Freehold 1,500 m2 PROPERTY IN BALI FOR SALE i\u2026 https://t.co/9kgAAryw9R",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/9kgAAryw9R",
+          "expanded_url": "https://twitter.com/i/web/status/1098577506955714562",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 347,
+      "friends_count": 35,
+      "listed_count": 12,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 262409,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 21 08:21:05 +0000 2019",
+    "id": 1098497828127760384,
+    "id_str": "1098497828127760384",
+    "text": "FOR SALE Beautiful PROPERTY 1,100 m2 LAND IN TABANAN TJTB371 \" This Freehold 1,100 m2 PROPERTY FOR SALE IN TABANAN\u2026 https://t.co/mgd7d7xigF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/mgd7d7xigF",
+          "expanded_url": "https://twitter.com/i/web/status/1098497828127760384",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 347,
+      "friends_count": 35,
+      "listed_count": 12,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 262409,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 21 02:00:39 +0000 2019",
+    "id": 1098402087350595584,
+    "id_str": "1098402087350595584",
+    "text": "A beautiful temple is sited on the soars of Beratan Lake and casts a neat reflection it its still waters. It\u2019s very\u2026 https://t.co/luCHD9JdTc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/luCHD9JdTc",
+          "expanded_url": "https://twitter.com/i/web/status/1098402087350595584",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 102200733,
+      "id_str": "102200733",
+      "name": "Gusti Bali Tours",
+      "screen_name": "gusti_bali_tour",
+      "location": "Tanah Lot - Bali",
+      "description": "Bali Tour online information that help you planning a memorable vacation in Bali with full package or just simple itinerary tour with private vehicle.",
+      "url": "https://t.co/rJ2DxBlsQ5",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rJ2DxBlsQ5",
+              "expanded_url": "https://www.gustibali.com",
+              "display_url": "gustibali.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4281,
+      "friends_count": 1797,
+      "listed_count": 2,
+      "created_at": "Tue Jan 05 23:26:00 +0000 2010",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 11478,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D2D3D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/972599498101858304/4PJckqwB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/972599498101858304/4PJckqwB_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/102200733/1520720767",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "BACFD9",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 21 02:00:23 +0000 2019",
+    "id": 1098402021667876865,
+    "id_str": "1098402021667876865",
+    "text": "A beautiful temple is sited on the soars of Beratan Lake and casts a neat reflection it its still waters. It\u2019s very\u2026 https://t.co/tDPybn2Ztk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/tDPybn2Ztk",
+          "expanded_url": "https://twitter.com/i/web/status/1098402021667876865",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 102200733,
+      "id_str": "102200733",
+      "name": "Gusti Bali Tours",
+      "screen_name": "gusti_bali_tour",
+      "location": "Tanah Lot - Bali",
+      "description": "Bali Tour online information that help you planning a memorable vacation in Bali with full package or just simple itinerary tour with private vehicle.",
+      "url": "https://t.co/rJ2DxBlsQ5",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rJ2DxBlsQ5",
+              "expanded_url": "https://www.gustibali.com",
+              "display_url": "gustibali.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4281,
+      "friends_count": 1797,
+      "listed_count": 2,
+      "created_at": "Tue Jan 05 23:26:00 +0000 2010",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 11478,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D2D3D4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/972599498101858304/4PJckqwB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/972599498101858304/4PJckqwB_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/102200733/1520720767",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "BACFD9",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.59464259,
+        115.11940241
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.11940241,
+        -8.59464259
+      ]
+    },
+    "place": {
+      "id": "ece4608dcf153c57",
+      "url": "https://api.twitter.com/1.1/geo/id/ece4608dcf153c57.json",
+      "place_type": "city",
+      "name": "Kediri",
+      "full_name": "Kediri, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.07098,
+              -8.637303
+            ],
+            [
+              115.163505,
+              -8.637303
+            ],
+            [
+              115.163505,
+              -8.514401
+            ],
+            [
+              115.07098,
+              -8.514401
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 05:34:11 +0000 2019",
+    "id": 1098093438128418816,
+    "id_str": "1098093438128418816",
+    "text": "Affordable PROPERTY LAND IN Tabanan Bedugul BALI FOR SALE TJTB373 \" Featuring Exceptional Beratan Lake and mountain\u2026 https://t.co/sADFrgtZgV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sADFrgtZgV",
+          "expanded_url": "https://twitter.com/i/web/status/1098093438128418816",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 347,
+      "friends_count": 35,
+      "listed_count": 12,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 262409,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

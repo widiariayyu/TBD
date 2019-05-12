@@ -1,0 +1,3490 @@
+[
+  {
+    "created_at": "Mon Mar 04 10:13:29 +0000 2019",
+    "id": 1102512379039047681,
+    "id_str": "1102512379039047681",
+    "text": "Sunsets are proof that no matter what happens, every day can end beautifully.. \ud83c\udf05\n.\n.\n.\n.\n#CarlaBaliChronicles #Kuta\u2026 https://t.co/0azzhzIGU4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CarlaBaliChronicles",
+          "indices": [
+            89,
+            109
+          ]
+        },
+        {
+          "text": "Kuta",
+          "indices": [
+            110,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/0azzhzIGU4",
+          "expanded_url": "https://twitter.com/i/web/status/1102512379039047681",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 358679709,
+      "id_str": "358679709",
+      "name": "Carla Teehankee",
+      "screen_name": "carlageorgianna",
+      "location": "manila, philippines",
+      "description": "Nerd | Cyclist | Mallaholic | Swimmer | CSer | ScubaDiver | Yogini | OnlyChild | Kickboxer | Fashionista | Surfer | ProudPinay | Runner | Triathlete",
+      "url": "https://t.co/4bCirMVwJe",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/4bCirMVwJe",
+              "expanded_url": "https://twitter.com/carlageorgianna",
+              "display_url": "twitter.com/carlageorgianna",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 173,
+      "friends_count": 230,
+      "listed_count": 16,
+      "created_at": "Sat Aug 20 09:33:10 +0000 2011",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2103,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "DB0F42",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/965539789956038657/GLdMuNVW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/965539789956038657/GLdMuNVW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/358679709/1519037603",
+      "profile_link_color": "FF0055",
+      "profile_sidebar_border_color": "FA0573",
+      "profile_sidebar_fill_color": "FF8FA5",
+      "profile_text_color": "050505",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.7224799,
+        115.17342
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.17342,
+        -8.7224799
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 00:35:47 +0000 2019",
+    "id": 1102366997910712320,
+    "id_str": "1102366997910712320",
+    "text": "First surf lesson.. Not so bad actually! #surf #surfing #bali #kutabeach #honeymoon #lunedemiel #backpacking\u2026 https://t.co/z9ylstpha0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "surf",
+          "indices": [
+            41,
+            46
+          ]
+        },
+        {
+          "text": "surfing",
+          "indices": [
+            47,
+            55
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            56,
+            61
+          ]
+        },
+        {
+          "text": "kutabeach",
+          "indices": [
+            62,
+            72
+          ]
+        },
+        {
+          "text": "honeymoon",
+          "indices": [
+            73,
+            83
+          ]
+        },
+        {
+          "text": "lunedemiel",
+          "indices": [
+            84,
+            95
+          ]
+        },
+        {
+          "text": "backpacking",
+          "indices": [
+            96,
+            108
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/z9ylstpha0",
+          "expanded_url": "https://twitter.com/i/web/status/1102366997910712320",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "fr",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 269430085,
+      "id_str": "269430085",
+      "name": "Guillaume B.",
+      "screen_name": "bsqtg",
+      "location": "Paris, or under the sea",
+      "description": "Je suis n\u00e9 le jour de la St Bacchus, \u00e7a pr\u00e9dispose? Mon meilleur conseiller d'orientation dans la vie, c'est mon caviste.",
+      "url": "https://t.co/U4w27CnFzt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/U4w27CnFzt",
+              "expanded_url": "http://instagram.com/capsounet",
+              "display_url": "instagram.com/capsounet",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 502,
+      "friends_count": 233,
+      "listed_count": 65,
+      "created_at": "Sun Mar 20 19:25:25 +0000 2011",
+      "favourites_count": 137,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 67727,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "709397",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/559410092999999488/J1jUUYpk_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/559410092999999488/J1jUUYpk_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/269430085/1358113213",
+      "profile_link_color": "FF3300",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Sun Mar 03 07:16:48 +0000 2019",
+    "id": 1102105525586661376,
+    "id_str": "1102105525586661376",
+    "text": "#kutabeach #bari #indonesia #travel #free #life #together \u5834\u6240: InterContinental Bali Resort https://t.co/udycRHFw1e",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kutabeach",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "bari",
+          "indices": [
+            11,
+            16
+          ]
+        },
+        {
+          "text": "indonesia",
+          "indices": [
+            17,
+            27
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            28,
+            35
+          ]
+        },
+        {
+          "text": "free",
+          "indices": [
+            36,
+            41
+          ]
+        },
+        {
+          "text": "life",
+          "indices": [
+            42,
+            47
+          ]
+        },
+        {
+          "text": "together",
+          "indices": [
+            48,
+            57
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/udycRHFw1e",
+          "expanded_url": "https://www.instagram.com/permanent_travelers/p/BuiZbV4hshm/?utm_source=ig_twitter_share&igshid=ds9569jigjjg",
+          "display_url": "instagram.com/permanent_trav\u2026",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1038644647998803968,
+      "id_str": "1038644647998803968",
+      "name": "\u30d5\u30af\u30ed\u30a6\u3055\u3093",
+      "screen_name": "Owl43598670",
+      "location": "",
+      "description": "Permanent Traveler.\n\n\u4e16\u754c\u4e2d\u3092\u3076\u3089\u308a\u65c5\u3002",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14,
+      "friends_count": 75,
+      "listed_count": 0,
+      "created_at": "Sun Sep 09 04:25:55 +0000 2018",
+      "favourites_count": 182,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1085068350663712769/Vkelb4kJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085068350663712769/Vkelb4kJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1038644647998803968/1536481997",
+      "profile_link_color": "FAB81E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Mar 03 07:09:45 +0000 2019",
+    "id": 1102103754927616002,
+    "id_str": "1102103754927616002",
+    "text": "Only BALI \nYeah only Bali iam falin\u2019inLove\n\n#Bali #kutabeach #kuta #kutabali #sanur #sanurbeach #sanurbali\u2026 https://t.co/u5tkDYTNgj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Bali",
+          "indices": [
+            44,
+            49
+          ]
+        },
+        {
+          "text": "kutabeach",
+          "indices": [
+            50,
+            60
+          ]
+        },
+        {
+          "text": "kuta",
+          "indices": [
+            61,
+            66
+          ]
+        },
+        {
+          "text": "kutabali",
+          "indices": [
+            67,
+            76
+          ]
+        },
+        {
+          "text": "sanur",
+          "indices": [
+            77,
+            83
+          ]
+        },
+        {
+          "text": "sanurbeach",
+          "indices": [
+            84,
+            95
+          ]
+        },
+        {
+          "text": "sanurbali",
+          "indices": [
+            96,
+            106
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/u5tkDYTNgj",
+          "expanded_url": "https://twitter.com/i/web/status/1102103754927616002",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 467220908,
+      "id_str": "467220908",
+      "name": "Tom Pray",
+      "screen_name": "tomprayoga",
+      "location": "LanUd",
+      "description": "Some People judge me, i am a mighty , you don't know who am i.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 28,
+      "friends_count": 119,
+      "listed_count": 0,
+      "created_at": "Wed Jan 18 07:27:31 +0000 2012",
+      "favourites_count": 372,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3767,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/784331389818646529/oevgGj4-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/784331389818646529/oevgGj4-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/467220908/1528074874",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.6764,
+        115.2153
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.2153,
+        -8.6764
+      ]
+    },
+    "place": {
+      "id": "cf712fd91280ebff",
+      "url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+      "place_type": "city",
+      "name": "Denpasar Barat",
+      "full_name": "Denpasar Barat, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.173695,
+              -8.70934
+            ],
+            [
+              115.235563,
+              -8.70934
+            ],
+            [
+              115.235563,
+              -8.591728
+            ],
+            [
+              115.173695,
+              -8.591728
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 03 01:36:00 +0000 2019",
+    "id": 1102019760869453824,
+    "id_str": "1102019760869453824",
+    "text": "An ocean breeze put mind at ease. \n\n#Summer #Joy #Bali #KutaBeach #Holiday https://t.co/qIF5j7W8y1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Summer",
+          "indices": [
+            36,
+            43
+          ]
+        },
+        {
+          "text": "Joy",
+          "indices": [
+            44,
+            48
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            49,
+            54
+          ]
+        },
+        {
+          "text": "KutaBeach",
+          "indices": [
+            55,
+            65
+          ]
+        },
+        {
+          "text": "Holiday",
+          "indices": [
+            66,
+            74
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1102019737557467136,
+          "id_str": "1102019737557467136",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0spHNCVAAAHtjP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0spHNCVAAAHtjP.jpg",
+          "url": "https://t.co/qIF5j7W8y1",
+          "display_url": "pic.twitter.com/qIF5j7W8y1",
+          "expanded_url": "https://twitter.com/HARRISTuban/status/1102019760869453824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1102019737557467136,
+          "id_str": "1102019737557467136",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0spHNCVAAAHtjP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0spHNCVAAAHtjP.jpg",
+          "url": "https://t.co/qIF5j7W8y1",
+          "display_url": "pic.twitter.com/qIF5j7W8y1",
+          "expanded_url": "https://twitter.com/HARRISTuban/status/1102019760869453824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 177152513,
+      "id_str": "177152513",
+      "name": "HARRIS Tuban",
+      "screen_name": "HARRISTuban",
+      "location": "Bali",
+      "description": "Harris Hotel Tuban Bali  Jl. Dewi Sartika  Tuban - Bali 80361  Indonesia  Tel: +62 361 9365 255   Fax: +62 361 9366 258  Email: sales-harris-tuban@tauzia.com",
+      "url": "https://t.co/xl98FAZx7B",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/xl98FAZx7B",
+              "expanded_url": "https://booking.tauzia.com/26?utm_source=IGHRVB&utm_medium=IGHRVBbio",
+              "display_url": "booking.tauzia.com/26?utm_source=\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1296,
+      "friends_count": 100,
+      "listed_count": 20,
+      "created_at": "Wed Aug 11 11:24:52 +0000 2010",
+      "favourites_count": 97,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2033,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "006666",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1051683557641347072/MP_G4_Ke_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051683557641347072/MP_G4_Ke_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/177152513/1539575897",
+      "profile_link_color": "660000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 02 16:51:16 +0000 2019",
+    "id": 1101887709302251522,
+    "id_str": "1101887709302251522",
+    "text": "#Beach #WonderfulIndonesia #Bali #KutaBeach https://t.co/cglbsWiHqN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Beach",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "WonderfulIndonesia",
+          "indices": [
+            7,
+            26
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            27,
+            32
+          ]
+        },
+        {
+          "text": "KutaBeach",
+          "indices": [
+            33,
+            43
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1101887700095778817,
+          "id_str": "1101887700095778817",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0qxBnKUwAEUhkj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0qxBnKUwAEUhkj.jpg",
+          "url": "https://t.co/cglbsWiHqN",
+          "display_url": "pic.twitter.com/cglbsWiHqN",
+          "expanded_url": "https://twitter.com/apriliakurniap/status/1101887709302251522/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1101887700095778817,
+          "id_str": "1101887700095778817",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0qxBnKUwAEUhkj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0qxBnKUwAEUhkj.jpg",
+          "url": "https://t.co/cglbsWiHqN",
+          "display_url": "pic.twitter.com/cglbsWiHqN",
+          "expanded_url": "https://twitter.com/apriliakurniap/status/1101887709302251522/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1086756057320349696,
+      "id_str": "1086756057320349696",
+      "name": "Apriliakurniap",
+      "screen_name": "apriliakurniap",
+      "location": "Sumowono, Semarang",
+      "description": "Ig : @apriliakurniap",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 13,
+      "listed_count": 0,
+      "created_at": "Sat Jan 19 22:43:29 +0000 2019",
+      "favourites_count": 346,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1086801015456714752/7VKWPhN1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086801015456714752/7VKWPhN1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1086756057320349696/1551544166",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Sat Mar 02 07:32:02 +0000 2019",
+    "id": 1101746972946505728,
+    "id_str": "1101746972946505728",
+    "text": "Thank you happy guest!\n\nMemorable stay, only at #surishotel\nFor reservation visit our Official Website :\u2026 https://t.co/wjb4IHjsho",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "surishotel",
+          "indices": [
+            48,
+            59
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/wjb4IHjsho",
+          "expanded_url": "https://twitter.com/i/web/status/1101746972946505728",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1228996513,
+      "id_str": "1228996513",
+      "name": "Suris Boutique Hotel",
+      "screen_name": "SurisHotel",
+      "location": "Jalan Blambangan no. 5 Kuta, Badung, Bali, Indonesia",
+      "description": "Smart living for modern lifestyle",
+      "url": "https://t.co/RhW3OnCLG6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/RhW3OnCLG6",
+              "expanded_url": "http://www.surishotel.com/",
+              "display_url": "surishotel.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 119,
+      "friends_count": 315,
+      "listed_count": 1,
+      "created_at": "Fri Mar 01 04:21:42 +0000 2013",
+      "favourites_count": 5,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 148,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/962867314155663361/6Hlywt_1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/962867314155663361/6Hlywt_1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228996513/1518417030",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 02 06:38:58 +0000 2019",
+    "id": 1101733616508272640,
+    "id_str": "1101733616508272640",
+    "text": ".segores cerita ,,semoga kan abadi di setiap kenangannya ..dan semoga bisa berkunjung lagi ke kotamu yang indah nan\u2026 https://t.co/WOWkCVP7fS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/WOWkCVP7fS",
+          "expanded_url": "https://twitter.com/i/web/status/1101733616508272640",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 818595102,
+      "id_str": "818595102",
+      "name": "robetramadhani",
+      "screen_name": "kaktuzband",
+      "location": "\u00dcT: 0.429088125,103.5661775",
+      "description": ".jalani hidupmu sebagaimana hidupmu berjalan .. \u2202\u03c3\u03b7'\u0442 \u0454\u03c7\u03c1\u0454\u00a2\u0442 \u03b1\u03b7y\u0442\u043d\u03b9\u03b7g \u03b9\u03b7\r\n\u2113\u03b9\u0192\u0454,\r\n\u0454\u03c7\u03c1\u0454\u00a2\u0442\u03b1\u0442\u03b9\u03c3\u03b7 \u03b1\u2113\u03c9\u03b1y\u0455 \u043d\u03c5\u044f\u0442\u0455\r\n\u03b1\u03b7\u2202\r\n\u0442\u043d\u0454\u0455\u0454 \u043d\u03c5\u044f\u0442\u0455 \u03b1 \u2113\u03c3\u0442 , \u03c9\u043d\u0454\u03b7 y\u03c3\u03c5\r\n\u2202\u03c3\u03b7'\u0442\r\n\u0454\u03c7\u03c1\u0454\u00a2\u0442",
+      "url": "http://t.co/J1parolfGE",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/J1parolfGE",
+              "expanded_url": "http://m.youtube.com/watch?v=W86o-yqyDCU&feature=youtube_gdata_player&desktop_uri=%2Fwatch%3Fv%3DW86o-yqyDCU%26feature%3Dyoutube_gdata_player",
+              "display_url": "m.youtube.com/watch?v=W86o-y\u2026",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 13,
+      "friends_count": 108,
+      "listed_count": 0,
+      "created_at": "Wed Sep 12 01:45:00 +0000 2012",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1199,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3611582817/9c215e0cb04b33545e789c11a5ef13aa_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3611582817/9c215e0cb04b33545e789c11a5ef13aa_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818595102/1367661036",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sat Mar 02 01:17:42 +0000 2019",
+    "id": 1101652768551391233,
+    "id_str": "1101652768551391233",
+    "text": "Maybe she will be a professional surfer in the future?? Thanks for the cute photo fejoseva \ud83d\udc93 See you again soon!\u2026 https://t.co/leph3epx1S",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/leph3epx1S",
+          "expanded_url": "https://twitter.com/i/web/status/1101652768551391233",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 609667786,
+      "id_str": "609667786",
+      "name": "Grand Inna Kuta",
+      "screen_name": "GrandInnaKuta",
+      "location": "Kuta - Bali - Indonesia",
+      "description": "Official twitter account of Grand Inna Kuta. We track #GrandInnaKuta",
+      "url": "http://t.co/VHnJIyWbgl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/VHnJIyWbgl",
+              "expanded_url": "http://www.grandinnakuta.com",
+              "display_url": "grandinnakuta.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 213,
+      "friends_count": 32,
+      "listed_count": 2,
+      "created_at": "Sat Jun 16 03:53:13 +0000 2012",
+      "favourites_count": 35,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 475,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "DBE9ED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/877802132543385601/05dyCeVY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/877802132543385601/05dyCeVY_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/609667786/1499414354",
+      "profile_link_color": "CC3366",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 21:24:35 +0000 2019",
+    "id": 1101231713798238216,
+    "id_str": "1101231713798238216",
+    "text": "\ud83c\udf7a + \ud83c\udfd6\ufe0f + \ud83c\udf05 + \ud83c\uddee\ud83c\udde9\n\n#tbt #sunset #kutabeach #bali #indonesia #beach #beer #summer #sun #relax en Kuta Beach, Pantai Ku\u2026 https://t.co/8u7gsf1zGF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "tbt",
+          "indices": [
+            17,
+            21
+          ]
+        },
+        {
+          "text": "sunset",
+          "indices": [
+            22,
+            29
+          ]
+        },
+        {
+          "text": "kutabeach",
+          "indices": [
+            30,
+            40
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            41,
+            46
+          ]
+        },
+        {
+          "text": "indonesia",
+          "indices": [
+            47,
+            57
+          ]
+        },
+        {
+          "text": "beach",
+          "indices": [
+            58,
+            64
+          ]
+        },
+        {
+          "text": "beer",
+          "indices": [
+            65,
+            70
+          ]
+        },
+        {
+          "text": "summer",
+          "indices": [
+            71,
+            78
+          ]
+        },
+        {
+          "text": "sun",
+          "indices": [
+            79,
+            83
+          ]
+        },
+        {
+          "text": "relax",
+          "indices": [
+            84,
+            90
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/8u7gsf1zGF",
+          "expanded_url": "https://twitter.com/i/web/status/1101231713798238216",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 276206120,
+      "id_str": "276206120",
+      "name": "Vicente M. Ayala \u26a1",
+      "screen_name": "vicenayala",
+      "location": "Elche, Spain",
+      "description": "Living in Elx \ud83c\udf34\ud83e\udd58 \u25b6 \ud83d\udcdd #Journalism \u25b6 \ud83d\udca1 ADvertising & Public Relations \u25b6 \ud83c\udfa4 Communication \u25b6 \ud83d\udcbb #DigitalMarketing & \ud83d\udcf1 #SocialMedia \u25b6 \ud83d\udce9 vicentemayala@gmail.com",
+      "url": "https://t.co/2G9nnHgNfL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2G9nnHgNfL",
+              "expanded_url": "https://gaddr.me/vicenayala",
+              "display_url": "gaddr.me/vicenayala",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1011,
+      "friends_count": 2107,
+      "listed_count": 106,
+      "created_at": "Sat Apr 02 21:52:32 +0000 2011",
+      "favourites_count": 3690,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 34014,
+      "lang": "es",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1071914146852155392/Bk1RzlQq_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1071914146852155392/Bk1RzlQq_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/276206120/1484334232",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "040F54",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.7224799,
+        115.17342
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.17342,
+        -8.7224799
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Thu Feb 28 14:35:42 +0000 2019",
+    "id": 1101128815085084672,
+    "id_str": "1101128815085084672",
+    "text": "Channeling my inner Widodo here. They say I easily pass up for an Indonesian, many vendors talk to me in Bahasa Ind\u2026 https://t.co/c1jx57IvZg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/c1jx57IvZg",
+          "expanded_url": "https://twitter.com/i/web/status/1101128815085084672",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 228423325,
+      "id_str": "228423325",
+      "name": "Leon Flores III",
+      "screen_name": "leonfloresiii",
+      "location": "Metro Manila/ Cebu",
+      "description": "Soul-searching....",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1252,
+      "friends_count": 1225,
+      "listed_count": 13,
+      "created_at": "Sun Dec 19 17:39:39 +0000 2010",
+      "favourites_count": 1077,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8566,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.71688466,
+        115.16970849
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16970849,
+        -8.71688466
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 14:25:42 +0000 2019",
+    "id": 1101126299198869504,
+    "id_str": "1101126299198869504",
+    "text": "Bromance on one side and soul sister love on the other. As a loving couple strolls along. Chances are, all their li\u2026 https://t.co/gE5uqeebUQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/gE5uqeebUQ",
+          "expanded_url": "https://twitter.com/i/web/status/1101126299198869504",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 228423325,
+      "id_str": "228423325",
+      "name": "Leon Flores III",
+      "screen_name": "leonfloresiii",
+      "location": "Metro Manila/ Cebu",
+      "description": "Soul-searching....",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1252,
+      "friends_count": 1225,
+      "listed_count": 13,
+      "created_at": "Sun Dec 19 17:39:39 +0000 2010",
+      "favourites_count": 1077,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8566,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.7224799,
+        115.17342
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.17342,
+        -8.7224799
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 14:18:20 +0000 2019",
+    "id": 1101124445232615425,
+    "id_str": "1101124445232615425",
+    "text": "Street food noodles with meatballs complete the Bali beachfront experience!:)  \n\n#KutaBeach #Indonesia #Bali\u2026 https://t.co/EyvTj9Xarv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "KutaBeach",
+          "indices": [
+            81,
+            91
+          ]
+        },
+        {
+          "text": "Indonesia",
+          "indices": [
+            92,
+            102
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            103,
+            108
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/EyvTj9Xarv",
+          "expanded_url": "https://twitter.com/i/web/status/1101124445232615425",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 228423325,
+      "id_str": "228423325",
+      "name": "Leon Flores III",
+      "screen_name": "leonfloresiii",
+      "location": "Metro Manila/ Cebu",
+      "description": "Soul-searching....",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1252,
+      "friends_count": 1225,
+      "listed_count": 13,
+      "created_at": "Sun Dec 19 17:39:39 +0000 2010",
+      "favourites_count": 1077,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8566,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.7224799,
+        115.17342
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.17342,
+        -8.7224799
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 13:04:58 +0000 2019",
+    "id": 1101105982804058112,
+    "id_str": "1101105982804058112",
+    "text": "\u201cMake sure my piggyboobs don\u2019t show.\u201d \n\n#KutaBeach #Indonesia #Bali\n #InstaTravels #Travels #Beaches\u2026 https://t.co/KVRw8Iknee",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "KutaBeach",
+          "indices": [
+            40,
+            50
+          ]
+        },
+        {
+          "text": "Indonesia",
+          "indices": [
+            51,
+            61
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            62,
+            67
+          ]
+        },
+        {
+          "text": "InstaTravels",
+          "indices": [
+            69,
+            82
+          ]
+        },
+        {
+          "text": "Travels",
+          "indices": [
+            83,
+            91
+          ]
+        },
+        {
+          "text": "Beaches",
+          "indices": [
+            92,
+            100
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KVRw8Iknee",
+          "expanded_url": "https://twitter.com/i/web/status/1101105982804058112",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 228423325,
+      "id_str": "228423325",
+      "name": "Leon Flores III",
+      "screen_name": "leonfloresiii",
+      "location": "Metro Manila/ Cebu",
+      "description": "Soul-searching....",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1252,
+      "friends_count": 1225,
+      "listed_count": 13,
+      "created_at": "Sun Dec 19 17:39:39 +0000 2010",
+      "favourites_count": 1077,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8566,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.7224799,
+        115.17342
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.17342,
+        -8.7224799
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 12:51:37 +0000 2019",
+    "id": 1101102623518851072,
+    "id_str": "1101102623518851072",
+    "text": "RT @leonfloresiii: Life\u2019s a beach. \n#KutaBeach #Indonesia #Bali\n #InstaTravels #Travels #Beaches #BeautifulDestinations #BucketList #travel\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "KutaBeach",
+          "indices": [
+            36,
+            46
+          ]
+        },
+        {
+          "text": "Indonesia",
+          "indices": [
+            47,
+            57
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            58,
+            63
+          ]
+        },
+        {
+          "text": "InstaTravels",
+          "indices": [
+            65,
+            78
+          ]
+        },
+        {
+          "text": "Travels",
+          "indices": [
+            79,
+            87
+          ]
+        },
+        {
+          "text": "Beaches",
+          "indices": [
+            88,
+            96
+          ]
+        },
+        {
+          "text": "BeautifulDestinations",
+          "indices": [
+            97,
+            119
+          ]
+        },
+        {
+          "text": "BucketList",
+          "indices": [
+            120,
+            131
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "leonfloresiii",
+          "name": "Leon Flores III",
+          "id": 228423325,
+          "id_str": "228423325",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.botlibre.com\" rel=\"nofollow\">Bot Libre!</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 985455404221173760,
+      "id_str": "985455404221173760",
+      "name": "HotBestVacationDealsOnline",
+      "screen_name": "OnlintravelDeal",
+      "location": "",
+      "description": "best Hotels | Flights | Car Rental",
+      "url": "https://t.co/TZUO3rZFP6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/TZUO3rZFP6",
+              "expanded_url": "http://metavacation.com/",
+              "display_url": "metavacation.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 465,
+      "friends_count": 300,
+      "listed_count": 12,
+      "created_at": "Sun Apr 15 09:50:52 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 31819,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/985467436064477185/In89apMw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/985467436064477185/In89apMw_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/985455404221173760/1523788539",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 12:33:24 +0000 2019",
+      "id": 1101098040444608512,
+      "id_str": "1101098040444608512",
+      "text": "Life\u2019s a beach. \n#KutaBeach #Indonesia #Bali\n #InstaTravels #Travels #Beaches #BeautifulDestinations #BucketList\u2026 https://t.co/z66Ri6uOap",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "KutaBeach",
+            "indices": [
+              17,
+              27
+            ]
+          },
+          {
+            "text": "Indonesia",
+            "indices": [
+              28,
+              38
+            ]
+          },
+          {
+            "text": "Bali",
+            "indices": [
+              39,
+              44
+            ]
+          },
+          {
+            "text": "InstaTravels",
+            "indices": [
+              46,
+              59
+            ]
+          },
+          {
+            "text": "Travels",
+            "indices": [
+              60,
+              68
+            ]
+          },
+          {
+            "text": "Beaches",
+            "indices": [
+              69,
+              77
+            ]
+          },
+          {
+            "text": "BeautifulDestinations",
+            "indices": [
+              78,
+              100
+            ]
+          },
+          {
+            "text": "BucketList",
+            "indices": [
+              101,
+              112
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/z66Ri6uOap",
+            "expanded_url": "https://twitter.com/i/web/status/1101098040444608512",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 228423325,
+        "id_str": "228423325",
+        "name": "Leon Flores III",
+        "screen_name": "leonfloresiii",
+        "location": "Metro Manila/ Cebu",
+        "description": "Soul-searching....",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1252,
+        "friends_count": 1225,
+        "listed_count": 13,
+        "created_at": "Sun Dec 19 17:39:39 +0000 2010",
+        "favourites_count": 1077,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8566,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -8.7224799,
+          115.17342
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          115.17342,
+          -8.7224799
+        ]
+      },
+      "place": {
+        "id": "6ab2f5132f36eb85",
+        "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+        "place_type": "city",
+        "name": "Kuta",
+        "full_name": "Kuta, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                115.083847,
+                -8.849261
+              ],
+              [
+                115.240267,
+                -8.849261
+              ],
+              [
+                115.240267,
+                -8.601695
+              ],
+              [
+                115.083847,
+                -8.601695
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 12:46:10 +0000 2019",
+    "id": 1101101251788328963,
+    "id_str": "1101101251788328963",
+    "text": "Street food noodle soup with meatballs complete the Bali beachfront experience!:) \n\n#KutaBeach #Indonesia #Bali\u2026 https://t.co/OFWqgzmw7z",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "KutaBeach",
+          "indices": [
+            84,
+            94
+          ]
+        },
+        {
+          "text": "Indonesia",
+          "indices": [
+            95,
+            105
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            106,
+            111
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/OFWqgzmw7z",
+          "expanded_url": "https://twitter.com/i/web/status/1101101251788328963",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 228423325,
+      "id_str": "228423325",
+      "name": "Leon Flores III",
+      "screen_name": "leonfloresiii",
+      "location": "Metro Manila/ Cebu",
+      "description": "Soul-searching....",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1252,
+      "friends_count": 1225,
+      "listed_count": 13,
+      "created_at": "Sun Dec 19 17:39:39 +0000 2010",
+      "favourites_count": 1077,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8566,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.7224799,
+        115.17342
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.17342,
+        -8.7224799
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 12:42:23 +0000 2019",
+    "id": 1101100299249319937,
+    "id_str": "1101100299249319937",
+    "text": "Gelato di Bruno while working in between naps at the beach! Strawberry sorbet and sugar-free dark chocolate wards o\u2026 https://t.co/bYWShMYksx",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/bYWShMYksx",
+          "expanded_url": "https://twitter.com/i/web/status/1101100299249319937",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 228423325,
+      "id_str": "228423325",
+      "name": "Leon Flores III",
+      "screen_name": "leonfloresiii",
+      "location": "Metro Manila/ Cebu",
+      "description": "Soul-searching....",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1252,
+      "friends_count": 1225,
+      "listed_count": 13,
+      "created_at": "Sun Dec 19 17:39:39 +0000 2010",
+      "favourites_count": 1077,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8566,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.7224799,
+        115.17342
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.17342,
+        -8.7224799
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 12:33:24 +0000 2019",
+    "id": 1101098040444608512,
+    "id_str": "1101098040444608512",
+    "text": "Life\u2019s a beach. \n#KutaBeach #Indonesia #Bali\n #InstaTravels #Travels #Beaches #BeautifulDestinations #BucketList\u2026 https://t.co/z66Ri6uOap",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "KutaBeach",
+          "indices": [
+            17,
+            27
+          ]
+        },
+        {
+          "text": "Indonesia",
+          "indices": [
+            28,
+            38
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            39,
+            44
+          ]
+        },
+        {
+          "text": "InstaTravels",
+          "indices": [
+            46,
+            59
+          ]
+        },
+        {
+          "text": "Travels",
+          "indices": [
+            60,
+            68
+          ]
+        },
+        {
+          "text": "Beaches",
+          "indices": [
+            69,
+            77
+          ]
+        },
+        {
+          "text": "BeautifulDestinations",
+          "indices": [
+            78,
+            100
+          ]
+        },
+        {
+          "text": "BucketList",
+          "indices": [
+            101,
+            112
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/z66Ri6uOap",
+          "expanded_url": "https://twitter.com/i/web/status/1101098040444608512",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 228423325,
+      "id_str": "228423325",
+      "name": "Leon Flores III",
+      "screen_name": "leonfloresiii",
+      "location": "Metro Manila/ Cebu",
+      "description": "Soul-searching....",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1252,
+      "friends_count": 1225,
+      "listed_count": 13,
+      "created_at": "Sun Dec 19 17:39:39 +0000 2010",
+      "favourites_count": 1077,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8566,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2770461458/6822d63b353a1b20836e030c692487dd_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.7224799,
+        115.17342
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.17342,
+        -8.7224799
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 11:03:31 +0000 2019",
+    "id": 1101075419602784256,
+    "id_str": "1101075419602784256",
+    "text": "Sunset streak over. Here's the last 5 nights\n.\n.\n.\n#nyangnyangbeach #melastibeach #kutabeach #doublesixbeach\u2026 https://t.co/j2XM9aRBp5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "nyangnyangbeach",
+          "indices": [
+            51,
+            67
+          ]
+        },
+        {
+          "text": "melastibeach",
+          "indices": [
+            68,
+            81
+          ]
+        },
+        {
+          "text": "kutabeach",
+          "indices": [
+            82,
+            92
+          ]
+        },
+        {
+          "text": "doublesixbeach",
+          "indices": [
+            93,
+            108
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/j2XM9aRBp5",
+          "expanded_url": "https://twitter.com/i/web/status/1101075419602784256",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 236927370,
+      "id_str": "236927370",
+      "name": "Cameron Brennan",
+      "screen_name": "CameroonBrennan",
+      "location": "Southeast Asia",
+      "description": "QPR season ticket holder for 11 years. Now exploring Southeast Asia  \ud83c\uddf9\ud83c\udded  \ud83c\uddf1\ud83c\udde6 \ud83c\uddf0\ud83c\udded \ud83c\uddfb\ud83c\uddf3\ud83c\uddf2\ud83c\uddfe \ud83c\udde8\ud83c\uddf3 \ud83c\uddee\ud83c\udde9\ud83c\udde8\ud83c\uddf3 \ud83c\uddf8\ud83c\uddec",
+      "url": "https://t.co/WHluadOsly",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/WHluadOsly",
+              "expanded_url": "http://1man1continent.wordpress.com",
+              "display_url": "1man1continent.wordpress.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 239,
+      "friends_count": 225,
+      "listed_count": 5,
+      "created_at": "Tue Jan 11 17:48:25 +0000 2011",
+      "favourites_count": 1605,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 10308,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1043865726598221824/oUlvpavi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043865726598221824/oUlvpavi_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/236927370/1531472650",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.64619568,
+        115.18066406
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.18066406,
+        -8.64619568
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 04:35:30 +0000 2019",
+    "id": 1100977771264782336,
+    "id_str": "1100977771264782336",
+    "text": "Come to Sunken Bar, it has drinks that boost up your day!\n#gik #grandinnakuta #hig #hotelindonesiagroup #kuta #bali\u2026 https://t.co/wVvvqH5nSv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "gik",
+          "indices": [
+            58,
+            62
+          ]
+        },
+        {
+          "text": "grandinnakuta",
+          "indices": [
+            63,
+            77
+          ]
+        },
+        {
+          "text": "hig",
+          "indices": [
+            78,
+            82
+          ]
+        },
+        {
+          "text": "hotelindonesiagroup",
+          "indices": [
+            83,
+            103
+          ]
+        },
+        {
+          "text": "kuta",
+          "indices": [
+            104,
+            109
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            110,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/wVvvqH5nSv",
+          "expanded_url": "https://twitter.com/i/web/status/1100977771264782336",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 609667786,
+      "id_str": "609667786",
+      "name": "Grand Inna Kuta",
+      "screen_name": "GrandInnaKuta",
+      "location": "Kuta - Bali - Indonesia",
+      "description": "Official twitter account of Grand Inna Kuta. We track #GrandInnaKuta",
+      "url": "http://t.co/VHnJIyWbgl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/VHnJIyWbgl",
+              "expanded_url": "http://www.grandinnakuta.com",
+              "display_url": "grandinnakuta.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 213,
+      "friends_count": 32,
+      "listed_count": 2,
+      "created_at": "Sat Jun 16 03:53:13 +0000 2012",
+      "favourites_count": 35,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 475,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "DBE9ED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/877802132543385601/05dyCeVY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/877802132543385601/05dyCeVY_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/609667786/1499414354",
+      "profile_link_color": "CC3366",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 03:14:20 +0000 2019",
+    "id": 1100957346237427713,
+    "id_str": "1100957346237427713",
+    "text": "To go out with the setting sun on an empty beach is to truly embrace your solitude.\n.\n.\n#baligasm #bali\u2026 https://t.co/RyCe6toNNX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "baligasm",
+          "indices": [
+            88,
+            97
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            98,
+            103
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/RyCe6toNNX",
+          "expanded_url": "https://twitter.com/i/web/status/1100957346237427713",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1087242970011783168,
+      "id_str": "1087242970011783168",
+      "name": "Avanis Basnet",
+      "screen_name": "gypsysoul_12_",
+      "location": "Gangtok, India",
+      "description": "I Avanis Basnet would love to share my story through Photography. Ask what ever you want regarding Photography, will try my best to help you out.",
+      "url": "https://t.co/INX7NDBf8q",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/INX7NDBf8q",
+              "expanded_url": "https://www.instagram.com/p/Bs3Nmsynqop/?utm_source=ig_share_sheet&igshid=19s2w6calu2li",
+              "display_url": "instagram.com/p/Bs3Nmsynqop/\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 62,
+      "friends_count": 252,
+      "listed_count": 0,
+      "created_at": "Mon Jan 21 06:58:18 +0000 2019",
+      "favourites_count": 105,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 39,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1087243201688322049/3FZVeiPo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087243201688322049/3FZVeiPo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087242970011783168/1548054287",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

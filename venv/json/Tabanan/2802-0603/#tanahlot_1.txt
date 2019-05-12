@@ -1,0 +1,2005 @@
+[
+  {
+    "created_at": "Tue Mar 05 20:40:18 +0000 2019",
+    "id": 1103032511079292930,
+    "id_str": "1103032511079292930",
+    "text": "The Quite Magnificent Tanah Lot In Bali \n\nhttps://t.co/COKwyBYujt\n\n#travel #lookatourworld #travelbloging\u2026 https://t.co/TksswnmuZc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "travel",
+          "indices": [
+            67,
+            74
+          ]
+        },
+        {
+          "text": "lookatourworld",
+          "indices": [
+            75,
+            90
+          ]
+        },
+        {
+          "text": "travelbloging",
+          "indices": [
+            91,
+            105
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/COKwyBYujt",
+          "expanded_url": "https://www.lookatourworld.com/tanah-lot-bali/",
+          "display_url": "lookatourworld.com/tanah-lot-bali/",
+          "indices": [
+            42,
+            65
+          ]
+        },
+        {
+          "url": "https://t.co/TksswnmuZc",
+          "expanded_url": "https://twitter.com/i/web/status/1103032511079292930",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.totaltraveltag.com\" rel=\"nofollow\">Total Travel TAG</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3367442625,
+      "id_str": "3367442625",
+      "name": "Look at our World",
+      "screen_name": "NomadicBrits",
+      "location": "Currently in the UK",
+      "description": "#travelblogger online magazine, written by travellers, for travellers. Currently over 400 articles and counting",
+      "url": "https://t.co/DSDuSczdMd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/DSDuSczdMd",
+              "expanded_url": "http://www.lookatourworld.com",
+              "display_url": "lookatourworld.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 18912,
+      "friends_count": 14929,
+      "listed_count": 271,
+      "created_at": "Thu Jul 09 11:34:26 +0000 2015",
+      "favourites_count": 153,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 35299,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3367442625/1537198080",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Mar 05 14:26:39 +0000 2019",
+    "id": 1102938478877249536,
+    "id_str": "1102938478877249536",
+    "text": "Bedugul and Tanah Lot Tour! #bali2019 #balihandaragate #ulundanuberatantemple #podbali #tanahlot @ Bali, Indonesia https://t.co/SoLsBB5WN9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bali2019",
+          "indices": [
+            28,
+            37
+          ]
+        },
+        {
+          "text": "balihandaragate",
+          "indices": [
+            38,
+            54
+          ]
+        },
+        {
+          "text": "ulundanuberatantemple",
+          "indices": [
+            55,
+            77
+          ]
+        },
+        {
+          "text": "podbali",
+          "indices": [
+            78,
+            86
+          ]
+        },
+        {
+          "text": "tanahlot",
+          "indices": [
+            87,
+            96
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/SoLsBB5WN9",
+          "expanded_url": "https://www.instagram.com/p/BuoUNGUFD74/?utm_source=ig_twitter_share&igshid=exv5uyhhx7bg",
+          "display_url": "instagram.com/p/BuoUNGUFD74/\u2026",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 46310732,
+      "id_str": "46310732",
+      "name": "MC Hernandez",
+      "screen_name": "mclakwatsera",
+      "location": "makati city",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 214,
+      "friends_count": 156,
+      "listed_count": 4,
+      "created_at": "Thu Jun 11 04:07:53 +0000 2009",
+      "favourites_count": 439,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5656,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ABAB96",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/971931875278168064/xYEjh55Z_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/971931875278168064/xYEjh55Z_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/46310732/1356841268",
+      "profile_link_color": "ED2FD7",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E0CEE0",
+      "profile_text_color": "F013F0",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.64619568,
+        115.18066406
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.18066406,
+        -8.64619568
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Tue Mar 05 07:23:01 +0000 2019",
+    "id": 1102831865457770496,
+    "id_str": "1102831865457770496",
+    "text": "Sunset at Tanah Lot Temple in Canggu, Bali https://t.co/xkNCOcw3dQ #bali #sunset #tanahlot",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bali",
+          "indices": [
+            67,
+            72
+          ]
+        },
+        {
+          "text": "sunset",
+          "indices": [
+            73,
+            80
+          ]
+        },
+        {
+          "text": "tanahlot",
+          "indices": [
+            81,
+            90
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xkNCOcw3dQ",
+          "expanded_url": "https://buff.ly/2Tz2skK",
+          "display_url": "buff.ly/2Tz2skK",
+          "indices": [
+            43,
+            66
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 995317716,
+      "id_str": "995317716",
+      "name": "Astrid Vinje",
+      "screen_name": "WanderDaughter",
+      "location": "Seattle, WA",
+      "description": "#RTW wanderer, #familytravel blogger, #travelwriter, wife to @madebyclint, Social Media Manager @EverywhereMagaz ..... 32 countries and counting!",
+      "url": "https://t.co/B6UEBTV4k7",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/B6UEBTV4k7",
+              "expanded_url": "http://www.thewanderingdaughter.com/",
+              "display_url": "thewanderingdaughter.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1946,
+      "friends_count": 1384,
+      "listed_count": 245,
+      "created_at": "Fri Dec 07 15:49:42 +0000 2012",
+      "favourites_count": 5828,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 7399,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/950970122474110976/7asYg1h-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/950970122474110976/7asYg1h-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/995317716/1535894497",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Tue Mar 05 01:28:31 +0000 2019",
+    "id": 1102742655274872832,
+    "id_str": "1102742655274872832",
+    "text": "@Prambors Cuaca cerah, awan bersih, sempak dan sepatu pun cepet kering \ud83d\ude42\ud83d\ude4f\ud83c\udffb\n\n#DGITM #tanahlot #tabanan #bali https://t.co/qNOCMSNnLJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DGITM",
+          "indices": [
+            76,
+            82
+          ]
+        },
+        {
+          "text": "tanahlot",
+          "indices": [
+            83,
+            92
+          ]
+        },
+        {
+          "text": "tabanan",
+          "indices": [
+            93,
+            101
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            102,
+            107
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Prambors",
+          "name": "Prambors Radio",
+          "id": 34149837,
+          "id_str": "34149837",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1102742640783552513,
+          "id_str": "1102742640783552513",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/D026ltaUcAEfOKy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D026ltaUcAEfOKy.jpg",
+          "url": "https://t.co/qNOCMSNnLJ",
+          "display_url": "pic.twitter.com/qNOCMSNnLJ",
+          "expanded_url": "https://twitter.com/qinkqonk/status/1102742655274872832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1102742640783552513,
+          "id_str": "1102742640783552513",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/D026ltaUcAEfOKy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D026ltaUcAEfOKy.jpg",
+          "url": "https://t.co/qNOCMSNnLJ",
+          "display_url": "pic.twitter.com/qNOCMSNnLJ",
+          "expanded_url": "https://twitter.com/qinkqonk/status/1102742655274872832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1102739411580551168,
+    "in_reply_to_status_id_str": "1102739411580551168",
+    "in_reply_to_user_id": 34149837,
+    "in_reply_to_user_id_str": "34149837",
+    "in_reply_to_screen_name": "Prambors",
+    "user": {
+      "id": 170971387,
+      "id_str": "170971387",
+      "name": "It's my qinky life",
+      "screen_name": "qinkqonk",
+      "location": "Indonesia",
+      "description": "Tweeting since 2010 \u2022 Typo Geek \u2022 tukang nyamber tweet orang \u2022 ga punya temen IRL ( Jangan panggil aku mbak )",
+      "url": "https://t.co/5XacKUqROX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/5XacKUqROX",
+              "expanded_url": "http://www.qinkqonk.id",
+              "display_url": "qinkqonk.id",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 444,
+      "friends_count": 452,
+      "listed_count": 5,
+      "created_at": "Mon Jul 26 07:01:43 +0000 2010",
+      "favourites_count": 206,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 15565,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/753591774346514432/V09ZiD1P_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/753591774346514432/V09ZiD1P_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/170971387/1470674025",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "949494",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 02:46:39 +0000 2019",
+    "id": 1102399928343519232,
+    "id_str": "1102399928343519232",
+    "text": "#Tanahlot #temple is a worth visiting point when you are in #Bali. It is 1 hour drive away from #kuta #beach. Has a\u2026 https://t.co/VdRmnVza0j",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Tanahlot",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "temple",
+          "indices": [
+            10,
+            17
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            60,
+            65
+          ]
+        },
+        {
+          "text": "kuta",
+          "indices": [
+            96,
+            101
+          ]
+        },
+        {
+          "text": "beach",
+          "indices": [
+            102,
+            108
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/VdRmnVza0j",
+          "expanded_url": "https://twitter.com/i/web/status/1102399928343519232",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4875771129,
+      "id_str": "4875771129",
+      "name": "Being A Traveler",
+      "screen_name": "beingatraveler1",
+      "location": "Pakistan",
+      "description": "Hey its Bilal Azam.\nTravel Addict, Photographer, Explorer, Adventurist. \nhttps://t.co/HouQiu4H12",
+      "url": "https://t.co/7SpqOAAReN",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/7SpqOAAReN",
+              "expanded_url": "http://www.beingatraveler.com",
+              "display_url": "beingatraveler.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/HouQiu4H12",
+              "expanded_url": "http://facebook.com/beingatraveler",
+              "display_url": "facebook.com/beingatraveler",
+              "indices": [
+                73,
+                96
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 302,
+      "friends_count": 369,
+      "listed_count": 13,
+      "created_at": "Thu Feb 04 07:49:27 +0000 2016",
+      "favourites_count": 150,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 472,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/705217425034371072/YFAp-da3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/705217425034371072/YFAp-da3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4875771129/1454639552",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 03 17:31:23 +0000 2019",
+    "id": 1102260191393968132,
+    "id_str": "1102260191393968132",
+    "text": "The Quite Magnificent Tanah Lot In Bali \n\nhttps://t.co/COKwyBYujt\n\n#travel #lookatourworld #travelbloging\u2026 https://t.co/EFZmKRkgV8",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "travel",
+          "indices": [
+            67,
+            74
+          ]
+        },
+        {
+          "text": "lookatourworld",
+          "indices": [
+            75,
+            90
+          ]
+        },
+        {
+          "text": "travelbloging",
+          "indices": [
+            91,
+            105
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/COKwyBYujt",
+          "expanded_url": "https://www.lookatourworld.com/tanah-lot-bali/",
+          "display_url": "lookatourworld.com/tanah-lot-bali/",
+          "indices": [
+            42,
+            65
+          ]
+        },
+        {
+          "url": "https://t.co/EFZmKRkgV8",
+          "expanded_url": "https://twitter.com/i/web/status/1102260191393968132",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.totaltraveltag.com\" rel=\"nofollow\">Total Travel TAG</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3367442625,
+      "id_str": "3367442625",
+      "name": "Look at our World",
+      "screen_name": "NomadicBrits",
+      "location": "Currently in the UK",
+      "description": "#travelblogger online magazine, written by travellers, for travellers. Currently over 400 articles and counting",
+      "url": "https://t.co/DSDuSczdMd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/DSDuSczdMd",
+              "expanded_url": "http://www.lookatourworld.com",
+              "display_url": "lookatourworld.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 18912,
+      "friends_count": 14929,
+      "listed_count": 271,
+      "created_at": "Thu Jul 09 11:34:26 +0000 2015",
+      "favourites_count": 153,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 35299,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3367442625/1537198080",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 03 08:38:42 +0000 2019",
+    "id": 1102126139487604737,
+    "id_str": "1102126139487604737",
+    "text": "No caption needed, but I need a beer \ud83e\udd2d\n.\n.\n#life #bali #tanahlot #wonderfulindonesia #sunset #beach @ Bali, Indones\u2026 https://t.co/JLFXIAQZoc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "life",
+          "indices": [
+            43,
+            48
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            49,
+            54
+          ]
+        },
+        {
+          "text": "tanahlot",
+          "indices": [
+            55,
+            64
+          ]
+        },
+        {
+          "text": "wonderfulindonesia",
+          "indices": [
+            65,
+            84
+          ]
+        },
+        {
+          "text": "sunset",
+          "indices": [
+            85,
+            92
+          ]
+        },
+        {
+          "text": "beach",
+          "indices": [
+            93,
+            99
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/JLFXIAQZoc",
+          "expanded_url": "https://twitter.com/i/web/status/1102126139487604737",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63295319,
+      "id_str": "63295319",
+      "name": "Adhiguna Erlangga",
+      "screen_name": "papina_gendis",
+      "location": "Kuta, Indonesia",
+      "description": "Biker | Traveller | Tour Guide | Fans of Manchester United FC | Bali, Indonesia.",
+      "url": "http://t.co/jjgD0DOboI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/jjgD0DOboI",
+              "expanded_url": "http://www.instagram.com/papina_gendis",
+              "display_url": "instagram.com/papina_gendis",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 704,
+      "friends_count": 351,
+      "listed_count": 8,
+      "created_at": "Wed Aug 05 23:30:34 +0000 2009",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 29312,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/822798256971202560/-mB1ush5_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/822798256971202560/-mB1ush5_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/63295319/1439452829",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.64619568,
+        115.18066406
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.18066406,
+        -8.64619568
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 02 15:38:42 +0000 2019",
+    "id": 1101869445620760578,
+    "id_str": "1101869445620760578",
+    "text": "When your future is brighter than the raincoat you got on \ud83d\ude01\u2b50\ufe0f #ForeignViewsOnly #tanahlot #DopeViews\u2026 https://t.co/bHD8v9U85U",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ForeignViewsOnly",
+          "indices": [
+            62,
+            79
+          ]
+        },
+        {
+          "text": "tanahlot",
+          "indices": [
+            80,
+            89
+          ]
+        },
+        {
+          "text": "DopeViews",
+          "indices": [
+            90,
+            100
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/bHD8v9U85U",
+          "expanded_url": "https://twitter.com/i/web/status/1101869445620760578",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 551647470,
+      "id_str": "551647470",
+      "name": "Eric Williams",
+      "screen_name": "EazyEwilliams",
+      "location": "Ontario, CA",
+      "description": "Vacation Specialist/Professional Tourist (Paid To Travel The World)",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 389,
+      "friends_count": 304,
+      "listed_count": 7,
+      "created_at": "Thu Apr 12 04:30:31 +0000 2012",
+      "favourites_count": 659,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2907,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/858322927644688384/e8m1lM9B_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/858322927644688384/e8m1lM9B_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/551647470/1430158871",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.62116255,
+        115.08678675
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.08678675,
+        -8.62116255
+      ]
+    },
+    "place": {
+      "id": "a154a81962a03b3f",
+      "url": "https://api.twitter.com/1.1/geo/id/a154a81962a03b3f.json",
+      "place_type": "admin",
+      "name": "Bali",
+      "full_name": "Bali, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              114.431626,
+              -8.849261
+            ],
+            [
+              115.711528,
+              -8.849261
+            ],
+            [
+              115.711528,
+              -8.061682
+            ],
+            [
+              114.431626,
+              -8.061682
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 02 15:29:51 +0000 2019",
+    "id": 1101867219837829121,
+    "id_str": "1101867219837829121",
+    "text": "Wonderful Bali #tanahlotbali #tanahlot #sunset #tanahlottemple #wonderfulbali #wonderfulindonesia\u2026 https://t.co/2n7vKtRmwq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "tanahlotbali",
+          "indices": [
+            15,
+            28
+          ]
+        },
+        {
+          "text": "tanahlot",
+          "indices": [
+            29,
+            38
+          ]
+        },
+        {
+          "text": "sunset",
+          "indices": [
+            39,
+            46
+          ]
+        },
+        {
+          "text": "tanahlottemple",
+          "indices": [
+            47,
+            62
+          ]
+        },
+        {
+          "text": "wonderfulbali",
+          "indices": [
+            63,
+            77
+          ]
+        },
+        {
+          "text": "wonderfulindonesia",
+          "indices": [
+            78,
+            97
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2n7vKtRmwq",
+          "expanded_url": "https://twitter.com/i/web/status/1101867219837829121",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 45847276,
+      "id_str": "45847276",
+      "name": "Gusti Agung Putra",
+      "screen_name": "GustiAgungPutra",
+      "location": "Jakarta, Indonesia",
+      "description": "The Official of GustiAgungPutra's Twitter Page",
+      "url": "https://t.co/YMeQ5lTUSj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/YMeQ5lTUSj",
+              "expanded_url": "http://facebook.com/GustiAgungPutra",
+              "display_url": "facebook.com/GustiAgungPutra",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1456,
+      "friends_count": 2057,
+      "listed_count": 11,
+      "created_at": "Tue Jun 09 14:26:16 +0000 2009",
+      "favourites_count": 60,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 10064,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1098213998619578369/_bMW2sba_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098213998619578369/_bMW2sba_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/45847276/1550991346",
+      "profile_link_color": "CC3300",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F7DA93",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.62107,
+        115.08716
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.08716,
+        -8.62107
+      ]
+    },
+    "place": {
+      "id": "ece4608dcf153c57",
+      "url": "https://api.twitter.com/1.1/geo/id/ece4608dcf153c57.json",
+      "place_type": "city",
+      "name": "Kediri",
+      "full_name": "Kediri, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.07098,
+              -8.637303
+            ],
+            [
+              115.163505,
+              -8.637303
+            ],
+            [
+              115.163505,
+              -8.514401
+            ],
+            [
+              115.07098,
+              -8.514401
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 19:57:55 +0000 2019",
+    "id": 1101572294739181569,
+    "id_str": "1101572294739181569",
+    "text": "#bali #tanahlot #indonesia https://t.co/sDXjO13obz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bali",
+          "indices": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "tanahlot",
+          "indices": [
+            6,
+            15
+          ]
+        },
+        {
+          "text": "indonesia",
+          "indices": [
+            16,
+            26
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sDXjO13obz",
+          "expanded_url": "https://www.instagram.com/p/Buem8ZMnMim/?utm_source=ig_twitter_share&igshid=1csjr901ujmno",
+          "display_url": "instagram.com/p/Buem8ZMnMim/\u2026",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 40883729,
+      "id_str": "40883729",
+      "name": "Togan G\u00f6kbakar",
+      "screen_name": "togangokbakar",
+      "location": "Istanbul, Turkey",
+      "description": "director/producer",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 26632,
+      "friends_count": 383,
+      "listed_count": 15,
+      "created_at": "Mon May 18 14:30:18 +0000 2009",
+      "favourites_count": 210,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 965,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/657185444438921216/3L7aAut2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/657185444438921216/3L7aAut2_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Fri Mar 01 13:51:48 +0000 2019",
+    "id": 1101480158152802305,
+    "id_str": "1101480158152802305",
+    "text": "The Quite Magnificent Tanah Lot In Bali \n\nhttps://t.co/COKwyBYujt\n\n#travel #lookatourworld #travelbloging\u2026 https://t.co/HmN4m0Dzr2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "travel",
+          "indices": [
+            67,
+            74
+          ]
+        },
+        {
+          "text": "lookatourworld",
+          "indices": [
+            75,
+            90
+          ]
+        },
+        {
+          "text": "travelbloging",
+          "indices": [
+            91,
+            105
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/COKwyBYujt",
+          "expanded_url": "https://www.lookatourworld.com/tanah-lot-bali/",
+          "display_url": "lookatourworld.com/tanah-lot-bali/",
+          "indices": [
+            42,
+            65
+          ]
+        },
+        {
+          "url": "https://t.co/HmN4m0Dzr2",
+          "expanded_url": "https://twitter.com/i/web/status/1101480158152802305",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.totaltraveltag.com\" rel=\"nofollow\">Total Travel TAG</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3367442625,
+      "id_str": "3367442625",
+      "name": "Look at our World",
+      "screen_name": "NomadicBrits",
+      "location": "Currently in the UK",
+      "description": "#travelblogger online magazine, written by travellers, for travellers. Currently over 400 articles and counting",
+      "url": "https://t.co/DSDuSczdMd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/DSDuSczdMd",
+              "expanded_url": "http://www.lookatourworld.com",
+              "display_url": "lookatourworld.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 18912,
+      "friends_count": 14929,
+      "listed_count": 271,
+      "created_at": "Thu Jul 09 11:34:26 +0000 2015",
+      "favourites_count": 153,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 35299,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3367442625/1537198080",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 03:52:36 +0000 2019",
+    "id": 1101329362018844672,
+    "id_str": "1101329362018844672",
+    "text": "\"Di saat kamu di hina, tersenyumlah, dan perlahan acungkan jari tengah.\"\n.\n.\n\ud83d\udccd\ud83c\udfdd Tanah Lot Bali\n.\n#kimindrastagram\u2026 https://t.co/Ynoj4qhhHF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kimindrastagram",
+          "indices": [
+            97,
+            113
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ynoj4qhhHF",
+          "expanded_url": "https://twitter.com/i/web/status/1101329362018844672",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 987879445,
+      "id_str": "987879445",
+      "name": "Kimindrastagram",
+      "screen_name": "Kim_IndraLuhan",
+      "location": "INDONESIA",
+      "description": "Dance Cover :\nEXOLITE as Chen\nACE 7 as Jhope\nCiputat -Tangerang Selatan |\ncheck and follow my IG \ud83d\udc49 @indrasta_",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 98,
+      "friends_count": 373,
+      "listed_count": 0,
+      "created_at": "Tue Dec 04 02:34:18 +0000 2012",
+      "favourites_count": 66,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 168,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1045515821546582016/qI4QBt7B_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045515821546582016/qI4QBt7B_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/987879445/1460353653",
+      "profile_link_color": "1C806F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "E32820",
+      "profile_text_color": "843AA9",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Thu Feb 28 13:26:19 +0000 2019",
+    "id": 1101111357271756801,
+    "id_str": "1101111357271756801",
+    "text": "Nasi goreng to be #ricefield #bali #islandofgods #tanahlot #nofilter \u00e0 Bali, Indonesia https://t.co/64R0KqyPuD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ricefield",
+          "indices": [
+            18,
+            28
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            29,
+            34
+          ]
+        },
+        {
+          "text": "islandofgods",
+          "indices": [
+            35,
+            48
+          ]
+        },
+        {
+          "text": "tanahlot",
+          "indices": [
+            49,
+            58
+          ]
+        },
+        {
+          "text": "nofilter",
+          "indices": [
+            59,
+            68
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/64R0KqyPuD",
+          "expanded_url": "https://www.instagram.com/p/BubVVMEBdNF/?utm_source=ig_twitter_share&igshid=628n0zmqj4xi",
+          "display_url": "instagram.com/p/BubVVMEBdNF/\u2026",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 62426978,
+      "id_str": "62426978",
+      "name": "Charlotte Guarino",
+      "screen_name": "CharlottGuarino",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 231,
+      "friends_count": 334,
+      "listed_count": 13,
+      "created_at": "Mon Aug 03 03:38:02 +0000 2009",
+      "favourites_count": 246,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 7548,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/456889968187564033/krLKYo-Q_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/456889968187564033/krLKYo-Q_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/62426978/1489768160",
+      "profile_link_color": "B8B8B8",
+      "profile_sidebar_border_color": "B0AEAE",
+      "profile_sidebar_fill_color": "757175",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.64619568,
+        115.18066406
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.18066406,
+        -8.64619568
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  }
+]

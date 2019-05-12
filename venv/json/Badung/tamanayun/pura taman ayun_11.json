@@ -1,0 +1,311 @@
+[
+  {
+    "created_at": "Sat Mar 02 16:53:18 +0000 2019",
+    "id": 1101888221326135304,
+    "id_str": "1101888221326135304",
+    "text": "Pura Taman Ayun, Mengwi, Bali, Indonesia https://t.co/OA2yCOnxCq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1101888207816351745,
+          "id_str": "1101888207816351745",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0qxfKkV4AEjktx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0qxfKkV4AEjktx.jpg",
+          "url": "https://t.co/OA2yCOnxCq",
+          "display_url": "pic.twitter.com/OA2yCOnxCq",
+          "expanded_url": "https://twitter.com/New_paradigm/status/1101888221326135304/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1000,
+              "h": 664,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 664,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 452,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1101888207816351745,
+          "id_str": "1101888207816351745",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0qxfKkV4AEjktx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0qxfKkV4AEjktx.jpg",
+          "url": "https://t.co/OA2yCOnxCq",
+          "display_url": "pic.twitter.com/OA2yCOnxCq",
+          "expanded_url": "https://twitter.com/New_paradigm/status/1101888221326135304/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1000,
+              "h": 664,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 664,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 452,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 115366266,
+      "id_str": "115366266",
+      "name": "Js Lee",
+      "screen_name": "New_paradigm",
+      "location": "\uc11c\uc6b8\uc2dc \uac15\ub0a8\uad6c \uc5ed\uc0bc\ub3d9",
+      "description": "\ubb38\uc7ac\uc778 \ub300\ud1b5\ub839\ub9cc \uc9c0\uc9c0. \ubaa8\ub4e0 \ubd84\uc57c\uc5d0\uc11c\uc758 \uc801\ud3d0 \uccad\uc0b0\uc744 \uae30\uc6d0. \uace0\uc704\uacf5\uc9c1\uc790\ubc94\uc8c4\uc218\uc0ac\ucc98 \uc124\uce58 \ud544\uc694. \ubb34\uc885\uad50, \ubb34\ub2f9\ud30c, \ud569\ub9ac\uc801\uc774\uace0 \uc815\ubcf4\uac00 \ub418\ub294 \ud2b8\uc717\ub9cc \ub9ac\ud2b8\uc717\ud558\uace0 \uc788\uc74c. \ud5e4\ub4dc\ud5cc\ud305 \uc5c5\uccb4 Director. Foreign soldiers without tweets do not follow",
+      "url": "https://t.co/fhMQbUH7Ga",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/fhMQbUH7Ga",
+              "expanded_url": "http://koreantweeters.com/New_paradigm",
+              "display_url": "koreantweeters.com/New_paradigm",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7827,
+      "friends_count": 8500,
+      "listed_count": 178,
+      "created_at": "Thu Feb 18 12:36:20 +0000 2010",
+      "favourites_count": 20424,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 72452,
+      "lang": "ko",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "89C9FA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1095245883606593536/uY0hrkP0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095245883606593536/uY0hrkP0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/115366266/1551844532",
+      "profile_link_color": "B823AE",
+      "profile_sidebar_border_color": "9E0C94",
+      "profile_sidebar_fill_color": "E6B3E0",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Mar 01 14:25:33 +0000 2019",
+    "id": 1101488651450679297,
+    "id_str": "1101488651450679297",
+    "text": "Pura Taman Ayun, The Temple You Cant Go Into \n\nhttps://t.co/iRAcy6vo9X\n\n#travel #lookatourworld #travelbloging\u2026 https://t.co/ya9WP9xUez",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "travel",
+          "indices": [
+            72,
+            79
+          ]
+        },
+        {
+          "text": "lookatourworld",
+          "indices": [
+            80,
+            95
+          ]
+        },
+        {
+          "text": "travelbloging",
+          "indices": [
+            96,
+            110
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/iRAcy6vo9X",
+          "expanded_url": "https://www.lookatourworld.com/pura-taman-ayun-temple-cant-go/",
+          "display_url": "lookatourworld.com/pura-taman-ayu\u2026",
+          "indices": [
+            47,
+            70
+          ]
+        },
+        {
+          "url": "https://t.co/ya9WP9xUez",
+          "expanded_url": "https://twitter.com/i/web/status/1101488651450679297",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "es",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.totaltraveltag.com\" rel=\"nofollow\">Total Travel TAG</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3367442625,
+      "id_str": "3367442625",
+      "name": "Look at our World",
+      "screen_name": "NomadicBrits",
+      "location": "Currently in the UK",
+      "description": "#travelblogger online magazine, written by travellers, for travellers. Currently over 400 articles and counting",
+      "url": "https://t.co/DSDuSczdMd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/DSDuSczdMd",
+              "expanded_url": "http://www.lookatourworld.com",
+              "display_url": "lookatourworld.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 18911,
+      "friends_count": 14930,
+      "listed_count": 271,
+      "created_at": "Thu Jul 09 11:34:26 +0000 2015",
+      "favourites_count": 153,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 35288,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3367442625/1537198080",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,421 @@
+[
+  {
+    "created_at": "Mon Mar 04 02:31:31 +0000 2019",
+    "id": 1102396120351748096,
+    "id_str": "1102396120351748096",
+    "text": "Forgot the hashtag; #bali #hindu #rituals #pancawalikrama #besakihtemple",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bali",
+          "indices": [
+            20,
+            25
+          ]
+        },
+        {
+          "text": "hindu",
+          "indices": [
+            26,
+            32
+          ]
+        },
+        {
+          "text": "rituals",
+          "indices": [
+            33,
+            41
+          ]
+        },
+        {
+          "text": "pancawalikrama",
+          "indices": [
+            42,
+            57
+          ]
+        },
+        {
+          "text": "besakihtemple",
+          "indices": [
+            58,
+            72
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1102395422922891264,
+    "in_reply_to_status_id_str": "1102395422922891264",
+    "in_reply_to_user_id": 233187504,
+    "in_reply_to_user_id_str": "233187504",
+    "in_reply_to_screen_name": "scentofzephyr",
+    "user": {
+      "id": 233187504,
+      "id_str": "233187504",
+      "name": "Mellifluous",
+      "screen_name": "scentofzephyr",
+      "location": "D\u00fcsseldorf",
+      "description": "Past can become prologue",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 338,
+      "friends_count": 382,
+      "listed_count": 2,
+      "created_at": "Sun Jan 02 15:06:49 +0000 2011",
+      "favourites_count": 2860,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 28472,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "DBE9ED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1099155241696555008/apIzg41h_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099155241696555008/apIzg41h_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/233187504/1413203400",
+      "profile_link_color": "CC3366",
+      "profile_sidebar_border_color": "DBE9ED",
+      "profile_sidebar_fill_color": "E6F6F9",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 03 03:07:03 +0000 2019",
+    "id": 1102042677061677056,
+    "id_str": "1102042677061677056",
+    "text": "RT @sastrawan_bali: Hujan yang mengguyur wilayah Karangasem dan Klungkung tak menyurutkan semangat pemedek. Mereka tetap mengiringi pemargi\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "sastrawan_bali",
+          "name": "Sastrawan Bali",
+          "id": 128087000,
+          "id_str": "128087000",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1012329160058925057,
+      "id_str": "1012329160058925057",
+      "name": "ABDUL RAHMAN",
+      "screen_name": "Rahman67955577",
+      "location": "Kota Palembang, Sumatera Selat",
+      "description": "\ud83d\udc05",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 151,
+      "friends_count": 71,
+      "listed_count": 0,
+      "created_at": "Thu Jun 28 13:37:34 +0000 2018",
+      "favourites_count": 18793,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2631,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1102059743843999745/yKWYdfrd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102059743843999745/yKWYdfrd_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1012329160058925057/1551586491",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Mar 03 03:03:11 +0000 2019",
+      "id": 1102041703710683137,
+      "id_str": "1102041703710683137",
+      "text": "Hujan yang mengguyur wilayah Karangasem dan Klungkung tak menyurutkan semangat pemedek. Mereka tetap mengiringi pem\u2026 https://t.co/eAnewHuFZZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eAnewHuFZZ",
+            "expanded_url": "https://twitter.com/i/web/status/1102041703710683137",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 128087000,
+        "id_str": "128087000",
+        "name": "Sastrawan Bali",
+        "screen_name": "sastrawan_bali",
+        "location": "Tabanan, Bali island, Indonesia",
+        "description": "Boudoir Photographer, VIP Escort, Luxury Rental.\r\nWhatsApp / call : +62-81-5588-12345 &  +62-81-2939-12345",
+        "url": "https://t.co/NKtbaj29iH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/NKtbaj29iH",
+                "expanded_url": "http://www.SastraAlphard.wordpress.com",
+                "display_url": "SastraAlphard.wordpress.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 523,
+        "friends_count": 952,
+        "listed_count": 13,
+        "created_at": "Wed Mar 31 02:13:01 +0000 2010",
+        "favourites_count": 5182,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19044,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1065966545245884416/CynOJC8x_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065966545245884416/CynOJC8x_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/128087000/1542981208",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Mar 03 03:03:11 +0000 2019",
+    "id": 1102041703710683137,
+    "id_str": "1102041703710683137",
+    "text": "Hujan yang mengguyur wilayah Karangasem dan Klungkung tak menyurutkan semangat pemedek. Mereka tetap mengiringi pem\u2026 https://t.co/eAnewHuFZZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/eAnewHuFZZ",
+          "expanded_url": "https://twitter.com/i/web/status/1102041703710683137",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 128087000,
+      "id_str": "128087000",
+      "name": "Sastrawan Bali",
+      "screen_name": "sastrawan_bali",
+      "location": "Tabanan, Bali island, Indonesia",
+      "description": "Boudoir Photographer, VIP Escort, Luxury Rental.\r\nWhatsApp / call : +62-81-5588-12345 &  +62-81-2939-12345",
+      "url": "https://t.co/NKtbaj29iH",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/NKtbaj29iH",
+              "expanded_url": "http://www.SastraAlphard.wordpress.com",
+              "display_url": "SastraAlphard.wordpress.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 523,
+      "friends_count": 952,
+      "listed_count": 13,
+      "created_at": "Wed Mar 31 02:13:01 +0000 2010",
+      "favourites_count": 5182,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 19044,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1065966545245884416/CynOJC8x_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065966545245884416/CynOJC8x_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/128087000/1542981208",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  }
+]

@@ -1,0 +1,1814 @@
+[
+  {
+    "created_at": "Mon Feb 25 16:26:29 +0000 2019",
+    "id": 1100069532754948097,
+    "id_str": "1100069532754948097",
+    "text": "Nicht alles lief perfekt beim Besuch von #Jatiluwih und dem #Sangeh #MonkeyForest, aber wir haben das Beste daraus\u2026 https://t.co/3A1YG4Yqgw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Jatiluwih",
+          "indices": [
+            41,
+            51
+          ]
+        },
+        {
+          "text": "Sangeh",
+          "indices": [
+            60,
+            67
+          ]
+        },
+        {
+          "text": "MonkeyForest",
+          "indices": [
+            68,
+            81
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/3A1YG4Yqgw",
+          "expanded_url": "https://twitter.com/i/web/status/1100069532754948097",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "de",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://explorervibes.com\" rel=\"nofollow\">ExplorerVibes_Postingtool</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 743192392354922497,
+      "id_str": "743192392354922497",
+      "name": "ExplorerVibes",
+      "screen_name": "XplorerVibes",
+      "location": "Heidelberg, Deutschland",
+      "description": "Experiences and Impressions during #Backpacking in different #Countries & Various #Travelinfo, Review of #Scubadiving Sites & #Travel #PhotoTips",
+      "url": "https://t.co/vuixtSQLts",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vuixtSQLts",
+              "expanded_url": "https://explorervibes.com",
+              "display_url": "explorervibes.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2628,
+      "friends_count": 1927,
+      "listed_count": 32,
+      "created_at": "Wed Jun 15 21:24:09 +0000 2016",
+      "favourites_count": 499,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1207,
+      "lang": "de",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1048215922396356608/uylxV3VL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048215922396356608/uylxV3VL_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/743192392354922497/1536178029",
+      "profile_link_color": "538995",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "de"
+  },
+  {
+    "created_at": "Mon Feb 25 10:09:19 +0000 2019",
+    "id": 1099974616288645120,
+    "id_str": "1099974616288645120",
+    "text": "This is a beautiful place for looking Monkey in Ubud Area. They so friendly to human.\n#likeforlike #followtofollow\u2026 https://t.co/mnAh3cVaHU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "likeforlike",
+          "indices": [
+            86,
+            98
+          ]
+        },
+        {
+          "text": "followtofollow",
+          "indices": [
+            99,
+            114
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/mnAh3cVaHU",
+          "expanded_url": "https://twitter.com/i/web/status/1099974616288645120",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1099971461165375488,
+      "id_str": "1099971461165375488",
+      "name": "SabaraBaliTrip",
+      "screen_name": "SabaraTrip",
+      "location": "",
+      "description": "We are Serve for Tour, Shuttle, Rent Car, etc.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 3,
+      "listed_count": 0,
+      "created_at": "Mon Feb 25 09:56:47 +0000 2019",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1099971616061026304/fO737nnp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099971616061026304/fO737nnp_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Feb 25 04:46:21 +0000 2019",
+    "id": 1099893337505423360,
+    "id_str": "1099893337505423360",
+    "text": "\ud83c\udd95\u66f8\u3044\u305f\uff01\n\n\u9031\u306e\u59cb\u307e\u308a\u3001\u7686\u3055\u3093\u3044\u304b\u304c\u304a\u3059\u3054\u3057\u3067\u3057\u3087\u3046\u304b\u3002\n\n\u3061\u3087\u3063\u3068\u733f\u306b\u7652\u3055\u308c\u307e\u305b\u3093\u304b\uff1f\u3081\u3063\u3061\u3083\u53ef\u611b\u3044\u3088\u3001\u7279\u306b\u5b50\u733f\ud83d\udc12\n\n\u30e2\u30f3\u30ad\u30fc\u30d5\u30a9\u30ec\u30b9\u30c8\u3068\u306f?\u30d0\u30ea\u5cf6\u306e\u30a6\u30d6\u30c9\u306b\u3042\u308b\u795e\u79d8\u306e\u68ee\u306e\u898b\u6240\u306f\u733f\u3060\u3051\u3058\u3083\u306a\u3044!?\uff5c\u30ab\u30b5\u30a4\u30df\u30ed\u30af\u30ce\u30d6\u30ed\u30b0 https://t.co/mhA7VUOq8T",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/mhA7VUOq8T",
+          "expanded_url": "https://kasaimiroku.com/entry/monkeyforest/",
+          "display_url": "kasaimiroku.com/entry/monkeyfo\u2026",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 364141423,
+      "id_str": "364141423",
+      "name": "\u30ab\u30b5\u30a4\u30df\u30ed\u30af",
+      "screen_name": "mirokurocloverZ",
+      "location": "\u53f0\u7063",
+      "description": "\u30c7\u30b6\u30a4\u30f3\u3059\u308b\u4eba / \u6587\u7ae0\u3092\u66f8\u304f\u4eba / \u666e\u6bb5\u306f\u65c5\u4eba / \u8131\u30b5\u30e9\u3057\u3066\ud83c\udde6\ud83c\uddfa\u3067\u7d50\u5a5a\u3002\u30ce\u30de\u30c9\u592b\u5a662\u4eba\u3067\u30d2\u30c3\u30c1\u30cf\u30a4\u30af47\u90fd\u9053\u5e9c\u770c\u5236\u8987\ud83d\udc4d\u56fd\u5185\u5916\u306e\u30c7\u30b6\u30a4\u30f3\u3092\u5438\u53ce\u4e2d\u3002 \u30c7\u30b6\u30a4\u30f3\u3068\u30d6\u30ed\u30b0\u3067\u6210\u308a\u4e0a\u304c\u308a\u3001\u518d\u3073\u672d\u5e4c\u66ae\u3089\u3057\u304c\u3067\u304d\u308b\u306e\u304b\uff1f\u4eca\u5f8c\u30d0\u30ea\u2192\u53f0\u5317\u2192\u65e5\u672c\u3002\u304a\u4ed5\u4e8b\u4f9d\u983c\uff1amiroku369type@gmail.com\n\u5236\u4f5c\u7269\u2193\u2193\u59bb\u2192@chi___z",
+      "url": "https://t.co/tfWd8R1Knx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/tfWd8R1Knx",
+              "expanded_url": "http://www.kasaimiroku.com",
+              "display_url": "kasaimiroku.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2018,
+      "friends_count": 616,
+      "listed_count": 55,
+      "created_at": "Mon Aug 29 08:14:11 +0000 2011",
+      "favourites_count": 18988,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 54240,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1017743382133669888/fdUZO2oA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017743382133669888/fdUZO2oA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/364141423/1548863994",
+      "profile_link_color": "51BFCB",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon Feb 25 03:14:09 +0000 2019",
+    "id": 1099870134011719680,
+    "id_str": "1099870134011719680",
+    "text": "RT @kourakuen_pr: \u5fdc\u52df\u671f\u9593\u6b8b\u308a10\u65e5\uff01\u3010\u53d7\u9a13\u751f\u5fdc\u63f4\u8cc7\u91d13,000\u4e07\u5186(\u203b1)\u30d7\u30ec\u30bc\u30f3\u30c8\uff01\u3011 \n\u4e2d\u30fb\u9ad8\u30fb\u5927\u5b66\u306e\u53d7\u9a13\u751f\u5fdc\u63f4\u8cc7\u91d1\u3068\u3057\u3066\u300110\u4e07\u5186\u3092300\u540d\u69d8(\u203b1)\u306b\u30d7\u30ec\u30bc\u30f3\u30c8\uff01 \n\u5fdc\u52df\u306f\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u30d5\u30a9\u30ed\u30fc\uff06RT\uff01\u5e78\u697d\u82d1\u306e\u601d\u3044\u51fa\u3092\u30b3\u30e1\u30f3\u30c8\u3057 \n\u30ea\u30c4\u30a4\u30fc\u30c8\u3059\u308b\u3068\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "kourakuen_pr",
+          "name": "\u5e78\u697d\u82d1 \u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8",
+          "id": 3233185998,
+          "id_str": "3233185998",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2283299468,
+      "id_str": "2283299468",
+      "name": "\u305f",
+      "screen_name": "_MONKEyForest",
+      "location": "\u307f",
+      "description": "\u304f",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6,
+      "friends_count": 7,
+      "listed_count": 0,
+      "created_at": "Thu Jan 09 08:55:10 +0000 2014",
+      "favourites_count": 675,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2996,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1099868019734470656/vDqH1GIu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099868019734470656/vDqH1GIu_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2283299468/1551063946",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Feb 19 10:52:55 +0000 2019",
+      "id": 1097811259095842816,
+      "id_str": "1097811259095842816",
+      "text": "\u5fdc\u52df\u671f\u9593\u6b8b\u308a10\u65e5\uff01\u3010\u53d7\u9a13\u751f\u5fdc\u63f4\u8cc7\u91d13,000\u4e07\u5186(\u203b1)\u30d7\u30ec\u30bc\u30f3\u30c8\uff01\u3011 \n\u4e2d\u30fb\u9ad8\u30fb\u5927\u5b66\u306e\u53d7\u9a13\u751f\u5fdc\u63f4\u8cc7\u91d1\u3068\u3057\u3066\u300110\u4e07\u5186\u3092300\u540d\u69d8(\u203b1)\u306b\u30d7\u30ec\u30bc\u30f3\u30c8\uff01 \n\u5fdc\u52df\u306f\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u30d5\u30a9\u30ed\u30fc\uff06RT\uff01\u5e78\u697d\u82d1\u306e\u601d\u3044\u51fa\u3092\u30b3\u30e1\u30f3\u30c8\u3057 \n\u30ea\u30c4\u2026 https://t.co/beeze1tZYc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/beeze1tZYc",
+            "expanded_url": "https://twitter.com/i/web/status/1097811259095842816",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3233185998,
+        "id_str": "3233185998",
+        "name": "\u5e78\u697d\u82d1 \u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8",
+        "screen_name": "kourakuen_pr",
+        "location": "",
+        "description": "\u662d\u548c29\u5e74\u5275\u696d\u306e\u3089\u30fc\u3081\u3093\u30c1\u30a7\u30fc\u30f3\u3001\u5e78\u697d\u82d1\u3067\u3059\u3002\u304a\u5f97\u306a\u60c5\u5831\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002facebook\u2192https://t.co/Bn4TqgXwho\u203b\u3054\u610f\u898b\u3084\u304a\u554f\u5408\u308f\u305b\u306f\u5f53\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u306e\u8fd4\u4fe1\u304c\u51fa\u6765\u304b\u306d\u307e\u3059\u306e\u3067\u6050\u308c\u5165\u308a\u307e\u3059\u304c\u4e0b\u8a18\u7a93\u53e3\u3078\u304a\u9858\u3044\u3057\u307e\u3059\u3002\u2192https://t.co/xtSZ4w5LGk",
+        "url": "https://t.co/O8iEGjC6po",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/O8iEGjC6po",
+                "expanded_url": "http://www.kourakuen.co.jp/tsukasa/pudding/",
+                "display_url": "kourakuen.co.jp/tsukasa/puddin\u2026",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/Bn4TqgXwho",
+                "expanded_url": "https://www.facebook.com/Kourakuen",
+                "display_url": "facebook.com/Kourakuen",
+                "indices": [
+                  45,
+                  68
+                ]
+              },
+              {
+                "url": "https://t.co/xtSZ4w5LGk",
+                "expanded_url": "https://www.kourakuen.co.jp/faq",
+                "display_url": "kourakuen.co.jp/faq",
+                "indices": [
+                  118,
+                  141
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 54976,
+        "friends_count": 1023,
+        "listed_count": 174,
+        "created_at": "Tue Jun 02 06:01:36 +0000 2015",
+        "favourites_count": 4551,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1659,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFEA01",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/945588521678520320/JdTybpQO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/945588521678520320/JdTybpQO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3233185998/1551386733",
+        "profile_link_color": "CB1019",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4083,
+      "favorite_count": 2737,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4083,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Feb 24 14:43:42 +0000 2019",
+    "id": 1099681278163591168,
+    "id_str": "1099681278163591168",
+    "text": "An example of why #proofreading plays an important role within #marketing... @TrenthamEstate #monkeyforest https://t.co/6E1YsoEgxQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "proofreading",
+          "indices": [
+            18,
+            31
+          ]
+        },
+        {
+          "text": "marketing",
+          "indices": [
+            63,
+            73
+          ]
+        },
+        {
+          "text": "monkeyforest",
+          "indices": [
+            93,
+            106
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "TrenthamEstate",
+          "name": "The Trentham Estate",
+          "id": 155862312,
+          "id_str": "155862312",
+          "indices": [
+            77,
+            92
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1099681256160284672,
+          "id_str": "1099681256160284672",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0LaRq-W0AA0I8O.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0LaRq-W0AA0I8O.jpg",
+          "url": "https://t.co/6E1YsoEgxQ",
+          "display_url": "pic.twitter.com/6E1YsoEgxQ",
+          "expanded_url": "https://twitter.com/smiffygirl2/status/1099681278163591168/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1099681256160284672,
+          "id_str": "1099681256160284672",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0LaRq-W0AA0I8O.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0LaRq-W0AA0I8O.jpg",
+          "url": "https://t.co/6E1YsoEgxQ",
+          "display_url": "pic.twitter.com/6E1YsoEgxQ",
+          "expanded_url": "https://twitter.com/smiffygirl2/status/1099681278163591168/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 495835829,
+      "id_str": "495835829",
+      "name": "Emma Smith",
+      "screen_name": "smiffygirl2",
+      "location": "Nottingham, UK",
+      "description": "Music lover \ud83c\udfb5 Perpetually sarcastic \ud83d\udc81\ud83c\udffc\u200d\u2640\ufe0f Mother to Alyssa \ud83d\udc69\u200d\ud83d\udc67 Expert at friend zoning \ud83d\udeb7 Dreamer \ud83d\udcad Logical thinker \ud83e\udd14",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 260,
+      "listed_count": 36,
+      "created_at": "Sat Feb 18 10:56:57 +0000 2012",
+      "favourites_count": 1413,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2539,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/975055089739227137/abF3nN5p_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/975055089739227137/abF3nN5p_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/495835829/1487149700",
+      "profile_link_color": "3E12EB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 23 22:58:20 +0000 2019",
+    "id": 1099443369774698496,
+    "id_str": "1099443369774698496",
+    "text": "Monkey Forest #bali #indonesia #ubud #monkeyforest #monkeys #cute travel #traveler https://t.co/pkugEni6lt",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bali",
+          "indices": [
+            14,
+            19
+          ]
+        },
+        {
+          "text": "indonesia",
+          "indices": [
+            20,
+            30
+          ]
+        },
+        {
+          "text": "ubud",
+          "indices": [
+            31,
+            36
+          ]
+        },
+        {
+          "text": "monkeyforest",
+          "indices": [
+            37,
+            50
+          ]
+        },
+        {
+          "text": "monkeys",
+          "indices": [
+            51,
+            59
+          ]
+        },
+        {
+          "text": "cute",
+          "indices": [
+            60,
+            65
+          ]
+        },
+        {
+          "text": "traveler",
+          "indices": [
+            73,
+            82
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pkugEni6lt",
+          "expanded_url": "https://www.instagram.com/p/BuPeS8dlcQH/?utm_source=ig_twitter_share&igshid=1rny8qvwllkne",
+          "display_url": "instagram.com/p/BuPeS8dlcQH/\u2026",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362473703,
+      "id_str": "2362473703",
+      "name": "Margaux Dlr",
+      "screen_name": "MargauxDelor",
+      "location": "",
+      "description": "Je n'aime pas sp\u00e9cialement Twitter mais je me soigne. Mes tweets n'engagent que moi. Instagram : @margauxdelor",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 72,
+      "friends_count": 137,
+      "listed_count": 18,
+      "created_at": "Wed Feb 26 10:17:12 +0000 2014",
+      "favourites_count": 203,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1172,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/860821111868706816/pxxIXjfj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/860821111868706816/pxxIXjfj_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 23 21:22:41 +0000 2019",
+    "id": 1099419297388978176,
+    "id_str": "1099419297388978176",
+    "text": "More monkeys and the park! #toddler #monkeyforest #funtimes #family #park #playtime #gorgeous #baby #mydaughter\u2026 https://t.co/tMmSpfAXoG",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "toddler",
+          "indices": [
+            27,
+            35
+          ]
+        },
+        {
+          "text": "monkeyforest",
+          "indices": [
+            36,
+            49
+          ]
+        },
+        {
+          "text": "funtimes",
+          "indices": [
+            50,
+            59
+          ]
+        },
+        {
+          "text": "family",
+          "indices": [
+            60,
+            67
+          ]
+        },
+        {
+          "text": "park",
+          "indices": [
+            68,
+            73
+          ]
+        },
+        {
+          "text": "playtime",
+          "indices": [
+            74,
+            83
+          ]
+        },
+        {
+          "text": "gorgeous",
+          "indices": [
+            84,
+            93
+          ]
+        },
+        {
+          "text": "baby",
+          "indices": [
+            94,
+            99
+          ]
+        },
+        {
+          "text": "mydaughter",
+          "indices": [
+            100,
+            111
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/tMmSpfAXoG",
+          "expanded_url": "https://twitter.com/i/web/status/1099419297388978176",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 23349534,
+      "id_str": "23349534",
+      "name": "Kerryann Wray\u00ae  \u2605",
+      "screen_name": "KerryannWray",
+      "location": "Wales, United Kingdom",
+      "description": "Smile, Love, Laugh and Kiss.... always share the kisses!",
+      "url": "https://t.co/RaELwDyCGc",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/RaELwDyCGc",
+              "expanded_url": "https://m.facebook.com/babyofthemonth/photos/a.2052009791684393.1073741908.1575836375968406/20520204",
+              "display_url": "m.facebook.com/babyofthemonth\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 259,
+      "friends_count": 995,
+      "listed_count": 21,
+      "created_at": "Sun Mar 08 20:23:50 +0000 2009",
+      "favourites_count": 634,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 10957,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/466887937314291712/GdOGC4-y_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/466887937314291712/GdOGC4-y_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23349534/1525592695",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "65B0DA",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 21 11:44:52 +0000 2019",
+    "id": 1098549109722624000,
+    "id_str": "1098549109722624000",
+    "text": "RT @rauecotourism: What do you think of participating in our conservation campaign of OneTripOneTree before hike to Kilimanjaro or Safari?\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauecotourism",
+          "name": "Rau Ecotourism",
+          "id": 708303117000032256,
+          "id_str": "708303117000032256",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 401687657,
+      "id_str": "401687657",
+      "name": "linus flamingo",
+      "screen_name": "linusflamingo",
+      "location": "Kilimanjaro, Tanzania",
+      "description": "\ud83c\udf31\ud83c\udf33\ud83c\udf3a\ud83e\udd92\ud83d\udc06\ud83c\udf35\ud83c\udf0d",
+      "url": "https://t.co/lhzSAAdyC0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/lhzSAAdyC0",
+              "expanded_url": "http://www.mkuuculturaltourism.com",
+              "display_url": "mkuuculturaltourism.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 23,
+      "friends_count": 123,
+      "listed_count": 0,
+      "created_at": "Sun Oct 30 22:54:41 +0000 2011",
+      "favourites_count": 216,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 98,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/764399468334706692/pe28nLJ9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/764399468334706692/pe28nLJ9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/401687657/1547274603",
+      "profile_link_color": "7FDBB6",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 21 11:41:58 +0000 2019",
+      "id": 1098548378722545665,
+      "id_str": "1098548378722545665",
+      "text": "What do you think of participating in our conservation campaign of OneTripOneTree before hike to Kilimanjaro or Saf\u2026 https://t.co/3EwzVWuSRQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3EwzVWuSRQ",
+            "expanded_url": "https://twitter.com/i/web/status/1098548378722545665",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 708303117000032256,
+        "id_str": "708303117000032256",
+        "name": "Rau Ecotourism",
+        "screen_name": "rauecotourism",
+        "location": "Moshi, Kilimanjaro, Tanzania",
+        "description": "Located 2.9 km South east of Moshi |One Trip One Tree |Silent Walk and Meditation in Rau forest |Rau forest cycling Challenge |Tanzania food cooking lesson |",
+        "url": "https://t.co/tPZqyFJ1Id",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/tPZqyFJ1Id",
+                "expanded_url": "http://www.rauecoculturaltourism.org",
+                "display_url": "rauecoculturaltourism.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 581,
+        "friends_count": 807,
+        "listed_count": 4,
+        "created_at": "Fri Mar 11 14:46:37 +0000 2016",
+        "favourites_count": 605,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 271,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/785931238523695104/3sPYI1e3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/785931238523695104/3sPYI1e3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/708303117000032256/1530716076",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "00d9827647c0ff5a",
+        "url": "https://api.twitter.com/1.1/geo/id/00d9827647c0ff5a.json",
+        "place_type": "admin",
+        "name": "Dar es Salaam",
+        "full_name": "Dar es Salaam, Tanzania",
+        "country_code": "TZ",
+        "country": "Tanzania",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                39.0081106,
+                -7.1906489
+              ],
+              [
+                39.5566698,
+                -7.1906489
+              ],
+              [
+                39.5566698,
+                -6.5669735
+              ],
+              [
+                39.0081106,
+                -6.5669735
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 21 11:41:58 +0000 2019",
+    "id": 1098548378722545665,
+    "id_str": "1098548378722545665",
+    "text": "What do you think of participating in our conservation campaign of OneTripOneTree before hike to Kilimanjaro or Saf\u2026 https://t.co/3EwzVWuSRQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/3EwzVWuSRQ",
+          "expanded_url": "https://twitter.com/i/web/status/1098548378722545665",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 708303117000032256,
+      "id_str": "708303117000032256",
+      "name": "Rau Ecotourism",
+      "screen_name": "rauecotourism",
+      "location": "Moshi, Kilimanjaro, Tanzania",
+      "description": "Located 2.9 km South east of Moshi |One Trip One Tree |Silent Walk and Meditation in Rau forest |Rau forest cycling Challenge |Tanzania food cooking lesson |",
+      "url": "https://t.co/tPZqyFJ1Id",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/tPZqyFJ1Id",
+              "expanded_url": "http://www.rauecoculturaltourism.org",
+              "display_url": "rauecoculturaltourism.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 581,
+      "friends_count": 807,
+      "listed_count": 4,
+      "created_at": "Fri Mar 11 14:46:37 +0000 2016",
+      "favourites_count": 605,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 271,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/785931238523695104/3sPYI1e3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/785931238523695104/3sPYI1e3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/708303117000032256/1530716076",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "00d9827647c0ff5a",
+      "url": "https://api.twitter.com/1.1/geo/id/00d9827647c0ff5a.json",
+      "place_type": "admin",
+      "name": "Dar es Salaam",
+      "full_name": "Dar es Salaam, Tanzania",
+      "country_code": "TZ",
+      "country": "Tanzania",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.0081106,
+              -7.1906489
+            ],
+            [
+              39.5566698,
+              -7.1906489
+            ],
+            [
+              39.5566698,
+              -6.5669735
+            ],
+            [
+              39.0081106,
+              -6.5669735
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 22:25:57 +0000 2019",
+    "id": 1098348054971850753,
+    "id_str": "1098348054971850753",
+    "text": "God!\" @sultana24328755 @mhamidi35 #monkeyforest",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "monkeyforest",
+          "indices": [
+            34,
+            47
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "sultana24328755",
+          "name": "sultan alzahrani",
+          "id": 1042198329105543169,
+          "id_str": "1042198329105543169",
+          "indices": [
+            6,
+            22
+          ]
+        },
+        {
+          "screen_name": "mhamidi35",
+          "name": "MH",
+          "id": 184165322,
+          "id_str": "184165322",
+          "indices": [
+            23,
+            33
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1085480754233204736,
+      "id_str": "1085480754233204736",
+      "name": "Claudia",
+      "screen_name": "wronbobscomly",
+      "location": "",
+      "description": "\ud83d\udc30",
+      "url": "https://t.co/c3XKOz2Suj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/c3XKOz2Suj",
+              "expanded_url": "https://bit.ly/2IhR6gV",
+              "display_url": "bit.ly/2IhR6gV",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6,
+      "friends_count": 10,
+      "listed_count": 0,
+      "created_at": "Wed Jan 16 10:15:53 +0000 2019",
+      "favourites_count": 32,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 73,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096693625759715328/hJfelLkl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096693625759715328/hJfelLkl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1085480754233204736/1550307141",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Wed Feb 20 15:37:27 +0000 2019",
+    "id": 1098245252274630656,
+    "id_str": "1098245252274630656",
+    "text": "We watch each other's back, Macaques.\n\n#monkey #animals #monkeys #animals_in_world #monkeylove #splendid_animals\u2026 https://t.co/PcFjkU2zEJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "monkey",
+          "indices": [
+            39,
+            46
+          ]
+        },
+        {
+          "text": "animals",
+          "indices": [
+            47,
+            55
+          ]
+        },
+        {
+          "text": "monkeys",
+          "indices": [
+            56,
+            64
+          ]
+        },
+        {
+          "text": "animals_in_world",
+          "indices": [
+            65,
+            82
+          ]
+        },
+        {
+          "text": "monkeylove",
+          "indices": [
+            83,
+            94
+          ]
+        },
+        {
+          "text": "splendid_animals",
+          "indices": [
+            95,
+            112
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/PcFjkU2zEJ",
+          "expanded_url": "https://twitter.com/i/web/status/1098245252274630656",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 229801265,
+      "id_str": "229801265",
+      "name": "Shuvadip Som",
+      "screen_name": "ShuvadipSom",
+      "location": "Bangalore",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 35,
+      "friends_count": 60,
+      "listed_count": 15,
+      "created_at": "Thu Dec 23 10:54:08 +0000 2010",
+      "favourites_count": 41,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1139,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C9A549",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494792644594126848/UpmffIst_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494792644594126848/UpmffIst_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/229801265/1406802765",
+      "profile_link_color": "23D177",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "FFF7CC",
+      "profile_text_color": "0C3E53",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 06:42:16 +0000 2019",
+    "id": 1098110569918418944,
+    "id_str": "1098110569918418944",
+    "text": "Some monkey photography by me \ud83d\ude48 (Captions added on photos \ud83d\ude0b)\n\n#shanesframe #fujifilm_sa #monkeyforest",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "shanesframe",
+          "indices": [
+            62,
+            74
+          ]
+        },
+        {
+          "text": "fujifilm_sa",
+          "indices": [
+            75,
+            87
+          ]
+        },
+        {
+          "text": "monkeyforest",
+          "indices": [
+            88,
+            101
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1242035930,
+      "id_str": "1242035930",
+      "name": "shane burnell",
+      "screen_name": "shanethepirate",
+      "location": "Cape Town ",
+      "description": "info@shaneburnell.com",
+      "url": "https://t.co/jNOL1LCJPS",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/jNOL1LCJPS",
+              "expanded_url": "http://Instagram.com/shaneburnell",
+              "display_url": "Instagram.com/shaneburnell",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1345,
+      "friends_count": 0,
+      "listed_count": 20,
+      "created_at": "Mon Mar 04 19:22:37 +0000 2013",
+      "favourites_count": 411,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1990,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/842651749185929216/CzBX-4bZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/842651749185929216/CzBX-4bZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242035930/1489738763",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

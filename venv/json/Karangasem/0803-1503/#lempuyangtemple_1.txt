@@ -1,0 +1,1634 @@
+[
+  {
+    "created_at": "Thu Mar 14 19:31:14 +0000 2019",
+    "id": 1106276622095798273,
+    "id_str": "1106276622095798273",
+    "text": "#LempuyangTemple #Bali \ud83e\udd32\ud83c\udf8d\ud83c\udf43 https://t.co/ZNkvwgAW5i",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "LempuyangTemple",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            17,
+            22
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1106276614764142594,
+          "id_str": "1106276614764142594",
+          "indices": [
+            27,
+            50
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1pIuEZWoAIHMnu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1pIuEZWoAIHMnu.jpg",
+          "url": "https://t.co/ZNkvwgAW5i",
+          "display_url": "pic.twitter.com/ZNkvwgAW5i",
+          "expanded_url": "https://twitter.com/goldskinmimi/status/1106276622095798273/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1749,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1025,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 581,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1106276614764142594,
+          "id_str": "1106276614764142594",
+          "indices": [
+            27,
+            50
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1pIuEZWoAIHMnu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1pIuEZWoAIHMnu.jpg",
+          "url": "https://t.co/ZNkvwgAW5i",
+          "display_url": "pic.twitter.com/ZNkvwgAW5i",
+          "expanded_url": "https://twitter.com/goldskinmimi/status/1106276622095798273/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1749,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1025,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 581,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1105756001683288064,
+      "id_str": "1105756001683288064",
+      "name": "Mimi",
+      "screen_name": "goldskinmimi",
+      "location": "",
+      "description": "Food, Nails, Trips & Funny Facts",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 11,
+      "friends_count": 54,
+      "listed_count": 0,
+      "created_at": "Wed Mar 13 09:02:29 +0000 2019",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 14,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1106277609409789952/s5ORK0Pd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106277609409789952/s5ORK0Pd_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1105756001683288064/1552571972",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Thu Mar 14 10:40:53 +0000 2019",
+    "id": 1106143155181834242,
+    "id_str": "1106143155181834242",
+    "text": "Back to Basic. No optical ilusion. ,\ud83d\ude18\ud83d\ude18\nOnly at #LempuyangTemple \n\n#gatewaytoheaven #lempuyang #EasternBaliTour\u2026 https://t.co/eYclsafqpp",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "LempuyangTemple",
+          "indices": [
+            47,
+            63
+          ]
+        },
+        {
+          "text": "gatewaytoheaven",
+          "indices": [
+            66,
+            82
+          ]
+        },
+        {
+          "text": "lempuyang",
+          "indices": [
+            83,
+            93
+          ]
+        },
+        {
+          "text": "EasternBaliTour",
+          "indices": [
+            94,
+            110
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/eYclsafqpp",
+          "expanded_url": "https://twitter.com/i/web/status/1106143155181834242",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 91314085,
+      "id_str": "91314085",
+      "name": "Bali Amertha Trans.",
+      "screen_name": "Baliamertha",
+      "location": "Jimbaran, Bali",
+      "description": "Rent Car & Transport Service @ Jimbaran, Bali. Provide you with : Competitive price, Well-maintained-car-fleet, and Experienced local driver. 24/7 Reservation.",
+      "url": "http://t.co/pf7l7qQJzH",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/pf7l7qQJzH",
+              "expanded_url": "http://www.holidaybaliamertha.com",
+              "display_url": "holidaybaliamertha.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 112,
+      "friends_count": 381,
+      "listed_count": 4,
+      "created_at": "Fri Nov 20 10:41:26 +0000 2009",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 631,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2533337246/b6mtovothk0uxr5hwvqd_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2533337246/b6mtovothk0uxr5hwvqd_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/91314085/1407236219",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.39116208,
+        115.63005859
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.63005859,
+        -8.39116208
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 14 06:56:21 +0000 2019",
+    "id": 1106086646741680128,
+    "id_str": "1106086646741680128",
+    "text": "Mandatory photo opportunity when visiting Bali \ud83c\udfef\ud83c\uddf2\ud83c\udde8\n#wheninbali #baliindonesia #ubud #lempuyangtemple @ Lempuyang Te\u2026 https://t.co/WPTaWwCZC4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "wheninbali",
+          "indices": [
+            51,
+            62
+          ]
+        },
+        {
+          "text": "baliindonesia",
+          "indices": [
+            63,
+            77
+          ]
+        },
+        {
+          "text": "ubud",
+          "indices": [
+            78,
+            83
+          ]
+        },
+        {
+          "text": "lempuyangtemple",
+          "indices": [
+            84,
+            100
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/WPTaWwCZC4",
+          "expanded_url": "https://twitter.com/i/web/status/1106086646741680128",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "tl",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 323682783,
+      "id_str": "323682783",
+      "name": "Jc Capistrano",
+      "screen_name": "itsjeeeaaan",
+      "location": "",
+      "description": "bedan marketer | IG @itsjeeeaaan",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 649,
+      "friends_count": 294,
+      "listed_count": 1,
+      "created_at": "Sat Jun 25 07:15:14 +0000 2011",
+      "favourites_count": 2317,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 9833,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/983196763413557249/LwgjHxoV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/983196763413557249/LwgjHxoV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/323682783/1515156716",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.39116208,
+        115.63005859
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.63005859,
+        -8.39116208
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tl"
+  },
+  {
+    "created_at": "Mon Mar 11 13:47:58 +0000 2019",
+    "id": 1105103071074549760,
+    "id_str": "1105103071074549760",
+    "text": "Lempuyang Temple, Bali, Indonesia\n\n#lempuyang #lempuyangtemple #temples #bali #baliindonesia #indonesia\u2026 https://t.co/KChRomthdX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "lempuyang",
+          "indices": [
+            35,
+            45
+          ]
+        },
+        {
+          "text": "lempuyangtemple",
+          "indices": [
+            46,
+            62
+          ]
+        },
+        {
+          "text": "temples",
+          "indices": [
+            63,
+            71
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            72,
+            77
+          ]
+        },
+        {
+          "text": "baliindonesia",
+          "indices": [
+            78,
+            92
+          ]
+        },
+        {
+          "text": "indonesia",
+          "indices": [
+            93,
+            103
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KChRomthdX",
+          "expanded_url": "https://twitter.com/i/web/status/1105103071074549760",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2872708798,
+      "id_str": "2872708798",
+      "name": "Paolo Brambilla",
+      "screen_name": "PaoloRuwenzori",
+      "location": "",
+      "description": "Love yourself, have fun and be happy!",
+      "url": "https://t.co/fFYAwAPSnn",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/fFYAwAPSnn",
+              "expanded_url": "https://booki.ng/2rPThjf",
+              "display_url": "booki.ng/2rPThjf",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 303,
+      "friends_count": 305,
+      "listed_count": 0,
+      "created_at": "Tue Nov 11 18:51:41 +0000 2014",
+      "favourites_count": 1941,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1040,
+      "lang": "it",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/532245353483862016/3ppEMxI6_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/532245353483862016/3ppEMxI6_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2872708798/1535281577",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 11 04:39:28 +0000 2019",
+    "id": 1104965037020524544,
+    "id_str": "1104965037020524544",
+    "text": "candice.bravery #lempuyangtemple #bali #lempuyang #temple #art #design #temples #beauty #monuments #travel\u2026 https://t.co/4vbHwZX12C",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "lempuyangtemple",
+          "indices": [
+            16,
+            32
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            33,
+            38
+          ]
+        },
+        {
+          "text": "lempuyang",
+          "indices": [
+            39,
+            49
+          ]
+        },
+        {
+          "text": "temple",
+          "indices": [
+            50,
+            57
+          ]
+        },
+        {
+          "text": "art",
+          "indices": [
+            58,
+            62
+          ]
+        },
+        {
+          "text": "design",
+          "indices": [
+            63,
+            70
+          ]
+        },
+        {
+          "text": "temples",
+          "indices": [
+            71,
+            79
+          ]
+        },
+        {
+          "text": "beauty",
+          "indices": [
+            80,
+            87
+          ]
+        },
+        {
+          "text": "monuments",
+          "indices": [
+            88,
+            98
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            99,
+            106
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/4vbHwZX12C",
+          "expanded_url": "https://twitter.com/i/web/status/1104965037020524544",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 127886623,
+      "id_str": "127886623",
+      "name": "Ashu \ud83d\udc8e\ud83d\udc95\ud83d\udc8e",
+      "screen_name": "ashya_yadav",
+      "location": "Asia",
+      "description": "Bollywood Art Fashion Music Cannes Aishwarya Rai Bachchan Celebs Sketch Illustration Environment Hollywood Causes Feminism Gender Equality LGBTQIA India ZoomTv",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 660,
+      "friends_count": 1137,
+      "listed_count": 2,
+      "created_at": "Tue Mar 30 14:44:06 +0000 2010",
+      "favourites_count": 50511,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 56379,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1002704831255998465/MDVdKZVs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002704831255998465/MDVdKZVs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/127886623/1549653205",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 10 15:09:42 +0000 2019",
+    "id": 1104761252319019010,
+    "id_str": "1104761252319019010",
+    "text": "Pray,,,\nHappy Sunday \ud83d\ude4f\ud83d\ude03\n.\n.\n.\n.\n#pray #sunday #mixedrace #handsome #malemodel #model #modeling #asianmale\u2026 https://t.co/QLBJiLTn6k",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "pray",
+          "indices": [
+            32,
+            37
+          ]
+        },
+        {
+          "text": "sunday",
+          "indices": [
+            38,
+            45
+          ]
+        },
+        {
+          "text": "mixedrace",
+          "indices": [
+            46,
+            56
+          ]
+        },
+        {
+          "text": "handsome",
+          "indices": [
+            57,
+            66
+          ]
+        },
+        {
+          "text": "malemodel",
+          "indices": [
+            67,
+            77
+          ]
+        },
+        {
+          "text": "model",
+          "indices": [
+            78,
+            84
+          ]
+        },
+        {
+          "text": "modeling",
+          "indices": [
+            85,
+            94
+          ]
+        },
+        {
+          "text": "asianmale",
+          "indices": [
+            95,
+            105
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/QLBJiLTn6k",
+          "expanded_url": "https://twitter.com/i/web/status/1104761252319019010",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 78343115,
+      "id_str": "78343115",
+      "name": "D 'd3v4n' H*RLey",
+      "screen_name": "d3V4Nzzz",
+      "location": "Bali, Indonesia",
+      "description": "Just a simple person.\nBe happy with who you are...\u01aa(\u02d8\u2323\u02d8)\u0283.\nFollow my 2nd twitter : @devanzz_cute",
+      "url": "https://t.co/Ly8hJ7uZBD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Ly8hJ7uZBD",
+              "expanded_url": "http://www.instagram.com/d_e_v4nzzz",
+              "display_url": "instagram.com/d_e_v4nzzz",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1734,
+      "friends_count": 1754,
+      "listed_count": 10,
+      "created_at": "Tue Sep 29 15:47:36 +0000 2009",
+      "favourites_count": 1532,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 18159,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/977512421165187072/_qqKzlq0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/977512421165187072/_qqKzlq0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/78343115/1509847368",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.39116208,
+        115.63005859
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.63005859,
+        -8.39116208
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 09 05:01:20 +0000 2019",
+    "id": 1104245762685366273,
+    "id_str": "1104245762685366273",
+    "text": "i hope you always find a reason to smile and i hope i can always be the reason \ud83d\ude43\n.\n.\n.\n.\n.\n.\n#bali\n#indonesia\u2026 https://t.co/7lrJFEMyCk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bali",
+          "indices": [
+            93,
+            98
+          ]
+        },
+        {
+          "text": "indonesia",
+          "indices": [
+            99,
+            109
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7lrJFEMyCk",
+          "expanded_url": "https://twitter.com/i/web/status/1104245762685366273",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 266629332,
+      "id_str": "266629332",
+      "name": "David Laurentius",
+      "screen_name": "MrLaurentiusss",
+      "location": "Surabaya,Jatim",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 87,
+      "friends_count": 215,
+      "listed_count": 0,
+      "created_at": "Tue Mar 15 14:57:09 +0000 2011",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 785,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/454093039720333312/fRNceV40_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/454093039720333312/fRNceV40_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.39123841,
+        115.63031124
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.63031124,
+        -8.39123841
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 08 05:43:52 +0000 2019",
+    "id": 1103894079841001478,
+    "id_str": "1103894079841001478",
+    "text": "RT @Nongning_Teya: Throw back to this new year trip in Bali ^^\nMuch fun trip from everyday party \ud83d\ude02\ud83d\ude0b\n#dec2018 #bali #lempuyangtemple #indone\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "dec2018",
+          "indices": [
+            100,
+            108
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            109,
+            114
+          ]
+        },
+        {
+          "text": "lempuyangtemple",
+          "indices": [
+            115,
+            131
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Nongning_Teya",
+          "name": "Nongning",
+          "id": 328037169,
+          "id_str": "328037169",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20118774,
+      "id_str": "20118774",
+      "name": "Blair Semenoff",
+      "screen_name": "OrganicBlair",
+      "location": "Bali, Indonesia",
+      "description": "Nomadic Canadian, 12 Countries & Counting. ESL Teacher for Kids in China. Also, an Entrepreneur Interested in Bitcoin, Altcoin & Organic Food/Supplements",
+      "url": "http://t.co/aGLuOsSvuY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/aGLuOsSvuY",
+              "expanded_url": "http://ca.linkedin.com/in/blairsemenoff/en",
+              "display_url": "ca.linkedin.com/in/blairsemeno\u2026",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 46897,
+      "friends_count": 1384,
+      "listed_count": 4834,
+      "created_at": "Thu Feb 05 03:51:55 +0000 2009",
+      "favourites_count": 5433,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 209288,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/581412600270839808/i1s-y8RN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/581412600270839808/i1s-y8RN_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20118774/1427468076",
+      "profile_link_color": "207B97",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "7BCD00",
+      "profile_text_color": "4B4B34",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 08 05:26:06 +0000 2019",
+      "id": 1103889608922677249,
+      "id_str": "1103889608922677249",
+      "text": "Throw back to this new year trip in Bali ^^\nMuch fun trip from everyday party \ud83d\ude02\ud83d\ude0b\n#dec2018 #bali #lempuyangtemple\u2026 https://t.co/xk7RngFhJ0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "dec2018",
+            "indices": [
+              81,
+              89
+            ]
+          },
+          {
+            "text": "bali",
+            "indices": [
+              90,
+              95
+            ]
+          },
+          {
+            "text": "lempuyangtemple",
+            "indices": [
+              96,
+              112
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xk7RngFhJ0",
+            "expanded_url": "https://twitter.com/i/web/status/1103889608922677249",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 328037169,
+        "id_str": "328037169",
+        "name": "Nongning",
+        "screen_name": "Nongning_Teya",
+        "location": "Nonthaburi, Thailand",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 59,
+        "friends_count": 223,
+        "listed_count": 6,
+        "created_at": "Sat Jul 02 16:24:53 +0000 2011",
+        "favourites_count": 412,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1412,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1552946012/184252_106282676117126_100002061831594_59128_491927_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1552946012/184252_106282676117126_100002061831594_59128_491927_n_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -8.39116208,
+          115.63005859
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          115.63005859,
+          -8.39116208
+        ]
+      },
+      "place": {
+        "id": "02fe687fea201ef8",
+        "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+        "place_type": "city",
+        "name": "Abang",
+        "full_name": "Abang, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                115.518094,
+                -8.426355
+              ],
+              [
+                115.711528,
+                -8.426355
+              ],
+              [
+                115.711528,
+                -8.300467
+              ],
+              [
+                115.518094,
+                -8.300467
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 08 05:26:06 +0000 2019",
+    "id": 1103889608922677249,
+    "id_str": "1103889608922677249",
+    "text": "Throw back to this new year trip in Bali ^^\nMuch fun trip from everyday party \ud83d\ude02\ud83d\ude0b\n#dec2018 #bali #lempuyangtemple\u2026 https://t.co/xk7RngFhJ0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "dec2018",
+          "indices": [
+            81,
+            89
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            90,
+            95
+          ]
+        },
+        {
+          "text": "lempuyangtemple",
+          "indices": [
+            96,
+            112
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xk7RngFhJ0",
+          "expanded_url": "https://twitter.com/i/web/status/1103889608922677249",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 328037169,
+      "id_str": "328037169",
+      "name": "Nongning",
+      "screen_name": "Nongning_Teya",
+      "location": "Nonthaburi, Thailand",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 59,
+      "friends_count": 223,
+      "listed_count": 6,
+      "created_at": "Sat Jul 02 16:24:53 +0000 2011",
+      "favourites_count": 412,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1412,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1552946012/184252_106282676117126_100002061831594_59128_491927_n_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1552946012/184252_106282676117126_100002061831594_59128_491927_n_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.39116208,
+        115.63005859
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.63005859,
+        -8.39116208
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "created_at": "Sun Feb 24 06:15:02 +0000 2019",
+    "id": 1099553266168324097,
+    "id_str": "1099553266168324097",
+    "text": "#besakihtemple @ Besakih Temple - Karangasem Bali https://t.co/HBVjdzpACE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "besakihtemple",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/HBVjdzpACE",
+          "expanded_url": "https://www.instagram.com/p/BuQQyzdgD0h/?utm_source=ig_twitter_share&igshid=vu3y0wr4hhn6",
+          "display_url": "instagram.com/p/BuQQyzdgD0h/\u2026",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 108388379,
+      "id_str": "108388379",
+      "name": "arie",
+      "screen_name": "ariewidhi",
+      "location": "Bali, Indonesia",
+      "description": "architect.buildingsimulator.villamanager. villamanagement.villarent&sale. wa:085743445167. BB:753e50ea http://t.co/sKKA5wda5I ; http://t.co/SPF2N5luDP",
+      "url": "http://t.co/0HlYK855p2",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/0HlYK855p2",
+              "expanded_url": "http://www.facebook.com/widhiari",
+              "display_url": "facebook.com/widhiari",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/sKKA5wda5I",
+              "expanded_url": "http://www.urbanindo.com/ariewidhi",
+              "display_url": "urbanindo.com/ariewidhi",
+              "indices": [
+                103,
+                125
+              ]
+            },
+            {
+              "url": "http://t.co/SPF2N5luDP",
+              "expanded_url": "http://www.bukalapak.com/ariewidhi",
+              "display_url": "bukalapak.com/ariewidhi",
+              "indices": [
+                128,
+                150
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 148,
+      "friends_count": 123,
+      "listed_count": 13,
+      "created_at": "Mon Jan 25 19:56:26 +0000 2010",
+      "favourites_count": 23,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1319,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/652100455032459264/7v2jzqpc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/652100455032459264/7v2jzqpc_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/108388379/1450154336",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F6FFD1",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.70178,
+        115.18551
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.18551,
+        -8.70178
+      ]
+    },
+    "place": {
+      "id": "cf712fd91280ebff",
+      "url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+      "place_type": "city",
+      "name": "Denpasar Barat",
+      "full_name": "Denpasar Barat, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.173695,
+              -8.70934
+            ],
+            [
+              115.235563,
+              -8.70934
+            ],
+            [
+              115.235563,
+              -8.591728
+            ],
+            [
+              115.173695,
+              -8.591728
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 06:09:45 +0000 2019",
+    "id": 1099551937651830784,
+    "id_str": "1099551937651830784",
+    "text": "#besakihtemple #pratisentanabendesamanikmas #bendesamanikmas @ Pura Besakih https://t.co/50CQDlvOSZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "besakihtemple",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "pratisentanabendesamanikmas",
+          "indices": [
+            15,
+            43
+          ]
+        },
+        {
+          "text": "bendesamanikmas",
+          "indices": [
+            44,
+            60
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/50CQDlvOSZ",
+          "expanded_url": "https://www.instagram.com/p/BuQQMD4gnX7/?utm_source=ig_twitter_share&igshid=1to92kyxw346d",
+          "display_url": "instagram.com/p/BuQQMD4gnX7/\u2026",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 108388379,
+      "id_str": "108388379",
+      "name": "arie",
+      "screen_name": "ariewidhi",
+      "location": "Bali, Indonesia",
+      "description": "architect.buildingsimulator.villamanager. villamanagement.villarent&sale. wa:085743445167. BB:753e50ea http://t.co/sKKA5wda5I ; http://t.co/SPF2N5luDP",
+      "url": "http://t.co/0HlYK855p2",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/0HlYK855p2",
+              "expanded_url": "http://www.facebook.com/widhiari",
+              "display_url": "facebook.com/widhiari",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/sKKA5wda5I",
+              "expanded_url": "http://www.urbanindo.com/ariewidhi",
+              "display_url": "urbanindo.com/ariewidhi",
+              "indices": [
+                103,
+                125
+              ]
+            },
+            {
+              "url": "http://t.co/SPF2N5luDP",
+              "expanded_url": "http://www.bukalapak.com/ariewidhi",
+              "display_url": "bukalapak.com/ariewidhi",
+              "indices": [
+                128,
+                150
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 148,
+      "friends_count": 123,
+      "listed_count": 13,
+      "created_at": "Mon Jan 25 19:56:26 +0000 2010",
+      "favourites_count": 23,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1319,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/652100455032459264/7v2jzqpc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/652100455032459264/7v2jzqpc_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/108388379/1450154336",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F6FFD1",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.37434016,
+        115.45136746
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.45136746,
+        -8.37434016
+      ]
+    },
+    "place": {
+      "id": "33ea8907a0fc2de5",
+      "url": "https://api.twitter.com/1.1/geo/id/33ea8907a0fc2de5.json",
+      "place_type": "city",
+      "name": "Rendang",
+      "full_name": "Rendang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.389995,
+              -8.483036
+            ],
+            [
+              115.493502,
+              -8.483036
+            ],
+            [
+              115.493502,
+              -8.280399
+            ],
+            [
+              115.389995,
+              -8.280399
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 03:24:12 +0000 2019",
+    "id": 1099510275709927425,
+    "id_str": "1099510275709927425",
+    "text": "Sahabat Part lll\n.\n#BesakihTemple #Bali #WonderfulIndonesia #travel #backpackers #bros #alhamdulillah @ Besakih Tem\u2026 https://t.co/A0NZ8VnfPZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BesakihTemple",
+          "indices": [
+            19,
+            33
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            34,
+            39
+          ]
+        },
+        {
+          "text": "WonderfulIndonesia",
+          "indices": [
+            40,
+            59
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            60,
+            67
+          ]
+        },
+        {
+          "text": "backpackers",
+          "indices": [
+            68,
+            80
+          ]
+        },
+        {
+          "text": "bros",
+          "indices": [
+            81,
+            86
+          ]
+        },
+        {
+          "text": "alhamdulillah",
+          "indices": [
+            87,
+            101
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/A0NZ8VnfPZ",
+          "expanded_url": "https://twitter.com/i/web/status/1099510275709927425",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 307644405,
+      "id_str": "307644405",
+      "name": "Muhammad Izwan",
+      "screen_name": "izwan273",
+      "location": "Malaysia",
+      "description": "Malaysian",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 315,
+      "friends_count": 213,
+      "listed_count": 2,
+      "created_at": "Mon May 30 01:23:26 +0000 2011",
+      "favourites_count": 815,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 35058,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1084758075326648331/5_aN712i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084758075326648331/5_aN712i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/307644405/1546301739",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.4859801,
+        115.28467587
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.28467587,
+        -8.4859801
+      ]
+    },
+    "place": {
+      "id": "faff021bf9a79c32",
+      "url": "https://api.twitter.com/1.1/geo/id/faff021bf9a79c32.json",
+      "place_type": "city",
+      "name": "Tampaksiring",
+      "full_name": "Tampaksiring, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.276462,
+              -8.523474
+            ],
+            [
+              115.337076,
+              -8.523474
+            ],
+            [
+              115.337076,
+              -8.36439
+            ],
+            [
+              115.276462,
+              -8.36439
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  }
+]

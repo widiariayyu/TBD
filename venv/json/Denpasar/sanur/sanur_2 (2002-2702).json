@@ -1,0 +1,3989 @@
+[
+  {
+    "created_at": "Wed Feb 20 03:42:52 +0000 2019",
+    "id": 1098065424489406464,
+    "id_str": "1098065424489406464",
+    "text": "RT @detikcom: Lambe Turah akhirnya menghapus foto dan video pertemuan Anang Hermansyah dan Jerinx 'SID' yang diagendakan secara tertutup di\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "detikcom",
+          "name": "detikcom",
+          "id": 69183155,
+          "id_str": "69183155",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2388980119,
+      "id_str": "2388980119",
+      "name": "Yossy Imanuel",
+      "screen_name": "yossyimanuel",
+      "location": "Bantulan Janti, Jogjakarta",
+      "description": "",
+      "url": "https://t.co/ZmB6xPQlrX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ZmB6xPQlrX",
+              "expanded_url": "https://www.instagram.com/yossy_imanuel/",
+              "display_url": "instagram.com/yossy_imanuel/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 171,
+      "friends_count": 64,
+      "listed_count": 2,
+      "created_at": "Fri Mar 14 12:11:27 +0000 2014",
+      "favourites_count": 152,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4774,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/850132484394110976/YjI6CCSc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/850132484394110976/YjI6CCSc_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2388980119/1434902443",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Feb 19 01:22:35 +0000 2019",
+      "id": 1097667731883782144,
+      "id_str": "1097667731883782144",
+      "text": "Lambe Turah akhirnya menghapus foto dan video pertemuan Anang Hermansyah dan Jerinx 'SID' yang diagendakan secara t\u2026 https://t.co/W1iSmivdw4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/W1iSmivdw4",
+            "expanded_url": "https://twitter.com/i/web/status/1097667731883782144",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 69183155,
+        "id_str": "69183155",
+        "name": "detikcom",
+        "screen_name": "detikcom",
+        "location": "Jakarta, Indonesia",
+        "description": "Official Twitter of https://t.co/oOBkZ1EQMA. redaksi@detik.com | promosi@detik.com | Android: https://t.co/uBAYnisH9r iPhone: https://t.co/36uDqdyxKN",
+        "url": "https://t.co/oOBkZ1EQMA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/oOBkZ1EQMA",
+                "expanded_url": "http://www.detik.com",
+                "display_url": "detik.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/oOBkZ1EQMA",
+                "expanded_url": "http://www.detik.com",
+                "display_url": "detik.com",
+                "indices": [
+                  20,
+                  43
+                ]
+              },
+              {
+                "url": "https://t.co/uBAYnisH9r",
+                "expanded_url": "http://detik.com/android",
+                "display_url": "detik.com/android",
+                "indices": [
+                  94,
+                  117
+                ]
+              },
+              {
+                "url": "https://t.co/36uDqdyxKN",
+                "expanded_url": "http://detik.com/iphone",
+                "display_url": "detik.com/iphone",
+                "indices": [
+                  126,
+                  149
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14964775,
+        "friends_count": 28,
+        "listed_count": 13325,
+        "created_at": "Thu Aug 27 03:03:05 +0000 2009",
+        "favourites_count": 34,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 1444216,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1019070441615323137/mBGdN9io_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019070441615323137/mBGdN9io_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/69183155/1534734155",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 74,
+      "favorite_count": 120,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 74,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Feb 20 03:39:57 +0000 2019",
+    "id": 1098064690134028288,
+    "id_str": "1098064690134028288",
+    "text": "Friendship is..\n\n#sobatcilik #besties #balilife #baliindonesia @ Sanur, Bali https://t.co/8QbFTsvhae",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "sobatcilik",
+          "indices": [
+            17,
+            28
+          ]
+        },
+        {
+          "text": "besties",
+          "indices": [
+            29,
+            37
+          ]
+        },
+        {
+          "text": "balilife",
+          "indices": [
+            38,
+            47
+          ]
+        },
+        {
+          "text": "baliindonesia",
+          "indices": [
+            48,
+            62
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/8QbFTsvhae",
+          "expanded_url": "https://www.instagram.com/p/BuFr3fjnZRG/?utm_source=ig_twitter_share&igshid=17ap8tr6qa8ja",
+          "display_url": "instagram.com/p/BuFr3fjnZRG/\u2026",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 119283906,
+      "id_str": "119283906",
+      "name": "Alison Thackray",
+      "screen_name": "AlisonBuleBdg",
+      "location": "Bandung, Indonesia",
+      "description": "Love laughter, life and nasi padang. CP starlightedutainment@gmail.com",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 10127,
+      "friends_count": 356,
+      "listed_count": 36,
+      "created_at": "Wed Mar 03 05:29:58 +0000 2010",
+      "favourites_count": 379,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 52080,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/868887861554102273/_HyebKwq_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/868887861554102273/_HyebKwq_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/119283906/1447405194",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.69350541,
+        115.26015373
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.26015373,
+        -8.69350541
+      ]
+    },
+    "place": {
+      "id": "f57d760962aa72a0",
+      "url": "https://api.twitter.com/1.1/geo/id/f57d760962aa72a0.json",
+      "place_type": "city",
+      "name": "Indonesia",
+      "full_name": "Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.185377,
+              -8.746756
+            ],
+            [
+              115.266902,
+              -8.746756
+            ],
+            [
+              115.266902,
+              -8.6651804
+            ],
+            [
+              115.185377,
+              -8.6651804
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 03:39:53 +0000 2019",
+    "id": 1098064670559068162,
+    "id_str": "1098064670559068162",
+    "text": "@Mon_day Sanur bang",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Mon_day",
+          "name": "Febriyadi Monda",
+          "id": 84843032,
+          "id_str": "84843032",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1097665588162260992,
+    "in_reply_to_status_id_str": "1097665588162260992",
+    "in_reply_to_user_id": 84843032,
+    "in_reply_to_user_id_str": "84843032",
+    "in_reply_to_screen_name": "Mon_day",
+    "user": {
+      "id": 68437586,
+      "id_str": "68437586",
+      "name": "Christ Z\u00e8e",
+      "screen_name": "christzee",
+      "location": "",
+      "description": "unpredictable girl..",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 268,
+      "friends_count": 678,
+      "listed_count": 2,
+      "created_at": "Mon Aug 24 15:56:23 +0000 2009",
+      "favourites_count": 35,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 13608,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1090562549110562817/kAafy36Z_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090562549110562817/kAafy36Z_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/68437586/1548845430",
+      "profile_link_color": "7FDBB6",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Feb 20 03:38:05 +0000 2019",
+    "id": 1098064217138057217,
+    "id_str": "1098064217138057217",
+    "text": "Ambience, connection between us. Serve with a heart\n#laundry #laundrybali #golaundry #denpasar #sanur #kuta https://t.co/K8OBhXUhzZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "laundry",
+          "indices": [
+            52,
+            60
+          ]
+        },
+        {
+          "text": "laundrybali",
+          "indices": [
+            61,
+            73
+          ]
+        },
+        {
+          "text": "golaundry",
+          "indices": [
+            74,
+            84
+          ]
+        },
+        {
+          "text": "denpasar",
+          "indices": [
+            85,
+            94
+          ]
+        },
+        {
+          "text": "sanur",
+          "indices": [
+            95,
+            101
+          ]
+        },
+        {
+          "text": "kuta",
+          "indices": [
+            102,
+            107
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1098064205675036672,
+          "id_str": "1098064205675036672",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dz0bk8fVAAAM7mI.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dz0bk8fVAAAM7mI.jpg",
+          "url": "https://t.co/K8OBhXUhzZ",
+          "display_url": "pic.twitter.com/K8OBhXUhzZ",
+          "expanded_url": "https://twitter.com/FerdyLaundry/status/1098064217138057217/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 474,
+              "h": 248,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 474,
+              "h": 248,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 474,
+              "h": 248,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1098064205675036672,
+          "id_str": "1098064205675036672",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dz0bk8fVAAAM7mI.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dz0bk8fVAAAM7mI.jpg",
+          "url": "https://t.co/K8OBhXUhzZ",
+          "display_url": "pic.twitter.com/K8OBhXUhzZ",
+          "expanded_url": "https://twitter.com/FerdyLaundry/status/1098064217138057217/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 474,
+              "h": 248,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 474,
+              "h": 248,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 474,
+              "h": 248,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              237,
+              124
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Dz0bk8fVAAAM7mI.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1097645172676915206,
+      "id_str": "1097645172676915206",
+      "name": "Ferdy Laundry Bali",
+      "screen_name": "FerdyLaundry",
+      "location": "Denpasar, Bali",
+      "description": "Laundry pick & drop operator in Denpasar | RSVP booking : Mobile - WA 081363403913 |email. ferdylaundry@gmail.com",
+      "url": "https://t.co/11NlXaIgli",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/11NlXaIgli",
+              "expanded_url": "https://www.ferdylaundry.com",
+              "display_url": "ferdylaundry.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4,
+      "friends_count": 132,
+      "listed_count": 0,
+      "created_at": "Mon Feb 18 23:52:57 +0000 2019",
+      "favourites_count": 16,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 26,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1097649021714190336/PjNw3jOh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097649021714190336/PjNw3jOh_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097645172676915206/1550717124",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 03:32:10 +0000 2019",
+    "id": 1098062730345345025,
+    "id_str": "1098062730345345025",
+    "text": "Health Day Hewan Kamis Ini. Jika Anda ingin sterilisasi &amp; vaksin rabies anjing Anda, silahkan daftar melalui Hotlin\u2026 https://t.co/naSysvVko3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/naSysvVko3",
+          "expanded_url": "https://twitter.com/i/web/status/1098062730345345025",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1532723412,
+      "id_str": "1532723412",
+      "name": "Yayasan BAWA",
+      "screen_name": "yayasan_bawa",
+      "location": "Ubud, Bali, Indonesia",
+      "description": "Akun resmi Yayasan Bali Animal Welfare Association (BAWA) dalam bahasa Indonesia. Tempat berbagi informasi, pengetahuan dan kepedulian mengenai Animal Welfare.",
+      "url": "http://t.co/gaNBvkNDOa",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gaNBvkNDOa",
+              "expanded_url": "http://www.bawabali.com",
+              "display_url": "bawabali.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 845,
+      "friends_count": 54,
+      "listed_count": 1,
+      "created_at": "Thu Jun 20 03:56:28 +0000 2013",
+      "favourites_count": 22,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1919,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "215C52",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/441031512943648768/GlMrLn0H_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/441031512943648768/GlMrLn0H_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1532723412/1393985188",
+      "profile_link_color": "367856",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Feb 20 03:29:19 +0000 2019",
+    "id": 1098062011856957440,
+    "id_str": "1098062011856957440",
+    "text": "Animal Health Day This Thursday. If you wish to have sterilization &amp; free rabies vaccination for your dogs, please\u2026 https://t.co/rXqJvCpALA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/rXqJvCpALA",
+          "expanded_url": "https://twitter.com/i/web/status/1098062011856957440",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            120,
+            143
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 465233570,
+      "id_str": "465233570",
+      "name": "BAWA Bali",
+      "screen_name": "bawa_bali",
+      "location": "Ubud, Bali, Indonesia",
+      "description": "Bali Animal Welfare Association is a non-profit charity dedicated to saving the lives of thousands of animals in Bali. Help us help Bali's animals!",
+      "url": "http://t.co/T0i6rOAgDt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/T0i6rOAgDt",
+              "expanded_url": "http://bawabali.com",
+              "display_url": "bawabali.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3600,
+      "friends_count": 718,
+      "listed_count": 38,
+      "created_at": "Mon Jan 16 03:46:57 +0000 2012",
+      "favourites_count": 349,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2508,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/436017010502168576/iMUiPrEH_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/436017010502168576/iMUiPrEH_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/465233570/1392784039",
+      "profile_link_color": "131414",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 03:26:44 +0000 2019",
+    "id": 1098061362272428032,
+    "id_str": "1098061362272428032",
+    "text": "https://t.co/qb5H6ExGzK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/qb5H6ExGzK",
+          "expanded_url": "http://hhrmahotelbali.com/2019/02/mercure-resort-sanur-2.html",
+          "display_url": "hhrmahotelbali.com/2019/02/mercur\u2026",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2530204741,
+      "id_str": "2530204741",
+      "name": "HHRMA Hotel Bali",
+      "screen_name": "HHRMAHotelBali",
+      "location": "Bali",
+      "description": "Provide hotel job information in Bali",
+      "url": "http://t.co/7JJArtmpOn",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/7JJArtmpOn",
+              "expanded_url": "http://hhrmahotelbali.com",
+              "display_url": "hhrmahotelbali.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1904,
+      "friends_count": 1,
+      "listed_count": 4,
+      "created_at": "Wed May 28 14:53:13 +0000 2014",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 19872,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/471666878159400960/_-3K6SGN_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/471666878159400960/_-3K6SGN_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2530204741/1401289134",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Wed Feb 20 03:19:51 +0000 2019",
+    "id": 1098059630784200704,
+    "id_str": "1098059630784200704",
+    "text": "Yesterday we celebrated \u201cPiodalan\u201d at Prime Plaza Hotel Sanur\u2019s temple. It\u2019s an anniversary ceremony of the Pura or\u2026 https://t.co/yfpNlWHyrw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yfpNlWHyrw",
+          "expanded_url": "https://twitter.com/i/web/status/1098059630784200704",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1657016658,
+      "id_str": "1657016658",
+      "name": "Prime Plaza Hotel & Suites Sanur Bali",
+      "screen_name": "PPHotelnSuites",
+      "location": "Sanur, Bali, Indonesia",
+      "description": "The Prime Plaza Hotel & Suites Sanur - Bali are located in the tranquil coastal village of Sanur, Bali, Indonesia.  The perfect place for your family vacation.",
+      "url": "https://t.co/tMKbsmzBf3",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/tMKbsmzBf3",
+              "expanded_url": "http://www.pphotels.com",
+              "display_url": "pphotels.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184,
+      "friends_count": 196,
+      "listed_count": 3,
+      "created_at": "Fri Aug 09 06:17:39 +0000 2013",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1374,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000464413059/d737c1696d2a465e305ff543b56b4e5a_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000464413059/d737c1696d2a465e305ff543b56b4e5a_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657016658/1379302711",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 03:14:51 +0000 2019",
+    "id": 1098058374044880898,
+    "id_str": "1098058374044880898",
+    "text": "Feel a beautiful beach view with white sandy of  Sanur beach. Feel a different sensation, only at  Inna Bali Beach\u2026 https://t.co/DqjNlQHnFW",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/DqjNlQHnFW",
+          "expanded_url": "https://twitter.com/i/web/status/1098058374044880898",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1443028837,
+      "id_str": "1443028837",
+      "name": "InnaGrand Bali Beach",
+      "screen_name": "grandbalibeach",
+      "location": "Denpasar, Bali",
+      "description": "https://t.co/hcEAKR5tHl",
+      "url": "https://t.co/kpir6jKWdg",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/kpir6jKWdg",
+              "expanded_url": "http://www.grandinnabalibeach.com",
+              "display_url": "grandinnabalibeach.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/hcEAKR5tHl",
+              "expanded_url": "http://hotelindonesiagroup.co.id/",
+              "display_url": "hotelindonesiagroup.co.id",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 269,
+      "friends_count": 646,
+      "listed_count": 6,
+      "created_at": "Mon May 20 06:29:33 +0000 2013",
+      "favourites_count": 6,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 675,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/861778700374654976/HKG9t6ot_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/861778700374654976/HKG9t6ot_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1443028837/1456455650",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Feb 20 03:13:37 +0000 2019",
+    "id": 1098058061220990977,
+    "id_str": "1098058061220990977",
+    "text": "Late breakfast..\n\n#Sanur #baliindonesia #balilife #Bali @ Kamuela Villas and Suites Sanur https://t.co/hfDCHkSunY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Sanur",
+          "indices": [
+            18,
+            24
+          ]
+        },
+        {
+          "text": "baliindonesia",
+          "indices": [
+            25,
+            39
+          ]
+        },
+        {
+          "text": "balilife",
+          "indices": [
+            40,
+            49
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            50,
+            55
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/hfDCHkSunY",
+          "expanded_url": "https://www.instagram.com/p/BuFo2inHncP/?utm_source=ig_twitter_share&igshid=oavz8dhlvs0y",
+          "display_url": "instagram.com/p/BuFo2inHncP/\u2026",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 119283906,
+      "id_str": "119283906",
+      "name": "Alison Thackray",
+      "screen_name": "AlisonBuleBdg",
+      "location": "Bandung, Indonesia",
+      "description": "Love laughter, life and nasi padang. CP starlightedutainment@gmail.com",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 10127,
+      "friends_count": 356,
+      "listed_count": 36,
+      "created_at": "Wed Mar 03 05:29:58 +0000 2010",
+      "favourites_count": 379,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 52080,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/868887861554102273/_HyebKwq_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/868887861554102273/_HyebKwq_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/119283906/1447405194",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.70808956,
+        115.25756677
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.25756677,
+        -8.70808956
+      ]
+    },
+    "place": {
+      "id": "f57d760962aa72a0",
+      "url": "https://api.twitter.com/1.1/geo/id/f57d760962aa72a0.json",
+      "place_type": "city",
+      "name": "Indonesia",
+      "full_name": "Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.185377,
+              -8.746756
+            ],
+            [
+              115.266902,
+              -8.746756
+            ],
+            [
+              115.266902,
+              -8.6651804
+            ],
+            [
+              115.185377,
+              -8.6651804
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 03:11:42 +0000 2019",
+    "id": 1098057580776120320,
+    "id_str": "1098057580776120320",
+    "text": "Merlin had been kept in a cage nearly all his life as a trophy dog...\nNow he's living the life... I even gave him a\u2026 https://t.co/7LpXrzJNrc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7LpXrzJNrc",
+          "expanded_url": "https://twitter.com/i/web/status/1098057580776120320",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1094901561854091266,
+      "id_str": "1094901561854091266",
+      "name": "CheekyBumsMum",
+      "screen_name": "CheekyBumsMum",
+      "location": "Queensland, Australia",
+      "description": "Don't try & understand it, just accept it \ud83d\udd49 \n50+ with attitude, Carer, tv junkie, alternate views, truth teller, takes no shit \ud83d\ude09\nMust love dogs \ud83d\udc3e #BTPosse \ud83d\udc3e",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 51,
+      "friends_count": 345,
+      "listed_count": 0,
+      "created_at": "Mon Feb 11 10:10:49 +0000 2019",
+      "favourites_count": 473,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 495,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096226876391968768/Hz7nm15C_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096226876391968768/Hz7nm15C_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1094901561854091266/1549881195",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 03:08:06 +0000 2019",
+    "id": 1098056673795555328,
+    "id_str": "1098056673795555328",
+    "text": "Do we like holidays?\n\nOh yes!\n\n#Sanur #Bali #baliindonesia #balilife @ Kamuela Villas and Suites Sanur https://t.co/7djK9tGW7y",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Sanur",
+          "indices": [
+            31,
+            37
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            38,
+            43
+          ]
+        },
+        {
+          "text": "baliindonesia",
+          "indices": [
+            44,
+            58
+          ]
+        },
+        {
+          "text": "balilife",
+          "indices": [
+            59,
+            68
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7djK9tGW7y",
+          "expanded_url": "https://www.instagram.com/p/BuFoOIvHrwH/?utm_source=ig_twitter_share&igshid=1g9mmx8qzbnju",
+          "display_url": "instagram.com/p/BuFoOIvHrwH/\u2026",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 119283906,
+      "id_str": "119283906",
+      "name": "Alison Thackray",
+      "screen_name": "AlisonBuleBdg",
+      "location": "Bandung, Indonesia",
+      "description": "Love laughter, life and nasi padang. CP starlightedutainment@gmail.com",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 10127,
+      "friends_count": 356,
+      "listed_count": 36,
+      "created_at": "Wed Mar 03 05:29:58 +0000 2010",
+      "favourites_count": 379,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 52080,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/868887861554102273/_HyebKwq_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/868887861554102273/_HyebKwq_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/119283906/1447405194",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.70808956,
+        115.25756677
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.25756677,
+        -8.70808956
+      ]
+    },
+    "place": {
+      "id": "f57d760962aa72a0",
+      "url": "https://api.twitter.com/1.1/geo/id/f57d760962aa72a0.json",
+      "place_type": "city",
+      "name": "Indonesia",
+      "full_name": "Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.185377,
+              -8.746756
+            ],
+            [
+              115.266902,
+              -8.746756
+            ],
+            [
+              115.266902,
+              -8.6651804
+            ],
+            [
+              115.185377,
+              -8.6651804
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 03:00:28 +0000 2019",
+    "id": 1098054754482016257,
+    "id_str": "1098054754482016257",
+    "text": "At the crazy dog house...\nFinally \ud83d\ude01\n#Act4BaliDogs #Sanur #DogRescue https://t.co/XpwBR6cVjq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Act4BaliDogs",
+          "indices": [
+            36,
+            49
+          ]
+        },
+        {
+          "text": "Sanur",
+          "indices": [
+            50,
+            56
+          ]
+        },
+        {
+          "text": "DogRescue",
+          "indices": [
+            57,
+            67
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1098054742591254528,
+          "id_str": "1098054742591254528",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dz0S-HwVsAAxEos.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dz0S-HwVsAAxEos.jpg",
+          "url": "https://t.co/XpwBR6cVjq",
+          "display_url": "pic.twitter.com/XpwBR6cVjq",
+          "expanded_url": "https://twitter.com/CheekyBumsMum/status/1098054754482016257/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 959,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 959,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 637,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1098054742591254528,
+          "id_str": "1098054742591254528",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dz0S-HwVsAAxEos.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dz0S-HwVsAAxEos.jpg",
+          "url": "https://t.co/XpwBR6cVjq",
+          "display_url": "pic.twitter.com/XpwBR6cVjq",
+          "expanded_url": "https://twitter.com/CheekyBumsMum/status/1098054754482016257/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 959,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 959,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 637,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1094901561854091266,
+      "id_str": "1094901561854091266",
+      "name": "CheekyBumsMum",
+      "screen_name": "CheekyBumsMum",
+      "location": "Queensland, Australia",
+      "description": "Don't try & understand it, just accept it \ud83d\udd49 \n50+ with attitude, Carer, tv junkie, alternate views, truth teller, takes no shit \ud83d\ude09\nMust love dogs \ud83d\udc3e #BTPosse \ud83d\udc3e",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 51,
+      "friends_count": 345,
+      "listed_count": 0,
+      "created_at": "Mon Feb 11 10:10:49 +0000 2019",
+      "favourites_count": 473,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 495,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096226876391968768/Hz7nm15C_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096226876391968768/Hz7nm15C_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1094901561854091266/1549881195",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 02:57:38 +0000 2019",
+    "id": 1098054039084818433,
+    "id_str": "1098054039084818433",
+    "text": "#bali \nUSAI ISTRINYA, KINI LAKI-LAKI ANANG HERMANSYAH BUAT PESAN YANG DITUJUKAN KEPADA JERINX SID \n&gt;&gt;&gt;\u2026 https://t.co/s8f9srKMZv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bali",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/s8f9srKMZv",
+          "expanded_url": "https://twitter.com/i/web/status/1098054039084818433",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2315594923,
+      "id_str": "2315594923",
+      "name": "Tribun Bali",
+      "screen_name": "Tribun_Bali",
+      "location": "Bali",
+      "description": "Akun resmi Tribun Bali (Tribun Network Kompas Gramedia). Fanpage FB: https://t.co/84uB6EhwqS ; Instagram: https://t.co/WUJDsu08kP",
+      "url": "http://t.co/WVMwaV7xtC",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/WVMwaV7xtC",
+              "expanded_url": "http://tribun-bali.com",
+              "display_url": "tribun-bali.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/84uB6EhwqS",
+              "expanded_url": "http://www.facebook.com/tribunbali",
+              "display_url": "facebook.com/tribunbali",
+              "indices": [
+                69,
+                92
+              ]
+            },
+            {
+              "url": "https://t.co/WUJDsu08kP",
+              "expanded_url": "http://www.instagram.com/tribunbali",
+              "display_url": "instagram.com/tribunbali",
+              "indices": [
+                106,
+                129
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 10168,
+      "friends_count": 799,
+      "listed_count": 45,
+      "created_at": "Tue Jan 28 14:32:05 +0000 2014",
+      "favourites_count": 310,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 111609,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/801368046094823425/xz4akTBI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/801368046094823425/xz4akTBI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2315594923/1521599482",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Feb 20 02:09:53 +0000 2019",
+    "id": 1098042021833371648,
+    "id_str": "1098042021833371648",
+    "text": "English ku ya english dagang lumpia di pantai sanur. Atau dagang jagung bakar di batubolong https://t.co/fMuUXjOa8Y",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fMuUXjOa8Y",
+          "expanded_url": "https://twitter.com/shitlicious/status/1097790240121442304",
+          "display_url": "twitter.com/shitlicious/st\u2026",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 166062736,
+      "id_str": "166062736",
+      "name": "Aga",
+      "screen_name": "aristiaanggara",
+      "location": "Karangasem - Denpasar",
+      "description": "Corporate Legal Consultant || Musician || Anjanja",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 506,
+      "friends_count": 552,
+      "listed_count": 0,
+      "created_at": "Tue Jul 13 06:39:10 +0000 2010",
+      "favourites_count": 33,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3330,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1098626991157170178/y3kAJSEl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098626991157170178/y3kAJSEl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/166062736/1548513026",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1097790240121442304,
+    "quoted_status_id_str": "1097790240121442304",
+    "quoted_status": {
+      "created_at": "Tue Feb 19 09:29:23 +0000 2019",
+      "id": 1097790240121442304,
+      "id_str": "1097790240121442304",
+      "text": "Aku kuliah bahasa inggris bertahun2, diajar dosen bule, yo tetep inggrisku medhog.\n\nBtw, udah nanya ke bule sendiri\u2026 https://t.co/RCyDpDJhMR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RCyDpDJhMR",
+            "expanded_url": "https://twitter.com/i/web/status/1097790240121442304",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 78226378,
+        "id_str": "78226378",
+        "name": "Alitt Susanto",
+        "screen_name": "shitlicious",
+        "location": "",
+        "description": "Penulis: - SHITLICIOUS, - SKRIPSHIT, - RELATIONSHIT. Youtube content creator: https://t.co/JnQiBCgtis CP: susanto.alitt@gmail.com 0817.0072761 (@barlieve)",
+        "url": "https://t.co/K8yMPVp5jA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/K8yMPVp5jA",
+                "expanded_url": "http://www.shitlicious.com",
+                "display_url": "shitlicious.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/JnQiBCgtis",
+                "expanded_url": "http://youtube.com/nyinx2",
+                "display_url": "youtube.com/nyinx2",
+                "indices": [
+                  78,
+                  101
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 832566,
+        "friends_count": 387,
+        "listed_count": 889,
+        "created_at": "Tue Sep 29 05:30:13 +0000 2009",
+        "favourites_count": 610,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 122077,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1099274591589953537/JZfACkSV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099274591589953537/JZfACkSV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/78226378/1459754928",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 19582,
+      "favorite_count": 15144,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "in"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Feb 20 02:00:13 +0000 2019",
+    "id": 1098039589049192448,
+    "id_str": "1098039589049192448",
+    "text": "Enjoying your afternoon in pool by the tropical garden and experience luxurious service from out dedicated staff.\u2026 https://t.co/elA9kVgpJU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/elA9kVgpJU",
+          "expanded_url": "https://twitter.com/i/web/status/1098039589049192448",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 988271310454145025,
+      "id_str": "988271310454145025",
+      "name": "Villa Seriska Bali",
+      "screen_name": "villa_seriska",
+      "location": "Bali, Indonesia",
+      "description": "Fully serviced Bali luxury rental villas in the heart of #Seminyak #Sanur and #Jimbaran\n\ne. reservations@seriska.com",
+      "url": "https://t.co/qOjv5NXf09",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/qOjv5NXf09",
+              "expanded_url": "http://www.seriska.com",
+              "display_url": "seriska.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 12,
+      "friends_count": 0,
+      "listed_count": 3,
+      "created_at": "Mon Apr 23 04:20:16 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 294,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988273997950238720/ywakVp9P_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988273997950238720/ywakVp9P_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/988271310454145025/1525151127",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 01:57:11 +0000 2019",
+    "id": 1098038827006992385,
+    "id_str": "1098038827006992385",
+    "text": "H\u00e4ng med oss p\u00e5 v\u00e5r miniresa till havet och stranden i Sanur h\u00e4r p\u00e5 Bali https://t.co/oLMbc0hL0p https://t.co/oLMbc0hL0p",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/oLMbc0hL0p",
+          "expanded_url": "https://youtu.be/RAKs1bTBAxg",
+          "display_url": "youtu.be/RAKs1bTBAxg",
+          "indices": [
+            73,
+            96
+          ]
+        },
+        {
+          "url": "https://t.co/oLMbc0hL0p",
+          "expanded_url": "https://youtu.be/RAKs1bTBAxg",
+          "display_url": "youtu.be/RAKs1bTBAxg",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "sv",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 551140916,
+      "id_str": "551140916",
+      "name": "Camilla Lebert Hirvi",
+      "screen_name": "CamillaLebert",
+      "location": "Koh Lanta, Thailand",
+      "description": "Life Designer, Digital nomad and a Couples Therapist. Swede currently living in Thailand.",
+      "url": "http://t.co/0R6Bw3SQAj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/0R6Bw3SQAj",
+              "expanded_url": "http://www.camillaleberthirvi.se",
+              "display_url": "camillaleberthirvi.se",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 110,
+      "friends_count": 59,
+      "listed_count": 22,
+      "created_at": "Wed Apr 11 16:51:43 +0000 2012",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4084,
+      "lang": "sv",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2095008186/00011139_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2095008186/00011139_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "sv"
+  },
+  {
+    "created_at": "Wed Feb 20 01:56:46 +0000 2019",
+    "id": 1098038722329825280,
+    "id_str": "1098038722329825280",
+    "text": "H\u00e4ng med oss p\u00e5 v\u00e5r miniresa till havet och stranden i Sanur h\u00e4r p\u00e5 Bali https://t.co/oLMbc0hL0p",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/oLMbc0hL0p",
+          "expanded_url": "https://youtu.be/RAKs1bTBAxg",
+          "display_url": "youtu.be/RAKs1bTBAxg",
+          "indices": [
+            73,
+            96
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "sv",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 551140916,
+      "id_str": "551140916",
+      "name": "Camilla Lebert Hirvi",
+      "screen_name": "CamillaLebert",
+      "location": "Koh Lanta, Thailand",
+      "description": "Life Designer, Digital nomad and a Couples Therapist. Swede currently living in Thailand.",
+      "url": "http://t.co/0R6Bw3SQAj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/0R6Bw3SQAj",
+              "expanded_url": "http://www.camillaleberthirvi.se",
+              "display_url": "camillaleberthirvi.se",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 110,
+      "friends_count": 59,
+      "listed_count": 22,
+      "created_at": "Wed Apr 11 16:51:43 +0000 2012",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4084,
+      "lang": "sv",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2095008186/00011139_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2095008186/00011139_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "sv"
+  },
+  {
+    "created_at": "Wed Feb 20 01:48:33 +0000 2019",
+    "id": 1098036653531136000,
+    "id_str": "1098036653531136000",
+    "text": "RT @JRX_SID: Jika saja tadi di @garage_sanur saya tahu kamu adminnya lamtur sudah saya robek mulutmu.\n\nKenapa kalian @ashantysiddik @anangh\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "JRX_SID",
+          "name": "JRX",
+          "id": 83506024,
+          "id_str": "83506024",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "garage_sanur",
+          "name": "SanurGarageDetailing",
+          "id": 841964648941342724,
+          "id_str": "841964648941342724",
+          "indices": [
+            31,
+            44
+          ]
+        },
+        {
+          "screen_name": "ashantysiddik",
+          "name": "Ashanty Hermansyah",
+          "id": 238028607,
+          "id_str": "238028607",
+          "indices": [
+            117,
+            131
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 99265278,
+      "id_str": "99265278",
+      "name": "Nizam Zakka Arrizal",
+      "screen_name": "chagnizam",
+      "location": "Kota Nganjuk",
+      "description": "palmturi'12 || your lawyer now and tomorrow || bangun pagi lebih mudah daripada bangun candi",
+      "url": "https://t.co/nhLaFtcQKK",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/nhLaFtcQKK",
+              "expanded_url": "http://chagnizam.blogspot.com",
+              "display_url": "chagnizam.blogspot.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 342,
+      "friends_count": 252,
+      "listed_count": 0,
+      "created_at": "Fri Dec 25 11:04:16 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6351,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/971611225619546112/n8xRFe08_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/971611225619546112/n8xRFe08_normal.jpg",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Feb 18 16:06:38 +0000 2019",
+      "id": 1097527822132731904,
+      "id_str": "1097527822132731904",
+      "text": "Jika saja tadi di @garage_sanur saya tahu kamu adminnya lamtur sudah saya robek mulutmu.\n\nKenapa kalian\u2026 https://t.co/l0JtfBxlIT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "garage_sanur",
+            "name": "SanurGarageDetailing",
+            "id": 841964648941342724,
+            "id_str": "841964648941342724",
+            "indices": [
+              18,
+              31
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/l0JtfBxlIT",
+            "expanded_url": "https://twitter.com/i/web/status/1097527822132731904",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 83506024,
+        "id_str": "83506024",
+        "name": "JRX",
+        "screen_name": "JRX_SID",
+        "location": "Kuta Rock City",
+        "description": "\ud83e\udd41 @SID_official \ud83c\udfa4\ud83c\udfb8 @DEVlLDICE. CEO of @Twice_Bali - @xRMBLx - @Rumble_Empire @HouseOfRumble - @TheRumbleShop @Rumble_Girl & @Bong_Hostel IG: JRXSID",
+        "url": "https://t.co/T0hviT6Pqp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/T0hviT6Pqp",
+                "expanded_url": "http://www.facebook.com/JRXSID",
+                "display_url": "facebook.com/JRXSID",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 366168,
+        "friends_count": 207,
+        "listed_count": 997,
+        "created_at": "Mon Oct 19 02:43:55 +0000 2009",
+        "favourites_count": 4816,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 53634,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1086165601389694976/NKBUQ5ax_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086165601389694976/NKBUQ5ax_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/83506024/1358403622",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "6ab2f5132f36eb85",
+        "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+        "place_type": "city",
+        "name": "Kuta",
+        "full_name": "Kuta, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                115.083847,
+                -8.849261
+              ],
+              [
+                115.240267,
+                -8.849261
+              ],
+              [
+                115.240267,
+                -8.601695
+              ],
+              [
+                115.083847,
+                -8.601695
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 204,
+      "favorite_count": 243,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": true,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 204,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Feb 20 01:05:02 +0000 2019",
+    "id": 1098025703088349184,
+    "id_str": "1098025703088349184",
+    "text": "RT @JRX_SID: Jika saja tadi di @garage_sanur saya tahu kamu adminnya lamtur sudah saya robek mulutmu.\n\nKenapa kalian @ashantysiddik @anangh\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "JRX_SID",
+          "name": "JRX",
+          "id": 83506024,
+          "id_str": "83506024",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "garage_sanur",
+          "name": "SanurGarageDetailing",
+          "id": 841964648941342724,
+          "id_str": "841964648941342724",
+          "indices": [
+            31,
+            44
+          ]
+        },
+        {
+          "screen_name": "ashantysiddik",
+          "name": "Ashanty Hermansyah",
+          "id": 238028607,
+          "id_str": "238028607",
+          "indices": [
+            117,
+            131
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1504024417,
+      "id_str": "1504024417",
+      "name": "Nicolas Noorman J.W",
+      "screen_name": "nicolasnjw",
+      "location": "Yogyakarta",
+      "description": "United Fans * We stand UNITED in good and bad times *  @ManUtd",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 195,
+      "friends_count": 258,
+      "listed_count": 0,
+      "created_at": "Tue Jun 11 14:56:43 +0000 2013",
+      "favourites_count": 1979,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7715,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/992899846544572416/Rj1hN1tR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/992899846544572416/Rj1hN1tR_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504024417/1484400040",
+      "profile_link_color": "060830",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Feb 18 16:06:38 +0000 2019",
+      "id": 1097527822132731904,
+      "id_str": "1097527822132731904",
+      "text": "Jika saja tadi di @garage_sanur saya tahu kamu adminnya lamtur sudah saya robek mulutmu.\n\nKenapa kalian\u2026 https://t.co/l0JtfBxlIT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "garage_sanur",
+            "name": "SanurGarageDetailing",
+            "id": 841964648941342724,
+            "id_str": "841964648941342724",
+            "indices": [
+              18,
+              31
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/l0JtfBxlIT",
+            "expanded_url": "https://twitter.com/i/web/status/1097527822132731904",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 83506024,
+        "id_str": "83506024",
+        "name": "JRX",
+        "screen_name": "JRX_SID",
+        "location": "Kuta Rock City",
+        "description": "\ud83e\udd41 @SID_official \ud83c\udfa4\ud83c\udfb8 @DEVlLDICE. CEO of @Twice_Bali - @xRMBLx - @Rumble_Empire @HouseOfRumble - @TheRumbleShop @Rumble_Girl & @Bong_Hostel IG: JRXSID",
+        "url": "https://t.co/T0hviT6Pqp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/T0hviT6Pqp",
+                "expanded_url": "http://www.facebook.com/JRXSID",
+                "display_url": "facebook.com/JRXSID",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 366168,
+        "friends_count": 207,
+        "listed_count": 997,
+        "created_at": "Mon Oct 19 02:43:55 +0000 2009",
+        "favourites_count": 4816,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 53634,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1086165601389694976/NKBUQ5ax_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086165601389694976/NKBUQ5ax_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/83506024/1358403622",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "6ab2f5132f36eb85",
+        "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+        "place_type": "city",
+        "name": "Kuta",
+        "full_name": "Kuta, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                115.083847,
+                -8.849261
+              ],
+              [
+                115.240267,
+                -8.849261
+              ],
+              [
+                115.240267,
+                -8.601695
+              ],
+              [
+                115.083847,
+                -8.601695
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 204,
+      "favorite_count": 243,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": true,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 204,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Feb 20 01:03:05 +0000 2019",
+    "id": 1098025212602249217,
+    "id_str": "1098025212602249217",
+    "text": "RT @kompasiana: Tiga Nenek dan Bulu Babi Sanur https://t.co/gvNYbeoyVM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "kompasiana",
+          "name": "Kompasiana",
+          "id": 23786106,
+          "id_str": "23786106",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gvNYbeoyVM",
+          "expanded_url": "https://www.kompasiana.com/leya21951/5c6934b0c112fe22ee673bed/tiga-nenek-dan-bulu-babi-sanur",
+          "display_url": "kompasiana.com/leya21951/5c69\u2026",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 23343960,
+      "id_str": "23343960",
+      "name": "Kompas.com",
+      "screen_name": "kompascom",
+      "location": "Indonesia",
+      "description": "Ketika Perbincangan Dimulai | social@kompas.com | Jernih Melihat Dunia",
+      "url": "https://t.co/69oEiSoI5p",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/69oEiSoI5p",
+              "expanded_url": "http://www.kompas.com",
+              "display_url": "kompas.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7083367,
+      "friends_count": 26,
+      "listed_count": 10611,
+      "created_at": "Sun Mar 08 19:32:04 +0000 2009",
+      "favourites_count": 104,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1228434,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1B3567",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/924834031509712896/SjhqOzgA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/924834031509712896/SjhqOzgA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23343960/1514865410",
+      "profile_link_color": "1B3567",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F4990A",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 20 01:02:00 +0000 2019",
+      "id": 1098024938668261376,
+      "id_str": "1098024938668261376",
+      "text": "Tiga Nenek dan Bulu Babi Sanur https://t.co/gvNYbeoyVM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gvNYbeoyVM",
+            "expanded_url": "https://www.kompasiana.com/leya21951/5c6934b0c112fe22ee673bed/tiga-nenek-dan-bulu-babi-sanur",
+            "display_url": "kompasiana.com/leya21951/5c69\u2026",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 23786106,
+        "id_str": "23786106",
+        "name": "Kompasiana",
+        "screen_name": "kompasiana",
+        "location": "Indonesia",
+        "description": "Beyond Blogging I Gunakan tagar #GueKompasianer dan bagikan cerita menarik serta gambar ciamik kalian.",
+        "url": "https://t.co/jxIhQsTN3F",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/jxIhQsTN3F",
+                "expanded_url": "http://www.kompasiana.com",
+                "display_url": "kompasiana.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 879028,
+        "friends_count": 113,
+        "listed_count": 1460,
+        "created_at": "Wed Mar 11 16:27:45 +0000 2009",
+        "favourites_count": 861,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 426253,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1D67DE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082189379131531265/eVsKbQbt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082189379131531265/eVsKbQbt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23786106/1529424146",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Feb 20 01:02:00 +0000 2019",
+    "id": 1098024938668261376,
+    "id_str": "1098024938668261376",
+    "text": "Tiga Nenek dan Bulu Babi Sanur https://t.co/gvNYbeoyVM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/gvNYbeoyVM",
+          "expanded_url": "https://www.kompasiana.com/leya21951/5c6934b0c112fe22ee673bed/tiga-nenek-dan-bulu-babi-sanur",
+          "display_url": "kompasiana.com/leya21951/5c69\u2026",
+          "indices": [
+            31,
+            54
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 23786106,
+      "id_str": "23786106",
+      "name": "Kompasiana",
+      "screen_name": "kompasiana",
+      "location": "Indonesia",
+      "description": "Beyond Blogging I Gunakan tagar #GueKompasianer dan bagikan cerita menarik serta gambar ciamik kalian.",
+      "url": "https://t.co/jxIhQsTN3F",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/jxIhQsTN3F",
+              "expanded_url": "http://www.kompasiana.com",
+              "display_url": "kompasiana.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 879028,
+      "friends_count": 113,
+      "listed_count": 1460,
+      "created_at": "Wed Mar 11 16:27:45 +0000 2009",
+      "favourites_count": 861,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 426253,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1D67DE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1082189379131531265/eVsKbQbt_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082189379131531265/eVsKbQbt_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23786106/1529424146",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Feb 20 00:51:44 +0000 2019",
+    "id": 1098022353617838081,
+    "id_str": "1098022353617838081",
+    "text": "Enjoy Fishing with ENA FISHING DISCOVERY\nif Fishing for  4 hours in Sanur Will get LUNCH at BARAMUNDI RESTAURANT\nca\u2026 https://t.co/6sryRnH7uM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/6sryRnH7uM",
+          "expanded_url": "https://twitter.com/i/web/status/1098022353617838081",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1052478086174756869,
+      "id_str": "1052478086174756869",
+      "name": "Ena Fishing Bali",
+      "screen_name": "bali_ena",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6,
+      "friends_count": 6,
+      "listed_count": 0,
+      "created_at": "Wed Oct 17 08:35:04 +0000 2018",
+      "favourites_count": 8,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 97,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1052480473702662144/IEZcqI0X_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052480473702662144/IEZcqI0X_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1052478086174756869/1539765746",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 00:42:17 +0000 2019",
+    "id": 1098019977926451200,
+    "id_str": "1098019977926451200",
+    "text": "Prime Plaza Suites Sanur \u2013 10\u00a0Dagen https://t.co/dHLrFXJOxo https://t.co/R4V1ylH1hQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dHLrFXJOxo",
+          "expanded_url": "https://onlineregio.nl/reizen/prime-plaza-suites-sanur-10-dagen-2/",
+          "display_url": "onlineregio.nl/reizen/prime-p\u2026",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1098019976248770560,
+          "id_str": "1098019976248770560",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/DzzzWdCXQAATg8O.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DzzzWdCXQAATg8O.jpg",
+          "url": "https://t.co/R4V1ylH1hQ",
+          "display_url": "pic.twitter.com/R4V1ylH1hQ",
+          "expanded_url": "https://twitter.com/OnlineRegio/status/1098019977926451200/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1098019976248770560,
+          "id_str": "1098019976248770560",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/DzzzWdCXQAATg8O.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DzzzWdCXQAATg8O.jpg",
+          "url": "https://t.co/R4V1ylH1hQ",
+          "display_url": "pic.twitter.com/R4V1ylH1hQ",
+          "expanded_url": "https://twitter.com/OnlineRegio/status/1098019977926451200/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "fr",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 483877737,
+      "id_str": "483877737",
+      "name": "OnlineRegio.nl",
+      "screen_name": "OnlineRegio",
+      "location": "Nederland",
+      "description": "Regio Bedrijven, Vakantiehuizen, Reizen, Hotels en meer... Volg ons ook op Facebook  https://t.co/XcP441xNwc",
+      "url": "https://t.co/SkJpiIJ0BB",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/SkJpiIJ0BB",
+              "expanded_url": "https://onlineregio.nl",
+              "display_url": "onlineregio.nl",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/XcP441xNwc",
+              "expanded_url": "http://www.facebook.com/onlineregio",
+              "display_url": "facebook.com/onlineregio",
+              "indices": [
+                85,
+                108
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 303,
+      "friends_count": 587,
+      "listed_count": 25,
+      "created_at": "Sun Feb 05 13:55:39 +0000 2012",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 88533,
+      "lang": "nl",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E4E4F1",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/838491773974478848/gm36-T3G_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/838491773974478848/gm36-T3G_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/483877737/1488746323",
+      "profile_link_color": "FF9900",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Wed Feb 20 00:41:08 +0000 2019",
+    "id": 1098019687701434368,
+    "id_str": "1098019687701434368",
+    "text": "Enjoy Dive with ENA DIVE CENTER\nif Diving in Sanur Will get LUNCH at BARAMUNDI RESTAURANT\nhttps://t.co/Mt3rMAKLvF\ni\u2026 https://t.co/Gjd81rohFS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Mt3rMAKLvF",
+          "expanded_url": "http://www.enadive.co.id",
+          "display_url": "enadive.co.id",
+          "indices": [
+            90,
+            113
+          ]
+        },
+        {
+          "url": "https://t.co/Gjd81rohFS",
+          "expanded_url": "https://twitter.com/i/web/status/1098019687701434368",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 128430732,
+      "id_str": "128430732",
+      "name": "Enadive Center",
+      "screen_name": "enadive",
+      "location": "sanur bali indonesia",
+      "description": "bali diving course, bali dive program",
+      "url": "https://t.co/Hbgg95pmpt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Hbgg95pmpt",
+              "expanded_url": "http://www.enadive.co.id",
+              "display_url": "enadive.co.id",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 52,
+      "friends_count": 36,
+      "listed_count": 0,
+      "created_at": "Thu Apr 01 03:03:59 +0000 2010",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 175,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2172693675/tdive17_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2172693675/tdive17_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 00:40:11 +0000 2019",
+    "id": 1098019447133036544,
+    "id_str": "1098019447133036544",
+    "text": "Yeah...\nHes MY boy for th duration of my stay at this gorgeous little guesthouse...\n#KembaliLagi #Sanur https://t.co/dbXSxhdcOX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "KembaliLagi",
+          "indices": [
+            84,
+            96
+          ]
+        },
+        {
+          "text": "Sanur",
+          "indices": [
+            97,
+            103
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dbXSxhdcOX",
+          "expanded_url": "https://twitter.com/CheekyPoppy1/status/1098014990928232448",
+          "display_url": "twitter.com/CheekyPoppy1/s\u2026",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1094901561854091266,
+      "id_str": "1094901561854091266",
+      "name": "CheekyBumsMum",
+      "screen_name": "CheekyBumsMum",
+      "location": "Queensland, Australia",
+      "description": "Don't try & understand it, just accept it \ud83d\udd49 \n50+ with attitude, Carer, tv junkie, alternate views, truth teller, takes no shit \ud83d\ude09\nMust love dogs \ud83d\udc3e #BTPosse \ud83d\udc3e",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 51,
+      "friends_count": 345,
+      "listed_count": 0,
+      "created_at": "Mon Feb 11 10:10:49 +0000 2019",
+      "favourites_count": 473,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 495,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096226876391968768/Hz7nm15C_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096226876391968768/Hz7nm15C_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1094901561854091266/1549881195",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1098014990928232448,
+    "quoted_status_id_str": "1098014990928232448",
+    "quoted_status": {
+      "created_at": "Wed Feb 20 00:22:28 +0000 2019",
+      "id": 1098014990928232448,
+      "id_str": "1098014990928232448",
+      "text": "Mum doesn't care if her friends loan her a puppy now...half her holiday is over anyway...\nShe's got Gringo \ud83d\ude09\nHe was\u2026 https://t.co/lMIPk8pLkz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lMIPk8pLkz",
+            "expanded_url": "https://twitter.com/i/web/status/1098014990928232448",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4631922314,
+        "id_str": "4631922314",
+        "name": "\ud83d\udc3e PoppyPoo-CheekyBum - BTinOZ \ud83d\udc3e",
+        "screen_name": "CheekyPoppy1",
+        "location": "Gold Coast, Queensland",
+        "description": "Poppy, Aussie rep 4 the #BTPosse \ud83d\udc3e\n5, love swimming \ud83d\ude00 #WaterBaby \ud83c\udf0a\ud83c\udf0a\nWe WERE 3, but now I'm Top Dog \ud83d\udc36\nMs P & Lilly\ud83c\udf08 #OTRB\n#SeniorDogs #AussieDogs #GCdogs",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 987,
+        "friends_count": 911,
+        "listed_count": 160,
+        "created_at": "Tue Dec 22 15:20:21 +0000 2015",
+        "favourites_count": 11704,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18555,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081200224297603072/OoLSJqBu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081200224297603072/OoLSJqBu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4631922314/1528718679",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

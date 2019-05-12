@@ -1,0 +1,3185 @@
+[
+  {
+    "created_at": "Mon Feb 25 10:14:23 +0000 2019",
+    "id": 1099975890992128000,
+    "id_str": "1099975890992128000",
+    "text": "RT @affandiilham2: Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/BjJ3s2oBqh \n\n#01Jo\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "affandiilham2",
+          "name": "affandi ilham",
+          "id": 1048781982736347139,
+          "id_str": "1048781982736347139",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BjJ3s2oBqh",
+          "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+          "display_url": "tribunnews.com/regional/2019/\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1048788637805031424,
+      "id_str": "1048788637805031424",
+      "name": "alina",
+      "screen_name": "alina_ayu59",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 130,
+      "friends_count": 95,
+      "listed_count": 0,
+      "created_at": "Sun Oct 07 04:14:31 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2094,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1048789560522469376/aK5Q4MT8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048789560522469376/aK5Q4MT8_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 24 13:37:52 +0000 2019",
+      "id": 1099664711178571776,
+      "id_str": "1099664711178571776",
+      "text": "Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/BjJ3s2oBqh\u2026 https://t.co/VNpsVejcjy",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BjJ3s2oBqh",
+            "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+            "display_url": "tribunnews.com/regional/2019/\u2026",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "url": "https://t.co/VNpsVejcjy",
+            "expanded_url": "https://twitter.com/i/web/status/1099664711178571776",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1048781982736347139,
+        "id_str": "1048781982736347139",
+        "name": "affandi ilham",
+        "screen_name": "affandiilham2",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 123,
+        "friends_count": 94,
+        "listed_count": 0,
+        "created_at": "Sun Oct 07 03:48:04 +0000 2018",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2121,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1048783256483590144/dkebgGsc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048783256483590144/dkebgGsc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 14:33:33 +0000 2019",
+    "id": 1099678723815596032,
+    "id_str": "1099678723815596032",
+    "text": "RT @rafiwahyudi9: Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/T7dpJoVgwz \n\n#01Jok\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rafiwahyudi9",
+          "name": "rafi wahyudi",
+          "id": 1048777334206021634,
+          "id_str": "1048777334206021634",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/T7dpJoVgwz",
+          "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+          "display_url": "tribunnews.com/regional/2019/\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1048781982736347139,
+      "id_str": "1048781982736347139",
+      "name": "affandi ilham",
+      "screen_name": "affandiilham2",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 123,
+      "friends_count": 94,
+      "listed_count": 0,
+      "created_at": "Sun Oct 07 03:48:04 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2121,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1048783256483590144/dkebgGsc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048783256483590144/dkebgGsc_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 24 13:37:50 +0000 2019",
+      "id": 1099664704081784832,
+      "id_str": "1099664704081784832",
+      "text": "Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/T7dpJoVgwz\u2026 https://t.co/Dy72EKeINi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/T7dpJoVgwz",
+            "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+            "display_url": "tribunnews.com/regional/2019/\u2026",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "url": "https://t.co/Dy72EKeINi",
+            "expanded_url": "https://twitter.com/i/web/status/1099664704081784832",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1048777334206021634,
+        "id_str": "1048777334206021634",
+        "name": "rafi wahyudi",
+        "screen_name": "rafiwahyudi9",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 121,
+        "friends_count": 95,
+        "listed_count": 0,
+        "created_at": "Sun Oct 07 03:29:36 +0000 2018",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 724,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1048778321251553280/B9FuEpaJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048778321251553280/B9FuEpaJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 14:30:56 +0000 2019",
+    "id": 1099678065230147586,
+    "id_str": "1099678065230147586",
+    "text": "RT @hanifalfian79: Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/g0RZU4LMYe \n\n#01Jo\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hanifalfian79",
+          "name": "hanif alfian",
+          "id": 1048771207460347904,
+          "id_str": "1048771207460347904",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/g0RZU4LMYe",
+          "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+          "display_url": "tribunnews.com/regional/2019/\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1048777334206021634,
+      "id_str": "1048777334206021634",
+      "name": "rafi wahyudi",
+      "screen_name": "rafiwahyudi9",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 121,
+      "friends_count": 95,
+      "listed_count": 0,
+      "created_at": "Sun Oct 07 03:29:36 +0000 2018",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 724,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1048778321251553280/B9FuEpaJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048778321251553280/B9FuEpaJ_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 24 13:37:48 +0000 2019",
+      "id": 1099664694120337409,
+      "id_str": "1099664694120337409",
+      "text": "Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/g0RZU4LMYe\u2026 https://t.co/i8t5mEpzdk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/g0RZU4LMYe",
+            "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+            "display_url": "tribunnews.com/regional/2019/\u2026",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "url": "https://t.co/i8t5mEpzdk",
+            "expanded_url": "https://twitter.com/i/web/status/1099664694120337409",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1048771207460347904,
+        "id_str": "1048771207460347904",
+        "name": "hanif alfian",
+        "screen_name": "hanifalfian79",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 111,
+        "friends_count": 95,
+        "listed_count": 0,
+        "created_at": "Sun Oct 07 03:05:15 +0000 2018",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2093,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1048771960975515649/td3ia305_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048771960975515649/td3ia305_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 14:27:58 +0000 2019",
+    "id": 1099677317356347393,
+    "id_str": "1099677317356347393",
+    "text": "RT @farishamid109: Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/VwCCcmT4vN \n\n#01Jo\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "farishamid109",
+          "name": "faris hamid",
+          "id": 1048766836160880640,
+          "id_str": "1048766836160880640",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VwCCcmT4vN",
+          "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+          "display_url": "tribunnews.com/regional/2019/\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1048771207460347904,
+      "id_str": "1048771207460347904",
+      "name": "hanif alfian",
+      "screen_name": "hanifalfian79",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 111,
+      "friends_count": 95,
+      "listed_count": 0,
+      "created_at": "Sun Oct 07 03:05:15 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2093,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1048771960975515649/td3ia305_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048771960975515649/td3ia305_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 24 13:37:46 +0000 2019",
+      "id": 1099664687094935557,
+      "id_str": "1099664687094935557",
+      "text": "Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/VwCCcmT4vN\u2026 https://t.co/Rd4zOWL4Cr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VwCCcmT4vN",
+            "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+            "display_url": "tribunnews.com/regional/2019/\u2026",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "url": "https://t.co/Rd4zOWL4Cr",
+            "expanded_url": "https://twitter.com/i/web/status/1099664687094935557",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1048766836160880640,
+        "id_str": "1048766836160880640",
+        "name": "faris hamid",
+        "screen_name": "farishamid109",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 124,
+        "friends_count": 93,
+        "listed_count": 0,
+        "created_at": "Sun Oct 07 02:47:53 +0000 2018",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2143,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1048768824965652480/51_sUdKx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048768824965652480/51_sUdKx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 14:15:24 +0000 2019",
+    "id": 1099674156872781824,
+    "id_str": "1099674156872781824",
+    "text": "RT @hanifalfian79: Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/g0RZU4LMYe \n\n#01Jo\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hanifalfian79",
+          "name": "hanif alfian",
+          "id": 1048771207460347904,
+          "id_str": "1048771207460347904",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/g0RZU4LMYe",
+          "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+          "display_url": "tribunnews.com/regional/2019/\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1047687212110766080,
+      "id_str": "1047687212110766080",
+      "name": "Afsheen Myesha",
+      "screen_name": "AfsheenMyesha10",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 107,
+      "listed_count": 0,
+      "created_at": "Thu Oct 04 03:17:51 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1751,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047688469617594368/ElsLA5SQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047688469617594368/ElsLA5SQ_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 24 13:37:48 +0000 2019",
+      "id": 1099664694120337409,
+      "id_str": "1099664694120337409",
+      "text": "Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/g0RZU4LMYe\u2026 https://t.co/i8t5mEpzdk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/g0RZU4LMYe",
+            "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+            "display_url": "tribunnews.com/regional/2019/\u2026",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "url": "https://t.co/i8t5mEpzdk",
+            "expanded_url": "https://twitter.com/i/web/status/1099664694120337409",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1048771207460347904,
+        "id_str": "1048771207460347904",
+        "name": "hanif alfian",
+        "screen_name": "hanifalfian79",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 111,
+        "friends_count": 95,
+        "listed_count": 0,
+        "created_at": "Sun Oct 07 03:05:15 +0000 2018",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2093,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1048771960975515649/td3ia305_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048771960975515649/td3ia305_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 14:14:41 +0000 2019",
+    "id": 1099673976001810433,
+    "id_str": "1099673976001810433",
+    "text": "RT @affandiilham2: Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/BjJ3s2oBqh \n\n#01Jo\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "affandiilham2",
+          "name": "affandi ilham",
+          "id": 1048781982736347139,
+          "id_str": "1048781982736347139",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BjJ3s2oBqh",
+          "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+          "display_url": "tribunnews.com/regional/2019/\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1047008648952786944,
+      "id_str": "1047008648952786944",
+      "name": "nurdiansyah",
+      "screen_name": "nurdian147",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 95,
+      "friends_count": 99,
+      "listed_count": 0,
+      "created_at": "Tue Oct 02 06:21:29 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1793,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1052195257343856640/1bxckmm3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052195257343856640/1bxckmm3_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 24 13:37:52 +0000 2019",
+      "id": 1099664711178571776,
+      "id_str": "1099664711178571776",
+      "text": "Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/BjJ3s2oBqh\u2026 https://t.co/VNpsVejcjy",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BjJ3s2oBqh",
+            "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+            "display_url": "tribunnews.com/regional/2019/\u2026",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "url": "https://t.co/VNpsVejcjy",
+            "expanded_url": "https://twitter.com/i/web/status/1099664711178571776",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1048781982736347139,
+        "id_str": "1048781982736347139",
+        "name": "affandi ilham",
+        "screen_name": "affandiilham2",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 123,
+        "friends_count": 94,
+        "listed_count": 0,
+        "created_at": "Sun Oct 07 03:48:04 +0000 2018",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2121,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1048783256483590144/dkebgGsc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048783256483590144/dkebgGsc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 14:13:59 +0000 2019",
+    "id": 1099673801908867073,
+    "id_str": "1099673801908867073",
+    "text": "RT @rafiwahyudi9: Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/T7dpJoVgwz \n\n#01Jok\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rafiwahyudi9",
+          "name": "rafi wahyudi",
+          "id": 1048777334206021634,
+          "id_str": "1048777334206021634",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/T7dpJoVgwz",
+          "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+          "display_url": "tribunnews.com/regional/2019/\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1047798319253086209,
+      "id_str": "1047798319253086209",
+      "name": "alecia elvina",
+      "screen_name": "aleciaelvina7",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 88,
+      "friends_count": 101,
+      "listed_count": 0,
+      "created_at": "Thu Oct 04 10:39:21 +0000 2018",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1772,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047799835242328064/t9Q9yIyG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047799835242328064/t9Q9yIyG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 24 13:37:50 +0000 2019",
+      "id": 1099664704081784832,
+      "id_str": "1099664704081784832",
+      "text": "Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/T7dpJoVgwz\u2026 https://t.co/Dy72EKeINi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/T7dpJoVgwz",
+            "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+            "display_url": "tribunnews.com/regional/2019/\u2026",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "url": "https://t.co/Dy72EKeINi",
+            "expanded_url": "https://twitter.com/i/web/status/1099664704081784832",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1048777334206021634,
+        "id_str": "1048777334206021634",
+        "name": "rafi wahyudi",
+        "screen_name": "rafiwahyudi9",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 121,
+        "friends_count": 95,
+        "listed_count": 0,
+        "created_at": "Sun Oct 07 03:29:36 +0000 2018",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 724,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1048778321251553280/B9FuEpaJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048778321251553280/B9FuEpaJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 13:41:10 +0000 2019",
+    "id": 1099665540757352450,
+    "id_str": "1099665540757352450",
+    "text": "RT @hanifalfian79: Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/g0RZU4LMYe \n\n#01Jo\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hanifalfian79",
+          "name": "hanif alfian",
+          "id": 1048771207460347904,
+          "id_str": "1048771207460347904",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/g0RZU4LMYe",
+          "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+          "display_url": "tribunnews.com/regional/2019/\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1047737041532858368,
+      "id_str": "1047737041532858368",
+      "name": "Abshari Nuria",
+      "screen_name": "AbshariNuria4",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 134,
+      "friends_count": 120,
+      "listed_count": 0,
+      "created_at": "Thu Oct 04 06:35:51 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1749,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047738016318423040/e8u_lOKf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047738016318423040/e8u_lOKf_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 24 13:37:48 +0000 2019",
+      "id": 1099664694120337409,
+      "id_str": "1099664694120337409",
+      "text": "Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/g0RZU4LMYe\u2026 https://t.co/i8t5mEpzdk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/g0RZU4LMYe",
+            "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+            "display_url": "tribunnews.com/regional/2019/\u2026",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "url": "https://t.co/i8t5mEpzdk",
+            "expanded_url": "https://twitter.com/i/web/status/1099664694120337409",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1048771207460347904,
+        "id_str": "1048771207460347904",
+        "name": "hanif alfian",
+        "screen_name": "hanifalfian79",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 111,
+        "friends_count": 95,
+        "listed_count": 0,
+        "created_at": "Sun Oct 07 03:05:15 +0000 2018",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2093,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1048771960975515649/td3ia305_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048771960975515649/td3ia305_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 13:40:36 +0000 2019",
+    "id": 1099665397219880961,
+    "id_str": "1099665397219880961",
+    "text": "RT @affandiilham2: Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/BjJ3s2oBqh \n\n#01Jo\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "affandiilham2",
+          "name": "affandi ilham",
+          "id": 1048781982736347139,
+          "id_str": "1048781982736347139",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BjJ3s2oBqh",
+          "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+          "display_url": "tribunnews.com/regional/2019/\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1047729453751660544,
+      "id_str": "1047729453751660544",
+      "name": "Abigail Chavali",
+      "screen_name": "Abigail_chava",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 133,
+      "friends_count": 119,
+      "listed_count": 0,
+      "created_at": "Thu Oct 04 06:05:42 +0000 2018",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1772,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047732588368908288/Ozgv1658_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047732588368908288/Ozgv1658_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 24 13:37:52 +0000 2019",
+      "id": 1099664711178571776,
+      "id_str": "1099664711178571776",
+      "text": "Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/BjJ3s2oBqh\u2026 https://t.co/VNpsVejcjy",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BjJ3s2oBqh",
+            "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+            "display_url": "tribunnews.com/regional/2019/\u2026",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "url": "https://t.co/VNpsVejcjy",
+            "expanded_url": "https://twitter.com/i/web/status/1099664711178571776",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1048781982736347139,
+        "id_str": "1048781982736347139",
+        "name": "affandi ilham",
+        "screen_name": "affandiilham2",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 123,
+        "friends_count": 94,
+        "listed_count": 0,
+        "created_at": "Sun Oct 07 03:48:04 +0000 2018",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2121,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1048783256483590144/dkebgGsc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048783256483590144/dkebgGsc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 13:39:57 +0000 2019",
+    "id": 1099665233805697031,
+    "id_str": "1099665233805697031",
+    "text": "RT @rafiwahyudi9: Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/T7dpJoVgwz \n\n#01Jok\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rafiwahyudi9",
+          "name": "rafi wahyudi",
+          "id": 1048777334206021634,
+          "id_str": "1048777334206021634",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/T7dpJoVgwz",
+          "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+          "display_url": "tribunnews.com/regional/2019/\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1047746747743723520,
+      "id_str": "1047746747743723520",
+      "name": "meidi ferdian",
+      "screen_name": "FerdianMeidi",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 123,
+      "friends_count": 106,
+      "listed_count": 0,
+      "created_at": "Thu Oct 04 07:14:25 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1749,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047747273646473216/RjSIBGNk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047747273646473216/RjSIBGNk_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 24 13:37:50 +0000 2019",
+      "id": 1099664704081784832,
+      "id_str": "1099664704081784832",
+      "text": "Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/T7dpJoVgwz\u2026 https://t.co/Dy72EKeINi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/T7dpJoVgwz",
+            "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+            "display_url": "tribunnews.com/regional/2019/\u2026",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "url": "https://t.co/Dy72EKeINi",
+            "expanded_url": "https://twitter.com/i/web/status/1099664704081784832",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1048777334206021634,
+        "id_str": "1048777334206021634",
+        "name": "rafi wahyudi",
+        "screen_name": "rafiwahyudi9",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 121,
+        "friends_count": 95,
+        "listed_count": 0,
+        "created_at": "Sun Oct 07 03:29:36 +0000 2018",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 724,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1048778321251553280/B9FuEpaJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048778321251553280/B9FuEpaJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 13:37:52 +0000 2019",
+    "id": 1099664711178571776,
+    "id_str": "1099664711178571776",
+    "text": "Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/BjJ3s2oBqh\u2026 https://t.co/VNpsVejcjy",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/BjJ3s2oBqh",
+          "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+          "display_url": "tribunnews.com/regional/2019/\u2026",
+          "indices": [
+            89,
+            112
+          ]
+        },
+        {
+          "url": "https://t.co/VNpsVejcjy",
+          "expanded_url": "https://twitter.com/i/web/status/1099664711178571776",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1048781982736347139,
+      "id_str": "1048781982736347139",
+      "name": "affandi ilham",
+      "screen_name": "affandiilham2",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 123,
+      "friends_count": 94,
+      "listed_count": 0,
+      "created_at": "Sun Oct 07 03:48:04 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2121,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1048783256483590144/dkebgGsc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048783256483590144/dkebgGsc_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 13:37:50 +0000 2019",
+    "id": 1099664704081784832,
+    "id_str": "1099664704081784832",
+    "text": "Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/T7dpJoVgwz\u2026 https://t.co/Dy72EKeINi",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/T7dpJoVgwz",
+          "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+          "display_url": "tribunnews.com/regional/2019/\u2026",
+          "indices": [
+            89,
+            112
+          ]
+        },
+        {
+          "url": "https://t.co/Dy72EKeINi",
+          "expanded_url": "https://twitter.com/i/web/status/1099664704081784832",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1048777334206021634,
+      "id_str": "1048777334206021634",
+      "name": "rafi wahyudi",
+      "screen_name": "rafiwahyudi9",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 121,
+      "friends_count": 95,
+      "listed_count": 0,
+      "created_at": "Sun Oct 07 03:29:36 +0000 2018",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 724,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1048778321251553280/B9FuEpaJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048778321251553280/B9FuEpaJ_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 13:37:48 +0000 2019",
+    "id": 1099664694120337409,
+    "id_str": "1099664694120337409",
+    "text": "Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/g0RZU4LMYe\u2026 https://t.co/i8t5mEpzdk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/g0RZU4LMYe",
+          "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+          "display_url": "tribunnews.com/regional/2019/\u2026",
+          "indices": [
+            89,
+            112
+          ]
+        },
+        {
+          "url": "https://t.co/i8t5mEpzdk",
+          "expanded_url": "https://twitter.com/i/web/status/1099664694120337409",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1048771207460347904,
+      "id_str": "1048771207460347904",
+      "name": "hanif alfian",
+      "screen_name": "hanifalfian79",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 111,
+      "friends_count": 95,
+      "listed_count": 0,
+      "created_at": "Sun Oct 07 03:05:15 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2093,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1048771960975515649/td3ia305_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048771960975515649/td3ia305_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 13:37:46 +0000 2019",
+    "id": 1099664687094935557,
+    "id_str": "1099664687094935557",
+    "text": "Perempuan Tangguh Pilih Jokowi Deklarasikan Dukungan di Desa Budaya Kertalangu Denpasar. https://t.co/VwCCcmT4vN\u2026 https://t.co/Rd4zOWL4Cr",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/VwCCcmT4vN",
+          "expanded_url": "http://www.tribunnews.com/regional/2019/01/28/perempuan-tangguh-pilih-jokowi-deklarasikan-dukungan-di-desa-budaya-kertalangu-denpasar",
+          "display_url": "tribunnews.com/regional/2019/\u2026",
+          "indices": [
+            89,
+            112
+          ]
+        },
+        {
+          "url": "https://t.co/Rd4zOWL4Cr",
+          "expanded_url": "https://twitter.com/i/web/status/1099664687094935557",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1048766836160880640,
+      "id_str": "1048766836160880640",
+      "name": "faris hamid",
+      "screen_name": "farishamid109",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 124,
+      "friends_count": 93,
+      "listed_count": 0,
+      "created_at": "Sun Oct 07 02:47:53 +0000 2018",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2143,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1048768824965652480/51_sUdKx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048768824965652480/51_sUdKx_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 13:08:28 +0000 2019",
+    "id": 1099657313156161536,
+    "id_str": "1099657313156161536",
+    "text": "Agenda deklarasi itu digelar si Desa Budaya Kertalangu, Kesiman, Denpasar, Bali, Minggu (17/2/2019). #JokowiRakyatBerSATU  #01JokowiLagi",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "JokowiRakyatBerSATU",
+          "indices": [
+            101,
+            121
+          ]
+        },
+        {
+          "text": "01JokowiLagi",
+          "indices": [
+            123,
+            136
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1060516742944804864,
+      "id_str": "1060516742944804864",
+      "name": "ukis",
+      "screen_name": "ukismarleys",
+      "location": "Riau, Indonesia",
+      "description": "Manusia Indonesia yang mencintai pak Jokowi dan ingin Indonesia lebih maju. Tinggal dan berdomisili di (Pekanbaru,riau,indonesia)",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 69,
+      "friends_count": 99,
+      "listed_count": 0,
+      "created_at": "Thu Nov 08 12:57:49 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 917,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1060517692363304960/RiWYQ-XE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060517692363304960/RiWYQ-XE_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060516742944804864/1541682095",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Feb 24 00:11:27 +0000 2019",
+    "id": 1099461769540468736,
+    "id_str": "1099461769540468736",
+    "text": "Bulan april ada konser Tulus di Kertalangu, pengen nonton tapi gak ada yg mau nemenin ish:(",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1366832600,
+      "id_str": "1366832600",
+      "name": "Meong",
+      "screen_name": "dewiolivera",
+      "location": "B\u25b2LI",
+      "description": "Hola!\nJesus bless us\u271d\ufe0f",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 319,
+      "friends_count": 64,
+      "listed_count": 0,
+      "created_at": "Sat Apr 20 11:42:01 +0000 2013",
+      "favourites_count": 230,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8317,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1099459201263235072/G58YK1nK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099459201263235072/G58YK1nK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1366832600/1550966476",
+      "profile_link_color": "7BB3DC",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E32820",
+      "profile_text_color": "843AA9",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "d88db2919bf03a65",
+      "url": "https://api.twitter.com/1.1/geo/id/d88db2919bf03a65.json",
+      "place_type": "city",
+      "name": "East Denpasar",
+      "full_name": "East Denpasar, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.2141769,
+              -8.6750868
+            ],
+            [
+              115.274881,
+              -8.6750868
+            ],
+            [
+              115.274881,
+              -8.591728
+            ],
+            [
+              115.2141769,
+              -8.591728
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sat Feb 23 22:45:20 +0000 2019",
+    "id": 1099440097127161858,
+    "id_str": "1099440097127161858",
+    "text": "Off we go! \u2014 attending Trash Hero kertalangu Cleanup #76 - Hari Peduli Sampah, Biaung at Pantai biaung https://t.co/bPaj1dRzYg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/bPaj1dRzYg",
+          "expanded_url": "https://www.facebook.com/534796597/posts/10157119019396598/",
+          "display_url": "facebook.com/534796597/post\u2026",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 878733978,
+      "id_str": "878733978",
+      "name": "Putu Evie",
+      "screen_name": "PutuEvieHatch",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "A passionate Balinese dancer, Balinese dance teacher, singer and co-founder of @MekarBhuana classical Balinese gamelan & dance and lovely wife of @VaughanHatch",
+      "url": "https://t.co/RaTtGqmept",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/RaTtGqmept",
+              "expanded_url": "http://www.youtube.com/user/eviehatch01",
+              "display_url": "youtube.com/user/eviehatch\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 187,
+      "friends_count": 399,
+      "listed_count": 3,
+      "created_at": "Sat Oct 13 21:33:51 +0000 2012",
+      "favourites_count": 340,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4775,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "B3B891",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1077573150806761472/wlgx1xN1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077573150806761472/wlgx1xN1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/878733978/1531318797",
+      "profile_link_color": "00B34B",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Feb 22 22:12:27 +0000 2019",
+    "id": 1099069435413852160,
+    "id_str": "1099069435413852160",
+    "text": "#bali #vacation #teacherslife #teachers #studytour #womanteam @ Kertalangu Bali Cultural Village https://t.co/jltpoWINzJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bali",
+          "indices": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "vacation",
+          "indices": [
+            6,
+            15
+          ]
+        },
+        {
+          "text": "teacherslife",
+          "indices": [
+            16,
+            29
+          ]
+        },
+        {
+          "text": "teachers",
+          "indices": [
+            30,
+            39
+          ]
+        },
+        {
+          "text": "studytour",
+          "indices": [
+            40,
+            50
+          ]
+        },
+        {
+          "text": "womanteam",
+          "indices": [
+            51,
+            61
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jltpoWINzJ",
+          "expanded_url": "https://www.instagram.com/p/BuM0xfCgXxz/?utm_source=ig_twitter_share&igshid=7pj69je4sal8",
+          "display_url": "instagram.com/p/BuM0xfCgXxz/\u2026",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 87620362,
+      "id_str": "87620362",
+      "name": "Aliyatus Sa'diyah",
+      "screen_name": "aliyatussadiyah",
+      "location": "Malang",
+      "description": "Mrs. Uyab",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 204,
+      "friends_count": 197,
+      "listed_count": 3,
+      "created_at": "Thu Nov 05 05:07:32 +0000 2009",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3623,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/491003649842094080/Q-5n-MeZ_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/491003649842094080/Q-5n-MeZ_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/87620362/1402177433",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.664133,
+        115.19745
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.19745,
+        -8.664133
+      ]
+    },
+    "place": {
+      "id": "cf712fd91280ebff",
+      "url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+      "place_type": "city",
+      "name": "Denpasar Barat",
+      "full_name": "Denpasar Barat, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.173695,
+              -8.70934
+            ],
+            [
+              115.235563,
+              -8.70934
+            ],
+            [
+              115.235563,
+              -8.591728
+            ],
+            [
+              115.173695,
+              -8.591728
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Feb 22 14:48:56 +0000 2019",
+    "id": 1098957820332892161,
+    "id_str": "1098957820332892161",
+    "text": "Jogging di Kertalangu, Denpasar Bali.\nKamis, 21 Februari 2019 https://t.co/xGofT6MWre",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1098957781778845699,
+          "id_str": "1098957781778845699",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0BIR64UUAMfFVz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0BIR64UUAMfFVz.jpg",
+          "url": "https://t.co/xGofT6MWre",
+          "display_url": "pic.twitter.com/xGofT6MWre",
+          "expanded_url": "https://twitter.com/gana2005/status/1098957820332892161/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1072,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1098957781778845699,
+          "id_str": "1098957781778845699",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0BIR64UUAMfFVz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0BIR64UUAMfFVz.jpg",
+          "url": "https://t.co/xGofT6MWre",
+          "display_url": "pic.twitter.com/xGofT6MWre",
+          "expanded_url": "https://twitter.com/gana2005/status/1098957820332892161/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1072,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1098957801089429511,
+          "id_str": "1098957801089429511",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0BITC0UcActTT-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0BITC0UcActTT-.jpg",
+          "url": "https://t.co/xGofT6MWre",
+          "display_url": "pic.twitter.com/xGofT6MWre",
+          "expanded_url": "https://twitter.com/gana2005/status/1098957820332892161/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1098957804981739521,
+          "id_str": "1098957804981739521",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0BITRUUYAEEbb7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0BITRUUYAEEbb7.jpg",
+          "url": "https://t.co/xGofT6MWre",
+          "display_url": "pic.twitter.com/xGofT6MWre",
+          "expanded_url": "https://twitter.com/gana2005/status/1098957820332892161/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1098957808559505413,
+          "id_str": "1098957808559505413",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0BITepUwAUN299.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0BITepUwAUN299.jpg",
+          "url": "https://t.co/xGofT6MWre",
+          "display_url": "pic.twitter.com/xGofT6MWre",
+          "expanded_url": "https://twitter.com/gana2005/status/1098957820332892161/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 119685401,
+      "id_str": "119685401",
+      "name": "Komang Hardiani",
+      "screen_name": "gana2005",
+      "location": "Jatiasih, Indonesia",
+      "description": "Matahari pagi yang selalu menakjubkan, jangan lewatkan untuk menikmatinya",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9,
+      "friends_count": 72,
+      "listed_count": 0,
+      "created_at": "Thu Mar 04 10:15:36 +0000 2010",
+      "favourites_count": 2,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 14,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1098132308182237185/CfF0x_yn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098132308182237185/CfF0x_yn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/119685401/1550640721",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  }
+]

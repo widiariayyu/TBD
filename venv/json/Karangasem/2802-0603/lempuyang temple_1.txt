@@ -1,0 +1,4358 @@
+[
+  {
+    "created_at": "Tue Mar 05 23:36:48 +0000 2019",
+    "id": 1103076928859205632,
+    "id_str": "1103076928859205632",
+    "text": "@bewithgyuri I don't really remember because last time saya ke Bali pada thun 2016. Denpasar, ubud, uluwatu, lempuy\u2026 https://t.co/GCKc35BZwb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "bewithgyuri",
+          "name": "cha_\uade4\ubc30 \u2744\ufe0f\ud83c\udf40",
+          "id": 548075165,
+          "id_str": "548075165",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GCKc35BZwb",
+          "expanded_url": "https://twitter.com/i/web/status/1103076928859205632",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1103072498868879361,
+    "in_reply_to_status_id_str": "1103072498868879361",
+    "in_reply_to_user_id": 548075165,
+    "in_reply_to_user_id_str": "548075165",
+    "in_reply_to_screen_name": "bewithgyuri",
+    "user": {
+      "id": 986033328011657217,
+      "id_str": "986033328011657217",
+      "name": "romsae",
+      "screen_name": "romsaeyaaa",
+      "location": "",
+      "description": "Life is like Park Megan,full of memes. \ud83d\udc36",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 136,
+      "friends_count": 287,
+      "listed_count": 0,
+      "created_at": "Tue Apr 17 00:07:19 +0000 2018",
+      "favourites_count": 45,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2032,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1094983627660652545/Udcu5RxO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094983627660652545/Udcu5RxO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/986033328011657217/1549899415",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Tue Mar 05 11:50:36 +0000 2019",
+    "id": 1102899208766406656,
+    "id_str": "1102899208766406656",
+    "text": "RT @Youlouto: Le tournoi Tenkaichi Budokai de Dragon Ball prend place dans un temple qui semble inspir\u00e9 du Pura Penataran Agung Lempuyang,\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Youlouto",
+          "name": "Youlouto",
+          "id": 77527839,
+          "id_str": "77527839",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "fr",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2471787096,
+      "id_str": "2471787096",
+      "name": "[NEXUS]\ud83d\udc7a",
+      "screen_name": "CovenantNexus13",
+      "location": "",
+      "description": "Amante de los juegos de pelea \ud83d\udd79\ufe0fA veces demasiado manco para ellos | Intento tocar el Kazoo\ud83c\udfb7(eso es un sax xD) | Tambi\u00e9n hago vide\u00edtos para YouTube [Spanglish",
+      "url": "https://t.co/mOj22WR9ny",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/mOj22WR9ny",
+              "expanded_url": "http://youtube.com/c/CovenantNexus13",
+              "display_url": "youtube.com/c/CovenantNexu\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 119,
+      "friends_count": 61,
+      "listed_count": 2,
+      "created_at": "Thu May 01 02:11:55 +0000 2014",
+      "favourites_count": 4213,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4567,
+      "lang": "es",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1101609386160545792/lpZYn_6x_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101609386160545792/lpZYn_6x_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2471787096/1549737126",
+      "profile_link_color": "670E93",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Mar 05 10:21:37 +0000 2019",
+      "id": 1102876813544501249,
+      "id_str": "1102876813544501249",
+      "text": "Le tournoi Tenkaichi Budokai de Dragon Ball prend place dans un temple qui semble inspir\u00e9 du Pura Penataran Agung L\u2026 https://t.co/WgwYzA0UI1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WgwYzA0UI1",
+            "expanded_url": "https://twitter.com/i/web/status/1102876813544501249",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 77527839,
+        "id_str": "77527839",
+        "name": "Youlouto",
+        "screen_name": "Youlouto",
+        "location": "France",
+        "description": "Humour \u00e0 vendre, peu servi // @vgdensetsu",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1441,
+        "friends_count": 244,
+        "listed_count": 40,
+        "created_at": "Sat Sep 26 17:34:29 +0000 2009",
+        "favourites_count": 11,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 444,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFE387",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1072912285197369345/lKT-S34o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072912285197369345/lKT-S34o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77527839/1537112975",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFE787",
+        "profile_text_color": "0A0A0A",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 28,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Tue Mar 05 11:12:27 +0000 2019",
+    "id": 1102889606658355200,
+    "id_str": "1102889606658355200",
+    "text": "RT @Youlouto: Le tournoi Tenkaichi Budokai de Dragon Ball prend place dans un temple qui semble inspir\u00e9 du Pura Penataran Agung Lempuyang,\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Youlouto",
+          "name": "Youlouto",
+          "id": 77527839,
+          "id_str": "77527839",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "fr",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 552637772,
+      "id_str": "552637772",
+      "name": "Loona",
+      "screen_name": "IkariLoona",
+      "location": "Eindhoven, Nederland",
+      "description": "Loves stories fictional, real and mythical and how they interact with each other. Maintains https://t.co/YvTySGDjWl. Part-time FFXI resident. Netherlanded.",
+      "url": "https://t.co/hX6UOjMig3",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/hX6UOjMig3",
+              "expanded_url": "http://www.youtube.com/user/IkariLoona",
+              "display_url": "youtube.com/user/IkariLoona",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/YvTySGDjWl",
+              "expanded_url": "http://reddit.com/r/SNK/",
+              "display_url": "reddit.com/r/SNK/",
+              "indices": [
+                92,
+                115
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 594,
+      "friends_count": 346,
+      "listed_count": 48,
+      "created_at": "Fri Apr 13 11:59:38 +0000 2012",
+      "favourites_count": 87741,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 54625,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2109634524/mr_karate_normal.gif",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2109634524/mr_karate_normal.gif",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/552637772/1540942086",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Mar 05 10:21:37 +0000 2019",
+      "id": 1102876813544501249,
+      "id_str": "1102876813544501249",
+      "text": "Le tournoi Tenkaichi Budokai de Dragon Ball prend place dans un temple qui semble inspir\u00e9 du Pura Penataran Agung L\u2026 https://t.co/WgwYzA0UI1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WgwYzA0UI1",
+            "expanded_url": "https://twitter.com/i/web/status/1102876813544501249",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 77527839,
+        "id_str": "77527839",
+        "name": "Youlouto",
+        "screen_name": "Youlouto",
+        "location": "France",
+        "description": "Humour \u00e0 vendre, peu servi // @vgdensetsu",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1441,
+        "friends_count": 244,
+        "listed_count": 40,
+        "created_at": "Sat Sep 26 17:34:29 +0000 2009",
+        "favourites_count": 11,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 444,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFE387",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1072912285197369345/lKT-S34o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072912285197369345/lKT-S34o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77527839/1537112975",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFE787",
+        "profile_text_color": "0A0A0A",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 28,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Tue Mar 05 11:08:37 +0000 2019",
+    "id": 1102888641007939584,
+    "id_str": "1102888641007939584",
+    "text": "RT @Youlouto: Le tournoi Tenkaichi Budokai de Dragon Ball prend place dans un temple qui semble inspir\u00e9 du Pura Penataran Agung Lempuyang,\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Youlouto",
+          "name": "Youlouto",
+          "id": 77527839,
+          "id_str": "77527839",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "fr",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 898054849,
+      "id_str": "898054849",
+      "name": "Le MielPops",
+      "screen_name": "Sandro_Kun95",
+      "location": "Vaur\u00e9al, France",
+      "description": "\u00c9tudiant en LEA \u00e0 Cergy. J'aime faire des rencontres, lire des mangas et jouer aux jeux de combat! \u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\uff01",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 388,
+      "friends_count": 1651,
+      "listed_count": 64,
+      "created_at": "Mon Oct 22 17:40:12 +0000 2012",
+      "favourites_count": 74704,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 71190,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024972603134341122/wpYHOv11_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024972603134341122/wpYHOv11_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/898054849/1544620111",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Mar 05 10:21:37 +0000 2019",
+      "id": 1102876813544501249,
+      "id_str": "1102876813544501249",
+      "text": "Le tournoi Tenkaichi Budokai de Dragon Ball prend place dans un temple qui semble inspir\u00e9 du Pura Penataran Agung L\u2026 https://t.co/WgwYzA0UI1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WgwYzA0UI1",
+            "expanded_url": "https://twitter.com/i/web/status/1102876813544501249",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 77527839,
+        "id_str": "77527839",
+        "name": "Youlouto",
+        "screen_name": "Youlouto",
+        "location": "France",
+        "description": "Humour \u00e0 vendre, peu servi // @vgdensetsu",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1441,
+        "friends_count": 244,
+        "listed_count": 40,
+        "created_at": "Sat Sep 26 17:34:29 +0000 2009",
+        "favourites_count": 11,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 444,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFE387",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1072912285197369345/lKT-S34o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072912285197369345/lKT-S34o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77527839/1537112975",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFE787",
+        "profile_text_color": "0A0A0A",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 28,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Tue Mar 05 10:39:02 +0000 2019",
+    "id": 1102881195891806208,
+    "id_str": "1102881195891806208",
+    "text": "RT @Youlouto: Le tournoi Tenkaichi Budokai de Dragon Ball prend place dans un temple qui semble inspir\u00e9 du Pura Penataran Agung Lempuyang,\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Youlouto",
+          "name": "Youlouto",
+          "id": 77527839,
+          "id_str": "77527839",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "fr",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 104236352,
+      "id_str": "104236352",
+      "name": "Matthieu \u2328\ufe0f",
+      "screen_name": "Mistermatt007",
+      "location": "Le Havre",
+      "description": "D\u00e9veloppeur // #PCMasterRace // Claviers m\u00e9canique // Simplement compliqu\u00e9. // Tr\u00e8s tr\u00e8s amoureux de sa femme ! \u2665",
+      "url": "https://t.co/gLRrNNuAQj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/gLRrNNuAQj",
+              "expanded_url": "http://blog.mvion.fr",
+              "display_url": "blog.mvion.fr",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 412,
+      "friends_count": 815,
+      "listed_count": 74,
+      "created_at": "Tue Jan 12 18:33:43 +0000 2010",
+      "favourites_count": 1697,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 72063,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/934001822527836160/WUozxB3A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/934001822527836160/WUozxB3A_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/104236352/1400329376",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Mar 05 10:21:37 +0000 2019",
+      "id": 1102876813544501249,
+      "id_str": "1102876813544501249",
+      "text": "Le tournoi Tenkaichi Budokai de Dragon Ball prend place dans un temple qui semble inspir\u00e9 du Pura Penataran Agung L\u2026 https://t.co/WgwYzA0UI1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WgwYzA0UI1",
+            "expanded_url": "https://twitter.com/i/web/status/1102876813544501249",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 77527839,
+        "id_str": "77527839",
+        "name": "Youlouto",
+        "screen_name": "Youlouto",
+        "location": "France",
+        "description": "Humour \u00e0 vendre, peu servi // @vgdensetsu",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1441,
+        "friends_count": 244,
+        "listed_count": 40,
+        "created_at": "Sat Sep 26 17:34:29 +0000 2009",
+        "favourites_count": 11,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 444,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFE387",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1072912285197369345/lKT-S34o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072912285197369345/lKT-S34o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77527839/1537112975",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFE787",
+        "profile_text_color": "0A0A0A",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 28,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Tue Mar 05 10:35:06 +0000 2019",
+    "id": 1102880206933630979,
+    "id_str": "1102880206933630979",
+    "text": "Lempuyang Temple in Bali \ud83c\uddee\ud83c\udde9\n\nFind great hotel + flight deals \ud83d\udc49 https://t.co/ae4I6WY7hl https://t.co/zFmUcauSl0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ae4I6WY7hl",
+          "expanded_url": "http://thinkholidaydeals.com",
+          "display_url": "thinkholidaydeals.com",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1102880205406908416,
+          "id_str": "1102880205406908416",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/D043tBkWsAA3vpS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D043tBkWsAA3vpS.jpg",
+          "url": "https://t.co/zFmUcauSl0",
+          "display_url": "pic.twitter.com/zFmUcauSl0",
+          "expanded_url": "https://twitter.com/thinkholidaydls/status/1102880206933630979/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 673,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 673,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 673,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1102880205406908416,
+          "id_str": "1102880205406908416",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/D043tBkWsAA3vpS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D043tBkWsAA3vpS.jpg",
+          "url": "https://t.co/zFmUcauSl0",
+          "display_url": "pic.twitter.com/zFmUcauSl0",
+          "expanded_url": "https://twitter.com/thinkholidaydls/status/1102880206933630979/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 673,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 673,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 673,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1001084184717414402,
+      "id_str": "1001084184717414402",
+      "name": "Www.thinkholidaydeals.com",
+      "screen_name": "thinkholidaydls",
+      "location": "Edinburgh, Scotland",
+      "description": "https://t.co/dYPE9bijP1 is a travel comparison website that allows you to search, compare and save on hotels and flights around the world.",
+      "url": "https://t.co/ffSBSuVbVQ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ffSBSuVbVQ",
+              "expanded_url": "http://www.thinkholidaydeals.com",
+              "display_url": "thinkholidaydeals.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/dYPE9bijP1",
+              "expanded_url": "http://Thinkholidaydeals.com",
+              "display_url": "Thinkholidaydeals.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 80,
+      "friends_count": 646,
+      "listed_count": 1,
+      "created_at": "Mon May 28 12:54:03 +0000 2018",
+      "favourites_count": 29,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 94,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1032247241833152514/cPTTMiwL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032247241833152514/cPTTMiwL_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1001084184717414402/1530648441",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Mar 05 10:22:02 +0000 2019",
+    "id": 1102876917601050624,
+    "id_str": "1102876917601050624",
+    "text": "RT @Youlouto: Le tournoi Tenkaichi Budokai de Dragon Ball prend place dans un temple qui semble inspir\u00e9 du Pura Penataran Agung Lempuyang,\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Youlouto",
+          "name": "Youlouto",
+          "id": 77527839,
+          "id_str": "77527839",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "fr",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 93213007,
+      "id_str": "93213007",
+      "name": "\ud83d\udc04 Kazend \ud83d\udc04",
+      "screen_name": "Kazend",
+      "location": "Paris, France",
+      "description": "Veau de ville et veau des champs r\u00e9volutionnaires @tendanceclaire. Je parle de cin\u00e9ma sur @fpgenre. Je suis monteur, je dessine et je peins.  IG Kazend_flinpek",
+      "url": "http://t.co/bety5lYUBU",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/bety5lYUBU",
+              "expanded_url": "http://casedekaz.wordpress.com",
+              "display_url": "casedekaz.wordpress.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 681,
+      "friends_count": 837,
+      "listed_count": 39,
+      "created_at": "Sat Nov 28 16:24:54 +0000 2009",
+      "favourites_count": 17526,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 56736,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988771567948754944/QYDsyUl5_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988771567948754944/QYDsyUl5_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/93213007/1485296122",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Mar 05 10:21:37 +0000 2019",
+      "id": 1102876813544501249,
+      "id_str": "1102876813544501249",
+      "text": "Le tournoi Tenkaichi Budokai de Dragon Ball prend place dans un temple qui semble inspir\u00e9 du Pura Penataran Agung L\u2026 https://t.co/WgwYzA0UI1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WgwYzA0UI1",
+            "expanded_url": "https://twitter.com/i/web/status/1102876813544501249",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 77527839,
+        "id_str": "77527839",
+        "name": "Youlouto",
+        "screen_name": "Youlouto",
+        "location": "France",
+        "description": "Humour \u00e0 vendre, peu servi // @vgdensetsu",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1441,
+        "friends_count": 244,
+        "listed_count": 40,
+        "created_at": "Sat Sep 26 17:34:29 +0000 2009",
+        "favourites_count": 11,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 444,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFE387",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1072912285197369345/lKT-S34o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072912285197369345/lKT-S34o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77527839/1537112975",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFE787",
+        "profile_text_color": "0A0A0A",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 28,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Tue Mar 05 10:21:57 +0000 2019",
+    "id": 1102876897699119104,
+    "id_str": "1102876897699119104",
+    "text": "RT @Youlouto: Le tournoi Tenkaichi Budokai de Dragon Ball prend place dans un temple qui semble inspir\u00e9 du Pura Penataran Agung Lempuyang,\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Youlouto",
+          "name": "Youlouto",
+          "id": 77527839,
+          "id_str": "77527839",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "fr",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 28082835,
+      "id_str": "28082835",
+      "name": "Gomo",
+      "screen_name": "Gomo4",
+      "location": "Thionville, France",
+      "description": "Gribouilleur sur http://t.co/TEpKJ8NHi6 et machin\u00e9aste de haut vol sur http://t.co/Z2paYtePfD",
+      "url": "http://t.co/qV6Uk4p4sF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/qV6Uk4p4sF",
+              "expanded_url": "http://next-gene.net",
+              "display_url": "next-gene.net",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/TEpKJ8NHi6",
+              "expanded_url": "http://next-gene.net/",
+              "display_url": "next-gene.net",
+              "indices": [
+                17,
+                39
+              ]
+            },
+            {
+              "url": "http://t.co/Z2paYtePfD",
+              "expanded_url": "http://tgo-gmbh.net/",
+              "display_url": "tgo-gmbh.net",
+              "indices": [
+                71,
+                93
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 145,
+      "friends_count": 488,
+      "listed_count": 9,
+      "created_at": "Wed Apr 01 10:26:24 +0000 2009",
+      "favourites_count": 1694,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9898,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ABBAE2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1674245388/Misa_Uehara2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1674245388/Misa_Uehara2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/28082835/1355780328",
+      "profile_link_color": "CCAA55",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Mar 05 10:21:37 +0000 2019",
+      "id": 1102876813544501249,
+      "id_str": "1102876813544501249",
+      "text": "Le tournoi Tenkaichi Budokai de Dragon Ball prend place dans un temple qui semble inspir\u00e9 du Pura Penataran Agung L\u2026 https://t.co/WgwYzA0UI1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WgwYzA0UI1",
+            "expanded_url": "https://twitter.com/i/web/status/1102876813544501249",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 77527839,
+        "id_str": "77527839",
+        "name": "Youlouto",
+        "screen_name": "Youlouto",
+        "location": "France",
+        "description": "Humour \u00e0 vendre, peu servi // @vgdensetsu",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1441,
+        "friends_count": 244,
+        "listed_count": 40,
+        "created_at": "Sat Sep 26 17:34:29 +0000 2009",
+        "favourites_count": 11,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 444,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFE387",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1072912285197369345/lKT-S34o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072912285197369345/lKT-S34o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77527839/1537112975",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFE787",
+        "profile_text_color": "0A0A0A",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 28,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Tue Mar 05 10:21:37 +0000 2019",
+    "id": 1102876813544501249,
+    "id_str": "1102876813544501249",
+    "text": "Le tournoi Tenkaichi Budokai de Dragon Ball prend place dans un temple qui semble inspir\u00e9 du Pura Penataran Agung L\u2026 https://t.co/WgwYzA0UI1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/WgwYzA0UI1",
+          "expanded_url": "https://twitter.com/i/web/status/1102876813544501249",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "fr",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 77527839,
+      "id_str": "77527839",
+      "name": "Youlouto",
+      "screen_name": "Youlouto",
+      "location": "France",
+      "description": "Humour \u00e0 vendre, peu servi // @vgdensetsu",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1441,
+      "friends_count": 244,
+      "listed_count": 40,
+      "created_at": "Sat Sep 26 17:34:29 +0000 2009",
+      "favourites_count": 11,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 444,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFE387",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1072912285197369345/lKT-S34o_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072912285197369345/lKT-S34o_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/77527839/1537112975",
+      "profile_link_color": "FAB81E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "FFE787",
+      "profile_text_color": "0A0A0A",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 28,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Tue Mar 05 01:42:05 +0000 2019",
+    "id": 1102746068796755969,
+    "id_str": "1102746068796755969",
+    "text": "The beautiful Mt. Agung view from Lempuyang Temple \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\n#baliindonesia #baliculture #balilifestyle https://t.co/c166ZQGC39",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "baliindonesia",
+          "indices": [
+            55,
+            69
+          ]
+        },
+        {
+          "text": "baliculture",
+          "indices": [
+            70,
+            82
+          ]
+        },
+        {
+          "text": "balilifestyle",
+          "indices": [
+            83,
+            97
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/c166ZQGC39",
+          "expanded_url": "https://lnkd.in/fSem2Ep",
+          "display_url": "lnkd.in/fSem2Ep",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 24644371,
+      "id_str": "24644371",
+      "name": "Tiffany Rossdale",
+      "screen_name": "DJTokyoHottie",
+      "location": "Shibuya-ku, Tokyo",
+      "description": "Official Twitter Page of Ms. Tiffany Rossdale",
+      "url": "https://t.co/x9ZKaAKGT3",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/x9ZKaAKGT3",
+              "expanded_url": "http://www.instagram.com/tokyohottie",
+              "display_url": "instagram.com/tokyohottie",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1117,
+      "friends_count": 433,
+      "listed_count": 75,
+      "created_at": "Mon Mar 16 03:40:31 +0000 2009",
+      "favourites_count": 11017,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 6197,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1081732894173712384/UAelAZdT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081732894173712384/UAelAZdT_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/24644371/1530194122",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 12:20:57 +0000 2019",
+    "id": 1102544457881260033,
+    "id_str": "1102544457881260033",
+    "text": "Lempuyang Temple in Bali \ud83c\uddee\ud83c\udde9\n\nFind great hotel + flight deals \ud83d\udc49 https://t.co/KWczsoXReo https://t.co/a7kp7M2K39",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KWczsoXReo",
+          "expanded_url": "http://avenago.com",
+          "display_url": "avenago.com",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1102544456178376704,
+          "id_str": "1102544456178376704",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/D00GV2OWoAAyr0Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D00GV2OWoAAyr0Y.jpg",
+          "url": "https://t.co/a7kp7M2K39",
+          "display_url": "pic.twitter.com/a7kp7M2K39",
+          "expanded_url": "https://twitter.com/avenagotravel/status/1102544457881260033/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 673,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 673,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 673,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1102544456178376704,
+          "id_str": "1102544456178376704",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/D00GV2OWoAAyr0Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D00GV2OWoAAyr0Y.jpg",
+          "url": "https://t.co/a7kp7M2K39",
+          "display_url": "pic.twitter.com/a7kp7M2K39",
+          "expanded_url": "https://twitter.com/avenagotravel/status/1102544457881260033/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 673,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 673,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 673,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 863839470201778177,
+      "id_str": "863839470201778177",
+      "name": "AvenaGo",
+      "screen_name": "avenagotravel",
+      "location": "",
+      "description": "Compare prices from hundreds of airlines and booking sites with a single search. Book your flights and hotels online with us today!",
+      "url": "https://t.co/ThLBelbr7B",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ThLBelbr7B",
+              "expanded_url": "http://avenago.com",
+              "display_url": "avenago.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 28,
+      "friends_count": 14,
+      "listed_count": 3,
+      "created_at": "Sun May 14 19:32:33 +0000 2017",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 220,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/863849325197185031/Qw5vMxyD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/863849325197185031/Qw5vMxyD_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/863839470201778177/1494791455",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 12:12:06 +0000 2019",
+    "id": 1102542228571021312,
+    "id_str": "1102542228571021312",
+    "text": "RT @Man_Cimut: 'Gates of Heaven'\n.\n.\n#beautiful #gates #landmark #temple #lempuyang #lempuyangtemple #karangasem #bali #hindu #travel #tour\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "beautiful",
+          "indices": [
+            37,
+            47
+          ]
+        },
+        {
+          "text": "gates",
+          "indices": [
+            48,
+            54
+          ]
+        },
+        {
+          "text": "landmark",
+          "indices": [
+            55,
+            64
+          ]
+        },
+        {
+          "text": "temple",
+          "indices": [
+            65,
+            72
+          ]
+        },
+        {
+          "text": "lempuyang",
+          "indices": [
+            73,
+            83
+          ]
+        },
+        {
+          "text": "lempuyangtemple",
+          "indices": [
+            84,
+            100
+          ]
+        },
+        {
+          "text": "karangasem",
+          "indices": [
+            101,
+            112
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            113,
+            118
+          ]
+        },
+        {
+          "text": "hindu",
+          "indices": [
+            119,
+            125
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            126,
+            133
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Man_Cimut",
+          "name": "Nyoman_D",
+          "id": 31044700,
+          "id_str": "31044700",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.amadeusworldwide.com\" rel=\"nofollow\">TwitterBot 1</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3167783986,
+      "id_str": "3167783986",
+      "name": "Amadeus WorldWide",
+      "screen_name": "ExploreAmadeus",
+      "location": "Worldwide",
+      "description": "We simplify your transportation needs.",
+      "url": "http://t.co/4wxzQQvPpn",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/4wxzQQvPpn",
+              "expanded_url": "http://www.amadeusworldwide.com",
+              "display_url": "amadeusworldwide.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 435,
+      "friends_count": 140,
+      "listed_count": 20,
+      "created_at": "Wed Apr 15 01:16:35 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25848,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/588150709855457280/HLdDaW5f_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/588150709855457280/HLdDaW5f_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3167783986/1429070135",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 04 12:11:30 +0000 2019",
+      "id": 1102542078406356994,
+      "id_str": "1102542078406356994",
+      "text": "'Gates of Heaven'\n.\n.\n#beautiful #gates #landmark #temple #lempuyang #lempuyangtemple #karangasem #bali #hindu\u2026 https://t.co/CxPdu4dnWl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "beautiful",
+            "indices": [
+              22,
+              32
+            ]
+          },
+          {
+            "text": "gates",
+            "indices": [
+              33,
+              39
+            ]
+          },
+          {
+            "text": "landmark",
+            "indices": [
+              40,
+              49
+            ]
+          },
+          {
+            "text": "temple",
+            "indices": [
+              50,
+              57
+            ]
+          },
+          {
+            "text": "lempuyang",
+            "indices": [
+              58,
+              68
+            ]
+          },
+          {
+            "text": "lempuyangtemple",
+            "indices": [
+              69,
+              85
+            ]
+          },
+          {
+            "text": "karangasem",
+            "indices": [
+              86,
+              97
+            ]
+          },
+          {
+            "text": "bali",
+            "indices": [
+              98,
+              103
+            ]
+          },
+          {
+            "text": "hindu",
+            "indices": [
+              104,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CxPdu4dnWl",
+            "expanded_url": "https://twitter.com/i/web/status/1102542078406356994",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 31044700,
+        "id_str": "31044700",
+        "name": "Nyoman_D",
+        "screen_name": "Man_Cimut",
+        "location": "Bali, Indonesia",
+        "description": "The Amazing Race die hard fan, Survivor, Tennis & Badminton maniac,  Chelsea holic.",
+        "url": "http://t.co/eOtHslxviD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/eOtHslxviD",
+                "expanded_url": "http://nyomansb1.wordpress.com",
+                "display_url": "nyomansb1.wordpress.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 329,
+        "friends_count": 813,
+        "listed_count": 19,
+        "created_at": "Tue Apr 14 03:20:22 +0000 2009",
+        "favourites_count": 935,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 37611,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/998408560714309632/Q4TfBm7b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/998408560714309632/Q4TfBm7b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31044700/1379266304",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -8.41617043,
+          115.61908359
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          115.61908359,
+          -8.41617043
+        ]
+      },
+      "place": {
+        "id": "02fe687fea201ef8",
+        "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+        "place_type": "city",
+        "name": "Abang",
+        "full_name": "Abang, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                115.518094,
+                -8.426355
+              ],
+              [
+                115.711528,
+                -8.426355
+              ],
+              [
+                115.711528,
+                -8.300467
+              ],
+              [
+                115.518094,
+                -8.300467
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 12:11:30 +0000 2019",
+    "id": 1102542078406356994,
+    "id_str": "1102542078406356994",
+    "text": "'Gates of Heaven'\n.\n.\n#beautiful #gates #landmark #temple #lempuyang #lempuyangtemple #karangasem #bali #hindu\u2026 https://t.co/CxPdu4dnWl",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "beautiful",
+          "indices": [
+            22,
+            32
+          ]
+        },
+        {
+          "text": "gates",
+          "indices": [
+            33,
+            39
+          ]
+        },
+        {
+          "text": "landmark",
+          "indices": [
+            40,
+            49
+          ]
+        },
+        {
+          "text": "temple",
+          "indices": [
+            50,
+            57
+          ]
+        },
+        {
+          "text": "lempuyang",
+          "indices": [
+            58,
+            68
+          ]
+        },
+        {
+          "text": "lempuyangtemple",
+          "indices": [
+            69,
+            85
+          ]
+        },
+        {
+          "text": "karangasem",
+          "indices": [
+            86,
+            97
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            98,
+            103
+          ]
+        },
+        {
+          "text": "hindu",
+          "indices": [
+            104,
+            110
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/CxPdu4dnWl",
+          "expanded_url": "https://twitter.com/i/web/status/1102542078406356994",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 31044700,
+      "id_str": "31044700",
+      "name": "Nyoman_D",
+      "screen_name": "Man_Cimut",
+      "location": "Bali, Indonesia",
+      "description": "The Amazing Race die hard fan, Survivor, Tennis & Badminton maniac,  Chelsea holic.",
+      "url": "http://t.co/eOtHslxviD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/eOtHslxviD",
+              "expanded_url": "http://nyomansb1.wordpress.com",
+              "display_url": "nyomansb1.wordpress.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 329,
+      "friends_count": 813,
+      "listed_count": 19,
+      "created_at": "Tue Apr 14 03:20:22 +0000 2009",
+      "favourites_count": 935,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 37611,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/998408560714309632/Q4TfBm7b_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/998408560714309632/Q4TfBm7b_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/31044700/1379266304",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.41617043,
+        115.61908359
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.61908359,
+        -8.41617043
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 03:19:57 +0000 2019",
+    "id": 1102408308621746177,
+    "id_str": "1102408308621746177",
+    "text": "Located far from the tourist hubbub of Ubud, Lempuyang Temple is a sacred seven-temple complex in eastern Bali that\u2026 https://t.co/oFo0rJgB9R",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/oFo0rJgB9R",
+          "expanded_url": "https://twitter.com/i/web/status/1102408308621746177",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2911779103,
+      "id_str": "2911779103",
+      "name": "Smailing DMC",
+      "screen_name": "SmailingDMC",
+      "location": "Bali, Indonesia",
+      "description": "Smailing DMC is the Inbound Division of @SmailingTour, one of the most decorated and established top travel agencies in Indonesia. info@smailingbali.com",
+      "url": "https://t.co/Lip0SWycCU",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Lip0SWycCU",
+              "expanded_url": "http://www.smailingdmc.com",
+              "display_url": "smailingdmc.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3522,
+      "friends_count": 241,
+      "listed_count": 12,
+      "created_at": "Thu Nov 27 10:21:31 +0000 2014",
+      "favourites_count": 3080,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1998,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/844126564031782912/lV0iiBMr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/844126564031782912/lV0iiBMr_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2911779103/1421201456",
+      "profile_link_color": "2F4F4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.39116208,
+        115.63005859
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.63005859,
+        -8.39116208
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 02:59:47 +0000 2019",
+    "id": 1102403234524733443,
+    "id_str": "1102403234524733443",
+    "text": "#Lempuyang #temple aka GATE OF HEAVEN , #BALI #indonesia https://t.co/5uMqwxQpaw https://t.co/RzlNRE3FL9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Lempuyang",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "temple",
+          "indices": [
+            11,
+            18
+          ]
+        },
+        {
+          "text": "BALI",
+          "indices": [
+            40,
+            45
+          ]
+        },
+        {
+          "text": "indonesia",
+          "indices": [
+            46,
+            56
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/5uMqwxQpaw",
+          "expanded_url": "https://ift.tt/2IQi4MD",
+          "display_url": "ift.tt/2IQi4MD",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1102403233413242881,
+          "id_str": "1102403233413242881",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0yF5mbWoAEF5UA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0yF5mbWoAEF5UA.jpg",
+          "url": "https://t.co/RzlNRE3FL9",
+          "display_url": "pic.twitter.com/RzlNRE3FL9",
+          "expanded_url": "https://twitter.com/beingatraveler1/status/1102403234524733443/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1102403233413242881,
+          "id_str": "1102403233413242881",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0yF5mbWoAEF5UA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0yF5mbWoAEF5UA.jpg",
+          "url": "https://t.co/RzlNRE3FL9",
+          "display_url": "pic.twitter.com/RzlNRE3FL9",
+          "expanded_url": "https://twitter.com/beingatraveler1/status/1102403234524733443/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4875771129,
+      "id_str": "4875771129",
+      "name": "Being A Traveler",
+      "screen_name": "beingatraveler1",
+      "location": "Pakistan",
+      "description": "Hey its Bilal Azam.\nTravel Addict, Photographer, Explorer, Adventurist. \nhttps://t.co/HouQiu4H12",
+      "url": "https://t.co/7SpqOAAReN",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/7SpqOAAReN",
+              "expanded_url": "http://www.beingatraveler.com",
+              "display_url": "beingatraveler.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/HouQiu4H12",
+              "expanded_url": "http://facebook.com/beingatraveler",
+              "display_url": "facebook.com/beingatraveler",
+              "indices": [
+                73,
+                96
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 302,
+      "friends_count": 369,
+      "listed_count": 13,
+      "created_at": "Thu Feb 04 07:49:27 +0000 2016",
+      "favourites_count": 150,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 472,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/705217425034371072/YFAp-da3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/705217425034371072/YFAp-da3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4875771129/1454639552",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 02:59:31 +0000 2019",
+    "id": 1102403165654261760,
+    "id_str": "1102403165654261760",
+    "text": "Lempuyang Temple\n\nBali, Indonesia https://t.co/30CcQuTRCJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1102401822386540545,
+          "id_str": "1102401822386540545",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0yEnd8X0AELXX8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0yEnd8X0AELXX8.jpg",
+          "url": "https://t.co/30CcQuTRCJ",
+          "display_url": "pic.twitter.com/30CcQuTRCJ",
+          "expanded_url": "https://twitter.com/mycognizantflow/status/1102403165654261760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1102401822386540545,
+          "id_str": "1102401822386540545",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0yEnd8X0AELXX8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0yEnd8X0AELXX8.jpg",
+          "url": "https://t.co/30CcQuTRCJ",
+          "display_url": "pic.twitter.com/30CcQuTRCJ",
+          "expanded_url": "https://twitter.com/mycognizantflow/status/1102403165654261760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 154002144,
+      "id_str": "154002144",
+      "name": "Tiffany Rae",
+      "screen_name": "mycognizantflow",
+      "location": "",
+      "description": "Founder, Cognizant Global. Board Member. Writer|Editor|Artist & Airbnb host. Foodie, world traveler & volunteer. EDF Ambassador. RYT 500 trainee.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 30382,
+      "friends_count": 23720,
+      "listed_count": 463,
+      "created_at": "Thu Jun 10 03:25:50 +0000 2010",
+      "favourites_count": 18739,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 11960,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/674228595036917760/5oEGyPkm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/674228595036917760/5oEGyPkm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/154002144/1425246912",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "9c78d702e034175f",
+      "url": "https://api.twitter.com/1.1/geo/id/9c78d702e034175f.json",
+      "place_type": "city",
+      "name": "Selat",
+      "full_name": "Selat, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.436412,
+              -8.478919
+            ],
+            [
+              115.520427,
+              -8.478919
+            ],
+            [
+              115.520427,
+              -8.342056
+            ],
+            [
+              115.436412,
+              -8.342056
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 02:46:54 +0000 2019",
+    "id": 1102399992017403906,
+    "id_str": "1102399992017403906",
+    "text": "#Lempuyang #temple aka GATE OF HEAVEN , #BALI #indonesia https://t.co/cAvS0opYaG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Lempuyang",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "temple",
+          "indices": [
+            11,
+            18
+          ]
+        },
+        {
+          "text": "BALI",
+          "indices": [
+            40,
+            45
+          ]
+        },
+        {
+          "text": "indonesia",
+          "indices": [
+            46,
+            56
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/cAvS0opYaG",
+          "expanded_url": "https://www.instagram.com/p/BukfVbrghjz/?utm_source=ig_twitter_share&igshid=qeizj1rds1e",
+          "display_url": "instagram.com/p/BukfVbrghjz/\u2026",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4875771129,
+      "id_str": "4875771129",
+      "name": "Being A Traveler",
+      "screen_name": "beingatraveler1",
+      "location": "Pakistan",
+      "description": "Hey its Bilal Azam.\nTravel Addict, Photographer, Explorer, Adventurist. \nhttps://t.co/HouQiu4H12",
+      "url": "https://t.co/7SpqOAAReN",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/7SpqOAAReN",
+              "expanded_url": "http://www.beingatraveler.com",
+              "display_url": "beingatraveler.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/HouQiu4H12",
+              "expanded_url": "http://facebook.com/beingatraveler",
+              "display_url": "facebook.com/beingatraveler",
+              "indices": [
+                73,
+                96
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 302,
+      "friends_count": 369,
+      "listed_count": 13,
+      "created_at": "Thu Feb 04 07:49:27 +0000 2016",
+      "favourites_count": 150,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 472,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/705217425034371072/YFAp-da3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/705217425034371072/YFAp-da3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4875771129/1454639552",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 02 16:48:52 +0000 2019",
+    "id": 1101887106417188864,
+    "id_str": "1101887106417188864",
+    "text": "Lempuyang Temple https://t.co/ROb5TQdq68",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1101887059302612998,
+          "id_str": "1101887059302612998",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0qwcUBVAAYyKBH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0qwcUBVAAYyKBH.jpg",
+          "url": "https://t.co/ROb5TQdq68",
+          "display_url": "pic.twitter.com/ROb5TQdq68",
+          "expanded_url": "https://twitter.com/Putusetiawan14/status/1101887106417188864/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1152,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1101887059302612998,
+          "id_str": "1101887059302612998",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0qwcUBVAAYyKBH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0qwcUBVAAYyKBH.jpg",
+          "url": "https://t.co/ROb5TQdq68",
+          "display_url": "pic.twitter.com/ROb5TQdq68",
+          "expanded_url": "https://twitter.com/Putusetiawan14/status/1101887106417188864/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1152,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "tl",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1061654297862057985,
+      "id_str": "1061654297862057985",
+      "name": "Putu setiawan",
+      "screen_name": "Putusetiawan14",
+      "location": "Tabanan, Indonesia",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6,
+      "friends_count": 15,
+      "listed_count": 0,
+      "created_at": "Sun Nov 11 16:18:04 +0000 2018",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1061656343772196865/u5eVZ4d8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061656343772196865/u5eVZ4d8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061654297862057985/1541953570",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tl"
+  },
+  {
+    "created_at": "Sat Mar 02 12:03:02 +0000 2019",
+    "id": 1101815170567950337,
+    "id_str": "1101815170567950337",
+    "text": "RT @limlessons: This image shows the Gates of Heaven at Pura Lempuyang, a beautiful Balinese Hindu temple. It is located on the slope of Mo\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "limlessons",
+          "name": "LIM Lessons",
+          "id": 1563207270,
+          "id_str": "1563207270",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 294261353,
+      "id_str": "294261353",
+      "name": "marcos",
+      "screen_name": "marcos_bezerra_",
+      "location": "Rio de Janeiro ",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 570,
+      "friends_count": 1996,
+      "listed_count": 17,
+      "created_at": "Fri May 06 20:32:07 +0000 2011",
+      "favourites_count": 49781,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 19037,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/787380039620911104/z9941MUq_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/787380039620911104/z9941MUq_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Mar 02 12:00:48 +0000 2019",
+      "id": 1101814610804518912,
+      "id_str": "1101814610804518912",
+      "text": "This image shows the Gates of Heaven at Pura Lempuyang, a beautiful Balinese Hindu temple. It is located on the slo\u2026 https://t.co/w28WECgVMY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/w28WECgVMY",
+            "expanded_url": "https://twitter.com/i/web/status/1101814610804518912",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1563207270,
+        "id_str": "1563207270",
+        "name": "LIM Lessons",
+        "screen_name": "limlessons",
+        "location": "",
+        "description": "Express Yourself.",
+        "url": "https://t.co/UquoOy3o21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UquoOy3o21",
+                "expanded_url": "http://www.limlessons.com",
+                "display_url": "limlessons.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1179,
+        "friends_count": 165,
+        "listed_count": 9,
+        "created_at": "Tue Jul 02 13:48:31 +0000 2013",
+        "favourites_count": 181,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2096,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1043921114815180802/y-Jnwj2C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043921114815180802/y-Jnwj2C_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563207270/1432740620",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 02 12:00:48 +0000 2019",
+    "id": 1101814610804518912,
+    "id_str": "1101814610804518912",
+    "text": "This image shows the Gates of Heaven at Pura Lempuyang, a beautiful Balinese Hindu temple. It is located on the slo\u2026 https://t.co/w28WECgVMY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/w28WECgVMY",
+          "expanded_url": "https://twitter.com/i/web/status/1101814610804518912",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1563207270,
+      "id_str": "1563207270",
+      "name": "LIM Lessons",
+      "screen_name": "limlessons",
+      "location": "",
+      "description": "Express Yourself.",
+      "url": "https://t.co/UquoOy3o21",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/UquoOy3o21",
+              "expanded_url": "http://www.limlessons.com",
+              "display_url": "limlessons.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1179,
+      "friends_count": 165,
+      "listed_count": 9,
+      "created_at": "Tue Jul 02 13:48:31 +0000 2013",
+      "favourites_count": 181,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2096,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1043921114815180802/y-Jnwj2C_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043921114815180802/y-Jnwj2C_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563207270/1432740620",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 02 07:23:42 +0000 2019",
+    "id": 1101744877509984256,
+    "id_str": "1101744877509984256",
+    "text": "Just posted a photo @ Lempuyang Temple https://t.co/gPawLRiccK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/gPawLRiccK",
+          "expanded_url": "https://www.instagram.com/p/Buf1bESAzPQ/?utm_source=ig_twitter_share&igshid=19gtdhh6kgj6f",
+          "display_url": "instagram.com/p/Buf1bESAzPQ/\u2026",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 557552887,
+      "id_str": "557552887",
+      "name": "desymartadewi",
+      "screen_name": "deasyma_",
+      "location": "Ubud, Indonesia",
+      "description": "",
+      "url": "https://t.co/IC99EeWnUH",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/IC99EeWnUH",
+              "expanded_url": "https://www.instagram.com/deasymaa/",
+              "display_url": "instagram.com/deasymaa/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1170,
+      "friends_count": 353,
+      "listed_count": 2,
+      "created_at": "Thu Apr 19 08:58:55 +0000 2012",
+      "favourites_count": 200,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 39231,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1102988482383798272/f-lt-VXb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102988482383798272/f-lt-VXb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/557552887/1544703932",
+      "profile_link_color": "B8C5C6",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "0E0E0E",
+      "profile_text_color": "4A66C1",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.39116208,
+        115.63005859
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.63005859,
+        -8.39116208
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 02 01:33:20 +0000 2019",
+    "id": 1101656704708599808,
+    "id_str": "1101656704708599808",
+    "text": "Gate of heaven Lempuyang Temple https://t.co/q24MNgwjsE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1101656681803505666,
+          "id_str": "1101656681803505666",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0ne6k9VYAI8m71.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0ne6k9VYAI8m71.jpg",
+          "url": "https://t.co/q24MNgwjsE",
+          "display_url": "pic.twitter.com/q24MNgwjsE",
+          "expanded_url": "https://twitter.com/Putusetiawan14/status/1101656704708599808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1152,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1101656681803505666,
+          "id_str": "1101656681803505666",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0ne6k9VYAI8m71.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0ne6k9VYAI8m71.jpg",
+          "url": "https://t.co/q24MNgwjsE",
+          "display_url": "pic.twitter.com/q24MNgwjsE",
+          "expanded_url": "https://twitter.com/Putusetiawan14/status/1101656704708599808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1152,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "tl",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1061654297862057985,
+      "id_str": "1061654297862057985",
+      "name": "Putu setiawan",
+      "screen_name": "Putusetiawan14",
+      "location": "Tabanan, Indonesia",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6,
+      "friends_count": 15,
+      "listed_count": 0,
+      "created_at": "Sun Nov 11 16:18:04 +0000 2018",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1061656343772196865/u5eVZ4d8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061656343772196865/u5eVZ4d8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061654297862057985/1541953570",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tl"
+  },
+  {
+    "created_at": "Fri Mar 01 08:56:18 +0000 2019",
+    "id": 1101405792836546561,
+    "id_str": "1101405792836546561",
+    "text": "RT @WhyGe: I took many steps today to reach Lempuyang Temple. \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f @ Lempuyang Temple https://t.co/3lTNqq5D2H",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "WhyGe",
+          "name": "Giri Yudiartha",
+          "id": 240908343,
+          "id_str": "240908343",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3lTNqq5D2H",
+          "expanded_url": "https://www.instagram.com/yudiartha_giri/p/BudawpPFjTz/?utm_source=ig_twitter_share&igshid=1opjpihxiiepv",
+          "display_url": "instagram.com/yudiartha_giri\u2026",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 725953919612919813,
+      "id_str": "725953919612919813",
+      "name": "Lila Kresna",
+      "screen_name": "lila_kresna",
+      "location": "Denpasar, Bali",
+      "description": "a full time mom",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 109,
+      "friends_count": 252,
+      "listed_count": 1,
+      "created_at": "Fri Apr 29 07:44:36 +0000 2016",
+      "favourites_count": 10676,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2929,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/727717903345319936/g4aRx6Rz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/727717903345319936/g4aRx6Rz_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/725953919612919813/1523227155",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 01 08:52:13 +0000 2019",
+      "id": 1101404765903298560,
+      "id_str": "1101404765903298560",
+      "text": "I took many steps today to reach Lempuyang Temple. \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f @ Lempuyang Temple https://t.co/3lTNqq5D2H",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3lTNqq5D2H",
+            "expanded_url": "https://www.instagram.com/yudiartha_giri/p/BudawpPFjTz/?utm_source=ig_twitter_share&igshid=1opjpihxiiepv",
+            "display_url": "instagram.com/yudiartha_giri\u2026",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 240908343,
+        "id_str": "240908343",
+        "name": "Giri Yudiartha",
+        "screen_name": "WhyGe",
+        "location": "Denpasar, Bali, Indonesia",
+        "description": "Australian Order Medal, Shotokan Karate 4th DAN, Tour Operator and more..",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 30,
+        "friends_count": 136,
+        "listed_count": 2,
+        "created_at": "Fri Jan 21 00:59:58 +0000 2011",
+        "favourites_count": 247,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 343,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/981748757426356225/ZwNugVuW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981748757426356225/ZwNugVuW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240908343/1454153370",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -8.39116208,
+          115.63005859
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          115.63005859,
+          -8.39116208
+        ]
+      },
+      "place": {
+        "id": "02fe687fea201ef8",
+        "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+        "place_type": "city",
+        "name": "Abang",
+        "full_name": "Abang, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                115.518094,
+                -8.426355
+              ],
+              [
+                115.711528,
+                -8.426355
+              ],
+              [
+                115.711528,
+                -8.300467
+              ],
+              [
+                115.518094,
+                -8.300467
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 08:52:13 +0000 2019",
+    "id": 1101404765903298560,
+    "id_str": "1101404765903298560",
+    "text": "I took many steps today to reach Lempuyang Temple. \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f @ Lempuyang Temple https://t.co/3lTNqq5D2H",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/3lTNqq5D2H",
+          "expanded_url": "https://www.instagram.com/yudiartha_giri/p/BudawpPFjTz/?utm_source=ig_twitter_share&igshid=1opjpihxiiepv",
+          "display_url": "instagram.com/yudiartha_giri\u2026",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 240908343,
+      "id_str": "240908343",
+      "name": "Giri Yudiartha",
+      "screen_name": "WhyGe",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "Australian Order Medal, Shotokan Karate 4th DAN, Tour Operator and more..",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 30,
+      "friends_count": 136,
+      "listed_count": 2,
+      "created_at": "Fri Jan 21 00:59:58 +0000 2011",
+      "favourites_count": 247,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 343,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/981748757426356225/ZwNugVuW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/981748757426356225/ZwNugVuW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/240908343/1454153370",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.39116208,
+        115.63005859
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.63005859,
+        -8.39116208
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

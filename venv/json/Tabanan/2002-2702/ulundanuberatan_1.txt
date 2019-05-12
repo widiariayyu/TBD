@@ -1,0 +1,188 @@
+[
+  {
+    "created_at": "Sun Feb 24 13:50:36 +0000 2019",
+    "id": 1099667916436443138,
+    "id_str": "1099667916436443138",
+    "text": "Ulun Danu Temple, Bali, Indonesia #neverstoptravelling #welovetravelling #travelphotography #travelholic #traveller\u2026 https://t.co/uL6u0GbY0Q",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "neverstoptravelling",
+          "indices": [
+            34,
+            54
+          ]
+        },
+        {
+          "text": "welovetravelling",
+          "indices": [
+            55,
+            72
+          ]
+        },
+        {
+          "text": "travelphotography",
+          "indices": [
+            73,
+            91
+          ]
+        },
+        {
+          "text": "travelholic",
+          "indices": [
+            92,
+            104
+          ]
+        },
+        {
+          "text": "traveller",
+          "indices": [
+            105,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/uL6u0GbY0Q",
+          "expanded_url": "https://twitter.com/i/web/status/1099667916436443138",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 45847276,
+      "id_str": "45847276",
+      "name": "Gusti Agung Putra",
+      "screen_name": "GustiAgungPutra",
+      "location": "Jakarta, Indonesia",
+      "description": "The Official of GustiAgungPutra's Twitter Page",
+      "url": "https://t.co/YMeQ5lTUSj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/YMeQ5lTUSj",
+              "expanded_url": "http://facebook.com/GustiAgungPutra",
+              "display_url": "facebook.com/GustiAgungPutra",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1454,
+      "friends_count": 2056,
+      "listed_count": 11,
+      "created_at": "Tue Jun 09 14:26:16 +0000 2009",
+      "favourites_count": 60,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 10056,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1098213998619578369/_bMW2sba_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098213998619578369/_bMW2sba_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/45847276/1550991346",
+      "profile_link_color": "CC3300",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F7DA93",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.27596931,
+        115.16532361
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16532361,
+        -8.27596931
+      ]
+    },
+    "place": {
+      "id": "638ef0760a2670ae",
+      "url": "https://api.twitter.com/1.1/geo/id/638ef0760a2670ae.json",
+      "place_type": "city",
+      "name": "Baturiti",
+      "full_name": "Baturiti, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.128248,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.243315
+            ],
+            [
+              115.128248,
+              -8.243315
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  }
+]

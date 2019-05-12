@@ -1,0 +1,2980 @@
+[
+  {
+    "created_at": "Tue Feb 26 09:17:13 +0000 2019",
+    "id": 1100323890151141377,
+    "id_str": "1100323890151141377",
+    "text": "Second day tour with Avan Diaz and Dayrit Christian #lempuyangtemple #tirtagangga #tukadcepungwaterfall\u2026 https://t.co/E61n2DePeU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "lempuyangtemple",
+          "indices": [
+            52,
+            68
+          ]
+        },
+        {
+          "text": "tirtagangga",
+          "indices": [
+            69,
+            81
+          ]
+        },
+        {
+          "text": "tukadcepungwaterfall",
+          "indices": [
+            82,
+            103
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/E61n2DePeU",
+          "expanded_url": "https://twitter.com/i/web/status/1100323890151141377",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 637160010,
+      "id_str": "637160010",
+      "name": "Exotic Bali Tour",
+      "screen_name": "G_DriverBali",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "We are proud to offer to you to many kind of Bali Tours Packages variety, such as full day Tour, Half Day Tour. Thanks",
+      "url": "https://t.co/VcoYMGUbhz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/VcoYMGUbhz",
+              "expanded_url": "http://www.exoticbalitour.com",
+              "display_url": "exoticbalitour.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 176,
+      "friends_count": 277,
+      "listed_count": 0,
+      "created_at": "Mon Jul 16 16:05:58 +0000 2012",
+      "favourites_count": 10,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 615,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1041546819333812227/zG4H0Geq_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041546819333812227/zG4H0Geq_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/637160010/1537159092",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.6764,
+        115.2153
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.2153,
+        -8.6764
+      ]
+    },
+    "place": {
+      "id": "cf712fd91280ebff",
+      "url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+      "place_type": "city",
+      "name": "Denpasar Barat",
+      "full_name": "Denpasar Barat, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.173695,
+              -8.70934
+            ],
+            [
+              115.235563,
+              -8.70934
+            ],
+            [
+              115.235563,
+              -8.591728
+            ],
+            [
+              115.173695,
+              -8.591728
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Feb 25 02:00:13 +0000 2019",
+    "id": 1099851529299861504,
+    "id_str": "1099851529299861504",
+    "text": "One of the most iconic water palace in Karangasem. Taken at Tirta Gangga-Bali.\n\ud83d\udcf7 @incyvincyspider\n\u2796\u2796\u2796\u2796\u2796\nBebek Bengi\u2026 https://t.co/cPGSKuAlq6",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "incyvincyspider",
+          "name": "Vincy",
+          "id": 270779907,
+          "id_str": "270779907",
+          "indices": [
+            81,
+            97
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cPGSKuAlq6",
+          "expanded_url": "https://twitter.com/i/web/status/1099851529299861504",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4520432139,
+      "id_str": "4520432139",
+      "name": "Bebekbengil Original",
+      "screen_name": "bebekbengil1",
+      "location": "Jl. Hanoman, Padang Tegal,ubud",
+      "description": "The Original Crispy duck since 1990",
+      "url": "https://t.co/8In7xk5yVN",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/8In7xk5yVN",
+              "expanded_url": "http://www.bebekbengil.co.id",
+              "display_url": "bebekbengil.co.id",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 17,
+      "friends_count": 2,
+      "listed_count": 9,
+      "created_at": "Fri Dec 18 03:21:29 +0000 2015",
+      "favourites_count": 45,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1090,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/678854743662313472/OUKi2Okg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/678854743662313472/OUKi2Okg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4520432139/1450686917",
+      "profile_link_color": "9266CC",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Feb 24 05:40:09 +0000 2019",
+    "id": 1099544489637617665,
+    "id_str": "1099544489637617665",
+    "text": ".\nkau kuat karena kau dicintai, \nsetidaknya oleh dirimu sendiri. \n\n.\n.\n.\n#tirtagangga#baliindonesia#explorebali#lat\u2026 https://t.co/bszwBUlZK0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/bszwBUlZK0",
+          "expanded_url": "https://twitter.com/i/web/status/1099544489637617665",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 606821976,
+      "id_str": "606821976",
+      "name": "Aisyah Indah",
+      "screen_name": "AisyahIndh",
+      "location": "Indonesia",
+      "description": "proud to be IPS and prepare to success . aamiin",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1873,
+      "friends_count": 198,
+      "listed_count": 0,
+      "created_at": "Tue Jun 12 23:53:44 +0000 2012",
+      "favourites_count": 41,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1523,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "94D487",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/624031327063400448/3eeLoSAB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/624031327063400448/3eeLoSAB_normal.jpg",
+      "profile_link_color": "F5ABB5",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DFC172",
+      "profile_text_color": "805014",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sat Feb 23 07:50:22 +0000 2019",
+    "id": 1099214872775057408,
+    "id_str": "1099214872775057408",
+    "text": ".\nim going to make a very beautiful life for my self,  no matter what it takes :)\n.\n.\n.\n#tirtagangga#womaninframe#h\u2026 https://t.co/wCRt12LTl2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/wCRt12LTl2",
+          "expanded_url": "https://twitter.com/i/web/status/1099214872775057408",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 606821976,
+      "id_str": "606821976",
+      "name": "Aisyah Indah",
+      "screen_name": "AisyahIndh",
+      "location": "Indonesia",
+      "description": "proud to be IPS and prepare to success . aamiin",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1873,
+      "friends_count": 198,
+      "listed_count": 0,
+      "created_at": "Tue Jun 12 23:53:44 +0000 2012",
+      "favourites_count": 41,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1523,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "94D487",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/624031327063400448/3eeLoSAB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/624031327063400448/3eeLoSAB_normal.jpg",
+      "profile_link_color": "F5ABB5",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DFC172",
+      "profile_text_color": "805014",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 23 03:28:31 +0000 2019",
+    "id": 1099148975356076033,
+    "id_str": "1099148975356076033",
+    "text": "Tirta Gangga was such a beautiful place to visit \ud83c\udf3f #tirtagangga #bali @ Tirta Gangga https://t.co/Sl9omTbB3L",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "tirtagangga",
+          "indices": [
+            51,
+            63
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            64,
+            69
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Sl9omTbB3L",
+          "expanded_url": "https://www.instagram.com/ashkayk/p/BuNY8CDB4Ix/?utm_source=ig_twitter_share&igshid=15wef2zsjvif0",
+          "display_url": "instagram.com/ashkayk/p/BuNY\u2026",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 36563719,
+      "id_str": "36563719",
+      "name": "\u15e9sh Kay fights for Wynonna \ud83d\udda4",
+      "screen_name": "Ashkayk",
+      "location": "Chicago, IL",
+      "description": "AEO visual merchandiser \u2022 Lesbian \u2022 Travel enthusiast \u2022 Amateur photographer \u2022 Tv & convention nerd \u2022 @DeathbyAvalance co-host \u2022 #Earper",
+      "url": "https://t.co/s3LZ5YZrBq",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/s3LZ5YZrBq",
+              "expanded_url": "http://www.instagram.com/ashkayk/",
+              "display_url": "instagram.com/ashkayk/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1470,
+      "friends_count": 505,
+      "listed_count": 8,
+      "created_at": "Thu Apr 30 02:12:49 +0000 2009",
+      "favourites_count": 16068,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 17650,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1092179191968292864/2bb24Iua_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092179191968292864/2bb24Iua_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/36563719/1539805794",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.41194444,
+        115.58694444
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.58694444,
+        -8.41194444
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 22 15:56:50 +0000 2019",
+    "id": 1098974907956846594,
+    "id_str": "1098974907956846594",
+    "text": "RT @1r8394045237: #\u0905\u0902\u0927\u0936\u094d\u0930\u0926\u094d\u0927\u093e\u092d\u0915\u094d\u0924\u093f_\u0915\u0941\u0902\u092d\u0938\u094d\u0928\u093e\u0928\n#kumbhmela #kumbh2019\n#god #prayagraj #prayer\n#riverganga #thursday\n#thursdaymorning  #tirtaga\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "\u0905\u0902\u0927\u0936\u094d\u0930\u0926\u094d\u0927\u093e\u092d\u0915\u094d\u0924\u093f_\u0915\u0941\u0902\u092d\u0938\u094d\u0928\u093e\u0928",
+          "indices": [
+            18,
+            44
+          ]
+        },
+        {
+          "text": "kumbhmela",
+          "indices": [
+            45,
+            55
+          ]
+        },
+        {
+          "text": "kumbh2019",
+          "indices": [
+            56,
+            66
+          ]
+        },
+        {
+          "text": "god",
+          "indices": [
+            67,
+            71
+          ]
+        },
+        {
+          "text": "prayagraj",
+          "indices": [
+            72,
+            82
+          ]
+        },
+        {
+          "text": "prayer",
+          "indices": [
+            83,
+            90
+          ]
+        },
+        {
+          "text": "riverganga",
+          "indices": [
+            91,
+            102
+          ]
+        },
+        {
+          "text": "thursday",
+          "indices": [
+            103,
+            112
+          ]
+        },
+        {
+          "text": "thursdaymorning",
+          "indices": [
+            113,
+            129
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "1r8394045237",
+          "name": "\ud83c\udf38\ud83c\udf43Ravindra Singh\ud83c\udf43\ud83c\udf38",
+          "id": 915622953710059520,
+          "id_str": "915622953710059520",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1096055455309168641,
+      "id_str": "1096055455309168641",
+      "name": "D\u0269\u0138s\u029c\u028c s\u028c\u0269\u014b\u0269",
+      "screen_name": "Dikshasaini28",
+      "location": "Rohtak Haryana ",
+      "description": "\ud83c\udf38D\u0258\u028c\u0280 Go\u0257,\nF\u0280o\u0271 t\u029c\u0258 \u0253otto\u0271 o\u0286 \u0271\u01b4 \u029c\u0258\u028c\u0280t,\nI w\u028c\u014bt to t\u029c\u028c\u014b\u0138 \u01b4o\u028b,\nFo\u0280 \u0253\u0258\u0269\u014b\u029b w\u0269t\u029c \u0271\u0258 \u028c\u026d\u026d t\u029c\u0258 w\u028c\u01b4,\nFo\u0280 \u014b\u0258v\u0258\u0280 \u026d\u0258\u028cv\u0269\u014b\u029b \u0271\u0258,\nFo\u0280 \u026dov\u0269\u014b\u029b \u0271\u0258,\ud83c\udf38",
+      "url": "https://t.co/cLcA2Qease",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/cLcA2Qease",
+              "expanded_url": "https://jagatgururampalji.org",
+              "display_url": "jagatgururampalji.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 231,
+      "friends_count": 173,
+      "listed_count": 0,
+      "created_at": "Thu Feb 14 14:35:59 +0000 2019",
+      "favourites_count": 9890,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 10090,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1098799464729341953/FgC56G1Y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098799464729341953/FgC56G1Y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096055455309168641/1550760176",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 17 02:03:59 +0000 2019",
+      "id": 1085719351276097536,
+      "id_str": "1085719351276097536",
+      "text": "#\u0905\u0902\u0927\u0936\u094d\u0930\u0926\u094d\u0927\u093e\u092d\u0915\u094d\u0924\u093f_\u0915\u0941\u0902\u092d\u0938\u094d\u0928\u093e\u0928\n#kumbhmela #kumbh2019\n#god #prayagraj #prayer\n#riverganga #thursday\n#thursdaymorning\u2026 https://t.co/ugRJiPKWQQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "\u0905\u0902\u0927\u0936\u094d\u0930\u0926\u094d\u0927\u093e\u092d\u0915\u094d\u0924\u093f_\u0915\u0941\u0902\u092d\u0938\u094d\u0928\u093e\u0928",
+            "indices": [
+              0,
+              26
+            ]
+          },
+          {
+            "text": "kumbhmela",
+            "indices": [
+              27,
+              37
+            ]
+          },
+          {
+            "text": "kumbh2019",
+            "indices": [
+              38,
+              48
+            ]
+          },
+          {
+            "text": "god",
+            "indices": [
+              49,
+              53
+            ]
+          },
+          {
+            "text": "prayagraj",
+            "indices": [
+              54,
+              64
+            ]
+          },
+          {
+            "text": "prayer",
+            "indices": [
+              65,
+              72
+            ]
+          },
+          {
+            "text": "riverganga",
+            "indices": [
+              73,
+              84
+            ]
+          },
+          {
+            "text": "thursday",
+            "indices": [
+              85,
+              94
+            ]
+          },
+          {
+            "text": "thursdaymorning",
+            "indices": [
+              95,
+              111
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ugRJiPKWQQ",
+            "expanded_url": "https://twitter.com/i/web/status/1085719351276097536",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 915622953710059520,
+        "id_str": "915622953710059520",
+        "name": "\ud83c\udf38\ud83c\udf43Ravindra Singh\ud83c\udf43\ud83c\udf38",
+        "screen_name": "1r8394045237",
+        "location": "\ud83c\udf3b\u0906\u0917\u0930\u093e \u092e\u0923\u094d\u0921\u0932,\u2733\ufe0f\u091c\u093f\u0932\u093e \u092e\u0925\u0941\u0930\u093e\ud83c\udf3b",
+        "description": "\u0917\u0941\u0930\u0941\u091c\u0940 \u0924\u0941\u092e \u0928 \u092d\u0942\u0932\u093f\u092f\u094b,\u091a\u093e\u0939\u0947 \u0932\u093e\u0916 \u0932\u094b\u0917 \u092e\u093f\u0932 \u091c\u093e\u090f\u0902\u0964\ud83d\ude27\n\ud83d\udc49\u0939\u092e\u0938\u0947 \u0924\u0941\u092e\u0915\u094b \u092c\u0939\u0941\u0924 \u0939\u0948\u0902,\u092a\u0930 \u0924\u0941\u092e\u0938\u0947 \u0939\u092e\u0915\u094b \u0928\u093e\u092f\u0964\u0964\ud83d\ude34\n\u2665\ufe0f\u2665\ufe0f\ud83c\udf86\ud83c\udf34\ud83c\udf86\ud83c\udf3f\ud83c\udf3f\ud83c\udf3b\ud83c\udf41\ud83c\udf41\ud83c\udf86\ud83c\udf34\ud83c\udf86\u2665\ufe0f\u2665\ufe0f",
+        "url": "https://t.co/8KcLgLMtWW",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/8KcLgLMtWW",
+                "expanded_url": "http://www.jagatgururampalji.org",
+                "display_url": "jagatgururampalji.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5687,
+        "friends_count": 3294,
+        "listed_count": 1,
+        "created_at": "Wed Oct 04 17:01:38 +0000 2017",
+        "favourites_count": 5981,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8180,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1034649331591049216/hJqXl8oY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034649331591049216/hJqXl8oY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/915622953710059520/1541048250",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          27.5,
+          77.6833
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          77.6833,
+          27.5
+        ]
+      },
+      "place": {
+        "id": "7e76692dbc228fbe",
+        "url": "https://api.twitter.com/1.1/geo/id/7e76692dbc228fbe.json",
+        "place_type": "city",
+        "name": "Mathura",
+        "full_name": "Mathura, India",
+        "country_code": "IN",
+        "country": "India",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.338937,
+                27.233441
+              ],
+              [
+                77.848381,
+                27.233441
+              ],
+              [
+                77.848381,
+                27.644705
+              ],
+              [
+                77.338937,
+                27.644705
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Fri Feb 22 12:34:38 +0000 2019",
+    "id": 1098924021171847169,
+    "id_str": "1098924021171847169",
+    "text": "Just keep swimming \ud83d\udc99\ud83d\udc20 #tirtagangga #bali @ Tirta Gangga https://t.co/1HqZk2yEDa",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "tirtagangga",
+          "indices": [
+            22,
+            34
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            35,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/1HqZk2yEDa",
+          "expanded_url": "https://www.instagram.com/ashkayk/p/BuLypQ0BGVY/?utm_source=ig_twitter_share&igshid=mtm9gyj43hba",
+          "display_url": "instagram.com/ashkayk/p/BuLy\u2026",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 36563719,
+      "id_str": "36563719",
+      "name": "\u15e9sh Kay fights for Wynonna \ud83d\udda4",
+      "screen_name": "Ashkayk",
+      "location": "Chicago, IL",
+      "description": "AEO visual merchandiser \u2022 Lesbian \u2022 Travel enthusiast \u2022 Amateur photographer \u2022 Tv & convention nerd \u2022 @DeathbyAvalance co-host \u2022 #Earper",
+      "url": "https://t.co/s3LZ5YZrBq",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/s3LZ5YZrBq",
+              "expanded_url": "http://www.instagram.com/ashkayk/",
+              "display_url": "instagram.com/ashkayk/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1470,
+      "friends_count": 505,
+      "listed_count": 8,
+      "created_at": "Thu Apr 30 02:12:49 +0000 2009",
+      "favourites_count": 16068,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 17650,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1092179191968292864/2bb24Iua_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092179191968292864/2bb24Iua_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/36563719/1539805794",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.41194444,
+        115.58694444
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.58694444,
+        -8.41194444
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 22 07:41:57 +0000 2019",
+    "id": 1098850365909286912,
+    "id_str": "1098850365909286912",
+    "text": "Emmm tiba2 pengen renang di tirtagangga \ud83d\ude02",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 365301144,
+      "id_str": "365301144",
+      "name": "Andrst",
+      "screen_name": "Hasiyappp",
+      "location": "Ig : prdnyaandrst",
+      "description": "A simple happiness",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 515,
+      "friends_count": 305,
+      "listed_count": 0,
+      "created_at": "Wed Aug 31 06:01:52 +0000 2011",
+      "favourites_count": 275,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3999,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1086610929196752897/BC2kI4nU_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086610929196752897/BC2kI4nU_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/365301144/1550881616",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Thu Feb 21 05:10:23 +0000 2019",
+    "id": 1098449835391250432,
+    "id_str": "1098449835391250432",
+    "text": "Best of Bali instagram tour\nBeauty of north \n#baliisland #instagrammer #instagramtour #love #lovehills\u2026 https://t.co/gM0Sv9kNwK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "baliisland",
+          "indices": [
+            45,
+            56
+          ]
+        },
+        {
+          "text": "instagrammer",
+          "indices": [
+            57,
+            70
+          ]
+        },
+        {
+          "text": "instagramtour",
+          "indices": [
+            71,
+            85
+          ]
+        },
+        {
+          "text": "love",
+          "indices": [
+            86,
+            91
+          ]
+        },
+        {
+          "text": "lovehills",
+          "indices": [
+            92,
+            102
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/gM0Sv9kNwK",
+          "expanded_url": "https://twitter.com/i/web/status/1098449835391250432",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 92445975,
+      "id_str": "92445975",
+      "name": "wijaya",
+      "screen_name": "kent_19",
+      "location": "DENPASAR BALI~ INDONESIA 80115",
+      "description": "INDONESIAN,KOREAN AND ENGLISH SPEAKING TOUR GUIDE IN BALI phone :085100296124/081936021119",
+      "url": "https://t.co/U6wLwRigFS",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/U6wLwRigFS",
+              "expanded_url": "http://www.manggobali.com",
+              "display_url": "manggobali.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 98,
+      "friends_count": 379,
+      "listed_count": 2,
+      "created_at": "Wed Nov 25 04:27:40 +0000 2009",
+      "favourites_count": 24,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 603,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/569823493571629056/3EhY_Twa_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/569823493571629056/3EhY_Twa_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/92445975/1424691478",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.64619568,
+        115.18066406
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.18066406,
+        -8.64619568
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 21 04:29:09 +0000 2019",
+    "id": 1098439457798115328,
+    "id_str": "1098439457798115328",
+    "text": "Best of Bali instagram tour\n#baliisland #instagrammer #instagramtour #love #lovehills #lempuyangtemple #tirtagangga\u2026 https://t.co/jKhu5rbMfc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "baliisland",
+          "indices": [
+            28,
+            39
+          ]
+        },
+        {
+          "text": "instagrammer",
+          "indices": [
+            40,
+            53
+          ]
+        },
+        {
+          "text": "instagramtour",
+          "indices": [
+            54,
+            68
+          ]
+        },
+        {
+          "text": "love",
+          "indices": [
+            69,
+            74
+          ]
+        },
+        {
+          "text": "lovehills",
+          "indices": [
+            75,
+            85
+          ]
+        },
+        {
+          "text": "lempuyangtemple",
+          "indices": [
+            86,
+            102
+          ]
+        },
+        {
+          "text": "tirtagangga",
+          "indices": [
+            103,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jKhu5rbMfc",
+          "expanded_url": "https://twitter.com/i/web/status/1098439457798115328",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 92445975,
+      "id_str": "92445975",
+      "name": "wijaya",
+      "screen_name": "kent_19",
+      "location": "DENPASAR BALI~ INDONESIA 80115",
+      "description": "INDONESIAN,KOREAN AND ENGLISH SPEAKING TOUR GUIDE IN BALI phone :085100296124/081936021119",
+      "url": "https://t.co/U6wLwRigFS",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/U6wLwRigFS",
+              "expanded_url": "http://www.manggobali.com",
+              "display_url": "manggobali.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 98,
+      "friends_count": 379,
+      "listed_count": 2,
+      "created_at": "Wed Nov 25 04:27:40 +0000 2009",
+      "favourites_count": 24,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 603,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/569823493571629056/3EhY_Twa_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/569823493571629056/3EhY_Twa_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/92445975/1424691478",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.64619568,
+        115.18066406
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.18066406,
+        -8.64619568
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 21 02:14:20 +0000 2019",
+    "id": 1098405528764477440,
+    "id_str": "1098405528764477440",
+    "text": "#waterpalace #tirtagangga #hiddenbalitours @ Tirta Gangga Amlapura Karang Asem Bali https://t.co/XwxB7RgCoG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "waterpalace",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "tirtagangga",
+          "indices": [
+            13,
+            25
+          ]
+        },
+        {
+          "text": "hiddenbalitours",
+          "indices": [
+            26,
+            42
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/XwxB7RgCoG",
+          "expanded_url": "https://www.instagram.com/p/BuIG3GVlqDA/?utm_source=ig_twitter_share&igshid=exmu33gk7jvf",
+          "display_url": "instagram.com/p/BuIG3GVlqDA/\u2026",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 192030865,
+      "id_str": "192030865",
+      "name": "Wayan Sueta",
+      "screen_name": "hiddenbali",
+      "location": "Bali",
+      "description": "I am an English Speaking Guide/Driver in the island of Bali. Providing tours and sightseeing throughout Bali. I also running bed and breakfast.",
+      "url": "https://t.co/qPpRYHWcwB",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/qPpRYHWcwB",
+              "expanded_url": "https://www.airbnb.com/rooms/266076",
+              "display_url": "airbnb.com/rooms/266076",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 179,
+      "friends_count": 240,
+      "listed_count": 8,
+      "created_at": "Sat Sep 18 00:35:03 +0000 2010",
+      "favourites_count": 22,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 6270,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000777898773/c0c4e19ce52034876766b6f6ced84cde_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000777898773/c0c4e19ce52034876766b6f6ced84cde_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/192030865/1502081756",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.411876,
+        115.587715
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.587715,
+        -8.411876
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Feb 20 15:06:56 +0000 2019",
+    "id": 1098237573288333312,
+    "id_str": "1098237573288333312",
+    "text": "Selonjoran (@ Tirtagangga Hotel - @tirtagangga_grt in Garut, West Java) https://t.co/dvj6TqK036",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "tirtagangga_grt",
+          "name": "Tirtagangga Hotel",
+          "id": 1929647684,
+          "id_str": "1929647684",
+          "indices": [
+            34,
+            50
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dvj6TqK036",
+          "expanded_url": "https://www.swarmapp.com/c/jrsvKDblNFx",
+          "display_url": "swarmapp.com/c/jrsvKDblNFx",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 100306997,
+      "id_str": "100306997",
+      "name": "satriaYUDHAtama",
+      "screen_name": "satriayudhatama",
+      "location": "depok west java",
+      "description": "Member of JAKARTA INDEPENDENT CLUB (HTCI ATJ) | CIVIL ENGINEER PANCASILA UNIVERSITY | MILANISTI (FORZA AC MILAN)",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 975,
+      "friends_count": 1954,
+      "listed_count": 7,
+      "created_at": "Tue Dec 29 19:58:19 +0000 2009",
+      "favourites_count": 5,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5784,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/633441782957674496/yrykMIY-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/633441782957674496/yrykMIY-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/100306997/1420823566",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "E81748",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -7.17800071,
+        107.87143465
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        107.87143465,
+        -7.17800071
+      ]
+    },
+    "place": {
+      "id": "39c25e0dc7432619",
+      "url": "https://api.twitter.com/1.1/geo/id/39c25e0dc7432619.json",
+      "place_type": "city",
+      "name": "Banyuresmi",
+      "full_name": "Banyuresmi, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.84623,
+              -7.200074
+            ],
+            [
+              107.970515,
+              -7.200074
+            ],
+            [
+              107.970515,
+              -7.12802
+            ],
+            [
+              107.84623,
+              -7.12802
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Wed Feb 20 03:09:59 +0000 2019",
+    "id": 1098057147995303936,
+    "id_str": "1098057147995303936",
+    "text": "RT @SHIV01645585: #kumbhmela #kumbh2019\n#god #prayagraj #prayer\n#riverganga #thursday\n#thursdaymorning  #tirtagangga #hindu #kumbh #kumbhme\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kumbhmela",
+          "indices": [
+            18,
+            28
+          ]
+        },
+        {
+          "text": "kumbh2019",
+          "indices": [
+            29,
+            39
+          ]
+        },
+        {
+          "text": "god",
+          "indices": [
+            40,
+            44
+          ]
+        },
+        {
+          "text": "prayagraj",
+          "indices": [
+            45,
+            55
+          ]
+        },
+        {
+          "text": "prayer",
+          "indices": [
+            56,
+            63
+          ]
+        },
+        {
+          "text": "riverganga",
+          "indices": [
+            64,
+            75
+          ]
+        },
+        {
+          "text": "thursday",
+          "indices": [
+            76,
+            85
+          ]
+        },
+        {
+          "text": "thursdaymorning",
+          "indices": [
+            86,
+            102
+          ]
+        },
+        {
+          "text": "tirtagangga",
+          "indices": [
+            104,
+            116
+          ]
+        },
+        {
+          "text": "hindu",
+          "indices": [
+            117,
+            123
+          ]
+        },
+        {
+          "text": "kumbh",
+          "indices": [
+            124,
+            130
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SHIV01645585",
+          "name": "SHIV",
+          "id": 1068526111833784330,
+          "id_str": "1068526111833784330",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "hi",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1080723983044087808,
+      "id_str": "1080723983044087808",
+      "name": "Visakha Daas",
+      "screen_name": "DaasVisakha",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 41,
+      "friends_count": 107,
+      "listed_count": 0,
+      "created_at": "Thu Jan 03 07:14:11 +0000 2019",
+      "favourites_count": 2501,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3876,
+      "lang": "hi",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1080724299349135360/PLh16E8a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080724299349135360/PLh16E8a_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 17 08:32:08 +0000 2019",
+      "id": 1085817032891715584,
+      "id_str": "1085817032891715584",
+      "text": "#kumbhmela #kumbh2019\n#god #prayagraj #prayer\n#riverganga #thursday\n#thursdaymorning  #tirtagangga #hindu #kumbh\u2026 https://t.co/OgbokAA2Nw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "kumbhmela",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "text": "kumbh2019",
+            "indices": [
+              11,
+              21
+            ]
+          },
+          {
+            "text": "god",
+            "indices": [
+              22,
+              26
+            ]
+          },
+          {
+            "text": "prayagraj",
+            "indices": [
+              27,
+              37
+            ]
+          },
+          {
+            "text": "prayer",
+            "indices": [
+              38,
+              45
+            ]
+          },
+          {
+            "text": "riverganga",
+            "indices": [
+              46,
+              57
+            ]
+          },
+          {
+            "text": "thursday",
+            "indices": [
+              58,
+              67
+            ]
+          },
+          {
+            "text": "thursdaymorning",
+            "indices": [
+              68,
+              84
+            ]
+          },
+          {
+            "text": "tirtagangga",
+            "indices": [
+              86,
+              98
+            ]
+          },
+          {
+            "text": "hindu",
+            "indices": [
+              99,
+              105
+            ]
+          },
+          {
+            "text": "kumbh",
+            "indices": [
+              106,
+              112
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OgbokAA2Nw",
+            "expanded_url": "https://twitter.com/i/web/status/1085817032891715584",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "hi",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1068526111833784330,
+        "id_str": "1068526111833784330",
+        "name": "SHIV",
+        "screen_name": "SHIV01645585",
+        "location": "\u092e\u0941\u091c\u093c\u092b\u093c\u094d\u092b\u093c\u0930\u0928\u0917\u0930, \u092d\u093e\u0930\u0924",
+        "description": "shiv kumar dhiman",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 906,
+        "friends_count": 1382,
+        "listed_count": 0,
+        "created_at": "Fri Nov 30 15:24:12 +0000 2018",
+        "favourites_count": 23163,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24319,
+        "lang": "hi",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1070213988309323776/ZwYsWaQl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1070213988309323776/ZwYsWaQl_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "hi"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "hi"
+  },
+  {
+    "created_at": "Wed Feb 20 03:09:04 +0000 2019",
+    "id": 1098056915156901888,
+    "id_str": "1098056915156901888",
+    "text": "RT @SHIV01645585: #kumbhmela #kumbh2019\n#god #prayagraj #prayer\n#riverganga #thursday\n#thursdaymorning  #tirtagangga #hindu #kumbh #kumbhme\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kumbhmela",
+          "indices": [
+            18,
+            28
+          ]
+        },
+        {
+          "text": "kumbh2019",
+          "indices": [
+            29,
+            39
+          ]
+        },
+        {
+          "text": "god",
+          "indices": [
+            40,
+            44
+          ]
+        },
+        {
+          "text": "prayagraj",
+          "indices": [
+            45,
+            55
+          ]
+        },
+        {
+          "text": "prayer",
+          "indices": [
+            56,
+            63
+          ]
+        },
+        {
+          "text": "riverganga",
+          "indices": [
+            64,
+            75
+          ]
+        },
+        {
+          "text": "thursday",
+          "indices": [
+            76,
+            85
+          ]
+        },
+        {
+          "text": "thursdaymorning",
+          "indices": [
+            86,
+            102
+          ]
+        },
+        {
+          "text": "tirtagangga",
+          "indices": [
+            104,
+            116
+          ]
+        },
+        {
+          "text": "hindu",
+          "indices": [
+            117,
+            123
+          ]
+        },
+        {
+          "text": "kumbh",
+          "indices": [
+            124,
+            130
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SHIV01645585",
+          "name": "SHIV",
+          "id": 1068526111833784330,
+          "id_str": "1068526111833784330",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "hi",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1080723983044087808,
+      "id_str": "1080723983044087808",
+      "name": "Visakha Daas",
+      "screen_name": "DaasVisakha",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 41,
+      "friends_count": 107,
+      "listed_count": 0,
+      "created_at": "Thu Jan 03 07:14:11 +0000 2019",
+      "favourites_count": 2501,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3876,
+      "lang": "hi",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1080724299349135360/PLh16E8a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080724299349135360/PLh16E8a_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 17 02:34:16 +0000 2019",
+      "id": 1085726973043720192,
+      "id_str": "1085726973043720192",
+      "text": "#kumbhmela #kumbh2019\n#god #prayagraj #prayer\n#riverganga #thursday\n#thursdaymorning  #tirtagangga #hindu #kumbh\u2026 https://t.co/6dgWc0sXGo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "kumbhmela",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "text": "kumbh2019",
+            "indices": [
+              11,
+              21
+            ]
+          },
+          {
+            "text": "god",
+            "indices": [
+              22,
+              26
+            ]
+          },
+          {
+            "text": "prayagraj",
+            "indices": [
+              27,
+              37
+            ]
+          },
+          {
+            "text": "prayer",
+            "indices": [
+              38,
+              45
+            ]
+          },
+          {
+            "text": "riverganga",
+            "indices": [
+              46,
+              57
+            ]
+          },
+          {
+            "text": "thursday",
+            "indices": [
+              58,
+              67
+            ]
+          },
+          {
+            "text": "thursdaymorning",
+            "indices": [
+              68,
+              84
+            ]
+          },
+          {
+            "text": "tirtagangga",
+            "indices": [
+              86,
+              98
+            ]
+          },
+          {
+            "text": "hindu",
+            "indices": [
+              99,
+              105
+            ]
+          },
+          {
+            "text": "kumbh",
+            "indices": [
+              106,
+              112
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6dgWc0sXGo",
+            "expanded_url": "https://twitter.com/i/web/status/1085726973043720192",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "hi",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1068526111833784330,
+        "id_str": "1068526111833784330",
+        "name": "SHIV",
+        "screen_name": "SHIV01645585",
+        "location": "\u092e\u0941\u091c\u093c\u092b\u093c\u094d\u092b\u093c\u0930\u0928\u0917\u0930, \u092d\u093e\u0930\u0924",
+        "description": "shiv kumar dhiman",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 906,
+        "friends_count": 1382,
+        "listed_count": 0,
+        "created_at": "Fri Nov 30 15:24:12 +0000 2018",
+        "favourites_count": 23163,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24319,
+        "lang": "hi",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1070213988309323776/ZwYsWaQl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1070213988309323776/ZwYsWaQl_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "79fe07a9a3658742",
+        "url": "https://api.twitter.com/1.1/geo/id/79fe07a9a3658742.json",
+        "place_type": "city",
+        "name": "Madurai South",
+        "full_name": "Madurai South, India",
+        "country_code": "IN",
+        "country": "India",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.983077,
+                9.754891
+              ],
+              [
+                78.200703,
+                9.754891
+              ],
+              [
+                78.200703,
+                9.982947
+              ],
+              [
+                77.983077,
+                9.982947
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "hi"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "hi"
+  },
+  {
+    "created_at": "Wed Feb 20 02:02:58 +0000 2019",
+    "id": 1098040283172790272,
+    "id_str": "1098040283172790272",
+    "text": "\u30c6\u30a3\u30eb\u30bf\u30ac\u30f3\u30ac\n\u30ab\u30e9\u30f3\u30ac\u30bb\u30e0\u306e\u738b\u69d8\u304c\u4f5c\u3063\u305f\u300c\u30ac\u30f3\u30b8\u30b9\u6cb3\u306e\u8056\u6c34\u300d\u3068\u3044\u3046\u540d\u524d\u306e\u6c34\u306e\u96e2\u5bae\u3067\u3059\u3002\n\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u3000\u30d0\u30ea\u5cf6\nTirtagangga/Tirta Gangga, Karangasem #Bali #Indonesia\nhttps://t.co/BqVwuuaxOp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Bali",
+          "indices": [
+            93,
+            98
+          ]
+        },
+        {
+          "text": "Indonesia",
+          "indices": [
+            99,
+            109
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 374790598588235776,
+          "id_str": "374790598588235776",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/BTOGEE4CAAAPMQ9.png",
+          "media_url_https": "https://pbs.twimg.com/media/BTOGEE4CAAAPMQ9.png",
+          "url": "https://t.co/BqVwuuaxOp",
+          "display_url": "pic.twitter.com/BqVwuuaxOp",
+          "expanded_url": "https://twitter.com/xiaolanjpn/status/374790598579847168/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 448,
+              "h": 303,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 448,
+              "h": 303,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 448,
+              "h": 303,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 374790598579847168,
+          "source_status_id_str": "374790598579847168",
+          "source_user_id": 1594052690,
+          "source_user_id_str": "1594052690"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 374790598588235776,
+          "id_str": "374790598588235776",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/BTOGEE4CAAAPMQ9.png",
+          "media_url_https": "https://pbs.twimg.com/media/BTOGEE4CAAAPMQ9.png",
+          "url": "https://t.co/BqVwuuaxOp",
+          "display_url": "pic.twitter.com/BqVwuuaxOp",
+          "expanded_url": "https://twitter.com/xiaolanjpn/status/374790598579847168/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 448,
+              "h": 303,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 448,
+              "h": 303,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 448,
+              "h": 303,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 374790598579847168,
+          "source_status_id_str": "374790598579847168",
+          "source_user_id": 1594052690,
+          "source_user_id_str": "1594052690"
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1594052690,
+      "id_str": "1594052690",
+      "name": "\u30a2\u30b8\u30a2\u306e\u8857\u89d2 BOT",
+      "screen_name": "xiaolanjpn",
+      "location": "\u30a2\u30b8\u30a2\uff0fAsia\uff0f\u4e9c\u7d30\u4e9c",
+      "description": "\u30a2\u30b8\u30a2\u306e\u8857\u89d2\u306e\u5199\u771f\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002\u4e3b\u306b\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u3068\u9999\u6e2f\u3067\u3059\u3002\u304d\u308c\u3044\u306a\u5199\u771f\u3060\u3051\u3067\u306a\u304f\u3001\u306b\u3084\u308a\u3068\u7b11\u3063\u3066\u3057\u307e\u3046\u3088\u3046\u306a\u5199\u771f\u3082\u3002\u304a\u8fd4\u4e8b\u306f\u3057\u307e\u3059\u304c\u3001\u9045\u3044\u3067\u3059\u3002DM\u306f\u57fa\u672c\u898b\u307e\u305b\u3093\u3002This bot tweets with a picture of Asia once an hour.",
+      "url": "http://t.co/R2pouGmSZw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/R2pouGmSZw",
+              "expanded_url": "http://xiaolanjpn.hatenablog.com/",
+              "display_url": "xiaolanjpn.hatenablog.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1348,
+      "friends_count": 1879,
+      "listed_count": 42,
+      "created_at": "Sun Jul 14 19:01:54 +0000 2013",
+      "favourites_count": 82,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 60655,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000426176856/1a1b573011d6dacacca306075ca76910_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000426176856/1a1b573011d6dacacca306075ca76910_normal.jpeg",
+      "profile_link_color": "990000",
+      "profile_sidebar_border_color": "DFDFDF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Feb 20 00:14:19 +0000 2019",
+    "id": 1098012938315751424,
+    "id_str": "1098012938315751424",
+    "text": "1st Day Trip ,East Bali Tour,visit :\n-Lempuyang temple /gate to the heaven\n-Tirtagangga water palace\n-Taman Ujung\u2026 https://t.co/rPqpEgxNE6",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/rPqpEgxNE6",
+          "expanded_url": "https://twitter.com/i/web/status/1098012938315751424",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 40772425,
+      "id_str": "40772425",
+      "name": "Gede Bali Driver",
+      "screen_name": "balidrivergede",
+      "location": "Bali",
+      "description": "OM SWASTIASTU is Balinese Greeting\nOm Swastiastu means: \"Oh God, I hope all goodness (safety, happiness and prosperity) comes from all directions.\"",
+      "url": "https://t.co/jKp78h3DDb",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/jKp78h3DDb",
+              "expanded_url": "http://www.nutbalidriver.com",
+              "display_url": "nutbalidriver.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 948,
+      "friends_count": 4959,
+      "listed_count": 0,
+      "created_at": "Mon May 18 00:37:20 +0000 2009",
+      "favourites_count": 245,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 6547,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1079001162488078337/aVMdYu-f_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079001162488078337/aVMdYu-f_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/40772425/1546387010",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

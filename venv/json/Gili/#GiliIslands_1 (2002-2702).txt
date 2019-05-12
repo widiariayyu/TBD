@@ -1,0 +1,3403 @@
+[
+  {
+    "created_at": "Tue Feb 26 16:59:56 +0000 2019",
+    "id": 1100440338987188225,
+    "id_str": "1100440338987188225",
+    "text": "RT @RebuildGili: We are a bunch of Gili Islanders committed to helping rebuild our island home after the recent earthquake. We believe gett\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "RebuildGili",
+          "name": "RebuildGili",
+          "id": 1029955458767892481,
+          "id_str": "1029955458767892481",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1092896391805001728,
+      "id_str": "1092896391805001728",
+      "name": "Annabelle",
+      "screen_name": "prosleusussdrud",
+      "location": "",
+      "description": "\ud83d\udc36",
+      "url": "https://t.co/I0kHM0CCut",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/I0kHM0CCut",
+              "expanded_url": "https://bit.ly/2tcLPgd",
+              "display_url": "bit.ly/2tcLPgd",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6,
+      "friends_count": 16,
+      "listed_count": 0,
+      "created_at": "Tue Feb 05 21:22:59 +0000 2019",
+      "favourites_count": 30,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 69,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1098572945713172483/BBSw1Gmx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098572945713172483/BBSw1Gmx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1092896391805001728/1550755184",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Aug 21 03:10:56 +0000 2018",
+      "id": 1031740406269063168,
+      "id_str": "1031740406269063168",
+      "text": "We are a bunch of Gili Islanders committed to helping rebuild our island home after the recent earthquake. We belie\u2026 https://t.co/TUP08VgxYw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TUP08VgxYw",
+            "expanded_url": "https://twitter.com/i/web/status/1031740406269063168",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1029955458767892481,
+        "id_str": "1029955458767892481",
+        "name": "RebuildGili",
+        "screen_name": "RebuildGili",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 150,
+        "friends_count": 240,
+        "listed_count": 1,
+        "created_at": "Thu Aug 16 04:58:11 +0000 2018",
+        "favourites_count": 9,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 83,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1029955691937550337/qGh5GQxN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029955691937550337/qGh5GQxN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029955458767892481/1536470822",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Feb 26 12:32:03 +0000 2019",
+    "id": 1100372924559585280,
+    "id_str": "1100372924559585280",
+    "text": "The picturesque Gili Trawangan island.\n\n#gilitrawangan #thegiliway #giliislands #thegiliguide \n#thebalibound\u2026 https://t.co/lZYR6OLZvx",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "gilitrawangan",
+          "indices": [
+            40,
+            54
+          ]
+        },
+        {
+          "text": "thegiliway",
+          "indices": [
+            55,
+            66
+          ]
+        },
+        {
+          "text": "giliislands",
+          "indices": [
+            67,
+            79
+          ]
+        },
+        {
+          "text": "thegiliguide",
+          "indices": [
+            80,
+            93
+          ]
+        },
+        {
+          "text": "thebalibound",
+          "indices": [
+            95,
+            108
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/lZYR6OLZvx",
+          "expanded_url": "https://twitter.com/i/web/status/1100372924559585280",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "tl",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 818013684551151616,
+      "id_str": "818013684551151616",
+      "name": "wanderfultrails",
+      "screen_name": "wanderfultrails",
+      "location": "",
+      "description": "",
+      "url": "https://t.co/vonvFmDSIp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vonvFmDSIp",
+              "expanded_url": "http://wanderfultrails.com",
+              "display_url": "wanderfultrails.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 134,
+      "friends_count": 314,
+      "listed_count": 1,
+      "created_at": "Sun Jan 08 08:37:15 +0000 2017",
+      "favourites_count": 198,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 102,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/910743278349250562/NMjm7h2Y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/910743278349250562/NMjm7h2Y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818013684551151616/1499320203",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tl"
+  },
+  {
+    "created_at": "Tue Feb 26 04:11:48 +0000 2019",
+    "id": 1100247032902680577,
+    "id_str": "1100247032902680577",
+    "text": "Kabeh Segoro Ono Pesisire \ud83c\udf0a\n\u2022\n\u2022\n\u2022\n#sonjacksonjack #sea #beach #gilitrawangan #giliislands #lombok\u2026 https://t.co/myGxjEpvgY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "sonjacksonjack",
+          "indices": [
+            34,
+            49
+          ]
+        },
+        {
+          "text": "sea",
+          "indices": [
+            50,
+            54
+          ]
+        },
+        {
+          "text": "beach",
+          "indices": [
+            55,
+            61
+          ]
+        },
+        {
+          "text": "gilitrawangan",
+          "indices": [
+            62,
+            76
+          ]
+        },
+        {
+          "text": "giliislands",
+          "indices": [
+            77,
+            89
+          ]
+        },
+        {
+          "text": "lombok",
+          "indices": [
+            90,
+            97
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/myGxjEpvgY",
+          "expanded_url": "https://twitter.com/i/web/status/1100247032902680577",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 754979731,
+      "id_str": "754979731",
+      "name": "sonjacksonjack",
+      "screen_name": "jack_JWS",
+      "location": "Medan, indonesia",
+      "description": "Instagram @sonjacksonjack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 167,
+      "friends_count": 124,
+      "listed_count": 5,
+      "created_at": "Mon Aug 13 11:39:28 +0000 2012",
+      "favourites_count": 6,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1076,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1041949075891867648/lS0gckq7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041949075891867648/lS0gckq7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/754979731/1544756045",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -6.933795,
+        107.660322
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        107.660322,
+        -6.933795
+      ]
+    },
+    "place": {
+      "id": "b66704d06bc0d6d6",
+      "url": "https://api.twitter.com/1.1/geo/id/b66704d06bc0d6d6.json",
+      "place_type": "admin",
+      "name": "Kota Bandung",
+      "full_name": "Kota Bandung, Jawa Barat",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5459007,
+              -6.9697355
+            ],
+            [
+              107.7393408,
+              -6.9697355
+            ],
+            [
+              107.7393408,
+              -6.8368847
+            ],
+            [
+              107.5459007,
+              -6.8368847
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Feb 25 10:51:55 +0000 2019",
+    "id": 1099985337735090177,
+    "id_str": "1099985337735090177",
+    "text": "#gilitrawangan has Yaqeen's approval. Or at least I think it does? \ud83d\ude02\n\n#gili #giliislands #gilitrawanganlombok #bali https://t.co/8HLTtzSYnN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "gilitrawangan",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "gili",
+          "indices": [
+            70,
+            75
+          ]
+        },
+        {
+          "text": "giliislands",
+          "indices": [
+            76,
+            88
+          ]
+        },
+        {
+          "text": "gilitrawanganlombok",
+          "indices": [
+            89,
+            109
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            110,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/8HLTtzSYnN",
+          "expanded_url": "https://www.instagram.com/p/BuTVR1FgOGR/?utm_source=ig_twitter_share&igshid=4p8efkruc2ef",
+          "display_url": "instagram.com/p/BuTVR1FgOGR/\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 282563262,
+      "id_str": "282563262",
+      "name": "Wacky Wakes",
+      "screen_name": "Maru_Mo83",
+      "location": "Cape Town, SA",
+      "description": "Travel Vlogger -\nPhotographer -\nFilmmaker",
+      "url": "https://t.co/SyQeE8opH1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/SyQeE8opH1",
+              "expanded_url": "https://www.youtube.com/channel/UCsk4Ai1Fc2LpyO_1LWRTPLw",
+              "display_url": "youtube.com/channel/UCsk4A\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 104,
+      "friends_count": 46,
+      "listed_count": 2,
+      "created_at": "Fri Apr 15 13:05:10 +0000 2011",
+      "favourites_count": 1085,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4914,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1071559605405274118/y0mURabs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1071559605405274118/y0mURabs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/282563262/1544314776",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Feb 24 14:44:36 +0000 2019",
+    "id": 1099681506384064513,
+    "id_str": "1099681506384064513",
+    "text": "RT @NothingFamiliar: Have you been to the Gili Islands? #Indonesia #GiliIslands #Paradise #Diving #Beach #Travel\nhttps://t.co/TQMDqyDJPA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Indonesia",
+          "indices": [
+            56,
+            66
+          ]
+        },
+        {
+          "text": "GiliIslands",
+          "indices": [
+            67,
+            79
+          ]
+        },
+        {
+          "text": "Paradise",
+          "indices": [
+            80,
+            89
+          ]
+        },
+        {
+          "text": "Diving",
+          "indices": [
+            90,
+            97
+          ]
+        },
+        {
+          "text": "Beach",
+          "indices": [
+            98,
+            104
+          ]
+        },
+        {
+          "text": "Travel",
+          "indices": [
+            105,
+            112
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "NothingFamiliar",
+          "name": "Nothing Familiar",
+          "id": 3173756393,
+          "id_str": "3173756393",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TQMDqyDJPA",
+          "expanded_url": "http://www.nothingfamiliar.com/gili-meno/",
+          "display_url": "nothingfamiliar.com/gili-meno/",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://moqilmoqil.info\" rel=\"nofollow\">moqil moqil</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1633426388,
+      "id_str": "1633426388",
+      "name": "Chr\u20acri",
+      "screen_name": "mOQIl",
+      "location": "",
+      "description": "Just a girl who loves travel \u2764\ufe0f  ice cream fanatic forever \u2764\ufe0f \u2764\ufe0f \u2764\ufe0f",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1350,
+      "friends_count": 464,
+      "listed_count": 564,
+      "created_at": "Tue Jul 30 17:29:12 +0000 2013",
+      "favourites_count": 63,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 77666,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FF6699",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/774526261221732352/iKMxoEYB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/774526261221732352/iKMxoEYB_normal.jpg",
+      "profile_link_color": "B40B43",
+      "profile_sidebar_border_color": "CC3366",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 24 14:44:18 +0000 2019",
+      "id": 1099681427812052993,
+      "id_str": "1099681427812052993",
+      "text": "Have you been to the Gili Islands? #Indonesia #GiliIslands #Paradise #Diving #Beach #Travel\nhttps://t.co/TQMDqyDJPA",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Indonesia",
+            "indices": [
+              35,
+              45
+            ]
+          },
+          {
+            "text": "GiliIslands",
+            "indices": [
+              46,
+              58
+            ]
+          },
+          {
+            "text": "Paradise",
+            "indices": [
+              59,
+              68
+            ]
+          },
+          {
+            "text": "Diving",
+            "indices": [
+              69,
+              76
+            ]
+          },
+          {
+            "text": "Beach",
+            "indices": [
+              77,
+              83
+            ]
+          },
+          {
+            "text": "Travel",
+            "indices": [
+              84,
+              91
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TQMDqyDJPA",
+            "expanded_url": "http://www.nothingfamiliar.com/gili-meno/",
+            "display_url": "nothingfamiliar.com/gili-meno/",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3173756393,
+        "id_str": "3173756393",
+        "name": "Nothing Familiar",
+        "screen_name": "NothingFamiliar",
+        "location": "Bali, Indonesia",
+        "description": "We Travel \u2708\ufe0f Around the World \ud83c\udf0e Searching For \ud83d\udd2d Unfamiliar Destinations \ud83c\udf0b Hidden Beaches \ud83c\udfdd & Unusual Foods \ud83c\udf5c Now \ud83c\uddf0\ud83c\udded Next \ud83c\uddfb\ud83c\uddf3 #NothingFamiliar",
+        "url": "https://t.co/GKBXS9XrmK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/GKBXS9XrmK",
+                "expanded_url": "http://www.nothingfamiliar.com",
+                "display_url": "nothingfamiliar.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4865,
+        "friends_count": 4979,
+        "listed_count": 103,
+        "created_at": "Thu Apr 16 18:54:14 +0000 2015",
+        "favourites_count": 7408,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1384,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1099148665615052800/rOYYLNKs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099148665615052800/rOYYLNKs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3173756393/1541751930",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Feb 24 14:44:18 +0000 2019",
+    "id": 1099681427812052993,
+    "id_str": "1099681427812052993",
+    "text": "Have you been to the Gili Islands? #Indonesia #GiliIslands #Paradise #Diving #Beach #Travel\nhttps://t.co/TQMDqyDJPA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Indonesia",
+          "indices": [
+            35,
+            45
+          ]
+        },
+        {
+          "text": "GiliIslands",
+          "indices": [
+            46,
+            58
+          ]
+        },
+        {
+          "text": "Paradise",
+          "indices": [
+            59,
+            68
+          ]
+        },
+        {
+          "text": "Diving",
+          "indices": [
+            69,
+            76
+          ]
+        },
+        {
+          "text": "Beach",
+          "indices": [
+            77,
+            83
+          ]
+        },
+        {
+          "text": "Travel",
+          "indices": [
+            84,
+            91
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/TQMDqyDJPA",
+          "expanded_url": "http://www.nothingfamiliar.com/gili-meno/",
+          "display_url": "nothingfamiliar.com/gili-meno/",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3173756393,
+      "id_str": "3173756393",
+      "name": "Nothing Familiar",
+      "screen_name": "NothingFamiliar",
+      "location": "Bali, Indonesia",
+      "description": "We Travel \u2708\ufe0f Around the World \ud83c\udf0e Searching For \ud83d\udd2d Unfamiliar Destinations \ud83c\udf0b Hidden Beaches \ud83c\udfdd & Unusual Foods \ud83c\udf5c Now \ud83c\uddf0\ud83c\udded Next \ud83c\uddfb\ud83c\uddf3 #NothingFamiliar",
+      "url": "https://t.co/GKBXS9XrmK",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/GKBXS9XrmK",
+              "expanded_url": "http://www.nothingfamiliar.com",
+              "display_url": "nothingfamiliar.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4865,
+      "friends_count": 4979,
+      "listed_count": 103,
+      "created_at": "Thu Apr 16 18:54:14 +0000 2015",
+      "favourites_count": 7408,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1384,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1099148665615052800/rOYYLNKs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099148665615052800/rOYYLNKs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3173756393/1541751930",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 22 12:58:00 +0000 2019",
+    "id": 1098929903301476352,
+    "id_str": "1098929903301476352",
+    "text": "BALI BABY! \n\nVisiting #Bali was an absolute DREAM - that beautiful place you've seen in the holiday brochures is ju\u2026 https://t.co/QE2zHSRZ6t",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Bali",
+          "indices": [
+            22,
+            27
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/QE2zHSRZ6t",
+          "expanded_url": "https://twitter.com/i/web/status/1098929903301476352",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 246405198,
+      "id_str": "246405198",
+      "name": "Abbi \u2727 Spin the Windrose",
+      "screen_name": "spinthewindrose",
+      "location": "Cambridgeshire, UK",
+      "description": "Travel blogger with a 9-5 \u2728 lover of vegan food, sustainability & the outdoors \ud83c\udf0e",
+      "url": "https://t.co/6saN4CNyVC",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/6saN4CNyVC",
+              "expanded_url": "http://spinthewindrose.com",
+              "display_url": "spinthewindrose.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1601,
+      "friends_count": 879,
+      "listed_count": 85,
+      "created_at": "Wed Feb 02 18:44:31 +0000 2011",
+      "favourites_count": 4087,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3566,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "DEB2B2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/914021238384754689/hJms0en8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/914021238384754689/hJms0en8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/246405198/1492007783",
+      "profile_link_color": "688B8A",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFF0F7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 22 06:39:03 +0000 2019",
+    "id": 1098834537352581121,
+    "id_str": "1098834537352581121",
+    "text": "Kangen gili \n#giliislands #lombokbeach https://t.co/HyMV3TcMMg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "giliislands",
+          "indices": [
+            13,
+            25
+          ]
+        },
+        {
+          "text": "lombokbeach",
+          "indices": [
+            26,
+            38
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1098834527722496000,
+          "id_str": "1098834527722496000",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dz_YLlvVYAACKW1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dz_YLlvVYAACKW1.jpg",
+          "url": "https://t.co/HyMV3TcMMg",
+          "display_url": "pic.twitter.com/HyMV3TcMMg",
+          "expanded_url": "https://twitter.com/esuhaila2/status/1098834537352581121/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 530,
+              "h": 530,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 530,
+              "h": 530,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 530,
+              "h": 530,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1098834527722496000,
+          "id_str": "1098834527722496000",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dz_YLlvVYAACKW1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dz_YLlvVYAACKW1.jpg",
+          "url": "https://t.co/HyMV3TcMMg",
+          "display_url": "pic.twitter.com/HyMV3TcMMg",
+          "expanded_url": "https://twitter.com/esuhaila2/status/1098834537352581121/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 530,
+              "h": 530,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 530,
+              "h": 530,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 530,
+              "h": 530,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 977205353896067072,
+      "id_str": "977205353896067072",
+      "name": "esuhaila",
+      "screen_name": "esuhaila2",
+      "location": "Alor Star, Kedah",
+      "description": "Jadilah orang yang baik walaupun tidak dilayan dengan baik.\nJgn marah, doa+ckp+niat yg baik2x\ud83e\uddd5\ud83c\udffe",
+      "url": "https://t.co/djHOOWcBYV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/djHOOWcBYV",
+              "expanded_url": "https://www.instagram.com/minicopper_oren/",
+              "display_url": "instagram.com/minicopper_ore\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 43,
+      "friends_count": 142,
+      "listed_count": 0,
+      "created_at": "Fri Mar 23 15:28:06 +0000 2018",
+      "favourites_count": 1902,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3374,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1100920308901437440/dzT5JIBV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100920308901437440/dzT5JIBV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/977205353896067072/1549642200",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "0002c868e49e17bb",
+      "url": "https://api.twitter.com/1.1/geo/id/0002c868e49e17bb.json",
+      "place_type": "city",
+      "name": "Alor Star",
+      "full_name": "Alor Star, Kedah",
+      "country_code": "MY",
+      "country": "Malaysia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.326296,
+              6.0651368
+            ],
+            [
+              100.4211308,
+              6.0651368
+            ],
+            [
+              100.4211308,
+              6.160431
+            ],
+            [
+              100.326296,
+              6.160431
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+  },
+  {
+    "created_at": "Fri Feb 22 02:07:31 +0000 2019",
+    "id": 1098766204594839553,
+    "id_str": "1098766204594839553",
+    "text": "\ud83c\udf38 Gililife Events \ud83c\udf38 \n\n\ud83c\udf34 Nyepi 2019 in Indonesia will begin at 6:00 AM on Thursday, March 7 and ends at 6:00 AM on\nF\u2026 https://t.co/K1lPhJhVbg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/K1lPhJhVbg",
+          "expanded_url": "https://twitter.com/i/web/status/1098766204594839553",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1709253967,
+      "id_str": "1709253967",
+      "name": "gililife_magazine",
+      "screen_name": "gililife",
+      "location": "Gili Air - Lombok - Indonesia",
+      "description": "",
+      "url": "http://t.co/0u45YpUiXd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/0u45YpUiXd",
+              "expanded_url": "http://gililife.com",
+              "display_url": "gililife.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 67,
+      "friends_count": 14,
+      "listed_count": 0,
+      "created_at": "Thu Aug 29 05:41:27 +0000 2013",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1475,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000421941672/715efcfe548b2587d11cc0d0c6cdf6b4_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000421941672/715efcfe548b2587d11cc0d0c6cdf6b4_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 21 10:51:31 +0000 2019",
+    "id": 1098535683126378498,
+    "id_str": "1098535683126378498",
+    "text": "RT @ChillyRPF: #scent #perfection \nThrowing flowers at my feet! \n#gili #giliislands #giliair \n#adventure #travel #outside \n#palmeria #frang\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "scent",
+          "indices": [
+            15,
+            21
+          ]
+        },
+        {
+          "text": "perfection",
+          "indices": [
+            22,
+            33
+          ]
+        },
+        {
+          "text": "gili",
+          "indices": [
+            65,
+            70
+          ]
+        },
+        {
+          "text": "giliislands",
+          "indices": [
+            71,
+            83
+          ]
+        },
+        {
+          "text": "giliair",
+          "indices": [
+            84,
+            92
+          ]
+        },
+        {
+          "text": "adventure",
+          "indices": [
+            94,
+            104
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            105,
+            112
+          ]
+        },
+        {
+          "text": "outside",
+          "indices": [
+            113,
+            121
+          ]
+        },
+        {
+          "text": "palmeria",
+          "indices": [
+            123,
+            132
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ChillyRPF",
+          "name": "Michelle",
+          "id": 892476876,
+          "id_str": "892476876",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.2396.com\" rel=\"nofollow\">essielaura</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3313096950,
+      "id_str": "3313096950",
+      "name": "Robin Hubbard",
+      "screen_name": "RobinHubbardz",
+      "location": "lowa",
+      "description": "Food Brokers & Consultants - Food Blogger",
+      "url": "https://t.co/eySZt3pXNq",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/eySZt3pXNq",
+              "expanded_url": "https://robinhubbardblog.blogspot.com/",
+              "display_url": "robinhubbardblog.blogspot.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 365,
+      "friends_count": 1,
+      "listed_count": 7,
+      "created_at": "Wed Aug 12 07:42:51 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 24022,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/963635629161631744/VUZuPtAv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/963635629161631744/VUZuPtAv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3313096950/1505403346",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 21 10:05:08 +0000 2019",
+      "id": 1098524009166036992,
+      "id_str": "1098524009166036992",
+      "text": "#scent #perfection \nThrowing flowers at my feet! \n#gili #giliislands #giliair \n#adventure #travel #outside\u2026 https://t.co/srFy8KERo0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "scent",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "text": "perfection",
+            "indices": [
+              7,
+              18
+            ]
+          },
+          {
+            "text": "gili",
+            "indices": [
+              50,
+              55
+            ]
+          },
+          {
+            "text": "giliislands",
+            "indices": [
+              56,
+              68
+            ]
+          },
+          {
+            "text": "giliair",
+            "indices": [
+              69,
+              77
+            ]
+          },
+          {
+            "text": "adventure",
+            "indices": [
+              79,
+              89
+            ]
+          },
+          {
+            "text": "travel",
+            "indices": [
+              90,
+              97
+            ]
+          },
+          {
+            "text": "outside",
+            "indices": [
+              98,
+              106
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/srFy8KERo0",
+            "expanded_url": "https://twitter.com/i/web/status/1098524009166036992",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 892476876,
+        "id_str": "892476876",
+        "name": "Michelle",
+        "screen_name": "ChillyRPF",
+        "location": "",
+        "description": "Fisherwoman and Flowerfarmer",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 13,
+        "friends_count": 13,
+        "listed_count": 0,
+        "created_at": "Sat Oct 20 04:47:18 +0000 2012",
+        "favourites_count": 39,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 132,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 21 10:48:44 +0000 2019",
+    "id": 1098534983537438720,
+    "id_str": "1098534983537438720",
+    "text": "RT @ChillyRPF: #scent #perfection \nThrowing flowers at my feet! \n#gili #giliislands #giliair \n#adventure #travel #outside \n#palmeria #frang\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "scent",
+          "indices": [
+            15,
+            21
+          ]
+        },
+        {
+          "text": "perfection",
+          "indices": [
+            22,
+            33
+          ]
+        },
+        {
+          "text": "gili",
+          "indices": [
+            65,
+            70
+          ]
+        },
+        {
+          "text": "giliislands",
+          "indices": [
+            71,
+            83
+          ]
+        },
+        {
+          "text": "giliair",
+          "indices": [
+            84,
+            92
+          ]
+        },
+        {
+          "text": "adventure",
+          "indices": [
+            94,
+            104
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            105,
+            112
+          ]
+        },
+        {
+          "text": "outside",
+          "indices": [
+            113,
+            121
+          ]
+        },
+        {
+          "text": "palmeria",
+          "indices": [
+            123,
+            132
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ChillyRPF",
+          "name": "Michelle",
+          "id": 892476876,
+          "id_str": "892476876",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.2428.com\" rel=\"nofollow\">johnjennifer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3312350370,
+      "id_str": "3312350370",
+      "name": "Kathleen Crockett",
+      "screen_name": "kathleencrockes",
+      "location": "California, USA",
+      "description": "Writing is a medium of human communication that represents language and emotion",
+      "url": "https://t.co/sOLueLy9N5",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/sOLueLy9N5",
+              "expanded_url": "https://kathleencrockettblog.blogspot.com/",
+              "display_url": "kathleencrockettblog.blogspot.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 333,
+      "friends_count": 1,
+      "listed_count": 10,
+      "created_at": "Tue Aug 11 12:36:32 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 23270,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/972022048330362881/KBfEOWmg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/972022048330362881/KBfEOWmg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3312350370/1505410196",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 21 10:05:08 +0000 2019",
+      "id": 1098524009166036992,
+      "id_str": "1098524009166036992",
+      "text": "#scent #perfection \nThrowing flowers at my feet! \n#gili #giliislands #giliair \n#adventure #travel #outside\u2026 https://t.co/srFy8KERo0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "scent",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "text": "perfection",
+            "indices": [
+              7,
+              18
+            ]
+          },
+          {
+            "text": "gili",
+            "indices": [
+              50,
+              55
+            ]
+          },
+          {
+            "text": "giliislands",
+            "indices": [
+              56,
+              68
+            ]
+          },
+          {
+            "text": "giliair",
+            "indices": [
+              69,
+              77
+            ]
+          },
+          {
+            "text": "adventure",
+            "indices": [
+              79,
+              89
+            ]
+          },
+          {
+            "text": "travel",
+            "indices": [
+              90,
+              97
+            ]
+          },
+          {
+            "text": "outside",
+            "indices": [
+              98,
+              106
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/srFy8KERo0",
+            "expanded_url": "https://twitter.com/i/web/status/1098524009166036992",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 892476876,
+        "id_str": "892476876",
+        "name": "Michelle",
+        "screen_name": "ChillyRPF",
+        "location": "",
+        "description": "Fisherwoman and Flowerfarmer",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 13,
+        "friends_count": 13,
+        "listed_count": 0,
+        "created_at": "Sat Oct 20 04:47:18 +0000 2012",
+        "favourites_count": 39,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 132,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 21 10:47:52 +0000 2019",
+    "id": 1098534765463044096,
+    "id_str": "1098534765463044096",
+    "text": "RT @ChillyRPF: #scent #perfection \nThrowing flowers at my feet! \n#gili #giliislands #giliair \n#adventure #travel #outside \n#palmeria #frang\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "scent",
+          "indices": [
+            15,
+            21
+          ]
+        },
+        {
+          "text": "perfection",
+          "indices": [
+            22,
+            33
+          ]
+        },
+        {
+          "text": "gili",
+          "indices": [
+            65,
+            70
+          ]
+        },
+        {
+          "text": "giliislands",
+          "indices": [
+            71,
+            83
+          ]
+        },
+        {
+          "text": "giliair",
+          "indices": [
+            84,
+            92
+          ]
+        },
+        {
+          "text": "adventure",
+          "indices": [
+            94,
+            104
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            105,
+            112
+          ]
+        },
+        {
+          "text": "outside",
+          "indices": [
+            113,
+            121
+          ]
+        },
+        {
+          "text": "palmeria",
+          "indices": [
+            123,
+            132
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ChillyRPF",
+          "name": "Michelle",
+          "id": 892476876,
+          "id_str": "892476876",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.2401.com\" rel=\"nofollow\">roxannedebra</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3312281484,
+      "id_str": "3312281484",
+      "name": "Lorene Murphy",
+      "screen_name": "ArmstrongFrancz",
+      "location": "Arizona, USA",
+      "description": "Geek,   Writer, Social Entrepreneur, Marketing Professional, Disgruntled Typist.   Smarter than a 5th grader.",
+      "url": "https://t.co/uwvK7Lt0NE",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/uwvK7Lt0NE",
+              "expanded_url": "https://lorenemurphyblog.blogspot.com/",
+              "display_url": "lorenemurphyblog.blogspot.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 314,
+      "friends_count": 2,
+      "listed_count": 7,
+      "created_at": "Tue Aug 11 10:59:12 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 23445,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/963413036261191680/BN5C5Nav_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/963413036261191680/BN5C5Nav_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3312281484/1505404855",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 21 10:05:08 +0000 2019",
+      "id": 1098524009166036992,
+      "id_str": "1098524009166036992",
+      "text": "#scent #perfection \nThrowing flowers at my feet! \n#gili #giliislands #giliair \n#adventure #travel #outside\u2026 https://t.co/srFy8KERo0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "scent",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "text": "perfection",
+            "indices": [
+              7,
+              18
+            ]
+          },
+          {
+            "text": "gili",
+            "indices": [
+              50,
+              55
+            ]
+          },
+          {
+            "text": "giliislands",
+            "indices": [
+              56,
+              68
+            ]
+          },
+          {
+            "text": "giliair",
+            "indices": [
+              69,
+              77
+            ]
+          },
+          {
+            "text": "adventure",
+            "indices": [
+              79,
+              89
+            ]
+          },
+          {
+            "text": "travel",
+            "indices": [
+              90,
+              97
+            ]
+          },
+          {
+            "text": "outside",
+            "indices": [
+              98,
+              106
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/srFy8KERo0",
+            "expanded_url": "https://twitter.com/i/web/status/1098524009166036992",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 892476876,
+        "id_str": "892476876",
+        "name": "Michelle",
+        "screen_name": "ChillyRPF",
+        "location": "",
+        "description": "Fisherwoman and Flowerfarmer",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 13,
+        "friends_count": 13,
+        "listed_count": 0,
+        "created_at": "Sat Oct 20 04:47:18 +0000 2012",
+        "favourites_count": 39,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 132,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 21 10:38:55 +0000 2019",
+    "id": 1098532511683174400,
+    "id_str": "1098532511683174400",
+    "text": "RT @ChillyRPF: #scent #perfection \nThrowing flowers at my feet! \n#gili #giliislands #giliair \n#adventure #travel #outside \n#palmeria #frang\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "scent",
+          "indices": [
+            15,
+            21
+          ]
+        },
+        {
+          "text": "perfection",
+          "indices": [
+            22,
+            33
+          ]
+        },
+        {
+          "text": "gili",
+          "indices": [
+            65,
+            70
+          ]
+        },
+        {
+          "text": "giliislands",
+          "indices": [
+            71,
+            83
+          ]
+        },
+        {
+          "text": "giliair",
+          "indices": [
+            84,
+            92
+          ]
+        },
+        {
+          "text": "adventure",
+          "indices": [
+            94,
+            104
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            105,
+            112
+          ]
+        },
+        {
+          "text": "outside",
+          "indices": [
+            113,
+            121
+          ]
+        },
+        {
+          "text": "palmeria",
+          "indices": [
+            123,
+            132
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ChillyRPF",
+          "name": "Michelle",
+          "id": 892476876,
+          "id_str": "892476876",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.2438.com\" rel=\"nofollow\">joycephyllis</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3312450992,
+      "id_str": "3312450992",
+      "name": "Linda Roepkes",
+      "screen_name": "lindaroepkes",
+      "location": "Florida, USA",
+      "description": "I am a accountant, prepare financial records",
+      "url": "https://t.co/jrs8CMQmyL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/jrs8CMQmyL",
+              "expanded_url": "https://lindaroepkesblog.blogspot.com/",
+              "display_url": "lindaroepkesblog.blogspot.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 265,
+      "friends_count": 1,
+      "listed_count": 4,
+      "created_at": "Tue Aug 11 13:29:55 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 23089,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/971599762632986624/3XUqRPnc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/971599762632986624/3XUqRPnc_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3312450992/1505413803",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 21 10:05:08 +0000 2019",
+      "id": 1098524009166036992,
+      "id_str": "1098524009166036992",
+      "text": "#scent #perfection \nThrowing flowers at my feet! \n#gili #giliislands #giliair \n#adventure #travel #outside\u2026 https://t.co/srFy8KERo0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "scent",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "text": "perfection",
+            "indices": [
+              7,
+              18
+            ]
+          },
+          {
+            "text": "gili",
+            "indices": [
+              50,
+              55
+            ]
+          },
+          {
+            "text": "giliislands",
+            "indices": [
+              56,
+              68
+            ]
+          },
+          {
+            "text": "giliair",
+            "indices": [
+              69,
+              77
+            ]
+          },
+          {
+            "text": "adventure",
+            "indices": [
+              79,
+              89
+            ]
+          },
+          {
+            "text": "travel",
+            "indices": [
+              90,
+              97
+            ]
+          },
+          {
+            "text": "outside",
+            "indices": [
+              98,
+              106
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/srFy8KERo0",
+            "expanded_url": "https://twitter.com/i/web/status/1098524009166036992",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 892476876,
+        "id_str": "892476876",
+        "name": "Michelle",
+        "screen_name": "ChillyRPF",
+        "location": "",
+        "description": "Fisherwoman and Flowerfarmer",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 13,
+        "friends_count": 13,
+        "listed_count": 0,
+        "created_at": "Sat Oct 20 04:47:18 +0000 2012",
+        "favourites_count": 39,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 132,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 21 10:05:08 +0000 2019",
+    "id": 1098524009166036992,
+    "id_str": "1098524009166036992",
+    "text": "#scent #perfection \nThrowing flowers at my feet! \n#gili #giliislands #giliair \n#adventure #travel #outside\u2026 https://t.co/srFy8KERo0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "scent",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "perfection",
+          "indices": [
+            7,
+            18
+          ]
+        },
+        {
+          "text": "gili",
+          "indices": [
+            50,
+            55
+          ]
+        },
+        {
+          "text": "giliislands",
+          "indices": [
+            56,
+            68
+          ]
+        },
+        {
+          "text": "giliair",
+          "indices": [
+            69,
+            77
+          ]
+        },
+        {
+          "text": "adventure",
+          "indices": [
+            79,
+            89
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            90,
+            97
+          ]
+        },
+        {
+          "text": "outside",
+          "indices": [
+            98,
+            106
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/srFy8KERo0",
+          "expanded_url": "https://twitter.com/i/web/status/1098524009166036992",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 892476876,
+      "id_str": "892476876",
+      "name": "Michelle",
+      "screen_name": "ChillyRPF",
+      "location": "",
+      "description": "Fisherwoman and Flowerfarmer",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 13,
+      "friends_count": 13,
+      "listed_count": 0,
+      "created_at": "Sat Oct 20 04:47:18 +0000 2012",
+      "favourites_count": 39,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 132,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 16:49:17 +0000 2019",
+    "id": 1098263331071086592,
+    "id_str": "1098263331071086592",
+    "text": "#beautiful #sunrise #lombok #giliislands #indonesia #southeastasia #paradise #chill #enjoylife #turtles #loveit \ud83c\udf0f\ud83d\udc20\u2026 https://t.co/vbFyiijVHi",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "beautiful",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "sunrise",
+          "indices": [
+            11,
+            19
+          ]
+        },
+        {
+          "text": "lombok",
+          "indices": [
+            20,
+            27
+          ]
+        },
+        {
+          "text": "giliislands",
+          "indices": [
+            28,
+            40
+          ]
+        },
+        {
+          "text": "indonesia",
+          "indices": [
+            41,
+            51
+          ]
+        },
+        {
+          "text": "southeastasia",
+          "indices": [
+            52,
+            66
+          ]
+        },
+        {
+          "text": "paradise",
+          "indices": [
+            67,
+            76
+          ]
+        },
+        {
+          "text": "chill",
+          "indices": [
+            77,
+            83
+          ]
+        },
+        {
+          "text": "enjoylife",
+          "indices": [
+            84,
+            94
+          ]
+        },
+        {
+          "text": "turtles",
+          "indices": [
+            95,
+            103
+          ]
+        },
+        {
+          "text": "loveit",
+          "indices": [
+            104,
+            111
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/vbFyiijVHi",
+          "expanded_url": "https://twitter.com/i/web/status/1098263331071086592",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "sv",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 23781117,
+      "id_str": "23781117",
+      "name": "Caro Sunshine",
+      "screen_name": "CaroSunshine",
+      "location": "S\u00e3o Paulo, Brasilien",
+      "description": "Teacher in fullest passion International School",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 135,
+      "friends_count": 108,
+      "listed_count": 31,
+      "created_at": "Wed Mar 11 15:51:22 +0000 2009",
+      "favourites_count": 12,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4902,
+      "lang": "de",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FF6699",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1097859398/Me_on_am_Sonnenuntergang_normal.JPG",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097859398/Me_on_am_Sonnenuntergang_normal.JPG",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23781117/1475610149",
+      "profile_link_color": "B40B43",
+      "profile_sidebar_border_color": "CC3366",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.71949819,
+        116.01027019
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        116.01027019,
+        -8.71949819
+      ]
+    },
+    "place": {
+      "id": "c8c66a1c002a5dff",
+      "url": "https://api.twitter.com/1.1/geo/id/c8c66a1c002a5dff.json",
+      "place_type": "city",
+      "name": "Sekotong Tengah",
+      "full_name": "Sekotong Tengah, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.820981,
+              -8.904253
+            ],
+            [
+              116.141564,
+              -8.904253
+            ],
+            [
+              116.141564,
+              -8.714723
+            ],
+            [
+              115.820981,
+              -8.714723
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "sv"
+  },
+  {
+    "created_at": "Wed Feb 20 09:57:48 +0000 2019",
+    "id": 1098159776863666176,
+    "id_str": "1098159776863666176",
+    "text": "The 3 famous #GiliIslands of North West #Lombok from 15,000 ft above.\n#GiliTrawangan , #GiliMeno and #GiliAir \n.\u2026 https://t.co/2JSuoDyyJo",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GiliIslands",
+          "indices": [
+            13,
+            25
+          ]
+        },
+        {
+          "text": "Lombok",
+          "indices": [
+            40,
+            47
+          ]
+        },
+        {
+          "text": "GiliTrawangan",
+          "indices": [
+            70,
+            84
+          ]
+        },
+        {
+          "text": "GiliMeno",
+          "indices": [
+            87,
+            96
+          ]
+        },
+        {
+          "text": "GiliAir",
+          "indices": [
+            101,
+            109
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2JSuoDyyJo",
+          "expanded_url": "https://twitter.com/i/web/status/1098159776863666176",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 145442087,
+      "id_str": "145442087",
+      "name": "Kevin Kelly",
+      "screen_name": "k3vinkm",
+      "location": "Bandung",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 157,
+      "friends_count": 602,
+      "listed_count": 12,
+      "created_at": "Wed May 19 00:27:38 +0000 2010",
+      "favourites_count": 45,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6200,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/695441701758832643/gICcEUyc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/695441701758832643/gICcEUyc_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/145442087/1464852580",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 07:05:07 +0000 2019",
+    "id": 1098116318883078145,
+    "id_str": "1098116318883078145",
+    "text": "Bali - Gili Air\n\nHab\u00edamos reservado para venir 2 d\u00edas. Este lugar vos enanito. Nos quedamos mucho m\u00e1s!!\u2026 https://t.co/qOzQVOBoJm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/qOzQVOBoJm",
+          "expanded_url": "https://twitter.com/i/web/status/1098116318883078145",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "es",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 151136205,
+      "id_str": "151136205",
+      "name": "Hernan Rodriguez B",
+      "screen_name": "BotaOmbu",
+      "location": "San Isidro, Argentina",
+      "description": "Yogui",
+      "url": "https://t.co/7BNWEpyUsT",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/7BNWEpyUsT",
+              "expanded_url": "http://www.ombuyoga.com",
+              "display_url": "ombuyoga.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 149,
+      "friends_count": 143,
+      "listed_count": 0,
+      "created_at": "Wed Jun 02 17:59:37 +0000 2010",
+      "favourites_count": 8,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 311,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1109557639/bota_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109557639/bota_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  }
+]

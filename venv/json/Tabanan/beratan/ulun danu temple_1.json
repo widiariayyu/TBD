@@ -1,0 +1,3323 @@
+[
+  {
+    "created_at": "Tue Mar 05 20:56:17 +0000 2019",
+    "id": 1103036533920149504,
+    "id_str": "1103036533920149504",
+    "text": "The Ulun Danu Temple, In The Middle Of A Volcanic Crater \n\nhttps://t.co/xoaDwTpuUl\n\n#travel #lookatourworld\u2026 https://t.co/jUIYldLUJR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "travel",
+          "indices": [
+            84,
+            91
+          ]
+        },
+        {
+          "text": "lookatourworld",
+          "indices": [
+            92,
+            107
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xoaDwTpuUl",
+          "expanded_url": "https://www.lookatourworld.com/ulun-danu-temple/",
+          "display_url": "lookatourworld.com/ulun-danu-temp\u2026",
+          "indices": [
+            59,
+            82
+          ]
+        },
+        {
+          "url": "https://t.co/jUIYldLUJR",
+          "expanded_url": "https://twitter.com/i/web/status/1103036533920149504",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.totaltraveltag.com\" rel=\"nofollow\">Total Travel TAG</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3367442625,
+      "id_str": "3367442625",
+      "name": "Look at our World",
+      "screen_name": "NomadicBrits",
+      "location": "Currently in the UK",
+      "description": "#travelblogger online magazine, written by travellers, for travellers. Currently over 400 articles and counting",
+      "url": "https://t.co/DSDuSczdMd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/DSDuSczdMd",
+              "expanded_url": "http://www.lookatourworld.com",
+              "display_url": "lookatourworld.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 18912,
+      "friends_count": 14929,
+      "listed_count": 271,
+      "created_at": "Thu Jul 09 11:34:26 +0000 2015",
+      "favourites_count": 153,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 35299,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3367442625/1537198080",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Mar 05 10:42:27 +0000 2019",
+    "id": 1102882058433511424,
+    "id_str": "1102882058433511424",
+    "text": "@travelfish Oh man, thanks Stuart for the flashbacks to last year when it took 4 hours to get up to the Ulun Danu Bratan temple!",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "travelfish",
+          "name": "Stuart McDonald",
+          "id": 14659239,
+          "id_str": "14659239",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "in_reply_to_status_id": 1102483003710726144,
+    "in_reply_to_status_id_str": "1102483003710726144",
+    "in_reply_to_user_id": 14659239,
+    "in_reply_to_user_id_str": "14659239",
+    "in_reply_to_screen_name": "travelfish",
+    "user": {
+      "id": 13505642,
+      "id_str": "13505642",
+      "name": "Wseries",
+      "screen_name": "Wseries",
+      "location": "Sydney, NSW",
+      "description": "Mac/iOS enthusiast, sports fan and tech geek. Other interests include travel, media, music and politics. Views expressed are my own.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 368,
+      "friends_count": 503,
+      "listed_count": 19,
+      "created_at": "Fri Feb 15 06:10:27 +0000 2008",
+      "favourites_count": 7821,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8798,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/892040137391001601/ucQ-4_gD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/892040137391001601/ucQ-4_gD_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/13505642/1501070460",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "1d697a0708ebd7c6",
+      "url": "https://api.twitter.com/1.1/geo/id/1d697a0708ebd7c6.json",
+      "place_type": "neighborhood",
+      "name": "Sutherland",
+      "full_name": "Sutherland, Sydney",
+      "country_code": "AU",
+      "country": "Australia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.04155788,
+              -34.04999601
+            ],
+            [
+              151.06826304,
+              -34.04999601
+            ],
+            [
+              151.06826304,
+              -34.02021204
+            ],
+            [
+              151.04155788,
+              -34.02021204
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Mar 05 00:52:11 +0000 2019",
+    "id": 1102733513105784832,
+    "id_str": "1102733513105784832",
+    "text": "A must visit place in Bali, Ulun Danu Temple - Bali, Indonesia. Picture by I komang warta  windu in 500px #ulundanu\u2026 https://t.co/AMBiC2URt2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ulundanu",
+          "indices": [
+            106,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/AMBiC2URt2",
+          "expanded_url": "https://twitter.com/i/web/status/1102733513105784832",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "tl",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 312810501,
+      "id_str": "312810501",
+      "name": "Roberto Rosano",
+      "screen_name": "royrosano",
+      "location": "Indonesia",
+      "description": "There is never a day that I am truly in the dark, only days when I cannot see the Light of God in whom I live and move and have my being.",
+      "url": "https://t.co/zQlRw0Mc9b",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/zQlRw0Mc9b",
+              "expanded_url": "https://www.tokoamazing.com/",
+              "display_url": "tokoamazing.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 454,
+      "friends_count": 276,
+      "listed_count": 32,
+      "created_at": "Tue Jun 07 18:11:03 +0000 2011",
+      "favourites_count": 72,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 146809,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3191852997/bc5f5f1371896c3cbf61ce49565746b7_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3191852997/bc5f5f1371896c3cbf61ce49565746b7_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/312810501/1348724546",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tl"
+  },
+  {
+    "created_at": "Tue Mar 05 00:30:56 +0000 2019",
+    "id": 1102728164164263936,
+    "id_str": "1102728164164263936",
+    "text": "Ulun danu temple https://t.co/Ht33rH6gn8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1102728078092992512,
+          "id_str": "1102728078092992512",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/D02tWDKVAAAbPua.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D02tWDKVAAAbPua.jpg",
+          "url": "https://t.co/Ht33rH6gn8",
+          "display_url": "pic.twitter.com/Ht33rH6gn8",
+          "expanded_url": "https://twitter.com/IgedeJuliada/status/1102728164164263936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1102728078092992512,
+          "id_str": "1102728078092992512",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/D02tWDKVAAAbPua.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D02tWDKVAAAbPua.jpg",
+          "url": "https://t.co/Ht33rH6gn8",
+          "display_url": "pic.twitter.com/Ht33rH6gn8",
+          "expanded_url": "https://twitter.com/IgedeJuliada/status/1102728164164263936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1102726977742467072,
+    "in_reply_to_status_id_str": "1102726977742467072",
+    "in_reply_to_user_id": 1096343699754078208,
+    "in_reply_to_user_id_str": "1096343699754078208",
+    "in_reply_to_screen_name": "IgedeJuliada",
+    "user": {
+      "id": 1096343699754078208,
+      "id_str": "1096343699754078208",
+      "name": "Igede Juliada",
+      "screen_name": "IgedeJuliada",
+      "location": "Denpasar, Bali",
+      "description": "keluarga",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1,
+      "friends_count": 36,
+      "listed_count": 0,
+      "created_at": "Fri Feb 15 09:41:21 +0000 2019",
+      "favourites_count": 6,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096344351632838659/c_tfDHhV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096344351632838659/c_tfDHhV_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+  },
+  {
+    "created_at": "Mon Mar 04 20:56:50 +0000 2019",
+    "id": 1102674284173029378,
+    "id_str": "1102674284173029378",
+    "text": "\ud83c\udf32 Ulun Danu Bratan Temple\n\ud83d\udccd Bali, Indonesia\n-\n\ud83d\udcf8 @agirlwhoblooms || #emailflights Follow @emailflights for more! \ud83d\udc4c\n-\u2026 https://t.co/0T8hwR26Zl",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "emailflights",
+          "indices": [
+            67,
+            80
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "agirlwhoblooms",
+          "name": "hanna yasmin",
+          "id": 707621352841187328,
+          "id_str": "707621352841187328",
+          "indices": [
+            48,
+            63
+          ]
+        },
+        {
+          "screen_name": "Emailflights",
+          "name": "Emailflights.com",
+          "id": 202659911,
+          "id_str": "202659911",
+          "indices": [
+            88,
+            101
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0T8hwR26Zl",
+          "expanded_url": "https://twitter.com/i/web/status/1102674284173029378",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 202659911,
+      "id_str": "202659911",
+      "name": "Emailflights.com",
+      "screen_name": "Emailflights",
+      "location": "London",
+      "description": "Agency \u2022 Flights \u2022 Hotels - Specialists for Discounted Flights, Holidays, Hotels, Car Hire, Travel Insurance & Airport Parking to Worldwide Destinations!",
+      "url": "http://www.emailflights.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.emailflights.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                27
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2063,
+      "friends_count": 2329,
+      "listed_count": 73,
+      "created_at": "Thu Oct 14 14:59:05 +0000 2010",
+      "favourites_count": 165,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3228,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/561134432149454848/VC9uAn9d_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/561134432149454848/VC9uAn9d_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/202659911/1422619836",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 00:36:50 +0000 2019",
+    "id": 1102367258649772032,
+    "id_str": "1102367258649772032",
+    "text": "Jalan\" walau Kehujanan \ud83d\ude04\ud83d\ude04 \u2014 at Ulun Danu Temple-Bali Island-Indonesia https://t.co/StZVrdMPBs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/StZVrdMPBs",
+          "expanded_url": "https://www.facebook.com/gustimadewirawan/posts/10205548919398222",
+          "display_url": "facebook.com/gustimadewiraw\u2026",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 392668046,
+      "id_str": "392668046",
+      "name": "Gusti Made Wirawan",
+      "screen_name": "KAGMWirawan",
+      "location": "Bangli, Bali",
+      "description": "",
+      "url": "http://t.co/puRkw9LwNn",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/puRkw9LwNn",
+              "expanded_url": "http://www.bimbika.com",
+              "display_url": "bimbika.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 34,
+      "friends_count": 76,
+      "listed_count": 1,
+      "created_at": "Mon Oct 17 11:53:19 +0000 2011",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7459,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFF04D",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/429633949107638272/CHDoJRQ5_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/429633949107638272/CHDoJRQ5_normal.jpeg",
+      "profile_link_color": "0099CC",
+      "profile_sidebar_border_color": "FFF8AD",
+      "profile_sidebar_fill_color": "F6FFD1",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Mar 03 17:54:19 +0000 2019",
+    "id": 1102265964572405762,
+    "id_str": "1102265964572405762",
+    "text": "The Ulun Danu Temple, In The Middle Of A Volcanic Crater \n\nhttps://t.co/xoaDwTpuUl\n\n#travel #lookatourworld\u2026 https://t.co/ynBHpPiCT8",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "travel",
+          "indices": [
+            84,
+            91
+          ]
+        },
+        {
+          "text": "lookatourworld",
+          "indices": [
+            92,
+            107
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xoaDwTpuUl",
+          "expanded_url": "https://www.lookatourworld.com/ulun-danu-temple/",
+          "display_url": "lookatourworld.com/ulun-danu-temp\u2026",
+          "indices": [
+            59,
+            82
+          ]
+        },
+        {
+          "url": "https://t.co/ynBHpPiCT8",
+          "expanded_url": "https://twitter.com/i/web/status/1102265964572405762",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.totaltraveltag.com\" rel=\"nofollow\">Total Travel TAG</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3367442625,
+      "id_str": "3367442625",
+      "name": "Look at our World",
+      "screen_name": "NomadicBrits",
+      "location": "Currently in the UK",
+      "description": "#travelblogger online magazine, written by travellers, for travellers. Currently over 400 articles and counting",
+      "url": "https://t.co/DSDuSczdMd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/DSDuSczdMd",
+              "expanded_url": "http://www.lookatourworld.com",
+              "display_url": "lookatourworld.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 18912,
+      "friends_count": 14929,
+      "listed_count": 271,
+      "created_at": "Thu Jul 09 11:34:26 +0000 2015",
+      "favourites_count": 153,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 35299,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3367442625/1537198080",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 03 16:14:55 +0000 2019",
+    "id": 1102240948216647680,
+    "id_str": "1102240948216647680",
+    "text": "Honer Nazhat Trip to Pura Ulun Danu Beratan Temple, Bali - Indonesia 9 F... https://t.co/doHoFGUPLy via @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            104,
+            112
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/doHoFGUPLy",
+          "expanded_url": "https://youtu.be/TLU9h8IQ8zA",
+          "display_url": "youtu.be/TLU9h8IQ8zA",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 140004514,
+      "id_str": "140004514",
+      "name": "Honer_Nazhat",
+      "screen_name": "HonerNazhat",
+      "location": "IRAQ",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 17,
+      "friends_count": 69,
+      "listed_count": 0,
+      "created_at": "Tue May 04 08:41:18 +0000 2010",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1140,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/479210282019856384/tpY2U170_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479210282019856384/tpY2U170_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/140004514/1413904317",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Mar 03 10:00:39 +0000 2019",
+    "id": 1102146762981150720,
+    "id_str": "1102146762981150720",
+    "text": "Raise your hand \ud83d\ude4b\ud83d\ude4b\ud83d\ude4b if Ulun Danu Beratan Temple in indonesia is also on your #bucketlist.\n.\n.\n.\n#travelinspo\u2026 https://t.co/4Nd9y8qaJX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bucketlist",
+          "indices": [
+            77,
+            88
+          ]
+        },
+        {
+          "text": "travelinspo",
+          "indices": [
+            96,
+            108
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/4Nd9y8qaJX",
+          "expanded_url": "https://twitter.com/i/web/status/1102146762981150720",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2988547952,
+      "id_str": "2988547952",
+      "name": "Orient Travels UAE",
+      "screen_name": "OrientUae",
+      "location": "DUBAI, UAE",
+      "description": "Official Twitter account of one of UAE's biggest travel agencies.",
+      "url": "http://t.co/8uA5MnTktL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/8uA5MnTktL",
+              "expanded_url": "http://www.orienttravels.com/home.seam",
+              "display_url": "orienttravels.com/home.seam",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 473,
+      "friends_count": 564,
+      "listed_count": 13,
+      "created_at": "Sun Jan 18 13:19:25 +0000 2015",
+      "favourites_count": 100,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 448,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/601282616319311872/4diEL86H_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/601282616319311872/4diEL86H_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2988547952/1484040111",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 03 08:28:20 +0000 2019",
+    "id": 1102123530597031936,
+    "id_str": "1102123530597031936",
+    "text": "Wow!  So picturesque at the Ulun Dani Temple on the lake Beratan, surrounded by beautiful gardens. \nAlso today is a\u2026 https://t.co/EQS1ZAaMIj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/EQS1ZAaMIj",
+          "expanded_url": "https://twitter.com/i/web/status/1102123530597031936",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1001085116,
+      "id_str": "1001085116",
+      "name": "Tracy-Ann",
+      "screen_name": "tracyannoflynn",
+      "location": "",
+      "description": "Love the life you live - Live the life you love!",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 219,
+      "friends_count": 312,
+      "listed_count": 6,
+      "created_at": "Mon Dec 10 06:43:20 +0000 2012",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1810,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1062003096006598657/EDImpaSC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062003096006598657/EDImpaSC_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1001085116/1542036243",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 03 05:17:11 +0000 2019",
+    "id": 1102075425289789440,
+    "id_str": "1102075425289789440",
+    "text": "Last destination with our team! \ud83e\udd18 @ Ulun Danu Temple - Beratan Bedugul Bali https://t.co/2grmEmMFlt",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2grmEmMFlt",
+          "expanded_url": "https://www.instagram.com/p/BuiLva0g0O-/?utm_source=ig_twitter_share&igshid=1r675yyc2n8dv",
+          "display_url": "instagram.com/p/BuiLva0g0O-/\u2026",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 264193988,
+      "id_str": "264193988",
+      "name": "Oktavia PR",
+      "screen_name": "okuutazia",
+      "location": "Bekasi, Jawa Barat",
+      "description": "Indonesia Defense University | Disaster Management Study Program |\nSmart, Beauty, and Sexy |\nDancing - Cheerleading",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 439,
+      "friends_count": 322,
+      "listed_count": 6,
+      "created_at": "Fri Mar 11 14:06:39 +0000 2011",
+      "favourites_count": 16,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 9435,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FF6699",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1100205328510009344/oh403Pga_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100205328510009344/oh403Pga_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/264193988/1388315432",
+      "profile_link_color": "B40B43",
+      "profile_sidebar_border_color": "CC3366",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -37.73201978,
+        144.80973657
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        144.80973657,
+        -37.73201978
+      ]
+    },
+    "place": {
+      "id": "01864a8a64df9dc4",
+      "url": "https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json",
+      "place_type": "city",
+      "name": "Melbourne",
+      "full_name": "Melbourne, Victoria",
+      "country_code": "AU",
+      "country": "Australia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.593741856,
+              -38.433859306
+            ],
+            [
+              145.512528832,
+              -38.433859306
+            ],
+            [
+              145.512528832,
+              -37.5112737225
+            ],
+            [
+              144.593741856,
+              -37.5112737225
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sat Mar 02 14:35:07 +0000 2019",
+    "id": 1101853445747703808,
+    "id_str": "1101853445747703808",
+    "text": "Agar bisa mencintai dirimu sendiri, maka kamu tidak boleh membenci pengalaman yang telah membentukmu. \ud83e\udd17 \nDress by n\u2026 https://t.co/yN5CxTFMDi",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yN5CxTFMDi",
+          "expanded_url": "https://twitter.com/i/web/status/1101853445747703808",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 388237380,
+      "id_str": "388237380",
+      "name": "@rahel ketty",
+      "screen_name": "rahelketty",
+      "location": "porsea",
+      "description": "It's better to try and fail than to never know & always wonder",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 56,
+      "friends_count": 358,
+      "listed_count": 0,
+      "created_at": "Mon Oct 10 12:25:47 +0000 2011",
+      "favourites_count": 152,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 802,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "2100DB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/506766705880608768/TfPSACV__normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/506766705880608768/TfPSACV__normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/388237380/1424143288",
+      "profile_link_color": "1E00FF",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.27596931,
+        115.16532361
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16532361,
+        -8.27596931
+      ]
+    },
+    "place": {
+      "id": "638ef0760a2670ae",
+      "url": "https://api.twitter.com/1.1/geo/id/638ef0760a2670ae.json",
+      "place_type": "city",
+      "name": "Baturiti",
+      "full_name": "Baturiti, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.128248,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.243315
+            ],
+            [
+              115.128248,
+              -8.243315
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Mar 01 14:13:26 +0000 2019",
+    "id": 1101485600572608513,
+    "id_str": "1101485600572608513",
+    "text": "The Ulun Danu Temple, In The Middle Of A Volcanic Crater \n\nhttps://t.co/xoaDwTpuUl\n\n#travel #lookatourworld\u2026 https://t.co/y7kUrcne32",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "travel",
+          "indices": [
+            84,
+            91
+          ]
+        },
+        {
+          "text": "lookatourworld",
+          "indices": [
+            92,
+            107
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xoaDwTpuUl",
+          "expanded_url": "https://www.lookatourworld.com/ulun-danu-temple/",
+          "display_url": "lookatourworld.com/ulun-danu-temp\u2026",
+          "indices": [
+            59,
+            82
+          ]
+        },
+        {
+          "url": "https://t.co/y7kUrcne32",
+          "expanded_url": "https://twitter.com/i/web/status/1101485600572608513",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.totaltraveltag.com\" rel=\"nofollow\">Total Travel TAG</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3367442625,
+      "id_str": "3367442625",
+      "name": "Look at our World",
+      "screen_name": "NomadicBrits",
+      "location": "Currently in the UK",
+      "description": "#travelblogger online magazine, written by travellers, for travellers. Currently over 400 articles and counting",
+      "url": "https://t.co/DSDuSczdMd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/DSDuSczdMd",
+              "expanded_url": "http://www.lookatourworld.com",
+              "display_url": "lookatourworld.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 18912,
+      "friends_count": 14929,
+      "listed_count": 271,
+      "created_at": "Thu Jul 09 11:34:26 +0000 2015",
+      "favourites_count": 153,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 35299,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3367442625/1537198080",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 09:21:09 +0000 2019",
+    "id": 1101412046615109632,
+    "id_str": "1101412046615109632",
+    "text": "RT @KarnavatiCity: Pura Ulun Danu Batur is a Hindu Balinese temple located in the island of Bali, Indonesia. Pura Ulun Danu Batur represent\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "KarnavatiCity",
+          "name": "Karnavati City",
+          "id": 969238035379425280,
+          "id_str": "969238035379425280",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 104092221,
+      "id_str": "104092221",
+      "name": "RUCHIR SHAH ",
+      "screen_name": "RUCHIR2511",
+      "location": "\u092d\u093e\u0930\u0924\u092e\u093e\u0924\u093e\u0915\u0940\u091c\u092f",
+      "description": "\u092d\u093e\u0930\u0924\u092e\u093e\u0924\u093e\u0915\u0940\u091c\u092f, \u0926\u0947\u0936 \u092a\u094d\u0930\u0925\u092e, \u092e\u094b\u0926\u0940 \u092d\u0915\u0924, \u092e\u0941\u091d\u0947 \u0917\u0930\u094d\u0935 \u0939\u0948 \u092e\u0947\u0902 \u0939\u093f\u0902\u0926\u0941 \u0939\u0941, \u0938\u0902\u0918 \u0915\u093e \u0938\u094d\u0935\u092f\u0902\u0938\u0947\u0935\u0915 \u0939\u0941 \u0914\u0930 \u092d\u093e\u091c\u092a\u093e \u0915\u093e \u0915\u093e\u092f\u0901\u0915\u0930\u0924\u093e \u0939\u0941. #Trust Bjp #Join RSS",
+      "url": "https://t.co/UoAskjM0wq",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/UoAskjM0wq",
+              "expanded_url": "http://transformingindia.mygov.in",
+              "display_url": "transformingindia.mygov.in",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2828,
+      "friends_count": 2175,
+      "listed_count": 111,
+      "created_at": "Tue Jan 12 06:45:32 +0000 2010",
+      "favourites_count": 13622,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 155050,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F75605",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1045916621519282176/i5FJ3TCj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045916621519282176/i5FJ3TCj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/104092221/1448986622",
+      "profile_link_color": "F75605",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F9BA0B",
+      "profile_text_color": "E84C02",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 14:03:09 +0000 2019",
+      "id": 1101120625211371520,
+      "id_str": "1101120625211371520",
+      "text": "Pura Ulun Danu Batur is a Hindu Balinese temple located in the island of Bali, Indonesia. Pura Ulun Danu Batur repr\u2026 https://t.co/uMwkqzioLj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uMwkqzioLj",
+            "expanded_url": "https://twitter.com/i/web/status/1101120625211371520",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 969238035379425280,
+        "id_str": "969238035379425280",
+        "name": "Karnavati City",
+        "screen_name": "KarnavatiCity",
+        "location": "Karnavati, India",
+        "description": "Karnavati (\u0a95\u0ab0\u0acd\u0aa3\u0abe\u0ab5\u0aa4\u0ac0) is the popular historical name of Ahmedabad City. Join the movement to restore the name which was used for 400 years. #RemoveArticle370",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3970,
+        "friends_count": 4059,
+        "listed_count": 1,
+        "created_at": "Thu Mar 01 15:48:50 +0000 2018",
+        "favourites_count": 3748,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 329,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1065685729165099008/_SC-sgLx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065685729165099008/_SC-sgLx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969238035379425280/1547375064",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 07:50:35 +0000 2019",
+    "id": 1101389253823553536,
+    "id_str": "1101389253823553536",
+    "text": "RT @Emailflights: \ud83c\udf32 Ulun Danu Bratan Temple\n\ud83d\udccd Bali, Indonesia\n-\n\ud83d\udcf8 @sergeykbn || #emailflights Follow @emailflights for more! \ud83d\udc4c\n-\n#VisitBali\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "emailflights",
+          "indices": [
+            80,
+            93
+          ]
+        },
+        {
+          "text": "VisitBali",
+          "indices": [
+            129,
+            139
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Emailflights",
+          "name": "Emailflights.com",
+          "id": 202659911,
+          "id_str": "202659911",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "SergeyKbn",
+          "name": "Sergey Kabankov",
+          "id": 127188042,
+          "id_str": "127188042",
+          "indices": [
+            66,
+            76
+          ]
+        },
+        {
+          "screen_name": "Emailflights",
+          "name": "Emailflights.com",
+          "id": 202659911,
+          "id_str": "202659911",
+          "indices": [
+            101,
+            114
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2157156180,
+      "id_str": "2157156180",
+      "name": "Magent Tours & Travel",
+      "screen_name": "magent_tours",
+      "location": "Bogor Barat, Indonesia",
+      "description": "Your Travel Solution",
+      "url": "https://t.co/JVschtCrKT",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/JVschtCrKT",
+              "expanded_url": "http://instagram.com/magent_tours",
+              "display_url": "instagram.com/magent_tours",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6,
+      "friends_count": 52,
+      "listed_count": 0,
+      "created_at": "Sat Oct 26 16:26:39 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 33,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988286402864414721/6tQ-0X6H_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988286402864414721/6tQ-0X6H_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2157156180/1538979079",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 27 18:57:51 +0000 2019",
+      "id": 1100832402048516096,
+      "id_str": "1100832402048516096",
+      "text": "\ud83c\udf32 Ulun Danu Bratan Temple\n\ud83d\udccd Bali, Indonesia\n-\n\ud83d\udcf8 @sergeykbn || #emailflights Follow @emailflights for more! \ud83d\udc4c\n-\u2026 https://t.co/QflqmZ5TAE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "emailflights",
+            "indices": [
+              62,
+              75
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SergeyKbn",
+            "name": "Sergey Kabankov",
+            "id": 127188042,
+            "id_str": "127188042",
+            "indices": [
+              48,
+              58
+            ]
+          },
+          {
+            "screen_name": "Emailflights",
+            "name": "Emailflights.com",
+            "id": 202659911,
+            "id_str": "202659911",
+            "indices": [
+              83,
+              96
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QflqmZ5TAE",
+            "expanded_url": "https://twitter.com/i/web/status/1100832402048516096",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 202659911,
+        "id_str": "202659911",
+        "name": "Emailflights.com",
+        "screen_name": "Emailflights",
+        "location": "London",
+        "description": "Agency \u2022 Flights \u2022 Hotels - Specialists for Discounted Flights, Holidays, Hotels, Car Hire, Travel Insurance & Airport Parking to Worldwide Destinations!",
+        "url": "http://www.emailflights.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://www.emailflights.com",
+                "expanded_url": null,
+                "indices": [
+                  0,
+                  27
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2063,
+        "friends_count": 2329,
+        "listed_count": 73,
+        "created_at": "Thu Oct 14 14:59:05 +0000 2010",
+        "favourites_count": 165,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3228,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/561134432149454848/VC9uAn9d_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/561134432149454848/VC9uAn9d_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/202659911/1422619836",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Mar 01 04:22:57 +0000 2019",
+    "id": 1101337002316685312,
+    "id_str": "1101337002316685312",
+    "text": "Ulun Danu Beratan presents beauty of a beautiful like and the unique in Ulun Danu Beratan is the temple in middle o\u2026 https://t.co/MkfpBq1zvk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/MkfpBq1zvk",
+          "expanded_url": "https://twitter.com/i/web/status/1101337002316685312",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1099971461165375488,
+      "id_str": "1099971461165375488",
+      "name": "SabaraBaliTrip",
+      "screen_name": "SabaraTrip",
+      "location": "",
+      "description": "We are Serve for Tour, Shuttle, Rent Car, etc.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1,
+      "friends_count": 3,
+      "listed_count": 0,
+      "created_at": "Mon Feb 25 09:56:47 +0000 2019",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1099971616061026304/fO737nnp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099971616061026304/fO737nnp_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 04:15:16 +0000 2019",
+    "id": 1101335065584234501,
+    "id_str": "1101335065584234501",
+    "text": "RT @KarnavatiCity: Pura Ulun Danu Batur is a Hindu Balinese temple located in the island of Bali, Indonesia. Pura Ulun Danu Batur represent\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "KarnavatiCity",
+          "name": "Karnavati City",
+          "id": 969238035379425280,
+          "id_str": "969238035379425280",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4328489794,
+      "id_str": "4328489794",
+      "name": "Pankaj \ud83c\uddee\ud83c\uddf3 \u092a\u0902\u0915\u091c \ud83c\uddee\ud83c\uddf3 \u0aaa\u0a82\u0a95\u0a9c \ud83c\uddee\ud83c\uddf3",
+      "screen_name": "neeta_pankaj",
+      "location": "Gujarat",
+      "description": "\u270d\ufe0f\u270d\ufe0f\u270d\ufe0f",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 30819,
+      "friends_count": 336,
+      "listed_count": 55,
+      "created_at": "Mon Nov 30 11:36:47 +0000 2015",
+      "favourites_count": 6935,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 439247,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1098951208364957696/pcCB350i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098951208364957696/pcCB350i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4328489794/1548736095",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 14:03:09 +0000 2019",
+      "id": 1101120625211371520,
+      "id_str": "1101120625211371520",
+      "text": "Pura Ulun Danu Batur is a Hindu Balinese temple located in the island of Bali, Indonesia. Pura Ulun Danu Batur repr\u2026 https://t.co/uMwkqzioLj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uMwkqzioLj",
+            "expanded_url": "https://twitter.com/i/web/status/1101120625211371520",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 969238035379425280,
+        "id_str": "969238035379425280",
+        "name": "Karnavati City",
+        "screen_name": "KarnavatiCity",
+        "location": "Karnavati, India",
+        "description": "Karnavati (\u0a95\u0ab0\u0acd\u0aa3\u0abe\u0ab5\u0aa4\u0ac0) is the popular historical name of Ahmedabad City. Join the movement to restore the name which was used for 400 years. #RemoveArticle370",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3970,
+        "friends_count": 4059,
+        "listed_count": 1,
+        "created_at": "Thu Mar 01 15:48:50 +0000 2018",
+        "favourites_count": 3748,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 329,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1065685729165099008/_SC-sgLx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065685729165099008/_SC-sgLx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969238035379425280/1547375064",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 03:00:54 +0000 2019",
+    "id": 1101316352139096064,
+    "id_str": "1101316352139096064",
+    "text": "RT @KarnavatiCity: Pura Ulun Danu Batur is a Hindu Balinese temple located in the island of Bali, Indonesia. Pura Ulun Danu Batur represent\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "KarnavatiCity",
+          "name": "Karnavati City",
+          "id": 969238035379425280,
+          "id_str": "969238035379425280",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 90125010,
+      "id_str": "90125010",
+      "name": "Darshan Bhavsar \ud83c\uddee\ud83c\uddf3",
+      "screen_name": "iDarshanBJP",
+      "location": "Navsari, Gujarat",
+      "description": "#Nationalist | #RW | #SocialMediaActivist | #Sanghi | Member Of #BJP #ITSM & #BJYM | #IndianDefenceFan | #Bhakt of Shri @narendramodi | RTs not endorsement |",
+      "url": "https://www.facebook.com/darsh4u.nvs",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://www.facebook.com/darsh4u.nvs",
+              "expanded_url": null,
+              "indices": [
+                0,
+                36
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 5353,
+      "friends_count": 2179,
+      "listed_count": 28,
+      "created_at": "Sun Nov 15 08:22:33 +0000 2009",
+      "favourites_count": 2352,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61581,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1077918205710987265/a4OR0uRE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077918205710987265/a4OR0uRE_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/90125010/1551718053",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 14:03:09 +0000 2019",
+      "id": 1101120625211371520,
+      "id_str": "1101120625211371520",
+      "text": "Pura Ulun Danu Batur is a Hindu Balinese temple located in the island of Bali, Indonesia. Pura Ulun Danu Batur repr\u2026 https://t.co/uMwkqzioLj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uMwkqzioLj",
+            "expanded_url": "https://twitter.com/i/web/status/1101120625211371520",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 969238035379425280,
+        "id_str": "969238035379425280",
+        "name": "Karnavati City",
+        "screen_name": "KarnavatiCity",
+        "location": "Karnavati, India",
+        "description": "Karnavati (\u0a95\u0ab0\u0acd\u0aa3\u0abe\u0ab5\u0aa4\u0ac0) is the popular historical name of Ahmedabad City. Join the movement to restore the name which was used for 400 years. #RemoveArticle370",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3970,
+        "friends_count": 4059,
+        "listed_count": 1,
+        "created_at": "Thu Mar 01 15:48:50 +0000 2018",
+        "favourites_count": 3748,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 329,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1065685729165099008/_SC-sgLx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065685729165099008/_SC-sgLx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969238035379425280/1547375064",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 02:36:49 +0000 2019",
+    "id": 1101310290065530880,
+    "id_str": "1101310290065530880",
+    "text": "RT @KarnavatiCity: Pura Ulun Danu Batur is a Hindu Balinese temple located in the island of Bali, Indonesia. Pura Ulun Danu Batur represent\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "KarnavatiCity",
+          "name": "Karnavati City",
+          "id": 969238035379425280,
+          "id_str": "969238035379425280",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 718470468861169664,
+      "id_str": "718470468861169664",
+      "name": "Hitesh",
+      "screen_name": "hitesh_jaihind",
+      "location": "\u0915\u0930\u094d\u0923\u093e\u0935\u0924\u0940",
+      "description": "Proud Indian |Proud Hindu |Nationalist | SocialMediaActivist |NationFirst\ud83c\uddee\ud83c\uddf3|Supporting PM modi's Vision of #NewIndia",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1331,
+      "friends_count": 653,
+      "listed_count": 5,
+      "created_at": "Fri Apr 08 16:08:03 +0000 2016",
+      "favourites_count": 4510,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 69450,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1099338804085903360/4u4bGBKn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099338804085903360/4u4bGBKn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/718470468861169664/1534622326",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 14:03:09 +0000 2019",
+      "id": 1101120625211371520,
+      "id_str": "1101120625211371520",
+      "text": "Pura Ulun Danu Batur is a Hindu Balinese temple located in the island of Bali, Indonesia. Pura Ulun Danu Batur repr\u2026 https://t.co/uMwkqzioLj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uMwkqzioLj",
+            "expanded_url": "https://twitter.com/i/web/status/1101120625211371520",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 969238035379425280,
+        "id_str": "969238035379425280",
+        "name": "Karnavati City",
+        "screen_name": "KarnavatiCity",
+        "location": "Karnavati, India",
+        "description": "Karnavati (\u0a95\u0ab0\u0acd\u0aa3\u0abe\u0ab5\u0aa4\u0ac0) is the popular historical name of Ahmedabad City. Join the movement to restore the name which was used for 400 years. #RemoveArticle370",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3970,
+        "friends_count": 4059,
+        "listed_count": 1,
+        "created_at": "Thu Mar 01 15:48:50 +0000 2018",
+        "favourites_count": 3748,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 329,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1065685729165099008/_SC-sgLx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065685729165099008/_SC-sgLx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969238035379425280/1547375064",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 14:16:22 +0000 2019",
+    "id": 1101123953102188544,
+    "id_str": "1101123953102188544",
+    "text": "RT @KarnavatiCity: Pura Ulun Danu Batur is a Hindu Balinese temple located in the island of Bali, Indonesia. Pura Ulun Danu Batur represent\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "KarnavatiCity",
+          "name": "Karnavati City",
+          "id": 969238035379425280,
+          "id_str": "969238035379425280",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2412029131,
+      "id_str": "2412029131",
+      "name": "BABU LAKHNOTRA",
+      "screen_name": "BABULAKHNOTRA",
+      "location": "Gujarat, India #Meghalaya",
+      "description": "\u0950 \u0965\u0936\u094d\u0930\u0940 \u0930\u093e\u092e\u0965 \u0950\n#GarviGujarat #Meghalaya #ScotlandOfEast",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 417,
+      "friends_count": 1349,
+      "listed_count": 1,
+      "created_at": "Wed Mar 26 04:20:38 +0000 2014",
+      "favourites_count": 10704,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 694,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/736228764204437507/WACpdzEs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/736228764204437507/WACpdzEs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2412029131/1519306485",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 14:03:09 +0000 2019",
+      "id": 1101120625211371520,
+      "id_str": "1101120625211371520",
+      "text": "Pura Ulun Danu Batur is a Hindu Balinese temple located in the island of Bali, Indonesia. Pura Ulun Danu Batur repr\u2026 https://t.co/uMwkqzioLj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uMwkqzioLj",
+            "expanded_url": "https://twitter.com/i/web/status/1101120625211371520",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 969238035379425280,
+        "id_str": "969238035379425280",
+        "name": "Karnavati City",
+        "screen_name": "KarnavatiCity",
+        "location": "Karnavati, India",
+        "description": "Karnavati (\u0a95\u0ab0\u0acd\u0aa3\u0abe\u0ab5\u0aa4\u0ac0) is the popular historical name of Ahmedabad City. Join the movement to restore the name which was used for 400 years. #RemoveArticle370",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3970,
+        "friends_count": 4059,
+        "listed_count": 1,
+        "created_at": "Thu Mar 01 15:48:50 +0000 2018",
+        "favourites_count": 3748,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 329,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1065685729165099008/_SC-sgLx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065685729165099008/_SC-sgLx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969238035379425280/1547375064",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 14:03:57 +0000 2019",
+    "id": 1101120827725152256,
+    "id_str": "1101120827725152256",
+    "text": "RT @KarnavatiCity: Pura Ulun Danu Batur is a Hindu Balinese temple located in the island of Bali, Indonesia. Pura Ulun Danu Batur represent\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "KarnavatiCity",
+          "name": "Karnavati City",
+          "id": 969238035379425280,
+          "id_str": "969238035379425280",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2496323309,
+      "id_str": "2496323309",
+      "name": "\u0a95\u0ac3\u0aaa\u0ac7\u0ab6 \u272a MahAKal",
+      "screen_name": "krupesh_21",
+      "location": "Rajkot - Karnavati, Bharat",
+      "description": "\u269bfrom Rajkot\ud83d\udd76 \ud83d\udea9RSS \u0938\u094d\u0935\u092f\u0902\u0938\u0947\u0935\u0915\n\ud83d\udcdaengineering student\n\ud83c\uddee\ud83c\uddf3\u092a\u094d\u0930\u0916\u0930 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092d\u0915\u094d\u0924\ud83d\udcaa\u0905\u0916\u0902\u0921 \u092d\u093e\u0930\u0924-\u0936\u094d\u0930\u0947\u0937\u094d\u0920 \u092d\u093e\u0930\u0924\ud83e\udd18\u092e\u0939\u093e\u0926\u0947\u0935 \u0915\u093e \u092a\u0930\u092e \u092d\u0915\u094d\u0924 \ud83d\ude4f\u091c\u092f \u0915\u093e\u0920\u093f\u092f\u093e\u0935\u093e\u095c\u270a",
+      "url": "https://t.co/H8mSVIs8SP",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/H8mSVIs8SP",
+              "expanded_url": "https://transformingindia.mygov.in",
+              "display_url": "transformingindia.mygov.in",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 633,
+      "friends_count": 244,
+      "listed_count": 7,
+      "created_at": "Sun Apr 20 04:14:35 +0000 2014",
+      "favourites_count": 11404,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 27377,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1092091788846878730/IXKtXcC8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092091788846878730/IXKtXcC8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2496323309/1508831669",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 28 14:03:09 +0000 2019",
+      "id": 1101120625211371520,
+      "id_str": "1101120625211371520",
+      "text": "Pura Ulun Danu Batur is a Hindu Balinese temple located in the island of Bali, Indonesia. Pura Ulun Danu Batur repr\u2026 https://t.co/uMwkqzioLj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uMwkqzioLj",
+            "expanded_url": "https://twitter.com/i/web/status/1101120625211371520",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 969238035379425280,
+        "id_str": "969238035379425280",
+        "name": "Karnavati City",
+        "screen_name": "KarnavatiCity",
+        "location": "Karnavati, India",
+        "description": "Karnavati (\u0a95\u0ab0\u0acd\u0aa3\u0abe\u0ab5\u0aa4\u0ac0) is the popular historical name of Ahmedabad City. Join the movement to restore the name which was used for 400 years. #RemoveArticle370",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3970,
+        "friends_count": 4059,
+        "listed_count": 1,
+        "created_at": "Thu Mar 01 15:48:50 +0000 2018",
+        "favourites_count": 3748,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 329,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1065685729165099008/_SC-sgLx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065685729165099008/_SC-sgLx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969238035379425280/1547375064",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 14:03:09 +0000 2019",
+    "id": 1101120625211371520,
+    "id_str": "1101120625211371520",
+    "text": "Pura Ulun Danu Batur is a Hindu Balinese temple located in the island of Bali, Indonesia. Pura Ulun Danu Batur repr\u2026 https://t.co/uMwkqzioLj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/uMwkqzioLj",
+          "expanded_url": "https://twitter.com/i/web/status/1101120625211371520",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 969238035379425280,
+      "id_str": "969238035379425280",
+      "name": "Karnavati City",
+      "screen_name": "KarnavatiCity",
+      "location": "Karnavati, India",
+      "description": "Karnavati (\u0a95\u0ab0\u0acd\u0aa3\u0abe\u0ab5\u0aa4\u0ac0) is the popular historical name of Ahmedabad City. Join the movement to restore the name which was used for 400 years. #RemoveArticle370",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3970,
+      "friends_count": 4059,
+      "listed_count": 1,
+      "created_at": "Thu Mar 01 15:48:50 +0000 2018",
+      "favourites_count": 3748,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 329,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1065685729165099008/_SC-sgLx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065685729165099008/_SC-sgLx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/969238035379425280/1547375064",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 09:20:05 +0000 2019",
+    "id": 1101049389743656964,
+    "id_str": "1101049389743656964",
+    "text": "Pura Ulun Danu, Danau Beratan\n#bedugul #sketch #watercolor @ Ulun Danu Temple-Bali Island-Indonesia https://t.co/Rw3h7cCogy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bedugul",
+          "indices": [
+            30,
+            38
+          ]
+        },
+        {
+          "text": "sketch",
+          "indices": [
+            39,
+            46
+          ]
+        },
+        {
+          "text": "watercolor",
+          "indices": [
+            47,
+            58
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Rw3h7cCogy",
+          "expanded_url": "https://www.instagram.com/p/Bua5AXtA_5T/?utm_source=ig_twitter_share&igshid=1417r3culhjwn",
+          "display_url": "instagram.com/p/Bua5AXtA_5T/\u2026",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 58426498,
+      "id_str": "58426498",
+      "name": "azwan azmy",
+      "screen_name": "to_azwan",
+      "location": "\u00dcT: 17.352659,34.887174",
+      "description": "*architect\n*sketcher\nIG :  azwan_azmy\nemail: azwan.sketch@gmail.com",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 90,
+      "friends_count": 266,
+      "listed_count": 2,
+      "created_at": "Mon Jul 20 08:38:05 +0000 2009",
+      "favourites_count": 4,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 347,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/722766803986829312/IWk6H6sa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/722766803986829312/IWk6H6sa_normal.jpg",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  }
+]

@@ -1,0 +1,845 @@
+[
+  {
+    "created_at": "Tue Mar 05 01:04:58 +0000 2019",
+    "id": 1102736726701891584,
+    "id_str": "1102736726701891584",
+    "text": "RT @CassieJFox: The #TipitiniOfLakeTahoe #CrownRoom #CrystalBay #Nevada https://t.co/ntH0Xm21Hl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TipitiniOfLakeTahoe",
+          "indices": [
+            20,
+            40
+          ]
+        },
+        {
+          "text": "CrownRoom",
+          "indices": [
+            41,
+            51
+          ]
+        },
+        {
+          "text": "CrystalBay",
+          "indices": [
+            52,
+            63
+          ]
+        },
+        {
+          "text": "Nevada",
+          "indices": [
+            64,
+            71
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CassieJFox",
+          "name": "Cassie J. Fox",
+          "id": 378765795,
+          "id_str": "378765795",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ntH0Xm21Hl",
+          "expanded_url": "https://twitter.com/TahoeOnstage/status/1102241016227160065",
+          "display_url": "twitter.com/TahoeOnstage/s\u2026",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 378765795,
+      "id_str": "378765795",
+      "name": "Cassie J. Fox",
+      "screen_name": "CassieJFox",
+      "location": "Whitmire,SC",
+      "description": "Host & Creator-Soul Of The Blues With Cassie CJ Fox ' Syndicated Internet Radio Show",
+      "url": "http://t.co/8pZGUsxYNp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/8pZGUsxYNp",
+              "expanded_url": "http://www.cassiejfox.webs.com",
+              "display_url": "cassiejfox.webs.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4264,
+      "friends_count": 4954,
+      "listed_count": 214,
+      "created_at": "Fri Sep 23 19:35:38 +0000 2011",
+      "favourites_count": 58280,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 60962,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/897513861409947648/pnmCXAKt_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/897513861409947648/pnmCXAKt_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/378765795/1502818870",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "333333",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "999999",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Mar 03 18:42:07 +0000 2019",
+      "id": 1102277992062042117,
+      "id_str": "1102277992062042117",
+      "text": "The #TipitiniOfLakeTahoe #CrownRoom #CrystalBay #Nevada https://t.co/ntH0Xm21Hl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "TipitiniOfLakeTahoe",
+            "indices": [
+              4,
+              24
+            ]
+          },
+          {
+            "text": "CrownRoom",
+            "indices": [
+              25,
+              35
+            ]
+          },
+          {
+            "text": "CrystalBay",
+            "indices": [
+              36,
+              47
+            ]
+          },
+          {
+            "text": "Nevada",
+            "indices": [
+              48,
+              55
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ntH0Xm21Hl",
+            "expanded_url": "https://twitter.com/TahoeOnstage/status/1102241016227160065",
+            "display_url": "twitter.com/TahoeOnstage/s\u2026",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 378765795,
+        "id_str": "378765795",
+        "name": "Cassie J. Fox",
+        "screen_name": "CassieJFox",
+        "location": "Whitmire,SC",
+        "description": "Host & Creator-Soul Of The Blues With Cassie CJ Fox ' Syndicated Internet Radio Show",
+        "url": "http://t.co/8pZGUsxYNp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/8pZGUsxYNp",
+                "expanded_url": "http://www.cassiejfox.webs.com",
+                "display_url": "cassiejfox.webs.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4264,
+        "friends_count": 4954,
+        "listed_count": 214,
+        "created_at": "Fri Sep 23 19:35:38 +0000 2011",
+        "favourites_count": 58280,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 60962,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/897513861409947648/pnmCXAKt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/897513861409947648/pnmCXAKt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/378765795/1502818870",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "333333",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "999999",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1102241016227160065,
+      "quoted_status_id_str": "1102241016227160065",
+      "quoted_status": {
+        "created_at": "Sun Mar 03 16:15:11 +0000 2019",
+        "id": 1102241016227160065,
+        "id_str": "1102241016227160065",
+        "text": "#SundayRead: Crystal Bay's Crown Room is the Tipitina's of Lake Tahoe &gt;&gt; https://t.co/OPAdYyefQn @GalacticFunk\u2026 https://t.co/RTjXHav45b",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "SundayRead",
+              "indices": [
+                0,
+                11
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "GalacticFunk",
+              "name": "Galactic",
+              "id": 37714054,
+              "id_str": "37714054",
+              "indices": [
+                103,
+                116
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/OPAdYyefQn",
+              "expanded_url": "https://bit.ly/2VuUMO6",
+              "display_url": "bit.ly/2VuUMO6",
+              "indices": [
+                79,
+                102
+              ]
+            },
+            {
+              "url": "https://t.co/RTjXHav45b",
+              "expanded_url": "https://twitter.com/i/web/status/1102241016227160065",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                118,
+                141
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "und",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1301552353,
+          "id_str": "1301552353",
+          "name": "Tahoe Onstage",
+          "screen_name": "TahoeOnstage",
+          "location": "Lake Tahoe",
+          "description": "Live music and sports at Lake Tahoe/Reno",
+          "url": "http://t.co/kBviatCPIi",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/kBviatCPIi",
+                  "expanded_url": "http://www.tahoeonstage.com",
+                  "display_url": "tahoeonstage.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2888,
+          "friends_count": 2851,
+          "listed_count": 59,
+          "created_at": "Mon Mar 25 23:11:05 +0000 2013",
+          "favourites_count": 8029,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 12411,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "EBEBEB",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/3495883487/f6b93dc5a1b53995f972744726115af3_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/3495883487/f6b93dc5a1b53995f972744726115af3_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1301552353/1545599770",
+          "profile_link_color": "990000",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "C0DFEC",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1102241016227160065,
+    "quoted_status_id_str": "1102241016227160065",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Sun Mar 03 18:42:07 +0000 2019",
+    "id": 1102277992062042117,
+    "id_str": "1102277992062042117",
+    "text": "The #TipitiniOfLakeTahoe #CrownRoom #CrystalBay #Nevada https://t.co/ntH0Xm21Hl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TipitiniOfLakeTahoe",
+          "indices": [
+            4,
+            24
+          ]
+        },
+        {
+          "text": "CrownRoom",
+          "indices": [
+            25,
+            35
+          ]
+        },
+        {
+          "text": "CrystalBay",
+          "indices": [
+            36,
+            47
+          ]
+        },
+        {
+          "text": "Nevada",
+          "indices": [
+            48,
+            55
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ntH0Xm21Hl",
+          "expanded_url": "https://twitter.com/TahoeOnstage/status/1102241016227160065",
+          "display_url": "twitter.com/TahoeOnstage/s\u2026",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 378765795,
+      "id_str": "378765795",
+      "name": "Cassie J. Fox",
+      "screen_name": "CassieJFox",
+      "location": "Whitmire,SC",
+      "description": "Host & Creator-Soul Of The Blues With Cassie CJ Fox ' Syndicated Internet Radio Show",
+      "url": "http://t.co/8pZGUsxYNp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/8pZGUsxYNp",
+              "expanded_url": "http://www.cassiejfox.webs.com",
+              "display_url": "cassiejfox.webs.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4264,
+      "friends_count": 4954,
+      "listed_count": 214,
+      "created_at": "Fri Sep 23 19:35:38 +0000 2011",
+      "favourites_count": 58280,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 60962,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/897513861409947648/pnmCXAKt_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/897513861409947648/pnmCXAKt_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/378765795/1502818870",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "333333",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "999999",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1102241016227160065,
+    "quoted_status_id_str": "1102241016227160065",
+    "quoted_status": {
+      "created_at": "Sun Mar 03 16:15:11 +0000 2019",
+      "id": 1102241016227160065,
+      "id_str": "1102241016227160065",
+      "text": "#SundayRead: Crystal Bay's Crown Room is the Tipitina's of Lake Tahoe &gt;&gt; https://t.co/OPAdYyefQn @GalacticFunk\u2026 https://t.co/RTjXHav45b",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "SundayRead",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GalacticFunk",
+            "name": "Galactic",
+            "id": 37714054,
+            "id_str": "37714054",
+            "indices": [
+              103,
+              116
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OPAdYyefQn",
+            "expanded_url": "https://bit.ly/2VuUMO6",
+            "display_url": "bit.ly/2VuUMO6",
+            "indices": [
+              79,
+              102
+            ]
+          },
+          {
+            "url": "https://t.co/RTjXHav45b",
+            "expanded_url": "https://twitter.com/i/web/status/1102241016227160065",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              118,
+              141
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1301552353,
+        "id_str": "1301552353",
+        "name": "Tahoe Onstage",
+        "screen_name": "TahoeOnstage",
+        "location": "Lake Tahoe",
+        "description": "Live music and sports at Lake Tahoe/Reno",
+        "url": "http://t.co/kBviatCPIi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/kBviatCPIi",
+                "expanded_url": "http://www.tahoeonstage.com",
+                "display_url": "tahoeonstage.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2888,
+        "friends_count": 2851,
+        "listed_count": 59,
+        "created_at": "Mon Mar 25 23:11:05 +0000 2013",
+        "favourites_count": 8029,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12411,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3495883487/f6b93dc5a1b53995f972744726115af3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3495883487/f6b93dc5a1b53995f972744726115af3_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1301552353/1545599770",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Sun Mar 03 12:07:56 +0000 2019",
+    "id": 1102178793144414208,
+    "id_str": "1102178793144414208",
+    "text": "Beautiful Broken Beach #nusapenida \ud83c\udf34\n\nMenikmati indahnya ciptaan-Nya di #brokenbeach #angelbillabong\u2026 https://t.co/q2yPrB6GaC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "nusapenida",
+          "indices": [
+            23,
+            34
+          ]
+        },
+        {
+          "text": "brokenbeach",
+          "indices": [
+            72,
+            84
+          ]
+        },
+        {
+          "text": "angelbillabong",
+          "indices": [
+            85,
+            100
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/q2yPrB6GaC",
+          "expanded_url": "https://twitter.com/i/web/status/1102178793144414208",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2953112113,
+      "id_str": "2953112113",
+      "name": "jokamtravel",
+      "screen_name": "jokamtravel",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 939,
+      "friends_count": 59,
+      "listed_count": 3,
+      "created_at": "Wed Dec 31 05:02:04 +0000 2014",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 165,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/795761776180629505/zPIIz_N3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/795761776180629505/zPIIz_N3_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.68759557,
+        115.57957635
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.57957635,
+        -8.68759557
+      ]
+    },
+    "place": {
+      "id": "d532fe7ae761def1",
+      "url": "https://api.twitter.com/1.1/geo/id/d532fe7ae761def1.json",
+      "place_type": "city",
+      "name": "Nusapenida",
+      "full_name": "Nusapenida, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.426989,
+              -8.819561
+            ],
+            [
+              115.62863,
+              -8.819561
+            ],
+            [
+              115.62863,
+              -8.6631101
+            ],
+            [
+              115.426989,
+              -8.6631101
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  }
+]

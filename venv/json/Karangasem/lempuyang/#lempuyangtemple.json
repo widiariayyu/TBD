@@ -1,0 +1,1346 @@
+[
+  {
+    "created_at": "Tue Mar 05 15:30:53 +0000 2019",
+    "id": 1102954641938149376,
+    "id_str": "1102954641938149376",
+    "text": "RT @YOGASCAPES: Jumping into the first weekend of 2019 like \u2728#Friday #Friyay #weekender \nPhoto: #regram @stephschow // #Bali #lempuyangtemp\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Friday",
+          "indices": [
+            61,
+            68
+          ]
+        },
+        {
+          "text": "Friyay",
+          "indices": [
+            69,
+            76
+          ]
+        },
+        {
+          "text": "weekender",
+          "indices": [
+            77,
+            87
+          ]
+        },
+        {
+          "text": "regram",
+          "indices": [
+            96,
+            103
+          ]
+        },
+        {
+          "text": "Bali",
+          "indices": [
+            119,
+            124
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "YOGASCAPES",
+          "name": "YOGASCAPES",
+          "id": 289605895,
+          "id_str": "289605895",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "stephschow",
+          "name": "Stephanie Chow",
+          "id": 2305765412,
+          "id_str": "2305765412",
+          "indices": [
+            104,
+            115
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1038399167633215489,
+      "id_str": "1038399167633215489",
+      "name": "Arthur sharp",
+      "screen_name": "Arthurs19562936",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4755,
+      "friends_count": 5646,
+      "listed_count": 1,
+      "created_at": "Sat Sep 08 12:10:28 +0000 2018",
+      "favourites_count": 75316,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 55836,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 04 23:48:24 +0000 2019",
+      "id": 1081336575680745472,
+      "id_str": "1081336575680745472",
+      "text": "Jumping into the first weekend of 2019 like \u2728#Friday #Friyay #weekender \nPhoto: #regram @stephschow // #Bali\u2026 https://t.co/7OJ2fdyCTC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Friday",
+            "indices": [
+              45,
+              52
+            ]
+          },
+          {
+            "text": "Friyay",
+            "indices": [
+              53,
+              60
+            ]
+          },
+          {
+            "text": "weekender",
+            "indices": [
+              61,
+              71
+            ]
+          },
+          {
+            "text": "regram",
+            "indices": [
+              80,
+              87
+            ]
+          },
+          {
+            "text": "Bali",
+            "indices": [
+              103,
+              108
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "stephschow",
+            "name": "Stephanie Chow",
+            "id": 2305765412,
+            "id_str": "2305765412",
+            "indices": [
+              88,
+              99
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7OJ2fdyCTC",
+            "expanded_url": "https://twitter.com/i/web/status/1081336575680745472",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 289605895,
+        "id_str": "289605895",
+        "name": "YOGASCAPES",
+        "screen_name": "YOGASCAPES",
+        "location": "",
+        "description": "YOGASCAPES creates hand crafted wellness adventures + yoga retreats around the \ud83c\udf0e \u2728Book any January retreat by 11/26 + receive $300 off \u2728ENTER TO WIN\ud83d\udc47\ud83c\udffd",
+        "url": "https://t.co/Dx1H7QVimA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Dx1H7QVimA",
+                "expanded_url": "https://bit.ly/2AcXlLE",
+                "display_url": "bit.ly/2AcXlLE",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1466,
+        "friends_count": 225,
+        "listed_count": 42,
+        "created_at": "Thu Apr 28 23:00:24 +0000 2011",
+        "favourites_count": 431,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3549,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/967047797810774016/HvxOol_P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/967047797810774016/HvxOol_P_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/289605895/1519397139",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "6390886d39468948",
+        "url": "https://api.twitter.com/1.1/geo/id/6390886d39468948.json",
+        "place_type": "city",
+        "name": "Maple Grove",
+        "full_name": "Maple Grove, MN",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -93.528854,
+                45.064772
+              ],
+              [
+                -93.400913,
+                45.064772
+              ],
+              [
+                -93.400913,
+                45.152293
+              ],
+              [
+                -93.528854,
+                45.152293
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 12:12:06 +0000 2019",
+    "id": 1102542228571021312,
+    "id_str": "1102542228571021312",
+    "text": "RT @Man_Cimut: 'Gates of Heaven'\n.\n.\n#beautiful #gates #landmark #temple #lempuyang #lempuyangtemple #karangasem #bali #hindu #travel #tour\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "beautiful",
+          "indices": [
+            37,
+            47
+          ]
+        },
+        {
+          "text": "gates",
+          "indices": [
+            48,
+            54
+          ]
+        },
+        {
+          "text": "landmark",
+          "indices": [
+            55,
+            64
+          ]
+        },
+        {
+          "text": "temple",
+          "indices": [
+            65,
+            72
+          ]
+        },
+        {
+          "text": "lempuyang",
+          "indices": [
+            73,
+            83
+          ]
+        },
+        {
+          "text": "lempuyangtemple",
+          "indices": [
+            84,
+            100
+          ]
+        },
+        {
+          "text": "karangasem",
+          "indices": [
+            101,
+            112
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            113,
+            118
+          ]
+        },
+        {
+          "text": "hindu",
+          "indices": [
+            119,
+            125
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            126,
+            133
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Man_Cimut",
+          "name": "Nyoman_D",
+          "id": 31044700,
+          "id_str": "31044700",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.amadeusworldwide.com\" rel=\"nofollow\">TwitterBot 1</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3167783986,
+      "id_str": "3167783986",
+      "name": "Amadeus WorldWide",
+      "screen_name": "ExploreAmadeus",
+      "location": "Worldwide",
+      "description": "We simplify your transportation needs.",
+      "url": "http://t.co/4wxzQQvPpn",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/4wxzQQvPpn",
+              "expanded_url": "http://www.amadeusworldwide.com",
+              "display_url": "amadeusworldwide.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 435,
+      "friends_count": 140,
+      "listed_count": 20,
+      "created_at": "Wed Apr 15 01:16:35 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25848,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/588150709855457280/HLdDaW5f_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/588150709855457280/HLdDaW5f_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3167783986/1429070135",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 04 12:11:30 +0000 2019",
+      "id": 1102542078406356994,
+      "id_str": "1102542078406356994",
+      "text": "'Gates of Heaven'\n.\n.\n#beautiful #gates #landmark #temple #lempuyang #lempuyangtemple #karangasem #bali #hindu\u2026 https://t.co/CxPdu4dnWl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "beautiful",
+            "indices": [
+              22,
+              32
+            ]
+          },
+          {
+            "text": "gates",
+            "indices": [
+              33,
+              39
+            ]
+          },
+          {
+            "text": "landmark",
+            "indices": [
+              40,
+              49
+            ]
+          },
+          {
+            "text": "temple",
+            "indices": [
+              50,
+              57
+            ]
+          },
+          {
+            "text": "lempuyang",
+            "indices": [
+              58,
+              68
+            ]
+          },
+          {
+            "text": "lempuyangtemple",
+            "indices": [
+              69,
+              85
+            ]
+          },
+          {
+            "text": "karangasem",
+            "indices": [
+              86,
+              97
+            ]
+          },
+          {
+            "text": "bali",
+            "indices": [
+              98,
+              103
+            ]
+          },
+          {
+            "text": "hindu",
+            "indices": [
+              104,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CxPdu4dnWl",
+            "expanded_url": "https://twitter.com/i/web/status/1102542078406356994",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 31044700,
+        "id_str": "31044700",
+        "name": "Nyoman_D",
+        "screen_name": "Man_Cimut",
+        "location": "Bali, Indonesia",
+        "description": "The Amazing Race die hard fan, Survivor, Tennis & Badminton maniac,  Chelsea holic.",
+        "url": "http://t.co/eOtHslxviD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/eOtHslxviD",
+                "expanded_url": "http://nyomansb1.wordpress.com",
+                "display_url": "nyomansb1.wordpress.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 329,
+        "friends_count": 813,
+        "listed_count": 19,
+        "created_at": "Tue Apr 14 03:20:22 +0000 2009",
+        "favourites_count": 935,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 37611,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/998408560714309632/Q4TfBm7b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/998408560714309632/Q4TfBm7b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31044700/1379266304",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -8.41617043,
+          115.61908359
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          115.61908359,
+          -8.41617043
+        ]
+      },
+      "place": {
+        "id": "02fe687fea201ef8",
+        "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+        "place_type": "city",
+        "name": "Abang",
+        "full_name": "Abang, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                115.518094,
+                -8.426355
+              ],
+              [
+                115.711528,
+                -8.426355
+              ],
+              [
+                115.711528,
+                -8.300467
+              ],
+              [
+                115.518094,
+                -8.300467
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 12:11:30 +0000 2019",
+    "id": 1102542078406356994,
+    "id_str": "1102542078406356994",
+    "text": "'Gates of Heaven'\n.\n.\n#beautiful #gates #landmark #temple #lempuyang #lempuyangtemple #karangasem #bali #hindu\u2026 https://t.co/CxPdu4dnWl",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "beautiful",
+          "indices": [
+            22,
+            32
+          ]
+        },
+        {
+          "text": "gates",
+          "indices": [
+            33,
+            39
+          ]
+        },
+        {
+          "text": "landmark",
+          "indices": [
+            40,
+            49
+          ]
+        },
+        {
+          "text": "temple",
+          "indices": [
+            50,
+            57
+          ]
+        },
+        {
+          "text": "lempuyang",
+          "indices": [
+            58,
+            68
+          ]
+        },
+        {
+          "text": "lempuyangtemple",
+          "indices": [
+            69,
+            85
+          ]
+        },
+        {
+          "text": "karangasem",
+          "indices": [
+            86,
+            97
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            98,
+            103
+          ]
+        },
+        {
+          "text": "hindu",
+          "indices": [
+            104,
+            110
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/CxPdu4dnWl",
+          "expanded_url": "https://twitter.com/i/web/status/1102542078406356994",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 31044700,
+      "id_str": "31044700",
+      "name": "Nyoman_D",
+      "screen_name": "Man_Cimut",
+      "location": "Bali, Indonesia",
+      "description": "The Amazing Race die hard fan, Survivor, Tennis & Badminton maniac,  Chelsea holic.",
+      "url": "http://t.co/eOtHslxviD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/eOtHslxviD",
+              "expanded_url": "http://nyomansb1.wordpress.com",
+              "display_url": "nyomansb1.wordpress.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 329,
+      "friends_count": 813,
+      "listed_count": 19,
+      "created_at": "Tue Apr 14 03:20:22 +0000 2009",
+      "favourites_count": 935,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 37611,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/998408560714309632/Q4TfBm7b_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/998408560714309632/Q4TfBm7b_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/31044700/1379266304",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.41617043,
+        115.61908359
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.61908359,
+        -8.41617043
+      ]
+    },
+    "place": {
+      "id": "02fe687fea201ef8",
+      "url": "https://api.twitter.com/1.1/geo/id/02fe687fea201ef8.json",
+      "place_type": "city",
+      "name": "Abang",
+      "full_name": "Abang, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.518094,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.426355
+            ],
+            [
+              115.711528,
+              -8.300467
+            ],
+            [
+              115.518094,
+              -8.300467
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 07:03:57 +0000 2019",
+    "id": 1101377515988361216,
+    "id_str": "1101377515988361216",
+    "text": "RT @hotelsdibali: One upon a time in the morning in Tabanan \u2764\ufe0f \u2600\ufe0f\u2800\nhttps://t.co/frDAWsu6Sk\n#hotelsdibali #hotel #hotels #hotelier #hotelier\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "hotelsdibali",
+          "indices": [
+            91,
+            104
+          ]
+        },
+        {
+          "text": "hotel",
+          "indices": [
+            105,
+            111
+          ]
+        },
+        {
+          "text": "hotels",
+          "indices": [
+            112,
+            119
+          ]
+        },
+        {
+          "text": "hotelier",
+          "indices": [
+            120,
+            129
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hotelsdibali",
+          "name": "Info Hotel & Villa Bali",
+          "id": 992724899524362240,
+          "id_str": "992724899524362240",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/frDAWsu6Sk",
+          "expanded_url": "http://buff.ly/2IiUgvF",
+          "display_url": "buff.ly/2IiUgvF",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://twitter.com/L_Moretti_Foto\" rel=\"nofollow\">Lorezobot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 847415893399187457,
+      "id_str": "847415893399187457",
+      "name": "Lorenzo Moretti Foto",
+      "screen_name": "L_Moretti_Foto",
+      "location": "Palermo, Sicily",
+      "description": "Fotografo siciliano b&w / bianco e nero; blogger di viaggio; motocross aficionado.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 25,
+      "listed_count": 12,
+      "created_at": "Thu Mar 30 11:51:08 +0000 2017",
+      "favourites_count": 1970,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 28752,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/847417176894062592/nVGjuOQ7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/847417176894062592/nVGjuOQ7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/847415893399187457/1490875006",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 01 07:00:14 +0000 2019",
+      "id": 1101376581174480898,
+      "id_str": "1101376581174480898",
+      "text": "One upon a time in the morning in Tabanan \u2764\ufe0f \u2600\ufe0f\u2800\nhttps://t.co/frDAWsu6Sk\n#hotelsdibali #hotel #hotels #hotelier\u2026 https://t.co/90tmeR0Hz4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "hotelsdibali",
+            "indices": [
+              73,
+              86
+            ]
+          },
+          {
+            "text": "hotel",
+            "indices": [
+              87,
+              93
+            ]
+          },
+          {
+            "text": "hotels",
+            "indices": [
+              94,
+              101
+            ]
+          },
+          {
+            "text": "hotelier",
+            "indices": [
+              102,
+              111
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/frDAWsu6Sk",
+            "expanded_url": "http://buff.ly/2IiUgvF",
+            "display_url": "buff.ly/2IiUgvF",
+            "indices": [
+              49,
+              72
+            ]
+          },
+          {
+            "url": "https://t.co/90tmeR0Hz4",
+            "expanded_url": "https://twitter.com/i/web/status/1101376581174480898",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 992724899524362240,
+        "id_str": "992724899524362240",
+        "name": "Info Hotel & Villa Bali",
+        "screen_name": "hotelsdibali",
+        "location": "Bali, Indonesia",
+        "description": "for Villa & Hotel Services :\n\ud83d\udcbbOTA's Manager\n\ud83d\udcf1Social Media Admin | \ninfo@hotelsdibali.com",
+        "url": "https://t.co/UZcrhFLK7G",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UZcrhFLK7G",
+                "expanded_url": "http://hotelsdibali.com",
+                "display_url": "hotelsdibali.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24,
+        "friends_count": 6,
+        "listed_count": 2,
+        "created_at": "Sat May 05 11:17:14 +0000 2018",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 421,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/992725385740632065/IAxVMXN0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/992725385740632065/IAxVMXN0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/992724899524362240/1525519649",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 07:00:14 +0000 2019",
+    "id": 1101376581174480898,
+    "id_str": "1101376581174480898",
+    "text": "One upon a time in the morning in Tabanan \u2764\ufe0f \u2600\ufe0f\u2800\nhttps://t.co/frDAWsu6Sk\n#hotelsdibali #hotel #hotels #hotelier\u2026 https://t.co/90tmeR0Hz4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "hotelsdibali",
+          "indices": [
+            73,
+            86
+          ]
+        },
+        {
+          "text": "hotel",
+          "indices": [
+            87,
+            93
+          ]
+        },
+        {
+          "text": "hotels",
+          "indices": [
+            94,
+            101
+          ]
+        },
+        {
+          "text": "hotelier",
+          "indices": [
+            102,
+            111
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/frDAWsu6Sk",
+          "expanded_url": "http://buff.ly/2IiUgvF",
+          "display_url": "buff.ly/2IiUgvF",
+          "indices": [
+            49,
+            72
+          ]
+        },
+        {
+          "url": "https://t.co/90tmeR0Hz4",
+          "expanded_url": "https://twitter.com/i/web/status/1101376581174480898",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 992724899524362240,
+      "id_str": "992724899524362240",
+      "name": "Info Hotel & Villa Bali",
+      "screen_name": "hotelsdibali",
+      "location": "Bali, Indonesia",
+      "description": "for Villa & Hotel Services :\n\ud83d\udcbbOTA's Manager\n\ud83d\udcf1Social Media Admin | \ninfo@hotelsdibali.com",
+      "url": "https://t.co/UZcrhFLK7G",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/UZcrhFLK7G",
+              "expanded_url": "http://hotelsdibali.com",
+              "display_url": "hotelsdibali.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 24,
+      "friends_count": 6,
+      "listed_count": 2,
+      "created_at": "Sat May 05 11:17:14 +0000 2018",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 421,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/992725385740632065/IAxVMXN0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/992725385740632065/IAxVMXN0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/992724899524362240/1525519649",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

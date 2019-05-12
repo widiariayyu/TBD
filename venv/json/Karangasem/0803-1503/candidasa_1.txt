@@ -1,0 +1,2178 @@
+[
+  {
+    "created_at": "Thu Mar 14 14:58:58 +0000 2019",
+    "id": 1106208100409737223,
+    "id_str": "1106208100409737223",
+    "text": "First night in Candidasa and this slow flow class showed us that we can undo and unlearn and understand more with m\u2026 https://t.co/ceVA62t6YU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ceVA62t6YU",
+          "expanded_url": "https://twitter.com/i/web/status/1106208100409737223",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 785322969648201728,
+      "id_str": "785322969648201728",
+      "name": "Mandy McPherson",
+      "screen_name": "yogiretreats",
+      "location": "",
+      "description": "We travel across this big world. We teach yoga on retreats. We live big, love deep and laugh often! We are Travelling Yogi Retreats and you can come too!",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 56,
+      "friends_count": 97,
+      "listed_count": 2,
+      "created_at": "Mon Oct 10 03:36:01 +0000 2016",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1136,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/785324809660014592/7lvkKrUS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/785324809660014592/7lvkKrUS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/785322969648201728/1476071025",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 14 11:35:33 +0000 2019",
+    "id": 1106156912171732993,
+    "id_str": "1106156912171732993",
+    "text": "RT @luxury__travel: A guide to Candidasa, Bali https://t.co/i0tBltg2tR https://t.co/pGusiyLxdk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "luxury__travel",
+          "name": "A Luxury Travel Blog",
+          "id": 12397052,
+          "id_str": "12397052",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/i0tBltg2tR",
+          "expanded_url": "https://buff.ly/2pjABEn",
+          "display_url": "buff.ly/2pjABEn",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1106135693703761920,
+          "id_str": "1106135693703761920",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1nIjYiX0AAAhke.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1nIjYiX0AAAhke.jpg",
+          "url": "https://t.co/pGusiyLxdk",
+          "display_url": "pic.twitter.com/pGusiyLxdk",
+          "expanded_url": "https://twitter.com/luxury__travel/status/1106135695373058048/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 500,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 500,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1106135695373058048,
+          "source_status_id_str": "1106135695373058048",
+          "source_user_id": 12397052,
+          "source_user_id_str": "12397052"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1106135693703761920,
+          "id_str": "1106135693703761920",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1nIjYiX0AAAhke.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1nIjYiX0AAAhke.jpg",
+          "url": "https://t.co/pGusiyLxdk",
+          "display_url": "pic.twitter.com/pGusiyLxdk",
+          "expanded_url": "https://twitter.com/luxury__travel/status/1106135695373058048/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 500,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 500,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1106135695373058048,
+          "source_status_id_str": "1106135695373058048",
+          "source_user_id": 12397052,
+          "source_user_id_str": "12397052"
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "es",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 508857272,
+      "id_str": "508857272",
+      "name": "Life's A Bargain",
+      "screen_name": "LifesABargain",
+      "location": "New Hampshire",
+      "description": "We LOVE bargains, recipes, travel, DIY, parenting topics and more! Click Follow! \ud83d\ude18",
+      "url": "http://t.co/VDm1Wgag2y",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/VDm1Wgag2y",
+              "expanded_url": "http://www.LifesABargain.net",
+              "display_url": "LifesABargain.net",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 48020,
+      "friends_count": 39778,
+      "listed_count": 611,
+      "created_at": "Wed Feb 29 13:37:37 +0000 2012",
+      "favourites_count": 14185,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 184991,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2731230822/3e01549496224740b398a9f7f7eb3a69_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2731230822/3e01549496224740b398a9f7f7eb3a69_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/508857272/1355770089",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Mar 14 10:11:15 +0000 2019",
+      "id": 1106135695373058048,
+      "id_str": "1106135695373058048",
+      "text": "A guide to Candidasa, Bali https://t.co/i0tBltg2tR https://t.co/pGusiyLxdk",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/i0tBltg2tR",
+            "expanded_url": "https://buff.ly/2pjABEn",
+            "display_url": "buff.ly/2pjABEn",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1106135693703761920,
+            "id_str": "1106135693703761920",
+            "indices": [
+              51,
+              74
+            ],
+            "media_url": "http://pbs.twimg.com/media/D1nIjYiX0AAAhke.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D1nIjYiX0AAAhke.jpg",
+            "url": "https://t.co/pGusiyLxdk",
+            "display_url": "pic.twitter.com/pGusiyLxdk",
+            "expanded_url": "https://twitter.com/luxury__travel/status/1106135695373058048/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 500,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 600,
+                "h": 500,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 600,
+                "h": 500,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1106135693703761920,
+            "id_str": "1106135693703761920",
+            "indices": [
+              51,
+              74
+            ],
+            "media_url": "http://pbs.twimg.com/media/D1nIjYiX0AAAhke.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D1nIjYiX0AAAhke.jpg",
+            "url": "https://t.co/pGusiyLxdk",
+            "display_url": "pic.twitter.com/pGusiyLxdk",
+            "expanded_url": "https://twitter.com/luxury__travel/status/1106135695373058048/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 500,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 600,
+                "h": 500,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 600,
+                "h": 500,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.socialjukebox.com\" rel=\"nofollow\">The Social Jukebox</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 12397052,
+        "id_str": "12397052",
+        "name": "A Luxury Travel Blog",
+        "screen_name": "luxury__travel",
+        "location": "UK",
+        "description": "Blogging on all things luxury travel at https://t.co/FiuCsxDwaL - please contact us via the blog ( https://t.co/uhfPPGjIiC )",
+        "url": "https://t.co/FiuCsxDwaL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/FiuCsxDwaL",
+                "expanded_url": "https://www.aluxurytravelblog.com",
+                "display_url": "aluxurytravelblog.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/FiuCsxDwaL",
+                "expanded_url": "https://www.aluxurytravelblog.com",
+                "display_url": "aluxurytravelblog.com",
+                "indices": [
+                  40,
+                  63
+                ]
+              },
+              {
+                "url": "https://t.co/uhfPPGjIiC",
+                "expanded_url": "https://www.aluxurytravelblog.com/contact-us",
+                "display_url": "aluxurytravelblog.com/contact-us",
+                "indices": [
+                  99,
+                  122
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 716206,
+        "friends_count": 542519,
+        "listed_count": 9800,
+        "created_at": "Fri Jan 18 11:50:27 +0000 2008",
+        "favourites_count": 29368,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 234324,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/503108711326310403/CALnPcq__normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/503108711326310403/CALnPcq__normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/12397052/1408785349",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  {
+    "created_at": "Thu Mar 14 10:11:15 +0000 2019",
+    "id": 1106135695373058048,
+    "id_str": "1106135695373058048",
+    "text": "A guide to Candidasa, Bali https://t.co/i0tBltg2tR https://t.co/pGusiyLxdk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/i0tBltg2tR",
+          "expanded_url": "https://buff.ly/2pjABEn",
+          "display_url": "buff.ly/2pjABEn",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1106135693703761920,
+          "id_str": "1106135693703761920",
+          "indices": [
+            51,
+            74
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1nIjYiX0AAAhke.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1nIjYiX0AAAhke.jpg",
+          "url": "https://t.co/pGusiyLxdk",
+          "display_url": "pic.twitter.com/pGusiyLxdk",
+          "expanded_url": "https://twitter.com/luxury__travel/status/1106135695373058048/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 500,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1106135693703761920,
+          "id_str": "1106135693703761920",
+          "indices": [
+            51,
+            74
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1nIjYiX0AAAhke.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1nIjYiX0AAAhke.jpg",
+          "url": "https://t.co/pGusiyLxdk",
+          "display_url": "pic.twitter.com/pGusiyLxdk",
+          "expanded_url": "https://twitter.com/luxury__travel/status/1106135695373058048/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 500,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "es",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.socialjukebox.com\" rel=\"nofollow\">The Social Jukebox</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 12397052,
+      "id_str": "12397052",
+      "name": "A Luxury Travel Blog",
+      "screen_name": "luxury__travel",
+      "location": "UK",
+      "description": "Blogging on all things luxury travel at https://t.co/FiuCsxDwaL - please contact us via the blog ( https://t.co/uhfPPGjIiC )",
+      "url": "https://t.co/FiuCsxDwaL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/FiuCsxDwaL",
+              "expanded_url": "https://www.aluxurytravelblog.com",
+              "display_url": "aluxurytravelblog.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/FiuCsxDwaL",
+              "expanded_url": "https://www.aluxurytravelblog.com",
+              "display_url": "aluxurytravelblog.com",
+              "indices": [
+                40,
+                63
+              ]
+            },
+            {
+              "url": "https://t.co/uhfPPGjIiC",
+              "expanded_url": "https://www.aluxurytravelblog.com/contact-us",
+              "display_url": "aluxurytravelblog.com/contact-us",
+              "indices": [
+                99,
+                122
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 716206,
+      "friends_count": 542519,
+      "listed_count": 9800,
+      "created_at": "Fri Jan 18 11:50:27 +0000 2008",
+      "favourites_count": 29368,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 234324,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/503108711326310403/CALnPcq__normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/503108711326310403/CALnPcq__normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/12397052/1408785349",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  {
+    "created_at": "Wed Mar 13 00:23:03 +0000 2019",
+    "id": 1105625282151501824,
+    "id_str": "1105625282151501824",
+    "text": "The Watergarden Hotel &amp; Spa - Best Resort in Candidasa Bali https://t.co/Ve0cG9UQIM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ve0cG9UQIM",
+          "expanded_url": "http://www.watergardenhotel.com/",
+          "display_url": "watergardenhotel.com",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 107289175,
+      "id_str": "107289175",
+      "name": "How To Find the Money?",
+      "screen_name": "articlestocks",
+      "location": "United States",
+      "description": "\u201cDo not store up for yourselves treasures on earth, where moths and vermin destroy, and where thieves break in and steal. \" Matthew 6:19-21",
+      "url": "https://t.co/BrjuYGQvQY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/BrjuYGQvQY",
+              "expanded_url": "http://www.howtofindthemoney.com",
+              "display_url": "howtofindthemoney.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 26592,
+      "friends_count": 12,
+      "listed_count": 36,
+      "created_at": "Fri Jan 22 02:54:29 +0000 2010",
+      "favourites_count": 32,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 56738,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FF6699",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/947516183384698880/ksw5l27x_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/947516183384698880/ksw5l27x_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/107289175/1415371000",
+      "profile_link_color": "B40B43",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Mar 12 23:38:27 +0000 2019",
+    "id": 1105614060089827329,
+    "id_str": "1105614060089827329",
+    "text": "Bali Dive Resort &amp; Wellness Retreat | Rama Candidasa | Karangasem, Bali https://t.co/rPTvJ2RSMQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/rPTvJ2RSMQ",
+          "expanded_url": "http://www.ramacandidasahotel.com/",
+          "display_url": "ramacandidasahotel.com",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 107289175,
+      "id_str": "107289175",
+      "name": "How To Find the Money?",
+      "screen_name": "articlestocks",
+      "location": "United States",
+      "description": "\u201cDo not store up for yourselves treasures on earth, where moths and vermin destroy, and where thieves break in and steal. \" Matthew 6:19-21",
+      "url": "https://t.co/BrjuYGQvQY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/BrjuYGQvQY",
+              "expanded_url": "http://www.howtofindthemoney.com",
+              "display_url": "howtofindthemoney.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 26592,
+      "friends_count": 12,
+      "listed_count": 36,
+      "created_at": "Fri Jan 22 02:54:29 +0000 2010",
+      "favourites_count": 32,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 56738,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FF6699",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/947516183384698880/ksw5l27x_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/947516183384698880/ksw5l27x_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/107289175/1415371000",
+      "profile_link_color": "B40B43",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Tue Mar 12 15:08:45 +0000 2019",
+    "id": 1105485789276692481,
+    "id_str": "1105485789276692481",
+    "text": "RT @beritabaik_id: Kalian menikmati senja di mana nih? *Dadah-dadah dari Bali* #beritabaik #beritabaikindonesia #bali #wisata #wisatabali h\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "beritabaik",
+          "indices": [
+            79,
+            90
+          ]
+        },
+        {
+          "text": "beritabaikindonesia",
+          "indices": [
+            91,
+            111
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            112,
+            117
+          ]
+        },
+        {
+          "text": "wisata",
+          "indices": [
+            118,
+            125
+          ]
+        },
+        {
+          "text": "wisatabali",
+          "indices": [
+            126,
+            137
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "beritabaik_id",
+          "name": "beritabaik.id",
+          "id": 928953515593973760,
+          "id_str": "928953515593973760",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 243243816,
+      "id_str": "243243816",
+      "name": "Nita Hidayati",
+      "screen_name": "nengsunshine",
+      "location": "Bandung",
+      "description": "let the tweets tell",
+      "url": "https://t.co/ZPx3vqprTt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ZPx3vqprTt",
+              "expanded_url": "http://haricerahsedunia.blogspot.com",
+              "display_url": "haricerahsedunia.blogspot.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 500,
+      "friends_count": 189,
+      "listed_count": 15,
+      "created_at": "Wed Jan 26 16:37:22 +0000 2011",
+      "favourites_count": 53,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 24755,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811839802924335104/e-IMrzwO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811839802924335104/e-IMrzwO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/243243816/1432277366",
+      "profile_link_color": "5E2778",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "CB65F0",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Mar 12 10:10:15 +0000 2019",
+      "id": 1105410668746878976,
+      "id_str": "1105410668746878976",
+      "text": "Kalian menikmati senja di mana nih? *Dadah-dadah dari Bali* #beritabaik #beritabaikindonesia #bali #wisata\u2026 https://t.co/U20rCa0fIV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "beritabaik",
+            "indices": [
+              60,
+              71
+            ]
+          },
+          {
+            "text": "beritabaikindonesia",
+            "indices": [
+              72,
+              92
+            ]
+          },
+          {
+            "text": "bali",
+            "indices": [
+              93,
+              98
+            ]
+          },
+          {
+            "text": "wisata",
+            "indices": [
+              99,
+              106
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/U20rCa0fIV",
+            "expanded_url": "https://twitter.com/i/web/status/1105410668746878976",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 928953515593973760,
+        "id_str": "928953515593973760",
+        "name": "beritabaik.id",
+        "screen_name": "beritabaik_id",
+        "location": "Indonesia",
+        "description": "We are not only media, we are movement.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 377,
+        "friends_count": 22,
+        "listed_count": 0,
+        "created_at": "Fri Nov 10 11:52:32 +0000 2017",
+        "favourites_count": 21,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3273,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1057117741348319232/vegRDteE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057117741348319232/vegRDteE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/928953515593973760/1540871455",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Tue Mar 12 10:10:15 +0000 2019",
+    "id": 1105410668746878976,
+    "id_str": "1105410668746878976",
+    "text": "Kalian menikmati senja di mana nih? *Dadah-dadah dari Bali* #beritabaik #beritabaikindonesia #bali #wisata\u2026 https://t.co/U20rCa0fIV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "beritabaik",
+          "indices": [
+            60,
+            71
+          ]
+        },
+        {
+          "text": "beritabaikindonesia",
+          "indices": [
+            72,
+            92
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            93,
+            98
+          ]
+        },
+        {
+          "text": "wisata",
+          "indices": [
+            99,
+            106
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/U20rCa0fIV",
+          "expanded_url": "https://twitter.com/i/web/status/1105410668746878976",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 928953515593973760,
+      "id_str": "928953515593973760",
+      "name": "beritabaik.id",
+      "screen_name": "beritabaik_id",
+      "location": "Indonesia",
+      "description": "We are not only media, we are movement.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 377,
+      "friends_count": 22,
+      "listed_count": 0,
+      "created_at": "Fri Nov 10 11:52:32 +0000 2017",
+      "favourites_count": 21,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3273,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057117741348319232/vegRDteE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057117741348319232/vegRDteE_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/928953515593973760/1540871455",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Tue Mar 12 03:33:03 +0000 2019",
+    "id": 1105310711473823744,
+    "id_str": "1105310711473823744",
+    "text": "Kalau ingin melihat bunganya bermekaran, coba tunggu di bulan April dan Mei ya #TemanBaik ;) #beritabaik\u2026 https://t.co/dFkEFMUJuX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TemanBaik",
+          "indices": [
+            79,
+            89
+          ]
+        },
+        {
+          "text": "beritabaik",
+          "indices": [
+            93,
+            104
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dFkEFMUJuX",
+          "expanded_url": "https://twitter.com/i/web/status/1105310711473823744",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 928953515593973760,
+      "id_str": "928953515593973760",
+      "name": "beritabaik.id",
+      "screen_name": "beritabaik_id",
+      "location": "Indonesia",
+      "description": "We are not only media, we are movement.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 377,
+      "friends_count": 22,
+      "listed_count": 0,
+      "created_at": "Fri Nov 10 11:52:32 +0000 2017",
+      "favourites_count": 21,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3273,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057117741348319232/vegRDteE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057117741348319232/vegRDteE_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/928953515593973760/1540871455",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Tue Mar 12 02:11:32 +0000 2019",
+    "id": 1105290195987910656,
+    "id_str": "1105290195987910656",
+    "text": "https://t.co/RENbEP9crr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/RENbEP9crr",
+          "expanded_url": "http://hhrmahotelbali.com/2019/03/pondok-pisang-candidasa-2.html",
+          "display_url": "hhrmahotelbali.com/2019/03/pondok\u2026",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2530204741,
+      "id_str": "2530204741",
+      "name": "HHRMA Hotel Bali",
+      "screen_name": "HHRMAHotelBali",
+      "location": "Bali",
+      "description": "Provide hotel job information in Bali",
+      "url": "http://t.co/7JJArtmpOn",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/7JJArtmpOn",
+              "expanded_url": "http://hhrmahotelbali.com",
+              "display_url": "hhrmahotelbali.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1915,
+      "friends_count": 1,
+      "listed_count": 4,
+      "created_at": "Wed May 28 14:53:13 +0000 2014",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20120,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/471666878159400960/_-3K6SGN_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/471666878159400960/_-3K6SGN_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2530204741/1401289134",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Mon Mar 11 11:59:32 +0000 2019",
+    "id": 1105075780562882561,
+    "id_str": "1105075780562882561",
+    "text": "Sunset di Pantai Candidasa, Karangasem, Bali.\n\n__\n\n#Bali\n#Beach\n#Sunset\n#BaliDaily \n#Candidasa\n#ExploreBali\u2026 https://t.co/CqNKNo8dEj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Bali",
+          "indices": [
+            51,
+            56
+          ]
+        },
+        {
+          "text": "Beach",
+          "indices": [
+            57,
+            63
+          ]
+        },
+        {
+          "text": "Sunset",
+          "indices": [
+            64,
+            71
+          ]
+        },
+        {
+          "text": "BaliDaily",
+          "indices": [
+            72,
+            82
+          ]
+        },
+        {
+          "text": "Candidasa",
+          "indices": [
+            84,
+            94
+          ]
+        },
+        {
+          "text": "ExploreBali",
+          "indices": [
+            95,
+            107
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/CqNKNo8dEj",
+          "expanded_url": "https://twitter.com/i/web/status/1105075780562882561",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 546601893,
+      "id_str": "546601893",
+      "name": "Djuli Pamungkas",
+      "screen_name": "pdjuli",
+      "location": "",
+      "description": "in sharps we trust | in flames we blast",
+      "url": "https://t.co/EEIAdRWsGy",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/EEIAdRWsGy",
+              "expanded_url": "https://www.instagram.com/pdjuli/",
+              "display_url": "instagram.com/pdjuli/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 441,
+      "friends_count": 245,
+      "listed_count": 1,
+      "created_at": "Fri Apr 06 04:36:41 +0000 2012",
+      "favourites_count": 40,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 6609,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "00070A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/760221274484322304/BgzSMu-a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/760221274484322304/BgzSMu-a_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/546601893/1543231865",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Mar 10 12:30:42 +0000 2019",
+    "id": 1104721239548010496,
+    "id_str": "1104721239548010496",
+    "text": "#justforlaughs \n\nWe had so much fun exploring Candidasa, Bali in 2018! \n\nS/O to Agoos for providing us with hilario\u2026 https://t.co/L6gb58J4ZD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "justforlaughs",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/L6gb58J4ZD",
+          "expanded_url": "https://twitter.com/i/web/status/1104721239548010496",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 200203768,
+      "id_str": "200203768",
+      "name": "Irshaad Ally",
+      "screen_name": "IrshaadAlly",
+      "location": "Cape Town South Africa",
+      "description": "ACTOR | HUMANIST\u2757\ufe0fFourCorners film | Nommer37 film | Suidooster |Agitprop #DWJM #DalaWatJyMoet irshaadally@yahoo.co.uk",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3575,
+      "friends_count": 2256,
+      "listed_count": 31,
+      "created_at": "Fri Oct 08 18:11:58 +0000 2010",
+      "favourites_count": 839,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4493,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/877038563040403456/W7IwG_gJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/877038563040403456/W7IwG_gJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/200203768/1409119720",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.5086814,
+        115.56617837
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.56617837,
+        -8.5086814
+      ]
+    },
+    "place": {
+      "id": "72a57ef7f22225ee",
+      "url": "https://api.twitter.com/1.1/geo/id/72a57ef7f22225ee.json",
+      "place_type": "city",
+      "name": "Karangasem",
+      "full_name": "Karangasem, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.5640551,
+              -8.517242
+            ],
+            [
+              115.710903,
+              -8.517242
+            ],
+            [
+              115.710903,
+              -8.388731
+            ],
+            [
+              115.5640551,
+              -8.388731
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 09 00:41:03 +0000 2019",
+    "id": 1104180261326073856,
+    "id_str": "1104180261326073856",
+    "text": "Villa Gusmania \u2605\u2605\u2605\u2605 #Indonesia #Candidasa | https://t.co/BDXsz77DDE https://t.co/YhIlEQi03N",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Indonesia",
+          "indices": [
+            20,
+            30
+          ]
+        },
+        {
+          "text": "Candidasa",
+          "indices": [
+            31,
+            41
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/BDXsz77DDE",
+          "expanded_url": "http://tripvena.com/en/villa-gusmania,o.html",
+          "display_url": "tripvena.com/en/villa-gusma\u2026",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1104180259925180417,
+          "id_str": "1104180259925180417",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1LWGKDWwAEdlHZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1LWGKDWwAEdlHZ.jpg",
+          "url": "https://t.co/YhIlEQi03N",
+          "display_url": "pic.twitter.com/YhIlEQi03N",
+          "expanded_url": "https://twitter.com/tripvena_com/status/1104180261326073856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 853,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1104180259925180417,
+          "id_str": "1104180259925180417",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1LWGKDWwAEdlHZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1LWGKDWwAEdlHZ.jpg",
+          "url": "https://t.co/YhIlEQi03N",
+          "display_url": "pic.twitter.com/YhIlEQi03N",
+          "expanded_url": "https://twitter.com/tripvena_com/status/1104180261326073856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 853,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "es",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.tripvena.com\" rel=\"nofollow\">Tripvena</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3674766621,
+      "id_str": "3674766621",
+      "name": "Tripvena",
+      "screen_name": "tripvena_com",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 373,
+      "friends_count": 0,
+      "listed_count": 314,
+      "created_at": "Wed Sep 16 12:41:22 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 55891,
+      "lang": "pl",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  {
+    "created_at": "Fri Mar 08 08:49:41 +0000 2019",
+    "id": 1103940843545681920,
+    "id_str": "1103940843545681920",
+    "text": "Candidasa is not Lembongan is not Nusa Penida is not Mushroom Bay, https://t.co/U48NBiXKcF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/U48NBiXKcF",
+          "expanded_url": "http://booking.com",
+          "display_url": "booking.com",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14131091,
+      "id_str": "14131091",
+      "name": "Marc Jacobs",
+      "screen_name": "indorover",
+      "location": "Denpasar, Bali",
+      "description": "Belgian old hand in Bali. Shuttling between Indonesia and Europe. Traveling a lot. Micro blogging my life in the process.",
+      "url": "http://t.co/5NLC7C109Y",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/5NLC7C109Y",
+              "expanded_url": "http://www.indonesiatravelplan.com",
+              "display_url": "indonesiatravelplan.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2760,
+      "friends_count": 2755,
+      "listed_count": 36,
+      "created_at": "Wed Mar 12 09:41:40 +0000 2008",
+      "favourites_count": 1250,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 18144,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1138484778/New-Twitter-Image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138484778/New-Twitter-Image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14131091/1398244228",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 08 01:23:34 +0000 2019",
+    "id": 1103828573977235456,
+    "id_str": "1103828573977235456",
+    "text": "GROWTH &amp; REFLECTION TRAINING 2019\n\"Mengimplementasikan Filosofi Catur Purusa Artha dalam Manajemen Monarch Bali-Can\u2026 https://t.co/DfYaKYGMMu",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/DfYaKYGMMu",
+          "expanded_url": "https://twitter.com/i/web/status/1103828573977235456",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 497755426,
+      "id_str": "497755426",
+      "name": "Monarch Bali",
+      "screen_name": "MonarchBali",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 110,
+      "friends_count": 3,
+      "listed_count": 0,
+      "created_at": "Mon Feb 20 09:58:42 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1081,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1840481720/logo_monarch_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1840481720/logo_monarch_normal.png",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  }
+]

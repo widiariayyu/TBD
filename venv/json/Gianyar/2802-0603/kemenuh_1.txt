@@ -1,0 +1,2832 @@
+[
+  {
+    "created_at": "Tue Mar 05 21:48:19 +0000 2019",
+    "id": 1103049625844490240,
+    "id_str": "1103049625844490240",
+    "text": "The Rather Expensive Kemenuh Bali #Butterfly Park \n\nhttps://t.co/6PRwBVfK3s\n\n#travel #lookatourworld #travelbloging\u2026 https://t.co/5lwXHB8AWe",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Butterfly",
+          "indices": [
+            34,
+            44
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            77,
+            84
+          ]
+        },
+        {
+          "text": "lookatourworld",
+          "indices": [
+            85,
+            100
+          ]
+        },
+        {
+          "text": "travelbloging",
+          "indices": [
+            101,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/6PRwBVfK3s",
+          "expanded_url": "https://www.lookatourworld.com/rather-expensive-kemenuh-butterfly-park-bali/",
+          "display_url": "lookatourworld.com/rather-expensi\u2026",
+          "indices": [
+            52,
+            75
+          ]
+        },
+        {
+          "url": "https://t.co/5lwXHB8AWe",
+          "expanded_url": "https://twitter.com/i/web/status/1103049625844490240",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.totaltraveltag.com\" rel=\"nofollow\">Total Travel TAG</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3367442625,
+      "id_str": "3367442625",
+      "name": "Look at our World",
+      "screen_name": "NomadicBrits",
+      "location": "Currently in the UK",
+      "description": "#travelblogger online magazine, written by travellers, for travellers. Currently over 400 articles and counting",
+      "url": "https://t.co/DSDuSczdMd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/DSDuSczdMd",
+              "expanded_url": "http://www.lookatourworld.com",
+              "display_url": "lookatourworld.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 18910,
+      "friends_count": 14929,
+      "listed_count": 271,
+      "created_at": "Thu Jul 09 11:34:26 +0000 2015",
+      "favourites_count": 153,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 35294,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3367442625/1537198080",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Mar 05 03:17:18 +0000 2019",
+    "id": 1102770032923299840,
+    "id_str": "1102770032923299840",
+    "text": "TANAH di UBUD JUAL MURAH 40 Are View Kebun / tebing \" Tanah  View Kebun / tebing yang dijual murah di UBUD ini memi\u2026 https://t.co/kTQnq2FHkK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/kTQnq2FHkK",
+          "expanded_url": "https://twitter.com/i/web/status/1102770032923299840",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Tue Mar 05 02:35:56 +0000 2019",
+    "id": 1102759621322829829,
+    "id_str": "1102759621322829829",
+    "text": "TANAH MURAH  di UBUD BALI DIJUAL 4,000 m2  View Kebun / tebing \" Tanah dijual di UBUD seluas 4,000 m2 ( 40 are ) in\u2026 https://t.co/HlgivfSja7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/HlgivfSja7",
+          "expanded_url": "https://twitter.com/i/web/status/1102759621322829829",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 10:48:56 +0000 2019",
+    "id": 1102521298792665088,
+    "id_str": "1102521298792665088",
+    "text": "FOR SALE Magnificent PROPERTY 4,000 m2 LAND IN UBUD TJUB661 \" Located in Kemenuh, Ubud Gianyar this Freehold 4,000\u2026 https://t.co/GGSNEwuXMk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/GGSNEwuXMk",
+          "expanded_url": "https://twitter.com/i/web/status/1102521298792665088",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 10:07:30 +0000 2019",
+    "id": 1102510871455195137,
+    "id_str": "1102510871455195137",
+    "text": "Magnificent PROPERTY LAND IN Ubud Gianyar BALI FOR SALE TJUB661 \" This Cheap 4,000 m2 LAND FOR SALE IN BALI is loca\u2026 https://t.co/RgBbs0N2n4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/RgBbs0N2n4",
+          "expanded_url": "https://twitter.com/i/web/status/1102510871455195137",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 08:59:26 +0000 2019",
+    "id": 1102493744048336897,
+    "id_str": "1102493744048336897",
+    "text": "FOR SALE 4,000 m2 LAND IN Ubud Gianyar BALI TJUB661 \" This affordable 4,000 m2 LAND FOR SALE IN UBUD BALI is locate\u2026 https://t.co/xwVspHfIv9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xwVspHfIv9",
+          "expanded_url": "https://twitter.com/i/web/status/1102493744048336897",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 08:34:21 +0000 2019",
+    "id": 1102487432463831040,
+    "id_str": "1102487432463831040",
+    "text": "Exotic PROPERTY LAND FOR SALE IN Ubud Gianyar BALI TJUB661 \" Located in Kemenuh, Ubud Gianyar this affordable 4,000\u2026 https://t.co/M32goyN5gL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/M32goyN5gL",
+          "expanded_url": "https://twitter.com/i/web/status/1102487432463831040",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 08:18:03 +0000 2019",
+    "id": 1102483331344752640,
+    "id_str": "1102483331344752640",
+    "text": "Magnificent LAND IN Ubud Gianyar FOR SALE TJUB661 \" Located in Kemenuh, Ubud Gianyar this affordable 4,000 sqm PROP\u2026 https://t.co/XY7IRYHRFQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/XY7IRYHRFQ",
+          "expanded_url": "https://twitter.com/i/web/status/1102483331344752640",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 01:57:01 +0000 2019",
+    "id": 1102387438096392195,
+    "id_str": "1102387438096392195",
+    "text": "Magnificent PROPERTY 4,000 m2 LAND SALE IN UBUD TJUB661 \" Featuring Amazing cliff / Valley and green lush view this\u2026 https://t.co/LedjZnjg08",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LedjZnjg08",
+          "expanded_url": "https://twitter.com/i/web/status/1102387438096392195",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 01:15:36 +0000 2019",
+    "id": 1102377018178654210,
+    "id_str": "1102377018178654210",
+    "text": "Magnificent PROPERTY Ubud Gianyar BALI LAND FOR SALE TJUB661 \" Featuring Beautiful cliff / Valley and green lush vi\u2026 https://t.co/Ay8JAcvykX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ay8JAcvykX",
+          "expanded_url": "https://twitter.com/i/web/status/1102377018178654210",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 03 18:51:47 +0000 2019",
+    "id": 1102280425618239495,
+    "id_str": "1102280425618239495",
+    "text": "The Rather Expensive Kemenuh Bali #Butterfly Park \n\nhttps://t.co/6PRwBVfK3s\n\n#travel #lookatourworld #travelbloging\u2026 https://t.co/qenS3LxCo0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Butterfly",
+          "indices": [
+            34,
+            44
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            77,
+            84
+          ]
+        },
+        {
+          "text": "lookatourworld",
+          "indices": [
+            85,
+            100
+          ]
+        },
+        {
+          "text": "travelbloging",
+          "indices": [
+            101,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/6PRwBVfK3s",
+          "expanded_url": "https://www.lookatourworld.com/rather-expensive-kemenuh-butterfly-park-bali/",
+          "display_url": "lookatourworld.com/rather-expensi\u2026",
+          "indices": [
+            52,
+            75
+          ]
+        },
+        {
+          "url": "https://t.co/qenS3LxCo0",
+          "expanded_url": "https://twitter.com/i/web/status/1102280425618239495",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.totaltraveltag.com\" rel=\"nofollow\">Total Travel TAG</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3367442625,
+      "id_str": "3367442625",
+      "name": "Look at our World",
+      "screen_name": "NomadicBrits",
+      "location": "Currently in the UK",
+      "description": "#travelblogger online magazine, written by travellers, for travellers. Currently over 400 articles and counting",
+      "url": "https://t.co/DSDuSczdMd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/DSDuSczdMd",
+              "expanded_url": "http://www.lookatourworld.com",
+              "display_url": "lookatourworld.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 18910,
+      "friends_count": 14929,
+      "listed_count": 271,
+      "created_at": "Thu Jul 09 11:34:26 +0000 2015",
+      "favourites_count": 153,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 35294,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3367442625/1537198080",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 03 01:15:41 +0000 2019",
+    "id": 1102014647333519362,
+    "id_str": "1102014647333519362",
+    "text": "Biar senyum kita mengalahkan dunia @ Desa Kemenuh Sukawati Gianyar https://t.co/O02FiDIOWO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/O02FiDIOWO",
+          "expanded_url": "https://www.instagram.com/p/BuhwGoHlEXH/?utm_source=ig_twitter_share&igshid=1bhrfiir4ckr5",
+          "display_url": "instagram.com/p/BuhwGoHlEXH/\u2026",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 280359404,
+      "id_str": "280359404",
+      "name": "Mangmardani",
+      "screen_name": "NKTM_RUBY",
+      "location": "BALI Indonesia",
+      "description": "Super Junior, Wanna One, Korean hallyu, Coffe, Moisturizer addicted",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1566,
+      "friends_count": 1478,
+      "listed_count": 2,
+      "created_at": "Mon Apr 11 05:31:40 +0000 2011",
+      "favourites_count": 146,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12774,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/955347105769406464/N5gdv1LL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/955347105769406464/N5gdv1LL_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/280359404/1515333903",
+      "profile_link_color": "89C9FA",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.55950698,
+        115.28880127
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.28880127,
+        -8.55950698
+      ]
+    },
+    "place": {
+      "id": "526b5b0a9ee00dc6",
+      "url": "https://api.twitter.com/1.1/geo/id/526b5b0a9ee00dc6.json",
+      "place_type": "city",
+      "name": "Sukawati",
+      "full_name": "Sukawati, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.233006,
+              -8.650439
+            ],
+            [
+              115.316435,
+              -8.650439
+            ],
+            [
+              115.316435,
+              -8.516465
+            ],
+            [
+              115.233006,
+              -8.516465
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sat Mar 02 04:23:56 +0000 2019",
+    "id": 1101699637344231424,
+    "id_str": "1101699637344231424",
+    "text": "Exotic PROPERTY LAND IN Ubud Gianyar BALI FOR SALE TJUB661 \" This Freehold 4,000 m2 LAND IN BALI FOR SALE is locate\u2026 https://t.co/qanfY7q8hB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/qanfY7q8hB",
+          "expanded_url": "https://twitter.com/i/web/status/1101699637344231424",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 606263382,
+      "id_str": "606263382",
+      "name": "Made in Bali",
+      "screen_name": "MadeinBali",
+      "location": "bali, indonesia",
+      "description": "Bali Property Professional, offering house, villa and land for sale in Ubud, Canggu, Jimbaran and Tabanan Bali. http://t.co/SHmzk8kwhx & http://t.co/zJC1WBnmTA",
+      "url": "http://t.co/bLDvTEseAH",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/bLDvTEseAH",
+              "expanded_url": "http://rumahditanahbali.com",
+              "display_url": "rumahditanahbali.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/SHmzk8kwhx",
+              "expanded_url": "http://www.baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                112,
+                134
+              ]
+            },
+            {
+              "url": "http://t.co/zJC1WBnmTA",
+              "expanded_url": "http://www.balirealproperty.com",
+              "display_url": "balirealproperty.com",
+              "indices": [
+                137,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 214,
+      "friends_count": 216,
+      "listed_count": 13,
+      "created_at": "Tue Jun 12 09:37:35 +0000 2012",
+      "favourites_count": 6,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 99726,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2301333380/bali_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2301333380/bali_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/606263382/1521790816",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 02 03:42:33 +0000 2019",
+    "id": 1101689222820331520,
+    "id_str": "1101689222820331520",
+    "text": "FOR SALE Beautiful PROPERTY 4,000 m2 LAND IN UBUD TJUB661 \" Located in Kemenuh, Ubud Gianyar this affordable 4,000\u2026 https://t.co/hip5k2ad1m",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/hip5k2ad1m",
+          "expanded_url": "https://twitter.com/i/web/status/1101689222820331520",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 15:09:19 +0000 2019",
+    "id": 1101499663063154688,
+    "id_str": "1101499663063154688",
+    "text": "The Rather Expensive Kemenuh Bali #Butterfly Park \n\nhttps://t.co/6PRwBVfK3s\n\n#travel #lookatourworld #travelbloging\u2026 https://t.co/8t8qd5hAoi",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Butterfly",
+          "indices": [
+            34,
+            44
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            77,
+            84
+          ]
+        },
+        {
+          "text": "lookatourworld",
+          "indices": [
+            85,
+            100
+          ]
+        },
+        {
+          "text": "travelbloging",
+          "indices": [
+            101,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/6PRwBVfK3s",
+          "expanded_url": "https://www.lookatourworld.com/rather-expensive-kemenuh-butterfly-park-bali/",
+          "display_url": "lookatourworld.com/rather-expensi\u2026",
+          "indices": [
+            52,
+            75
+          ]
+        },
+        {
+          "url": "https://t.co/8t8qd5hAoi",
+          "expanded_url": "https://twitter.com/i/web/status/1101499663063154688",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.totaltraveltag.com\" rel=\"nofollow\">Total Travel TAG</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3367442625,
+      "id_str": "3367442625",
+      "name": "Look at our World",
+      "screen_name": "NomadicBrits",
+      "location": "Currently in the UK",
+      "description": "#travelblogger online magazine, written by travellers, for travellers. Currently over 400 articles and counting",
+      "url": "https://t.co/DSDuSczdMd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/DSDuSczdMd",
+              "expanded_url": "http://www.lookatourworld.com",
+              "display_url": "lookatourworld.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 18910,
+      "friends_count": 14929,
+      "listed_count": 271,
+      "created_at": "Thu Jul 09 11:34:26 +0000 2015",
+      "favourites_count": 153,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 35294,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/847240152254525441/5iLZEdEV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3367442625/1537198080",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 04:17:19 +0000 2019",
+    "id": 1101335583027273734,
+    "id_str": "1101335583027273734",
+    "text": "TANAH di UBUD DIJUAL MURAH 4 Are di Ubud Gianyar \" Tanah murah di UBUD ini Berlokasi cukup strategis Dekat Villa No\u2026 https://t.co/Yf7Rgg1ATX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Yf7Rgg1ATX",
+          "expanded_url": "https://twitter.com/i/web/status/1101335583027273734",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Mar 01 03:52:33 +0000 2019",
+    "id": 1101329351503765505,
+    "id_str": "1101329351503765505",
+    "text": "Affordable 4,000 m2 LAND SALE IN Ubud Gianyar BALI TJUB661 \" Located in Kemenuh, Ubud Gianyar this affordable 4,000\u2026 https://t.co/5vkBUP6B6g",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/5vkBUP6B6g",
+          "expanded_url": "https://twitter.com/i/web/status/1101329351503765505",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 03:35:54 +0000 2019",
+    "id": 1101325161427623938,
+    "id_str": "1101325161427623938",
+    "text": "Affordable PROPERTY UBUD 4,000 m2 LAND FOR SALE TJUB661 \" This affordable 4,000 m2 LAND FOR SALE IN UBUD BALI is lo\u2026 https://t.co/SWDfb2ZmQ1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/SWDfb2ZmQ1",
+          "expanded_url": "https://twitter.com/i/web/status/1101325161427623938",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 14:00:05 +0000 2019",
+    "id": 1101119852855603202,
+    "id_str": "1101119852855603202",
+    "text": "INVESTASI PROPERTY, JUAL TANAH MURAH di UBUD TJUB661 \" Tanah dijual di UBUD seluas 4,000 m2 ( 40 are ) ini menawark\u2026 https://t.co/tJKy6jRwQ4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/tJKy6jRwQ4",
+          "expanded_url": "https://twitter.com/i/web/status/1101119852855603202",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 606263382,
+      "id_str": "606263382",
+      "name": "Made in Bali",
+      "screen_name": "MadeinBali",
+      "location": "bali, indonesia",
+      "description": "Bali Property Professional, offering house, villa and land for sale in Ubud, Canggu, Jimbaran and Tabanan Bali. http://t.co/SHmzk8kwhx & http://t.co/zJC1WBnmTA",
+      "url": "http://t.co/bLDvTEseAH",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/bLDvTEseAH",
+              "expanded_url": "http://rumahditanahbali.com",
+              "display_url": "rumahditanahbali.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/SHmzk8kwhx",
+              "expanded_url": "http://www.baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                112,
+                134
+              ]
+            },
+            {
+              "url": "http://t.co/zJC1WBnmTA",
+              "expanded_url": "http://www.balirealproperty.com",
+              "display_url": "balirealproperty.com",
+              "indices": [
+                137,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 214,
+      "friends_count": 216,
+      "listed_count": 13,
+      "created_at": "Tue Jun 12 09:37:35 +0000 2012",
+      "favourites_count": 6,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 99726,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2301333380/bali_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2301333380/bali_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/606263382/1521790816",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Thu Feb 28 13:43:48 +0000 2019",
+    "id": 1101115755305857025,
+    "id_str": "1101115755305857025",
+    "text": "TANAH di UBUD DIJUAL MURAH Untuk INVESTASI TJUB661 \" Tanah 40 are yang dijual di UBUD ini menyajikan view Kebun / t\u2026 https://t.co/fs4LOR8ZPa",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fs4LOR8ZPa",
+          "expanded_url": "https://twitter.com/i/web/status/1101115755305857025",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 606263382,
+      "id_str": "606263382",
+      "name": "Made in Bali",
+      "screen_name": "MadeinBali",
+      "location": "bali, indonesia",
+      "description": "Bali Property Professional, offering house, villa and land for sale in Ubud, Canggu, Jimbaran and Tabanan Bali. http://t.co/SHmzk8kwhx & http://t.co/zJC1WBnmTA",
+      "url": "http://t.co/bLDvTEseAH",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/bLDvTEseAH",
+              "expanded_url": "http://rumahditanahbali.com",
+              "display_url": "rumahditanahbali.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/SHmzk8kwhx",
+              "expanded_url": "http://www.baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                112,
+                134
+              ]
+            },
+            {
+              "url": "http://t.co/zJC1WBnmTA",
+              "expanded_url": "http://www.balirealproperty.com",
+              "display_url": "balirealproperty.com",
+              "indices": [
+                137,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 214,
+      "friends_count": 216,
+      "listed_count": 13,
+      "created_at": "Tue Jun 12 09:37:35 +0000 2012",
+      "favourites_count": 6,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 99726,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2301333380/bali_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2301333380/bali_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/606263382/1521790816",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Thu Feb 28 10:08:17 +0000 2019",
+    "id": 1101061517141786624,
+    "id_str": "1101061517141786624",
+    "text": "Exotic LAND FOR SALE IN Ubud Gianyar TJUB661 \" Featuring Interesting cliff / Valley and green lush view this Cheap\u2026 https://t.co/SweXsDflOY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/SweXsDflOY",
+          "expanded_url": "https://twitter.com/i/web/status/1101061517141786624",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 606263382,
+      "id_str": "606263382",
+      "name": "Made in Bali",
+      "screen_name": "MadeinBali",
+      "location": "bali, indonesia",
+      "description": "Bali Property Professional, offering house, villa and land for sale in Ubud, Canggu, Jimbaran and Tabanan Bali. http://t.co/SHmzk8kwhx & http://t.co/zJC1WBnmTA",
+      "url": "http://t.co/bLDvTEseAH",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/bLDvTEseAH",
+              "expanded_url": "http://rumahditanahbali.com",
+              "display_url": "rumahditanahbali.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/SHmzk8kwhx",
+              "expanded_url": "http://www.baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                112,
+                134
+              ]
+            },
+            {
+              "url": "http://t.co/zJC1WBnmTA",
+              "expanded_url": "http://www.balirealproperty.com",
+              "display_url": "balirealproperty.com",
+              "indices": [
+                137,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 214,
+      "friends_count": 216,
+      "listed_count": 13,
+      "created_at": "Tue Jun 12 09:37:35 +0000 2012",
+      "favourites_count": 6,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 99726,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2301333380/bali_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2301333380/bali_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/606263382/1521790816",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 09:26:53 +0000 2019",
+    "id": 1101051100441051138,
+    "id_str": "1101051100441051138",
+    "text": "Beautiful Ubud Gianyar LAND FOR SALE TJUB661 \" This affordable 4,000 m2 PROPERTY FOR SALE IN UBUD BALI is located i\u2026 https://t.co/70ykShdO15",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/70ykShdO15",
+          "expanded_url": "https://twitter.com/i/web/status/1101051100441051138",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 09:14:48 +0000 2019",
+    "id": 1101048060627439616,
+    "id_str": "1101048060627439616",
+    "text": "TANAH di UBUD BALI DIJUAL MURAH Untuk INVESTASI TJUB659 \" Tanah dijual di UBUD seluas 400 m2 ( 4 are ) ini menawark\u2026 https://t.co/GFhix58drC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/GFhix58drC",
+          "expanded_url": "https://twitter.com/i/web/status/1101048060627439616",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Thu Feb 28 06:24:45 +0000 2019",
+    "id": 1101005264940093440,
+    "id_str": "1101005264940093440",
+    "text": "FOR SALE Affordable 4,000 m2 LAND IN Ubud Gianyar BALI TJUB661 \" This Freehold 4,000 m2 LAND IN BALI FOR SALE is lo\u2026 https://t.co/EMjxTEXo2P",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/EMjxTEXo2P",
+          "expanded_url": "https://twitter.com/i/web/status/1101005264940093440",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 06:08:26 +0000 2019",
+    "id": 1101001159068794880,
+    "id_str": "1101001159068794880",
+    "text": "Magnificent PROPERTY LAND FOR SALE IN Ubud Gianyar BALI TJUB661 \" Located in Kemenuh, Ubud Gianyar this Freehold 4,\u2026 https://t.co/tl0F17MkFs",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/tl0F17MkFs",
+          "expanded_url": "https://twitter.com/i/web/status/1101001159068794880",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816750846,
+      "id_str": "816750846",
+      "name": "Bali Wonderland",
+      "screen_name": "BaliWonderland",
+      "location": "Denpasar, Bali, Indonesia",
+      "description": "All about Bali and Property. Land, Villa, Hotel, House for sale or rent in Jimbaran, Canggu, Ubud, Sanur, Kuta, Nusadua, Denpasar, Tabanan,Gianyar etc.",
+      "url": "http://t.co/ImZpIpm9tz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ImZpIpm9tz",
+              "expanded_url": "http://baliwonderland.com",
+              "display_url": "baliwonderland.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 349,
+      "friends_count": 35,
+      "listed_count": 0,
+      "created_at": "Tue Sep 11 05:32:17 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 264055,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2598414234/jual_rumah_tanah_di_bali__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

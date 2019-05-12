@@ -1,0 +1,1604 @@
+[
+  {
+    "created_at": "Tue Mar 05 07:47:40 +0000 2019",
+    "id": 1102838071605760000,
+    "id_str": "1102838071605760000",
+    "text": "Che ne dici di una vacanza tutto diving a Bali alla ricerca delle immersioni pi\u00f9 belle della tua vita? Prenota subi\u2026 https://t.co/dKbXvED9Me",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dKbXvED9Me",
+          "expanded_url": "https://twitter.com/i/web/status/1102838071605760000",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "it",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1037400152,
+      "id_str": "1037400152",
+      "name": "Bollicineviaggi",
+      "screen_name": "Bollicineviaggi",
+      "location": "FUNO DI ARGELATO",
+      "description": "Via Galliera 190 tel 051-860190",
+      "url": "http://t.co/DnNW7ppt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/DnNW7ppt",
+              "expanded_url": "http://www.bollicineviaggi.it",
+              "display_url": "bollicineviaggi.it",
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 98,
+      "friends_count": 291,
+      "listed_count": 7,
+      "created_at": "Wed Dec 26 15:35:55 +0000 2012",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 19962,
+      "lang": "it",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "B2DFDA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/703532136981250049/eErq26UP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/703532136981250049/eErq26UP_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1037400152/1456654323",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "it"
+  },
+  {
+    "created_at": "Tue Mar 05 05:32:11 +0000 2019",
+    "id": 1102803975890497536,
+    "id_str": "1102803975890497536",
+    "text": "Seminyak villa located near the beach, a beachfront villa in Candidasa and a villa for sale by the owner -\u2026 https://t.co/erV7RYMYYy",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/erV7RYMYYy",
+          "expanded_url": "https://twitter.com/i/web/status/1102803975890497536",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.mailchimp.com\" rel=\"nofollow\">MailChimp</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 295040997,
+      "id_str": "295040997",
+      "name": "Balicasa Properties",
+      "screen_name": "balicasa",
+      "location": "Jimbaran",
+      "description": "",
+      "url": "https://t.co/86ule0RgtZ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/86ule0RgtZ",
+              "expanded_url": "http://www.balicasa-properties.com",
+              "display_url": "balicasa-properties.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 414,
+      "friends_count": 642,
+      "listed_count": 0,
+      "created_at": "Sun May 08 07:51:20 +0000 2011",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 240,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000052061283/48a8e30ae7c939f3a5956b90b9e881b8_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000052061283/48a8e30ae7c939f3a5956b90b9e881b8_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/295040997/1372309178",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 13:33:58 +0000 2019",
+    "id": 1102562833449926657,
+    "id_str": "1102562833449926657",
+    "text": "Pura candidasa https://t.co/S1hJLQGPvR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1102562741829611520,
+          "id_str": "1102562741829611520",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/D00W-NlVsAA5h2S.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D00W-NlVsAA5h2S.jpg",
+          "url": "https://t.co/S1hJLQGPvR",
+          "display_url": "pic.twitter.com/S1hJLQGPvR",
+          "expanded_url": "https://twitter.com/EggaMahardika1/status/1102562833449926657/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 917,
+              "h": 1618,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 385,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 680,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1102562741829611520,
+          "id_str": "1102562741829611520",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/D00W-NlVsAA5h2S.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D00W-NlVsAA5h2S.jpg",
+          "url": "https://t.co/S1hJLQGPvR",
+          "display_url": "pic.twitter.com/S1hJLQGPvR",
+          "expanded_url": "https://twitter.com/EggaMahardika1/status/1102562833449926657/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 917,
+              "h": 1618,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 385,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 680,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "es",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1097329220676575232,
+      "id_str": "1097329220676575232",
+      "name": "Egga Mahardika",
+      "screen_name": "EggaMahardika1",
+      "location": "Bali, Indonesia",
+      "description": "kuliah -buka usaha -s.ked - dokter -nikah - sp. ortho - investasi - buka klinik inap -DPRD bali - bupati karangasem - gubernur bali - moksa",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3,
+      "friends_count": 37,
+      "listed_count": 0,
+      "created_at": "Mon Feb 18 02:57:28 +0000 2019",
+      "favourites_count": 10,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 53,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1097488274765934592/EUoI9fNQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097488274765934592/EUoI9fNQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097329220676575232/1550540336",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  {
+    "created_at": "Mon Mar 04 07:34:18 +0000 2019",
+    "id": 1102472320105381888,
+    "id_str": "1102472320105381888",
+    "text": "https://t.co/L4OFLTVgZh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/L4OFLTVgZh",
+          "expanded_url": "http://hhrmahotelbali.com/2019/03/the-watergaden-hotel-restaurant-and-spa-candidasa-3.html",
+          "display_url": "hhrmahotelbali.com/2019/03/the-wa\u2026",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2530204741,
+      "id_str": "2530204741",
+      "name": "HHRMA Hotel Bali",
+      "screen_name": "HHRMAHotelBali",
+      "location": "Bali",
+      "description": "Provide hotel job information in Bali",
+      "url": "http://t.co/7JJArtmpOn",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/7JJArtmpOn",
+              "expanded_url": "http://hhrmahotelbali.com",
+              "display_url": "hhrmahotelbali.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1906,
+      "friends_count": 1,
+      "listed_count": 4,
+      "created_at": "Wed May 28 14:53:13 +0000 2014",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 19920,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/471666878159400960/_-3K6SGN_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/471666878159400960/_-3K6SGN_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2530204741/1401289134",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Mon Mar 04 06:43:31 +0000 2019",
+    "id": 1102459540212084736,
+    "id_str": "1102459540212084736",
+    "text": "Day spa at Puri Bagus Candidasa Bali Indonesia #spa #pampering #bali #puribagus #candidasa #theconciergeasia\u2026 https://t.co/n7uRSnKFYn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "spa",
+          "indices": [
+            47,
+            51
+          ]
+        },
+        {
+          "text": "pampering",
+          "indices": [
+            52,
+            62
+          ]
+        },
+        {
+          "text": "bali",
+          "indices": [
+            63,
+            68
+          ]
+        },
+        {
+          "text": "puribagus",
+          "indices": [
+            69,
+            79
+          ]
+        },
+        {
+          "text": "candidasa",
+          "indices": [
+            80,
+            90
+          ]
+        },
+        {
+          "text": "theconciergeasia",
+          "indices": [
+            91,
+            108
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/n7uRSnKFYn",
+          "expanded_url": "https://twitter.com/i/web/status/1102459540212084736",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 769465207655542784,
+      "id_str": "769465207655542784",
+      "name": "The Concierge Asia",
+      "screen_name": "conciergeasia_",
+      "location": "Bali, Indonesia",
+      "description": "The Concierge Asia, your digital travel in-style magazine to explore Asia.\n\neditor@theconciergeasia.com",
+      "url": "https://t.co/vdOkhAZJy5",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vdOkhAZJy5",
+              "expanded_url": "http://www.theconciergeasia.com",
+              "display_url": "theconciergeasia.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 18,
+      "friends_count": 55,
+      "listed_count": 0,
+      "created_at": "Sat Aug 27 09:22:56 +0000 2016",
+      "favourites_count": 110,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 46,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1098028062900273152/r9kY_Q0Q_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098028062900273152/r9kY_Q0Q_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/769465207655542784/1550625329",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "07d9f7cf5f086000",
+      "url": "https://api.twitter.com/1.1/geo/id/07d9f7cf5f086000.json",
+      "place_type": "poi",
+      "name": "Candidasa",
+      "full_name": "Candidasa",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.55705528614709,
+              -8.50508050997634
+            ],
+            [
+              115.55705528614709,
+              -8.50508050997634
+            ],
+            [
+              115.55705528614709,
+              -8.50508050997634
+            ],
+            [
+              115.55705528614709,
+              -8.50508050997634
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Mar 03 23:36:39 +0000 2019",
+    "id": 1102352113315659776,
+    "id_str": "1102352113315659776",
+    "text": "FOR SALE =&gt; Beachfront Land -Candidasa Bali _USD 190.000 https://t.co/mD6NWmPrv7 -Size land:1000.m2 https://t.co/mfNsCWTAAK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/mD6NWmPrv7",
+          "expanded_url": "http://tinyurl.com/lospantaibali",
+          "display_url": "tinyurl.com/lospantaibali",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1102352109737922561,
+          "id_str": "1102352109737922561",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0xXZz5U0AETgjM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0xXZz5U0AETgjM.jpg",
+          "url": "https://t.co/mfNsCWTAAK",
+          "display_url": "pic.twitter.com/mfNsCWTAAK",
+          "expanded_url": "https://twitter.com/Property_17/status/1102352113315659776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1102352109737922561,
+          "id_str": "1102352109737922561",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0xXZz5U0AETgjM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0xXZz5U0AETgjM.jpg",
+          "url": "https://t.co/mfNsCWTAAK",
+          "display_url": "pic.twitter.com/mfNsCWTAAK",
+          "expanded_url": "https://twitter.com/Property_17/status/1102352113315659776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3316608746,
+      "id_str": "3316608746",
+      "name": "Property For Sale",
+      "screen_name": "Property_17",
+      "location": "Bekasi - Jawa Barat",
+      "description": "There : VILLA-APARTEMENTS-HOTEL-& LAND = FOR SALE",
+      "url": "https://t.co/eTNDVaepv0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/eTNDVaepv0",
+              "expanded_url": "http://bit.do/promoolku",
+              "display_url": "bit.do/promoolku",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 129,
+      "friends_count": 2432,
+      "listed_count": 0,
+      "created_at": "Sun Aug 16 06:58:16 +0000 2015",
+      "favourites_count": 1078,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 330,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/978969813513940992/jDMSSPKG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/978969813513940992/jDMSSPKG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 03 22:59:12 +0000 2019",
+    "id": 1102342688706191361,
+    "id_str": "1102342688706191361",
+    "text": "Yesss sukaa \ud83d\ude0d bahagia dan sehat itu penting #foryourlife\n\n#mamina\n#anaksekolah #merasamuda\n#dangduters\u2026 https://t.co/EhwIcDQQqA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "foryourlife",
+          "indices": [
+            44,
+            56
+          ]
+        },
+        {
+          "text": "mamina",
+          "indices": [
+            58,
+            65
+          ]
+        },
+        {
+          "text": "anaksekolah",
+          "indices": [
+            66,
+            78
+          ]
+        },
+        {
+          "text": "merasamuda",
+          "indices": [
+            79,
+            90
+          ]
+        },
+        {
+          "text": "dangduters",
+          "indices": [
+            91,
+            102
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/EhwIcDQQqA",
+          "expanded_url": "https://twitter.com/i/web/status/1102342688706191361",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 18722133,
+      "id_str": "18722133",
+      "name": "Ririen Regina (Zin Mamina)",
+      "screen_name": "ririenregina",
+      "location": "Kuta, Indonesia",
+      "description": "@salon.mamina #salonmamina #maminakebaya",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 295,
+      "friends_count": 124,
+      "listed_count": 6,
+      "created_at": "Wed Jan 07 14:15:24 +0000 2009",
+      "favourites_count": 51,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 6447,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "912626",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/781359289243803648/9XacZ299_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/781359289243803648/9XacZ299_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18722133/1488283931",
+      "profile_link_color": "552D7A",
+      "profile_sidebar_border_color": "EB10F9",
+      "profile_sidebar_fill_color": "C476B4",
+      "profile_text_color": "DEB2DE",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.5086814,
+        115.56617837
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.56617837,
+        -8.5086814
+      ]
+    },
+    "place": {
+      "id": "72a57ef7f22225ee",
+      "url": "https://api.twitter.com/1.1/geo/id/72a57ef7f22225ee.json",
+      "place_type": "city",
+      "name": "Karangasem",
+      "full_name": "Karangasem, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.5640551,
+              -8.517242
+            ],
+            [
+              115.710903,
+              -8.517242
+            ],
+            [
+              115.710903,
+              -8.388731
+            ],
+            [
+              115.5640551,
+              -8.388731
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Mar 03 14:50:48 +0000 2019",
+    "id": 1102219778385760258,
+    "id_str": "1102219778385760258",
+    "text": "Selow melow con amore \u2764\ufe0f\n#ellaquierebeber #ellaquierebeberremix \n#mamina #romanson\n#zumbafitness #zumbadance\u2026 https://t.co/OJ5qqMagEH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ellaquierebeber",
+          "indices": [
+            25,
+            41
+          ]
+        },
+        {
+          "text": "ellaquierebeberremix",
+          "indices": [
+            42,
+            63
+          ]
+        },
+        {
+          "text": "mamina",
+          "indices": [
+            65,
+            72
+          ]
+        },
+        {
+          "text": "romanson",
+          "indices": [
+            73,
+            82
+          ]
+        },
+        {
+          "text": "zumbafitness",
+          "indices": [
+            83,
+            96
+          ]
+        },
+        {
+          "text": "zumbadance",
+          "indices": [
+            97,
+            108
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/OJ5qqMagEH",
+          "expanded_url": "https://twitter.com/i/web/status/1102219778385760258",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 18722133,
+      "id_str": "18722133",
+      "name": "Ririen Regina (Zin Mamina)",
+      "screen_name": "ririenregina",
+      "location": "Kuta, Indonesia",
+      "description": "@salon.mamina #salonmamina #maminakebaya",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 295,
+      "friends_count": 124,
+      "listed_count": 6,
+      "created_at": "Wed Jan 07 14:15:24 +0000 2009",
+      "favourites_count": 51,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 6447,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "912626",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/781359289243803648/9XacZ299_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/781359289243803648/9XacZ299_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18722133/1488283931",
+      "profile_link_color": "552D7A",
+      "profile_sidebar_border_color": "EB10F9",
+      "profile_sidebar_fill_color": "C476B4",
+      "profile_text_color": "DEB2DE",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.5086814,
+        115.56617837
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.56617837,
+        -8.5086814
+      ]
+    },
+    "place": {
+      "id": "72a57ef7f22225ee",
+      "url": "https://api.twitter.com/1.1/geo/id/72a57ef7f22225ee.json",
+      "place_type": "city",
+      "name": "Karangasem",
+      "full_name": "Karangasem, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.5640551,
+              -8.517242
+            ],
+            [
+              115.710903,
+              -8.517242
+            ],
+            [
+              115.710903,
+              -8.388731
+            ],
+            [
+              115.5640551,
+              -8.388731
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Mar 01 08:14:04 +0000 2019",
+    "id": 1101395164004864000,
+    "id_str": "1101395164004864000",
+    "text": "Two beds villa in ocean front villa in Candidasa available for daily rental. Please send email to sales@balicoolpro\u2026 https://t.co/QzRD1CeznQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/QzRD1CeznQ",
+          "expanded_url": "https://twitter.com/i/web/status/1101395164004864000",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1878868249,
+      "id_str": "1878868249",
+      "name": "Bali Cool Property",
+      "screen_name": "BaliCoolCompany",
+      "location": "Jl Kampus Unud 23A, Jimbaran ",
+      "description": "Real Estate, villas sales, rentals, management and consultant for Bali property market",
+      "url": "http://t.co/DcrTcCpcPQ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/DcrTcCpcPQ",
+              "expanded_url": "http://www.balicoolproperty.com",
+              "display_url": "balicoolproperty.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 277,
+      "friends_count": 130,
+      "listed_count": 0,
+      "created_at": "Wed Sep 18 09:45:19 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 345,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000473154347/d8a216de24fa5147d86aa4e85e1e9d28_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000473154347/d8a216de24fa5147d86aa4e85e1e9d28_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878868249/1398398909",
+      "profile_link_color": "0092B3",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 01 07:44:51 +0000 2019",
+    "id": 1101387812052586497,
+    "id_str": "1101387812052586497",
+    "text": "@elisetricarico Ik heb daar mijn GIP over gemaakt 3 jaar geleden en vond Munduk Moding Plantation en the Nirwana Re\u2026 https://t.co/fLQ7K9tYYX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "elisetricarico",
+          "name": "ELI",
+          "id": 64495552,
+          "id_str": "64495552",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fLQ7K9tYYX",
+          "expanded_url": "https://twitter.com/i/web/status/1101387812052586497",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "nl",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1101382755542286336,
+    "in_reply_to_status_id_str": "1101382755542286336",
+    "in_reply_to_user_id": 64495552,
+    "in_reply_to_user_id_str": "64495552",
+    "in_reply_to_screen_name": "elisetricarico",
+    "user": {
+      "id": 2327800002,
+      "id_str": "2327800002",
+      "name": "Camille Maertens",
+      "screen_name": "camillemaerten",
+      "location": "Brugge",
+      "description": "90's kid // Traveladdicted // Based in Bruges // Hotelmanagement @ AP Hogeschool Antwerpen",
+      "url": "https://t.co/lMbmHO9C9D",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/lMbmHO9C9D",
+              "expanded_url": "http://Instagram.com/camillemaertens",
+              "display_url": "Instagram.com/camillemaertens",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 660,
+      "friends_count": 687,
+      "listed_count": 9,
+      "created_at": "Tue Feb 04 22:01:28 +0000 2014",
+      "favourites_count": 31387,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 21144,
+      "lang": "nl",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1092028118842396672/l-wAnXrV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092028118842396672/l-wAnXrV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2327800002/1534708942",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "nl"
+  },
+  {
+    "created_at": "Thu Feb 28 08:34:50 +0000 2019",
+    "id": 1101038002405552128,
+    "id_str": "1101038002405552128",
+    "text": "Burn T Rock (Candidasa) https://t.co/3EVQat38BV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1101037658195791872,
+          "id_str": "1101037658195791872",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101037658195791872/pu/img/x86D5I7tbTXVHZoe.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101037658195791872/pu/img/x86D5I7tbTXVHZoe.jpg",
+          "url": "https://t.co/3EVQat38BV",
+          "display_url": "pic.twitter.com/3EVQat38BV",
+          "expanded_url": "https://twitter.com/mogo_karangasem/status/1101038002405552128/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1101037658195791872,
+          "id_str": "1101037658195791872",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101037658195791872/pu/img/x86D5I7tbTXVHZoe.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101037658195791872/pu/img/x86D5I7tbTXVHZoe.jpg",
+          "url": "https://t.co/3EVQat38BV",
+          "display_url": "pic.twitter.com/3EVQat38BV",
+          "expanded_url": "https://twitter.com/mogo_karangasem/status/1101038002405552128/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 60011,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1101037658195791872/pu/vid/320x320/nl9j79iCBM9fs4PZ.mp4?tag=6"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1101037658195791872/pu/pl/wHnw4K1cWQo8sILC.m3u8?tag=6"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1101037658195791872/pu/vid/480x480/zI0RRCc2OjsscY6J.mp4?tag=6"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1101037658195791872/pu/vid/720x720/FBlBs24hh8fi6_UZ.mp4?tag=6"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 320728785,
+      "id_str": "320728785",
+      "name": "I Wayan Sudarma/Mogo",
+      "screen_name": "mogo_karangasem",
+      "location": "liebistorf,Swiss",
+      "description": "Let's burn the stage",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 76,
+      "friends_count": 202,
+      "listed_count": 1,
+      "created_at": "Mon Jun 20 12:34:13 +0000 2011",
+      "favourites_count": 32,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 212,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1101502928618168320/sCSMc1IY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101502928618168320/sCSMc1IY_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/320728785/1551453739",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

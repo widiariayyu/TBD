@@ -1,0 +1,3698 @@
+[
+  {
+    "created_at": "Tue Mar 05 11:56:23 +0000 2019",
+    "id": 1102900662344523778,
+    "id_str": "1102900662344523778",
+    "text": "Mengenalmu adalah patah hati yang tertunda.\n#puraulundanu \n#explorebali\n#bedugul\n#baligasm \n#instatravel \n#balitrip\u2026 https://t.co/VRuXMzsnIw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "puraulundanu",
+          "indices": [
+            44,
+            57
+          ]
+        },
+        {
+          "text": "explorebali",
+          "indices": [
+            59,
+            71
+          ]
+        },
+        {
+          "text": "bedugul",
+          "indices": [
+            72,
+            80
+          ]
+        },
+        {
+          "text": "baligasm",
+          "indices": [
+            81,
+            90
+          ]
+        },
+        {
+          "text": "instatravel",
+          "indices": [
+            92,
+            104
+          ]
+        },
+        {
+          "text": "balitrip",
+          "indices": [
+            106,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/VRuXMzsnIw",
+          "expanded_url": "https://twitter.com/i/web/status/1102900662344523778",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 594512554,
+      "id_str": "594512554",
+      "name": "Yoga Bayu Prakoso",
+      "screen_name": "YBP_12",
+      "location": "",
+      "description": "Never give up!",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 276,
+      "friends_count": 216,
+      "listed_count": 0,
+      "created_at": "Wed May 30 11:05:34 +0000 2012",
+      "favourites_count": 99,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 9611,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/772759291782586369/JCjb-33t_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/772759291782586369/JCjb-33t_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/594512554/1439481307",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.7285695,
+        115.1663276
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.1663276,
+        -8.7285695
+      ]
+    },
+    "place": {
+      "id": "6ab2f5132f36eb85",
+      "url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+      "place_type": "city",
+      "name": "Kuta",
+      "full_name": "Kuta, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.083847,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.849261
+            ],
+            [
+              115.240267,
+              -8.601695
+            ],
+            [
+              115.083847,
+              -8.601695
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 14:51:05 +0000 2019",
+    "id": 1102582241266302979,
+    "id_str": "1102582241266302979",
+    "text": "RT @IndonesiaKaya: Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pura yan\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "IndonesiaKaya",
+          "name": "Indonesia Kaya",
+          "id": 255827164,
+          "id_str": "255827164",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1018160833572978688,
+      "id_str": "1018160833572978688",
+      "name": "MBAK WATI",
+      "screen_name": "MBAKWATI3",
+      "location": "Makassar",
+      "description": "Jangan ambil pusing, santai saja",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 278,
+      "friends_count": 728,
+      "listed_count": 0,
+      "created_at": "Sat Jul 14 15:50:34 +0000 2018",
+      "favourites_count": 16152,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 23971,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1080417318750961666/bV7-SC13_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080417318750961666/bV7-SC13_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1018160833572978688/1543407326",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 04 00:00:02 +0000 2019",
+      "id": 1102358000549924864,
+      "id_str": "1102358000549924864",
+      "text": "Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pur\u2026 https://t.co/S7u5w7Oej1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S7u5w7Oej1",
+            "expanded_url": "https://twitter.com/i/web/status/1102358000549924864",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 255827164,
+        "id_str": "255827164",
+        "name": "Indonesia Kaya",
+        "screen_name": "IndonesiaKaya",
+        "location": "\u00dcT: -6.1655067,106.8186775",
+        "description": "Indonesia Kaya adalah portal informasi budaya, referensi pariwisata, tradisi, kuliner, ataupun kesenian dalam bentuk artikel, foto dan video Indonesia.",
+        "url": "http://t.co/WmLj35Wdzi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WmLj35Wdzi",
+                "expanded_url": "http://www.indonesiakaya.com",
+                "display_url": "indonesiakaya.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24754,
+        "friends_count": 467,
+        "listed_count": 77,
+        "created_at": "Tue Feb 22 03:39:58 +0000 2011",
+        "favourites_count": 105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22906,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 07:23:03 +0000 2019",
+    "id": 1102469488975405057,
+    "id_str": "1102469488975405057",
+    "text": "RT @IndonesiaKaya: Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pura yan\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "IndonesiaKaya",
+          "name": "Indonesia Kaya",
+          "id": 255827164,
+          "id_str": "255827164",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 118576746,
+      "id_str": "118576746",
+      "name": "Vema Syafei",
+      "screen_name": "lovemasyafei",
+      "location": "Jakarta",
+      "description": "My attitude is based on how you treat me | https://t.co/7fREBdhYxE | Coffee Lovers | Food is memories | Culinary Enthusiast | Travel Lovers | https://t.co/Ddgl5LqgBM |",
+      "url": "https://t.co/YSIAM17gwL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/YSIAM17gwL",
+              "expanded_url": "http://vemasyafei.com",
+              "display_url": "vemasyafei.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/7fREBdhYxE",
+              "expanded_url": "http://peranperempuan.id",
+              "display_url": "peranperempuan.id",
+              "indices": [
+                43,
+                66
+              ]
+            },
+            {
+              "url": "https://t.co/Ddgl5LqgBM",
+              "expanded_url": "http://societeitkoffie.com",
+              "display_url": "societeitkoffie.com",
+              "indices": [
+                142,
+                165
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1710,
+      "friends_count": 280,
+      "listed_count": 11,
+      "created_at": "Mon Mar 01 03:33:35 +0000 2010",
+      "favourites_count": 1351,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 6680,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1077375801765449728/bzENl4b9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077375801765449728/bzENl4b9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/118576746/1357819630",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "65B0DA",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 04 00:00:02 +0000 2019",
+      "id": 1102358000549924864,
+      "id_str": "1102358000549924864",
+      "text": "Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pur\u2026 https://t.co/S7u5w7Oej1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S7u5w7Oej1",
+            "expanded_url": "https://twitter.com/i/web/status/1102358000549924864",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 255827164,
+        "id_str": "255827164",
+        "name": "Indonesia Kaya",
+        "screen_name": "IndonesiaKaya",
+        "location": "\u00dcT: -6.1655067,106.8186775",
+        "description": "Indonesia Kaya adalah portal informasi budaya, referensi pariwisata, tradisi, kuliner, ataupun kesenian dalam bentuk artikel, foto dan video Indonesia.",
+        "url": "http://t.co/WmLj35Wdzi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WmLj35Wdzi",
+                "expanded_url": "http://www.indonesiakaya.com",
+                "display_url": "indonesiakaya.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24754,
+        "friends_count": 467,
+        "listed_count": 77,
+        "created_at": "Tue Feb 22 03:39:58 +0000 2011",
+        "favourites_count": 105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22906,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 04:35:59 +0000 2019",
+    "id": 1102427446178078727,
+    "id_str": "1102427446178078727",
+    "text": "RT @IndonesiaKaya: Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pura yan\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "IndonesiaKaya",
+          "name": "Indonesia Kaya",
+          "id": 255827164,
+          "id_str": "255827164",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 954692521589751808,
+      "id_str": "954692521589751808",
+      "name": "Afrida",
+      "screen_name": "da_afrida",
+      "location": "Indonesia",
+      "description": "FB: Afrida\nIG: @da_afrida\n\n*Seorang Guru dan Pencinta Kuliner",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 727,
+      "listed_count": 0,
+      "created_at": "Sat Jan 20 12:30:09 +0000 2018",
+      "favourites_count": 1504,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6231,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/961168352142962688/yJhAHcT4_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/961168352142962688/yJhAHcT4_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/954692521589751808/1518526031",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 04 00:00:02 +0000 2019",
+      "id": 1102358000549924864,
+      "id_str": "1102358000549924864",
+      "text": "Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pur\u2026 https://t.co/S7u5w7Oej1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S7u5w7Oej1",
+            "expanded_url": "https://twitter.com/i/web/status/1102358000549924864",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 255827164,
+        "id_str": "255827164",
+        "name": "Indonesia Kaya",
+        "screen_name": "IndonesiaKaya",
+        "location": "\u00dcT: -6.1655067,106.8186775",
+        "description": "Indonesia Kaya adalah portal informasi budaya, referensi pariwisata, tradisi, kuliner, ataupun kesenian dalam bentuk artikel, foto dan video Indonesia.",
+        "url": "http://t.co/WmLj35Wdzi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WmLj35Wdzi",
+                "expanded_url": "http://www.indonesiakaya.com",
+                "display_url": "indonesiakaya.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24754,
+        "friends_count": 467,
+        "listed_count": 77,
+        "created_at": "Tue Feb 22 03:39:58 +0000 2011",
+        "favourites_count": 105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22906,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 04:35:27 +0000 2019",
+    "id": 1102427308462231552,
+    "id_str": "1102427308462231552",
+    "text": "RT @IndonesiaKaya: Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pura yan\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "IndonesiaKaya",
+          "name": "Indonesia Kaya",
+          "id": 255827164,
+          "id_str": "255827164",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 908121349,
+      "id_str": "908121349",
+      "name": "Niaty",
+      "screen_name": "niaty77",
+      "location": "Indonesia",
+      "description": "Official Account\n\n\u2022 FB: Niaty\n\u2022TW: @niaty77\n\u2022IG: @niaty77",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 440,
+      "friends_count": 704,
+      "listed_count": 0,
+      "created_at": "Sat Oct 27 13:25:47 +0000 2012",
+      "favourites_count": 2151,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 14638,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/959764134840623105/pJ8Ba_Mg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/959764134840623105/pJ8Ba_Mg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/908121349/1513766567",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 04 00:00:02 +0000 2019",
+      "id": 1102358000549924864,
+      "id_str": "1102358000549924864",
+      "text": "Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pur\u2026 https://t.co/S7u5w7Oej1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S7u5w7Oej1",
+            "expanded_url": "https://twitter.com/i/web/status/1102358000549924864",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 255827164,
+        "id_str": "255827164",
+        "name": "Indonesia Kaya",
+        "screen_name": "IndonesiaKaya",
+        "location": "\u00dcT: -6.1655067,106.8186775",
+        "description": "Indonesia Kaya adalah portal informasi budaya, referensi pariwisata, tradisi, kuliner, ataupun kesenian dalam bentuk artikel, foto dan video Indonesia.",
+        "url": "http://t.co/WmLj35Wdzi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WmLj35Wdzi",
+                "expanded_url": "http://www.indonesiakaya.com",
+                "display_url": "indonesiakaya.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24754,
+        "friends_count": 467,
+        "listed_count": 77,
+        "created_at": "Tue Feb 22 03:39:58 +0000 2011",
+        "favourites_count": 105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22906,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 04:34:51 +0000 2019",
+    "id": 1102427160550109184,
+    "id_str": "1102427160550109184",
+    "text": "RT @IndonesiaKaya: Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pura yan\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "IndonesiaKaya",
+          "name": "Indonesia Kaya",
+          "id": 255827164,
+          "id_str": "255827164",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 584559891,
+      "id_str": "584559891",
+      "name": "Marina Fridayani",
+      "screen_name": "rinaa_sama",
+      "location": "Indonesia",
+      "description": "94Line. Sudah S.Pd !!!",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1567,
+      "friends_count": 1357,
+      "listed_count": 6,
+      "created_at": "Sat May 19 05:52:14 +0000 2012",
+      "favourites_count": 2320,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 31139,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "81C4E6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/833537031246483456/jjpPKiP9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/833537031246483456/jjpPKiP9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/584559891/1519966250",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 04 00:00:02 +0000 2019",
+      "id": 1102358000549924864,
+      "id_str": "1102358000549924864",
+      "text": "Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pur\u2026 https://t.co/S7u5w7Oej1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S7u5w7Oej1",
+            "expanded_url": "https://twitter.com/i/web/status/1102358000549924864",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 255827164,
+        "id_str": "255827164",
+        "name": "Indonesia Kaya",
+        "screen_name": "IndonesiaKaya",
+        "location": "\u00dcT: -6.1655067,106.8186775",
+        "description": "Indonesia Kaya adalah portal informasi budaya, referensi pariwisata, tradisi, kuliner, ataupun kesenian dalam bentuk artikel, foto dan video Indonesia.",
+        "url": "http://t.co/WmLj35Wdzi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WmLj35Wdzi",
+                "expanded_url": "http://www.indonesiakaya.com",
+                "display_url": "indonesiakaya.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24754,
+        "friends_count": 467,
+        "listed_count": 77,
+        "created_at": "Tue Feb 22 03:39:58 +0000 2011",
+        "favourites_count": 105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22906,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 04:34:02 +0000 2019",
+    "id": 1102426954873987073,
+    "id_str": "1102426954873987073",
+    "text": "RT @IndonesiaKaya: Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pura yan\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "IndonesiaKaya",
+          "name": "Indonesia Kaya",
+          "id": 255827164,
+          "id_str": "255827164",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 128584822,
+      "id_str": "128584822",
+      "name": "Zachlul Iswandi",
+      "screen_name": "zach_qhenzy",
+      "location": "Indonesia Raya",
+      "description": "Peluangmu untuk menang tidak akan datang dengan sendirinya, kamu sendirilah Penciptanya.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 622,
+      "friends_count": 1101,
+      "listed_count": 10,
+      "created_at": "Thu Apr 01 15:18:13 +0000 2010",
+      "favourites_count": 2668,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35380,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1053274261240995841/quxhtdYP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053274261240995841/quxhtdYP_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/128584822/1507866853",
+      "profile_link_color": "465584",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 04 00:00:02 +0000 2019",
+      "id": 1102358000549924864,
+      "id_str": "1102358000549924864",
+      "text": "Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pur\u2026 https://t.co/S7u5w7Oej1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S7u5w7Oej1",
+            "expanded_url": "https://twitter.com/i/web/status/1102358000549924864",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 255827164,
+        "id_str": "255827164",
+        "name": "Indonesia Kaya",
+        "screen_name": "IndonesiaKaya",
+        "location": "\u00dcT: -6.1655067,106.8186775",
+        "description": "Indonesia Kaya adalah portal informasi budaya, referensi pariwisata, tradisi, kuliner, ataupun kesenian dalam bentuk artikel, foto dan video Indonesia.",
+        "url": "http://t.co/WmLj35Wdzi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WmLj35Wdzi",
+                "expanded_url": "http://www.indonesiakaya.com",
+                "display_url": "indonesiakaya.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24754,
+        "friends_count": 467,
+        "listed_count": 77,
+        "created_at": "Tue Feb 22 03:39:58 +0000 2011",
+        "favourites_count": 105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22906,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 04:33:30 +0000 2019",
+    "id": 1102426821218394112,
+    "id_str": "1102426821218394112",
+    "text": "RT @IndonesiaKaya: Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pura yan\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "IndonesiaKaya",
+          "name": "Indonesia Kaya",
+          "id": 255827164,
+          "id_str": "255827164",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 557604022,
+      "id_str": "557604022",
+      "name": "Yulisa Rizqi",
+      "screen_name": "Yu_lisaa",
+      "location": "Dekat Ibu Kota, Indonesia",
+      "description": "Bersabarlah dalam proses, semua yang instan akan selesai dalam instan juga. Jadi nikmati saja sembari memperbaiki.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 529,
+      "friends_count": 833,
+      "listed_count": 6,
+      "created_at": "Thu Apr 19 10:31:14 +0000 2012",
+      "favourites_count": 2343,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 21973,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1043445205330944006/fvO_ZYjP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043445205330944006/fvO_ZYjP_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/557604022/1500718160",
+      "profile_link_color": "CC0066",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 04 00:00:02 +0000 2019",
+      "id": 1102358000549924864,
+      "id_str": "1102358000549924864",
+      "text": "Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pur\u2026 https://t.co/S7u5w7Oej1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S7u5w7Oej1",
+            "expanded_url": "https://twitter.com/i/web/status/1102358000549924864",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 255827164,
+        "id_str": "255827164",
+        "name": "Indonesia Kaya",
+        "screen_name": "IndonesiaKaya",
+        "location": "\u00dcT: -6.1655067,106.8186775",
+        "description": "Indonesia Kaya adalah portal informasi budaya, referensi pariwisata, tradisi, kuliner, ataupun kesenian dalam bentuk artikel, foto dan video Indonesia.",
+        "url": "http://t.co/WmLj35Wdzi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WmLj35Wdzi",
+                "expanded_url": "http://www.indonesiakaya.com",
+                "display_url": "indonesiakaya.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24754,
+        "friends_count": 467,
+        "listed_count": 77,
+        "created_at": "Tue Feb 22 03:39:58 +0000 2011",
+        "favourites_count": 105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22906,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 04:32:57 +0000 2019",
+    "id": 1102426679551524864,
+    "id_str": "1102426679551524864",
+    "text": "RT @IndonesiaKaya: Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pura yan\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "IndonesiaKaya",
+          "name": "Indonesia Kaya",
+          "id": 255827164,
+          "id_str": "255827164",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 150608538,
+      "id_str": "150608538",
+      "name": "Hertantio",
+      "screen_name": "bocel_tyo",
+      "location": "indonesia",
+      "description": "Are you really reading my twitter bio? Why? Do you even believe these bios? Ok well I'm sorry I wasted your time not writing one...wow you're still reading?!",
+      "url": "http://t.co/kwmlyYvlHm",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/kwmlyYvlHm",
+              "expanded_url": "http://www.onepieceshare.blogspot.com",
+              "display_url": "onepieceshare.blogspot.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 549,
+      "friends_count": 960,
+      "listed_count": 10,
+      "created_at": "Tue Jun 01 10:45:50 +0000 2010",
+      "favourites_count": 2593,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 51720,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000496980565/36ae16974943cc77121ef42ff5f0d9f9_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000496980565/36ae16974943cc77121ef42ff5f0d9f9_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/150608538/1379930587",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 04 00:00:02 +0000 2019",
+      "id": 1102358000549924864,
+      "id_str": "1102358000549924864",
+      "text": "Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pur\u2026 https://t.co/S7u5w7Oej1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S7u5w7Oej1",
+            "expanded_url": "https://twitter.com/i/web/status/1102358000549924864",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 255827164,
+        "id_str": "255827164",
+        "name": "Indonesia Kaya",
+        "screen_name": "IndonesiaKaya",
+        "location": "\u00dcT: -6.1655067,106.8186775",
+        "description": "Indonesia Kaya adalah portal informasi budaya, referensi pariwisata, tradisi, kuliner, ataupun kesenian dalam bentuk artikel, foto dan video Indonesia.",
+        "url": "http://t.co/WmLj35Wdzi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WmLj35Wdzi",
+                "expanded_url": "http://www.indonesiakaya.com",
+                "display_url": "indonesiakaya.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24754,
+        "friends_count": 467,
+        "listed_count": 77,
+        "created_at": "Tue Feb 22 03:39:58 +0000 2011",
+        "favourites_count": 105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22906,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 04:32:30 +0000 2019",
+    "id": 1102426568754790400,
+    "id_str": "1102426568754790400",
+    "text": "RT @IndonesiaKaya: Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pura yan\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "IndonesiaKaya",
+          "name": "Indonesia Kaya",
+          "id": 255827164,
+          "id_str": "255827164",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 172224743,
+      "id_str": "172224743",
+      "name": "Adelia Mustika",
+      "screen_name": "adeliamustika",
+      "location": "Ibu kota, Indonesia",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 468,
+      "friends_count": 586,
+      "listed_count": 0,
+      "created_at": "Thu Jul 29 05:18:55 +0000 2010",
+      "favourites_count": 2115,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12593,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FF6699",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/891941160951742465/SAnQcGvr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/891941160951742465/SAnQcGvr_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/172224743/1503226435",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 04 00:00:02 +0000 2019",
+      "id": 1102358000549924864,
+      "id_str": "1102358000549924864",
+      "text": "Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pur\u2026 https://t.co/S7u5w7Oej1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S7u5w7Oej1",
+            "expanded_url": "https://twitter.com/i/web/status/1102358000549924864",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 255827164,
+        "id_str": "255827164",
+        "name": "Indonesia Kaya",
+        "screen_name": "IndonesiaKaya",
+        "location": "\u00dcT: -6.1655067,106.8186775",
+        "description": "Indonesia Kaya adalah portal informasi budaya, referensi pariwisata, tradisi, kuliner, ataupun kesenian dalam bentuk artikel, foto dan video Indonesia.",
+        "url": "http://t.co/WmLj35Wdzi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WmLj35Wdzi",
+                "expanded_url": "http://www.indonesiakaya.com",
+                "display_url": "indonesiakaya.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24754,
+        "friends_count": 467,
+        "listed_count": 77,
+        "created_at": "Tue Feb 22 03:39:58 +0000 2011",
+        "favourites_count": 105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22906,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 04:30:51 +0000 2019",
+    "id": 1102426151748755456,
+    "id_str": "1102426151748755456",
+    "text": "RT @IndonesiaKaya: Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pura yan\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "IndonesiaKaya",
+          "name": "Indonesia Kaya",
+          "id": 255827164,
+          "id_str": "255827164",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1083563743898824704,
+      "id_str": "1083563743898824704",
+      "name": "Riki Fahlefi",
+      "screen_name": "rikiefahlefi",
+      "location": "Ibu Kota",
+      "description": "Sukses bukan untuk orang pintar tapi untuk orang yang berusaha keras. \ud83d\udcaa\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1606,
+      "friends_count": 2221,
+      "listed_count": 0,
+      "created_at": "Fri Jan 11 03:18:22 +0000 2019",
+      "favourites_count": 185,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1044,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1085498675843887104/k3qzzcmY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085498675843887104/k3qzzcmY_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083563743898824704/1547638066",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 04 00:00:02 +0000 2019",
+      "id": 1102358000549924864,
+      "id_str": "1102358000549924864",
+      "text": "Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pur\u2026 https://t.co/S7u5w7Oej1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S7u5w7Oej1",
+            "expanded_url": "https://twitter.com/i/web/status/1102358000549924864",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 255827164,
+        "id_str": "255827164",
+        "name": "Indonesia Kaya",
+        "screen_name": "IndonesiaKaya",
+        "location": "\u00dcT: -6.1655067,106.8186775",
+        "description": "Indonesia Kaya adalah portal informasi budaya, referensi pariwisata, tradisi, kuliner, ataupun kesenian dalam bentuk artikel, foto dan video Indonesia.",
+        "url": "http://t.co/WmLj35Wdzi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WmLj35Wdzi",
+                "expanded_url": "http://www.indonesiakaya.com",
+                "display_url": "indonesiakaya.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24754,
+        "friends_count": 467,
+        "listed_count": 77,
+        "created_at": "Tue Feb 22 03:39:58 +0000 2011",
+        "favourites_count": 105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22906,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 03:53:44 +0000 2019",
+    "id": 1102416812778512385,
+    "id_str": "1102416812778512385",
+    "text": "RT @IndonesiaKaya: Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pura yan\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "IndonesiaKaya",
+          "name": "Indonesia Kaya",
+          "id": 255827164,
+          "id_str": "255827164",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 999868860143620096,
+      "id_str": "999868860143620096",
+      "name": "Ahmadi Prasetio",
+      "screen_name": "jumadi477",
+      "location": "Sidenreng Rappang, Sul-Sel",
+      "description": "YANG PENTI\u0122 KITA HAPPY",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 225,
+      "friends_count": 1111,
+      "listed_count": 0,
+      "created_at": "Fri May 25 04:24:47 +0000 2018",
+      "favourites_count": 15590,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12263,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1100768988856872960/WgwhTgO3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100768988856872960/WgwhTgO3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/999868860143620096/1527835244",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 04 00:00:02 +0000 2019",
+      "id": 1102358000549924864,
+      "id_str": "1102358000549924864",
+      "text": "Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pur\u2026 https://t.co/S7u5w7Oej1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S7u5w7Oej1",
+            "expanded_url": "https://twitter.com/i/web/status/1102358000549924864",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 255827164,
+        "id_str": "255827164",
+        "name": "Indonesia Kaya",
+        "screen_name": "IndonesiaKaya",
+        "location": "\u00dcT: -6.1655067,106.8186775",
+        "description": "Indonesia Kaya adalah portal informasi budaya, referensi pariwisata, tradisi, kuliner, ataupun kesenian dalam bentuk artikel, foto dan video Indonesia.",
+        "url": "http://t.co/WmLj35Wdzi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WmLj35Wdzi",
+                "expanded_url": "http://www.indonesiakaya.com",
+                "display_url": "indonesiakaya.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24754,
+        "friends_count": 467,
+        "listed_count": 77,
+        "created_at": "Tue Feb 22 03:39:58 +0000 2011",
+        "favourites_count": 105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22906,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 01:48:03 +0000 2019",
+    "id": 1102385183020314624,
+    "id_str": "1102385183020314624",
+    "text": "RT @IndonesiaKaya: Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pura yan\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "IndonesiaKaya",
+          "name": "Indonesia Kaya",
+          "id": 255827164,
+          "id_str": "255827164",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 62493863,
+      "id_str": "62493863",
+      "name": "soulmate kahitna",
+      "screen_name": "nandafitsu",
+      "location": "jakarta",
+      "description": "It's all about perspective and perception",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 364,
+      "friends_count": 286,
+      "listed_count": 18,
+      "created_at": "Mon Aug 03 11:32:30 +0000 2009",
+      "favourites_count": 46,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 17002,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1077206933835198465/aQCNprs-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077206933835198465/aQCNprs-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/62493863/1454559817",
+      "profile_link_color": "B12D60",
+      "profile_sidebar_border_color": "B12D60",
+      "profile_sidebar_fill_color": "F2B0CB",
+      "profile_text_color": "5C2C90",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 04 00:00:02 +0000 2019",
+      "id": 1102358000549924864,
+      "id_str": "1102358000549924864",
+      "text": "Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pur\u2026 https://t.co/S7u5w7Oej1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S7u5w7Oej1",
+            "expanded_url": "https://twitter.com/i/web/status/1102358000549924864",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 255827164,
+        "id_str": "255827164",
+        "name": "Indonesia Kaya",
+        "screen_name": "IndonesiaKaya",
+        "location": "\u00dcT: -6.1655067,106.8186775",
+        "description": "Indonesia Kaya adalah portal informasi budaya, referensi pariwisata, tradisi, kuliner, ataupun kesenian dalam bentuk artikel, foto dan video Indonesia.",
+        "url": "http://t.co/WmLj35Wdzi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WmLj35Wdzi",
+                "expanded_url": "http://www.indonesiakaya.com",
+                "display_url": "indonesiakaya.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24754,
+        "friends_count": 467,
+        "listed_count": 77,
+        "created_at": "Tue Feb 22 03:39:58 +0000 2011",
+        "favourites_count": 105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22906,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 01:44:03 +0000 2019",
+    "id": 1102384175791800320,
+    "id_str": "1102384175791800320",
+    "text": "RT @IndonesiaKaya: Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pura yan\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "IndonesiaKaya",
+          "name": "Indonesia Kaya",
+          "id": 255827164,
+          "id_str": "255827164",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 888589614671306752,
+      "id_str": "888589614671306752",
+      "name": "Yunizar Zefrina",
+      "screen_name": "zefrinayunizar",
+      "location": "",
+      "description": "Your Future is created by what you do today\ud83e\udd17\ud83d\ude07",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 185,
+      "friends_count": 770,
+      "listed_count": 0,
+      "created_at": "Sat Jul 22 02:40:48 +0000 2017",
+      "favourites_count": 4171,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2260,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1099203152190988288/XkJX9_kd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099203152190988288/XkJX9_kd_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/888589614671306752/1500691814",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 04 00:00:02 +0000 2019",
+      "id": 1102358000549924864,
+      "id_str": "1102358000549924864",
+      "text": "Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pur\u2026 https://t.co/S7u5w7Oej1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S7u5w7Oej1",
+            "expanded_url": "https://twitter.com/i/web/status/1102358000549924864",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 255827164,
+        "id_str": "255827164",
+        "name": "Indonesia Kaya",
+        "screen_name": "IndonesiaKaya",
+        "location": "\u00dcT: -6.1655067,106.8186775",
+        "description": "Indonesia Kaya adalah portal informasi budaya, referensi pariwisata, tradisi, kuliner, ataupun kesenian dalam bentuk artikel, foto dan video Indonesia.",
+        "url": "http://t.co/WmLj35Wdzi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WmLj35Wdzi",
+                "expanded_url": "http://www.indonesiakaya.com",
+                "display_url": "indonesiakaya.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24754,
+        "friends_count": 467,
+        "listed_count": 77,
+        "created_at": "Tue Feb 22 03:39:58 +0000 2011",
+        "favourites_count": 105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22906,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Mon Mar 04 00:00:02 +0000 2019",
+    "id": 1102358000549924864,
+    "id_str": "1102358000549924864",
+    "text": "Masih punya uang kertas lima puluh ribu yang lama? Kalau kamu perhatikan, di bagian belakangnya terdapat gambar pur\u2026 https://t.co/S7u5w7Oej1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/S7u5w7Oej1",
+          "expanded_url": "https://twitter.com/i/web/status/1102358000549924864",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 255827164,
+      "id_str": "255827164",
+      "name": "Indonesia Kaya",
+      "screen_name": "IndonesiaKaya",
+      "location": "\u00dcT: -6.1655067,106.8186775",
+      "description": "Indonesia Kaya adalah portal informasi budaya, referensi pariwisata, tradisi, kuliner, ataupun kesenian dalam bentuk artikel, foto dan video Indonesia.",
+      "url": "http://t.co/WmLj35Wdzi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/WmLj35Wdzi",
+              "expanded_url": "http://www.indonesiakaya.com",
+              "display_url": "indonesiakaya.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 24754,
+      "friends_count": 467,
+      "listed_count": 77,
+      "created_at": "Tue Feb 22 03:39:58 +0000 2011",
+      "favourites_count": 105,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 22906,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/770519764976308224/peGAqq8h_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Mar 03 16:14:55 +0000 2019",
+    "id": 1102240948216647680,
+    "id_str": "1102240948216647680",
+    "text": "Honer Nazhat Trip to Pura Ulun Danu Beratan Temple, Bali - Indonesia 9 F... https://t.co/doHoFGUPLy via @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            104,
+            112
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/doHoFGUPLy",
+          "expanded_url": "https://youtu.be/TLU9h8IQ8zA",
+          "display_url": "youtu.be/TLU9h8IQ8zA",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 140004514,
+      "id_str": "140004514",
+      "name": "Honer_Nazhat",
+      "screen_name": "HonerNazhat",
+      "location": "IRAQ",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 17,
+      "friends_count": 69,
+      "listed_count": 0,
+      "created_at": "Tue May 04 08:41:18 +0000 2010",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1140,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/479210282019856384/tpY2U170_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479210282019856384/tpY2U170_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/140004514/1413904317",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun Mar 03 10:00:39 +0000 2019",
+    "id": 1102146762981150720,
+    "id_str": "1102146762981150720",
+    "text": "Raise your hand \ud83d\ude4b\ud83d\ude4b\ud83d\ude4b if Ulun Danu Beratan Temple in indonesia is also on your #bucketlist.\n.\n.\n.\n#travelinspo\u2026 https://t.co/4Nd9y8qaJX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bucketlist",
+          "indices": [
+            77,
+            88
+          ]
+        },
+        {
+          "text": "travelinspo",
+          "indices": [
+            96,
+            108
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/4Nd9y8qaJX",
+          "expanded_url": "https://twitter.com/i/web/status/1102146762981150720",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2988547952,
+      "id_str": "2988547952",
+      "name": "Orient Travels UAE",
+      "screen_name": "OrientUae",
+      "location": "DUBAI, UAE",
+      "description": "Official Twitter account of one of UAE's biggest travel agencies.",
+      "url": "http://t.co/8uA5MnTktL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/8uA5MnTktL",
+              "expanded_url": "http://www.orienttravels.com/home.seam",
+              "display_url": "orienttravels.com/home.seam",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 473,
+      "friends_count": 564,
+      "listed_count": 13,
+      "created_at": "Sun Jan 18 13:19:25 +0000 2015",
+      "favourites_count": 100,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 448,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/601282616319311872/4diEL86H_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/601282616319311872/4diEL86H_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2988547952/1484040111",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 03 08:28:20 +0000 2019",
+    "id": 1102123530597031936,
+    "id_str": "1102123530597031936",
+    "text": "Wow!  So picturesque at the Ulun Dani Temple on the lake Beratan, surrounded by beautiful gardens. \nAlso today is a\u2026 https://t.co/EQS1ZAaMIj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/EQS1ZAaMIj",
+          "expanded_url": "https://twitter.com/i/web/status/1102123530597031936",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1001085116,
+      "id_str": "1001085116",
+      "name": "Tracy-Ann",
+      "screen_name": "tracyannoflynn",
+      "location": "",
+      "description": "Love the life you live - Live the life you love!",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 219,
+      "friends_count": 312,
+      "listed_count": 6,
+      "created_at": "Mon Dec 10 06:43:20 +0000 2012",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1810,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1062003096006598657/EDImpaSC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062003096006598657/EDImpaSC_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1001085116/1542036243",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 03 05:17:11 +0000 2019",
+    "id": 1102075425289789440,
+    "id_str": "1102075425289789440",
+    "text": "Last destination with our team! \ud83e\udd18 @ Ulun Danu Temple - Beratan Bedugul Bali https://t.co/2grmEmMFlt",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2grmEmMFlt",
+          "expanded_url": "https://www.instagram.com/p/BuiLva0g0O-/?utm_source=ig_twitter_share&igshid=1r675yyc2n8dv",
+          "display_url": "instagram.com/p/BuiLva0g0O-/\u2026",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 264193988,
+      "id_str": "264193988",
+      "name": "Oktavia PR",
+      "screen_name": "okuutazia",
+      "location": "Bekasi, Jawa Barat",
+      "description": "Indonesia Defense University | Disaster Management Study Program |\nSmart, Beauty, and Sexy |\nDancing - Cheerleading",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 439,
+      "friends_count": 322,
+      "listed_count": 6,
+      "created_at": "Fri Mar 11 14:06:39 +0000 2011",
+      "favourites_count": 16,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 9435,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FF6699",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1100205328510009344/oh403Pga_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100205328510009344/oh403Pga_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/264193988/1388315432",
+      "profile_link_color": "B40B43",
+      "profile_sidebar_border_color": "CC3366",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -37.73201978,
+        144.80973657
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        144.80973657,
+        -37.73201978
+      ]
+    },
+    "place": {
+      "id": "01864a8a64df9dc4",
+      "url": "https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json",
+      "place_type": "city",
+      "name": "Melbourne",
+      "full_name": "Melbourne, Victoria",
+      "country_code": "AU",
+      "country": "Australia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.593741856,
+              -38.433859306
+            ],
+            [
+              145.512528832,
+              -38.433859306
+            ],
+            [
+              145.512528832,
+              -37.5112737225
+            ],
+            [
+              144.593741856,
+              -37.5112737225
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sat Mar 02 06:38:48 +0000 2019",
+    "id": 1101733577316814849,
+    "id_str": "1101733577316814849",
+    "text": "I'm at Pura Ulun Danu Beratan in Tabanan, Bali https://t.co/5Wir9esrfF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/5Wir9esrfF",
+          "expanded_url": "https://www.swarmapp.com/c/6eVsO8772bw",
+          "display_url": "swarmapp.com/c/6eVsO8772bw",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94218443,
+      "id_str": "94218443",
+      "name": "Howard Brilliant",
+      "screen_name": "HDBtweets",
+      "location": "Miami, FL",
+      "description": "Words that describe me: attorney, world traveler, news junkie, aspiring golfer, #AvGeek, captious, liberal, atheist, alumnus of SDSU & Miami Law.",
+      "url": "https://t.co/a7AntHWp1M",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/a7AntHWp1M",
+              "expanded_url": "http://anywherebuttheoffice.com",
+              "display_url": "anywherebuttheoffice.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 380,
+      "friends_count": 821,
+      "listed_count": 44,
+      "created_at": "Thu Dec 03 00:54:03 +0000 2009",
+      "favourites_count": 19629,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 53168,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000103",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/996223681012621317/zpLVxkhN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/996223681012621317/zpLVxkhN_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94218443/1367206770",
+      "profile_link_color": "075700",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -8.27577156,
+        115.16554445
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.16554445,
+        -8.27577156
+      ]
+    },
+    "place": {
+      "id": "638ef0760a2670ae",
+      "url": "https://api.twitter.com/1.1/geo/id/638ef0760a2670ae.json",
+      "place_type": "city",
+      "name": "Baturiti",
+      "full_name": "Baturiti, Indonesia",
+      "country_code": "ID",
+      "country": "Indonesia",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.128248,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.450128
+            ],
+            [
+              115.21733,
+              -8.243315
+            ],
+            [
+              115.128248,
+              -8.243315
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Fri Mar 01 04:22:57 +0000 2019",
+    "id": 1101337002316685312,
+    "id_str": "1101337002316685312",
+    "text": "Ulun Danu Beratan presents beauty of a beautiful like and the unique in Ulun Danu Beratan is the temple in middle o\u2026 https://t.co/MkfpBq1zvk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/MkfpBq1zvk",
+          "expanded_url": "https://twitter.com/i/web/status/1101337002316685312",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1099971461165375488,
+      "id_str": "1099971461165375488",
+      "name": "SabaraBaliTrip",
+      "screen_name": "SabaraTrip",
+      "location": "",
+      "description": "We are Serve for Tour, Shuttle, Rent Car, etc.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1,
+      "friends_count": 3,
+      "listed_count": 0,
+      "created_at": "Mon Feb 25 09:56:47 +0000 2019",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1099971616061026304/fO737nnp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099971616061026304/fO737nnp_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 09:20:05 +0000 2019",
+    "id": 1101049389743656964,
+    "id_str": "1101049389743656964",
+    "text": "Pura Ulun Danu, Danau Beratan\n#bedugul #sketch #watercolor @ Ulun Danu Temple-Bali Island-Indonesia https://t.co/Rw3h7cCogy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bedugul",
+          "indices": [
+            30,
+            38
+          ]
+        },
+        {
+          "text": "sketch",
+          "indices": [
+            39,
+            46
+          ]
+        },
+        {
+          "text": "watercolor",
+          "indices": [
+            47,
+            58
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Rw3h7cCogy",
+          "expanded_url": "https://www.instagram.com/p/Bua5AXtA_5T/?utm_source=ig_twitter_share&igshid=1417r3culhjwn",
+          "display_url": "instagram.com/p/Bua5AXtA_5T/\u2026",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 58426498,
+      "id_str": "58426498",
+      "name": "azwan azmy",
+      "screen_name": "to_azwan",
+      "location": "\u00dcT: 17.352659,34.887174",
+      "description": "*architect\n*sketcher\nIG :  azwan_azmy\nemail: azwan.sketch@gmail.com",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 90,
+      "friends_count": 266,
+      "listed_count": 2,
+      "created_at": "Mon Jul 20 08:38:05 +0000 2009",
+      "favourites_count": 4,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 347,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/722766803986829312/IWk6H6sa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/722766803986829312/IWk6H6sa_normal.jpg",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  }
+]
