@@ -60,25 +60,25 @@ class FileManagement:
 
         print('sukses')
 
-    # def spark_count(self):
-    #     # menghitung banyak tweet per tanggal
-    #
-    #     conf = SparkConf().setAppName("word Count").setMaster("local[3]")
-    #     sc = SparkContext(conf=conf)
-    #     dataLoc = ""
-    #
-    #     lines = sc.textFile("Tweet.txt")
-    #
-    #     wordCounts = lines.countByValue()
-    #     print('b')
-    #     for word, count in wordCounts.items():
-    #         dataLoc += ("{} : {}".format(word, count)) + "\n"
-    #         x = str(word)
-    #         y = str(count)
-    #         self.array_x.append(x)
-    #         self.array_y.append(y)
-    #         print("x = {0}".format(x))
-    #         print("y = {0}".format(y))
+    def spark_count(self):
+        # menghitung banyak tweet per tanggal
+
+        conf = SparkConf().setAppName("word Count").setMaster("local[3]")
+        sc = SparkContext(conf=conf)
+        dataLoc = ""
+
+        lines = sc.textFile("Tweet.txt")
+
+        wordCounts = lines.countByValue()
+        print('b')
+        for word, count in wordCounts.items():
+            dataLoc += ("{} : {}".format(word, count)) + "\n"
+            x = str(word)
+            y = str(count)
+            self.array_x.append(x)
+            self.array_y.append(y)
+            print("x = {0}".format(x))
+            print("y = {0}".format(y))
 
     def retweet(self,collection_name):
         data = get_json(collection_name)
@@ -127,7 +127,7 @@ class FileManagement:
         #     print(str(self.array_x[i]) + "   " + str(self.array_y[i]) + "   " + str(self.array_z[i]) + "   " + str(self.array_tot[i]))
 
     def save(self):
-        workbook = xlsxwriter.Workbook('uluwatu.xlsx')
+        workbook = xlsxwriter.Workbook('batukaru.xlsx')
         worksheet = workbook.add_worksheet()
         for index, value in enumerate(array_x):
             worksheet.write(index, 0, self.array_x[index])
@@ -140,8 +140,8 @@ class FileManagement:
 
 if __name__ == "__main__":
     file_management = FileManagement()
-    file_management.main("uluwatu")
-    # file_management.spark_count()
-    file_management.retweet("uluwatu")
+    file_management.main("batukaru")
+    file_management.spark_count()
+    file_management.retweet("batukaru")
     file_management.save()
 

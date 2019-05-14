@@ -46,7 +46,7 @@ def get_tweet(db, collection_name, filepath, api, query, max_tweets):
 
     with open("./json/"+filepath, 'a+') as f:
         for tweet in limit_handled(tweepy.Cursor(api.search, q=query, since="2019-4-28", until="2019-5-7", tweet_mode='extended').items(max_tweets)):
-            if ('sale dijual' not in tweet.full_text) and ('room' not in tweet.full_text):
+            if ('RT @' not in tweet.full_text) or ('rt @' not in tweet.full_text):
                 f.write(jsonpickle.encode(tweet._json, unpicklable=False) + '\n')
                 #json.dump(tweet._json, f, indent=2)
 

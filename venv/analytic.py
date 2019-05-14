@@ -6,7 +6,7 @@ import xlsxwriter
 from TweetPerTanggal import TweetPerTanggal
 
 MONGO_HOST ='mongodb://localhost/'
-MONGO_DB ='new_clean'
+MONGO_DB ='db_bersih'
 def get_json(collection_name):
     client = MongoClient(MONGO_HOST)
     db = client[MONGO_DB]
@@ -118,7 +118,7 @@ def main(collection_name):
 
 
 def print_excel(arr):
-    workbook = xlsxwriter.Workbook('uluwatu_tweet.xlsx')
+    workbook = xlsxwriter.Workbook('tanahlot_tweet.xlsx')
     worksheet = workbook.add_worksheet()
     for i in range(len(arr)):
         #file pertama
@@ -126,7 +126,7 @@ def print_excel(arr):
         worksheet.write(i, 1, arr[i].total_tweet)
     workbook.close()
 
-    workbook2 = xlsxwriter.Workbook('uluwatu_retweet_fav.xlsx')
+    workbook2 = xlsxwriter.Workbook('tanahlot_retweet_fav.xlsx')
     worksheet2 = workbook2.add_worksheet()
 
     for i in range(len(arr)):
@@ -138,6 +138,6 @@ def print_excel(arr):
     workbook2.close()
 
 if __name__ == "__main__":
-    main("uluwatu")
+    main("tanahlot")
     #spark_count()
 
