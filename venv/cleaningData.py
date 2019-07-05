@@ -12,7 +12,7 @@ def get_json(collection_name):
 
 def save_json(collection_name):
     client = MongoClient(MONGO_HOST)
-    db = client["db_bersih"]
+    db = client["tanahlot"]
     collection = db[collection_name]
     return collection
 
@@ -94,15 +94,7 @@ def main():
                         data['retweet_count'] = tweets['retweet_count']
                         data['favorite_count'] = tweets['favorite_count']
                         db.insert(data)
-                    # if text_filter in text_lower and "rt @" not in text_lower:
-                    #     data = {}
-                    #     data['created_at'] = tweets['created_at']
-                    #     data['id'] = tweets['id']
-                    #     data['text'] = text_lower
-                    #     data['retweet_count'] = tweets['retweet_count']
-                    #     data['favorite_count'] = tweets['favorite_count']
-                    #     db.insert(data)
-                    #     break
+                        break
 
 
 if __name__ == "__main__":

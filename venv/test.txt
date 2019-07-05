@@ -1,11 +1,11 @@
 kuta,#kuta
-gwk,garuda wisnu kencana
+garuda wisnu kencana,#gwkbali
 taman ayun,taman ayun temple
 uluwatu,#uluwatu
-kertalangu
+kertalangu,#kertalangu
 sanur,#sanurbeach
 brokenbeach,broken beach,#brokenbeach
-kelingkinbeach,kelingking beach,#kelingkingbeach
+kelingkingbeach,kelingking beach,#kelingkingbeach
 crystalbay,#CrystalBay
 nusapenida,nusa penida,#nusapenida
 kemenuh,#kemenuhpark,Kemenuh Butterfly Park
@@ -17,9 +17,9 @@ besakih,#besakihtemple
 candidasa,#candidasabeach
 lempuyang,#lempuyangtemple,lempuyang luhur
 tirtagangga
-sangeh
+sangeh,#monkeyforest
 bukitasah,bukit asah
 batukaru,#batukarutemple
-bedugul
+bedugul,#bedugul
 beratan,#beratanlake,ulun danu beratan
 tanahlot,tanah lot,#tanahlot
